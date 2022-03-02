@@ -82,6 +82,8 @@
 
 ## C 
 
+- [sebbekarlsson/tac](https://github.com/sebbekarlsson/tac) - tac x86 compiler
+- [xeyownt/xseticon](https://github.com/xeyownt/xseticon) - xseticon from Paul Evans -- http://www.leonerd.org.uk/
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [Strawberry-Software-Industries/ledcontrol](https://github.com/Strawberry-Software-Industries/ledcontrol) - A simple program to control the status LEDs of your Raspberry Pi!
 - [ncopa/xfce-polkit](https://github.com/ncopa/xfce-polkit) - A simple PolicyKit authentication agent for XFCE
@@ -281,6 +283,7 @@
 
 ## C++ 
 
+- [fritzing/fritzing-app](https://github.com/fritzing/fritzing-app) - Fritzing desktop application
 - [gemrb/gemrb](https://github.com/gemrb/gemrb) - GemRB is a portable open-source implementation of Bioware’s Infinity Engine.
 - [sass/node-sass](https://github.com/sass/node-sass) - :rainbow: Node.js bindings to libsass
 - [KDE/audiotube](https://github.com/KDE/audiotube) - Client for YouTube Music
@@ -539,6 +542,7 @@
 
 ## Go 
 
+- [fosshostorg/fhctl](https://github.com/fosshostorg/fhctl) - Administer the Fosshost and AArch64.com infrastructure from the terminal.
 - [gjbae1212/kubectl-cred](https://github.com/gjbae1212/kubectl-cred) - kubectl-cred is a kubernetes plugin to which switch to contexts and namespaces and clusters using an interactive CLI.
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
@@ -719,6 +723,8 @@
 
 ## JavaScript 
 
+- [meetfranz/franz](https://github.com/meetfranz/franz) - Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.
+- [getferdi/ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
 - [google/zx](https://github.com/google/zx) - Replace Bash with JavaScript
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
@@ -980,6 +986,8 @@
 
 ## Others 
 
+- [icebreaker-fpga/icebreaker](https://github.com/icebreaker-fpga/icebreaker) - Small and low cost FPGA educational and development board
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [ryanfortner/starred](https://github.com/ryanfortner/starred) - Curated list of my GitHub stars
 - [shytoshikusama/woofwoofpaper](https://github.com/shytoshikusama/woofwoofpaper) - 
 - [Botspot/scratch2](https://github.com/Botspot/scratch2) - 
@@ -1169,6 +1177,7 @@
 
 ## Perl 
 
+- [smxi/inxi](https://github.com/smxi/inxi) - inxi is a full featured CLI system information tool. It is available in most Linux distribution repositories, and does its best to support the BSDs.
 - [jnweiger/showspeed](https://github.com/jnweiger/showspeed) - print I/O activity of process, files, or network.
 - [apt-mirror/apt-mirror](https://github.com/apt-mirror/apt-mirror) - Official apt-mirror source.
 - [webmin/usermin](https://github.com/webmin/usermin) - Usermin source code
@@ -1183,6 +1192,8 @@
 
 ## Python 
 
+- [sphero-inc/sphero-sdk-raspberrypi-python](https://github.com/sphero-inc/sphero-sdk-raspberrypi-python) - Sphero RVR SDK to run on Raspberry Pi using Python
+- [fritzing/fritzing-parts](https://github.com/fritzing/fritzing-parts) - Electronic components for use in the Fritzing app (aka the parts library)
 - [powerline/powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
 - [firedm/FireDM](https://github.com/firedm/FireDM) - python open source (Internet Download Manager) with multi-connections, high speed engine, based on python, LibCurl, and youtube_dl https://github.com/firedm/FireDM
 - [HsOjo/Dockore](https://github.com/HsOjo/Dockore) - A Web GUI manager for docker.
@@ -1289,7 +1300,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [bbilly1/tubearchivist](https://github.com/bbilly1/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-431-Stars](https://github.com/iBug/This-Repo-Has-431-Stars) - Yes, it's true :two_hearts: This repository has 431 stars.
+- [iBug/This-Repo-Has-431-Stars](https://github.com/iBug/This-Repo-Has-431-Stars) - Yes, it's true :heartpulse: This repository has 431 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -1482,6 +1493,7 @@
 
 ## Shell 
 
+- [cbrnix/Newaita-reborn](https://github.com/cbrnix/Newaita-reborn) - Remaster Newaia icon theme
 - [OneCDOnly/create-autorun](https://github.com/OneCDOnly/create-autorun) - Create an autorun environment on your QNAP NAS
 - [gl-inet/sdk](https://github.com/gl-inet/sdk) - OpenWRT SDK for GL.iNet devices
 - [kisslinux/kiss](https://github.com/kisslinux/kiss) - KISS Linux - Package Manager
@@ -1791,6 +1803,7 @@
 
 ## TypeScript 
 
+- [purocean/yn](https://github.com/purocean/yn) - A Hackable Markdown Note Application for Programmers. Version control, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, plug-in, and macro replacement.
 - [fosscord/fosscord-server](https://github.com/fosscord/fosscord-server) - Fosscord backend made with Typescript and love (and a bit of C++)
 - [bitwarden/cli](https://github.com/bitwarden/cli) - The command line vault (Windows, macOS, & Linux).
 - [TheDavidDelta/lingva-translate](https://github.com/TheDavidDelta/lingva-translate) - Alternative front-end for Google Translate
