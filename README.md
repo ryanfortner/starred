@@ -82,6 +82,11 @@
 
 ## C 
 
+- [librerpi/rpi-open-firmware](https://github.com/librerpi/rpi-open-firmware) - Open source VPU side bootloader for Raspberry Pi.
+- [itszor/vc4-toolchain](https://github.com/itszor/vc4-toolchain) - A port of the GNU toolchain to the Raspberry Pi's VideoCore4 processor.
+- [ValveSoftware/wine](https://github.com/ValveSoftware/wine) - Wine with a bit of extra spice
+- [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
+- [gcc-mirror/gcc](https://github.com/gcc-mirror/gcc) - 
 - [sebbekarlsson/tac](https://github.com/sebbekarlsson/tac) - tac x86 compiler
 - [xeyownt/xseticon](https://github.com/xeyownt/xseticon) - xseticon from Paul Evans -- http://www.leonerd.org.uk/
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
@@ -261,6 +266,7 @@
 
 ## C# # 
 
+- [opentk/opentk](https://github.com/opentk/opentk) - The Open Toolkit library is a fast, low-level C# wrapper for OpenGL, OpenAL & OpenCL. It also includes windowing, mouse, keyboard and joystick input and a robust and fast math library, giving you everything you need to write your own renderer or game engine. OpenTK can be used standalone or inside a GUI on Windows, Linux, Mac.
 - [Sussy-OS/LRA-Community-Edition](https://github.com/Sussy-OS/LRA-Community-Edition) - The open source, community maintained version of a spiritual successor to the flash game Line Rider 6.2
 - [AmirDahan/WoR-ControlPanel](https://github.com/AmirDahan/WoR-ControlPanel) - Windows on Raspberry Control Panel is a simple utility to make your WoR experience just a little bit easier
 - [ProjectCeleste/Celeste.Launcher](https://github.com/ProjectCeleste/Celeste.Launcher) - 
@@ -283,6 +289,7 @@
 
 ## C++ 
 
+- [ValveSoftware/dxvk](https://github.com/ValveSoftware/dxvk) - dxvk tree containing branches used by Proton
 - [fritzing/fritzing-app](https://github.com/fritzing/fritzing-app) - Fritzing desktop application
 - [gemrb/gemrb](https://github.com/gemrb/gemrb) - GemRB is a portable open-source implementation of Bioware’s Infinity Engine.
 - [sass/node-sass](https://github.com/sass/node-sass) - :rainbow: Node.js bindings to libsass
@@ -986,6 +993,9 @@
 
 ## Others 
 
+- [ioctlLR/NVorbis](https://github.com/ioctlLR/NVorbis) - A C# implementation of a Xiph.org Foundation Vorbis decoder.
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
+- [Pi-Apps-Coders/.github](https://github.com/Pi-Apps-Coders/.github) - 
 - [icebreaker-fpga/icebreaker](https://github.com/icebreaker-fpga/icebreaker) - Small and low cost FPGA educational and development board
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [ryanfortner/starred](https://github.com/ryanfortner/starred) - Curated list of my GitHub stars
@@ -1192,6 +1202,8 @@
 
 ## Python 
 
+- [volitank/nala](https://github.com/volitank/nala) - a wrapper for the apt package manager.
+- [volitank/pyshell](https://github.com/volitank/pyshell) - pyshell is a Linux subprocess module
 - [sphero-inc/sphero-sdk-raspberrypi-python](https://github.com/sphero-inc/sphero-sdk-raspberrypi-python) - Sphero RVR SDK to run on Raspberry Pi using Python
 - [fritzing/fritzing-parts](https://github.com/fritzing/fritzing-parts) - Electronic components for use in the Fritzing app (aka the parts library)
 - [powerline/powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
@@ -1427,6 +1439,8 @@
 
 ## Ruby 
 
+- [Linuxbrew/brew](https://github.com/Linuxbrew/brew) - :beer::penguin: The Homebrew package manager for Linux
+- [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [sous-chefs/homebrew](https://github.com/sous-chefs/homebrew) - Development repository for the homebrew cookbook
 - [toptal/haste-client](https://github.com/toptal/haste-client) - CLI client for haste-server
@@ -1493,6 +1507,9 @@
 
 ## Shell 
 
+- [dylanaraps/pxltrm](https://github.com/dylanaraps/pxltrm) - 🖌️ pxltrm - [WIP] A pixel art editor inside the terminal
+- [ValveSoftware/steam-runtime](https://github.com/ValveSoftware/steam-runtime) - A runtime environment for Steam applications
+- [qt/qt5](https://github.com/qt/qt5) - Qt5 super module
 - [cbrnix/Newaita-reborn](https://github.com/cbrnix/Newaita-reborn) - Remaster Newaia icon theme
 - [OneCDOnly/create-autorun](https://github.com/OneCDOnly/create-autorun) - Create an autorun environment on your QNAP NAS
 - [gl-inet/sdk](https://github.com/gl-inet/sdk) - OpenWRT SDK for GL.iNet devices
