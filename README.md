@@ -6,6 +6,7 @@
 ## Contents
 
   - [Assembly](#assembly)
+  - [AutoIt](#autoit)
   - [Awk](#awk)
   - [Batchfile](#batchfile)
   - [C](#c)
@@ -39,6 +40,7 @@
   - [Makefile](#makefile)
   - [Markdown](#markdown)
   - [Mathematica](#mathematica)
+  - [NSIS](#nsis)
   - [Nim](#nim)
   - [Nix](#nix)
   - [Objective-C](#objective-c)
@@ -71,6 +73,10 @@
 - [0xJonas/TIQuest](https://github.com/0xJonas/TIQuest) - Game for the TI-83 plus/TI-84 plus calculators
 - [calc84maniac/tiboyce](https://github.com/calc84maniac/tiboyce) - A Game Boy emulator for the TI-84 Plus CE and TI-83 Premium CE.
 
+## AutoIt 
+
+- [rcmaehl/MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser
+
 ## Awk 
 
 - [soimort/translate-shell](https://github.com/soimort/translate-shell) - :speech_balloon: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
@@ -82,6 +88,8 @@
 
 ## C 
 
+- [likecoin-pro/likecoin](https://github.com/likecoin-pro/likecoin) - Likecoin core
+- [stefansundin/altdrag](https://github.com/stefansundin/altdrag) - :file_folder: Easily drag windows when pressing the alt key. (Windows)
 - [librerpi/rpi-open-firmware](https://github.com/librerpi/rpi-open-firmware) - Open source VPU side bootloader for Raspberry Pi.
 - [itszor/vc4-toolchain](https://github.com/itszor/vc4-toolchain) - A port of the GNU toolchain to the Raspberry Pi's VideoCore4 processor.
 - [ValveSoftware/wine](https://github.com/ValveSoftware/wine) - Wine with a bit of extra spice
@@ -266,6 +274,8 @@
 
 ## C# # 
 
+- [viktor02/DuCoWallet](https://github.com/viktor02/DuCoWallet) - Yet Another DuinoCoin Wallet
+- [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11
 - [opentk/opentk](https://github.com/opentk/opentk) - The Open Toolkit library is a fast, low-level C# wrapper for OpenGL, OpenAL & OpenCL. It also includes windowing, mouse, keyboard and joystick input and a robust and fast math library, giving you everything you need to write your own renderer or game engine. OpenTK can be used standalone or inside a GUI on Windows, Linux, Mac.
 - [Sussy-OS/LRA-Community-Edition](https://github.com/Sussy-OS/LRA-Community-Edition) - The open source, community maintained version of a spiritual successor to the flash game Line Rider 6.2
 - [AmirDahan/WoR-ControlPanel](https://github.com/AmirDahan/WoR-ControlPanel) - Windows on Raspberry Control Panel is a simple utility to make your WoR experience just a little bit easier
@@ -289,6 +299,7 @@
 
 ## C++ 
 
+- [librerpi/rpi-tools](https://github.com/librerpi/rpi-tools) - 
 - [ValveSoftware/dxvk](https://github.com/ValveSoftware/dxvk) - dxvk tree containing branches used by Proton
 - [fritzing/fritzing-app](https://github.com/fritzing/fritzing-app) - Fritzing desktop application
 - [gemrb/gemrb](https://github.com/gemrb/gemrb) - GemRB is a portable open-source implementation of Bioware’s Infinity Engine.
@@ -503,6 +514,7 @@
 
 ## D 
 
+- [spikespaz/search-deflector](https://github.com/spikespaz/search-deflector) - A small program that forwards searches from Cortana to your preferred browser and search engine.
 - [gnunn1/tilix](https://github.com/gnunn1/tilix) - A tiling terminal emulator for Linux using GTK+ 3
 
 ## Dart 
@@ -518,6 +530,7 @@
 
 ## Dockerfile 
 
+- [tiny-pilot/janus-docker](https://github.com/tiny-pilot/janus-docker) - An experimental docker image for the Janus WebRTC server
 - [multiarch/crossbuild](https://github.com/multiarch/crossbuild) - :earth_africa: multiarch cross compiling environments
 - [vala-lang/docker-images](https://github.com/vala-lang/docker-images) - Official vala docker images
 - [developeranaz/Ubuntu-Desktop-noVNC-Heroku-VPS](https://github.com/developeranaz/Ubuntu-Desktop-noVNC-Heroku-VPS) - Ubuntu-Desktop-noVNC-Heroku-VPS serves docker VPS via heroku web and noVNC
@@ -549,6 +562,7 @@
 
 ## Go 
 
+- [OpenDiablo2/OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
 - [fosshostorg/fhctl](https://github.com/fosshostorg/fhctl) - Administer the Fosshost and AArch64.com infrastructure from the terminal.
 - [gjbae1212/kubectl-cred](https://github.com/gjbae1212/kubectl-cred) - kubectl-cred is a kubernetes plugin to which switch to contexts and namespaces and clusters using an interactive CLI.
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
@@ -730,6 +744,7 @@
 
 ## JavaScript 
 
+- [Mcorial/DuinoCoin-Wallet-extension](https://github.com/Mcorial/DuinoCoin-Wallet-extension) - 
 - [meetfranz/franz](https://github.com/meetfranz/franz) - Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.
 - [getferdi/ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
 - [google/zx](https://github.com/google/zx) - Replace Bash with JavaScript
@@ -966,6 +981,10 @@
 
 - [WebGLSamples/WebGLSamples.github.io](https://github.com/WebGLSamples/WebGLSamples.github.io) - WebGL Samples and Examples
 
+## NSIS 
+
+- [da2x/EdgeDeflector](https://github.com/da2x/EdgeDeflector) - A tiny helper application to force Windows 10 to use your preferred web browser instead of ignoring the setting to promote Microsoft Edge. Only runs for a microsecond when needed.
+
 ## Nim 
 
 - [PMunch/notifishower](https://github.com/PMunch/notifishower) - 
@@ -993,6 +1012,7 @@
 
 ## Others 
 
+- [AlfarexGuy2019/tweaks](https://github.com/AlfarexGuy2019/tweaks) - 💻 List of awesome programs and tweaks for Windows
 - [ioctlLR/NVorbis](https://github.com/ioctlLR/NVorbis) - A C# implementation of a Xiph.org Foundation Vorbis decoder.
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
 - [Pi-Apps-Coders/.github](https://github.com/Pi-Apps-Coders/.github) - 
@@ -1047,6 +1067,7 @@
 - [hmsjy2017/debs](https://github.com/hmsjy2017/debs) - 
 - [ryanfortner/box64-debs](https://github.com/ryanfortner/box64-debs) - box64 debian/apt repository
 - [raspbian-addons/status](https://github.com/raspbian-addons/status) - raspbian-addons uptime monitoring
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
 - [Wallux-0/Wallpapers](https://github.com/Wallux-0/Wallpapers) - Wallpapers for Wallux
 - [Amog-OS/AmogOS-Wallpapers](https://github.com/Amog-OS/AmogOS-Wallpapers) - Central repository for all AmogOS wallpapers
@@ -1202,6 +1223,7 @@
 
 ## Python 
 
+- [openwrt/asu](https://github.com/openwrt/asu) - An image on demand server for OpenWrt based distributions
 - [volitank/nala](https://github.com/volitank/nala) - a wrapper for the apt package manager.
 - [volitank/pyshell](https://github.com/volitank/pyshell) - pyshell is a Linux subprocess module
 - [sphero-inc/sphero-sdk-raspberrypi-python](https://github.com/sphero-inc/sphero-sdk-raspberrypi-python) - Sphero RVR SDK to run on Raspberry Pi using Python
@@ -1507,6 +1529,7 @@
 
 ## Shell 
 
+- [fscarmen/warp](https://github.com/fscarmen/warp) - WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本
 - [dylanaraps/pxltrm](https://github.com/dylanaraps/pxltrm) - 🖌️ pxltrm - [WIP] A pixel art editor inside the terminal
 - [ValveSoftware/steam-runtime](https://github.com/ValveSoftware/steam-runtime) - A runtime environment for Steam applications
 - [qt/qt5](https://github.com/qt/qt5) - Qt5 super module
