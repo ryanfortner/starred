@@ -25,6 +25,7 @@
   - [Elixir](#elixir)
   - [Elm](#elm)
   - [Emacs Lisp](#emacs-lisp)
+  - [GLSL](#glsl)
   - [Go](#go)
   - [HTML](#html)
   - [Haskell](#haskell)
@@ -88,6 +89,8 @@
 
 ## C 
 
+- [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey
+- [dccsillag/picom](https://github.com/dccsillag/picom) - A lightweight compositor for X11
 - [TheAlgorithms/C](https://github.com/TheAlgorithms/C) - Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
@@ -304,6 +307,14 @@
 
 ## C++ 
 
+- [nanocurrency/nano-node](https://github.com/nanocurrency/nano-node) - Nano is a cryptocurrency
+- [Grima04/recompiler](https://github.com/Grima04/recompiler) - Xbox360 -&gt; Windows executable converter
+- [rexdex/recompiler](https://github.com/rexdex/recompiler) - Xbox360 -&gt; Windows executable converter
+- [KDE/kwin](https://github.com/KDE/kwin) - Easy to use, but flexible, X Window Manager and Wayland Compositor
+- [KDE/plasma-desktop](https://github.com/KDE/plasma-desktop) - Plasma for the Desktop
+- [KDE/plasma-framework](https://github.com/KDE/plasma-framework) - Plasma library and runtime components based upon KF5 and Qt5
+- [coddec/Classic-Shell](https://github.com/coddec/Classic-Shell) - Original code of Classic Shell (v4.3.1), original author Ivo Beltchev
+- [ukui/peony](https://github.com/ukui/peony) - The File Manager Application of UKUI.
 - [codenamecpp/carnage3d](https://github.com/codenamecpp/carnage3d) - Reimplementation of Grand Theft Auto 1 [GTA1]
 - [librerpi/rpi-tools](https://github.com/librerpi/rpi-tools) - 
 - [ValveSoftware/dxvk](https://github.com/ValveSoftware/dxvk) - dxvk tree containing branches used by Proton
@@ -566,8 +577,13 @@
 
 - [dungeon-mode/game](https://github.com/dungeon-mode/game) - Create free (as in freedom) RPGs with GNU Emacs. And then play them.
 
+## GLSL 
+
+- [gicrisf/elegoo-cura-dots](https://github.com/gicrisf/elegoo-cura-dots) - Install Elegoo Cura default configuration on linux too
+
 ## Go 
 
+- [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: Secure Boot key manager
 - [OpenDiablo2/OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
 - [fosshostorg/fhctl](https://github.com/fosshostorg/fhctl) - Administer the Fosshost and AArch64.com infrastructure from the terminal.
 - [gjbae1212/kubectl-cred](https://github.com/gjbae1212/kubectl-cred) - kubectl-cred is a kubernetes plugin to which switch to contexts and namespaces and clusters using an interactive CLI.
@@ -1024,6 +1040,8 @@
 
 ## Others 
 
+- [Augmentedjs/balena-io-etcher-builds](https://github.com/Augmentedjs/balena-io-etcher-builds) - A place to host my community builds of Ethcher
+- [ukui/ukui-desktop-environment](https://github.com/ukui/ukui-desktop-environment) - 
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [AlfarexGuy2019/tweaks](https://github.com/AlfarexGuy2019/tweaks) - 💻 List of awesome programs and tweaks for Windows
 - [ioctlLR/NVorbis](https://github.com/ioctlLR/NVorbis) - A C# implementation of a Xiph.org Foundation Vorbis decoder.
@@ -1352,7 +1370,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [bbilly1/tubearchivist](https://github.com/bbilly1/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-431-Stars](https://github.com/iBug/This-Repo-Has-431-Stars) - Yes, it's true :heartpulse: This repository has 431 stars.
+- [iBug/This-Repo-Has-430-Stars](https://github.com/iBug/This-Repo-Has-430-Stars) - Yes, it's true :heart: This repository has 430 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -1547,6 +1565,7 @@
 
 ## Shell 
 
+- [sukhmeetbawa/shell-theme-42](https://github.com/sukhmeetbawa/shell-theme-42) - Builds And Installs GNOME Shell Theme from GNOME GitLab
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [fscarmen/warp](https://github.com/fscarmen/warp) - WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本
 - [dylanaraps/pxltrm](https://github.com/dylanaraps/pxltrm) - 🖌️ pxltrm - [WIP] A pixel art editor inside the terminal
