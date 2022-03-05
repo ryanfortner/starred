@@ -307,6 +307,7 @@
 
 ## C++ 
 
+- [dosbox-staging/dosbox-staging](https://github.com/dosbox-staging/dosbox-staging) - DOSBox Staging is a fork of the DOSBox project that focuses on ease of use, modern technology and best practices.
 - [nanocurrency/nano-node](https://github.com/nanocurrency/nano-node) - Nano is a cryptocurrency
 - [Grima04/recompiler](https://github.com/Grima04/recompiler) - Xbox360 -&gt; Windows executable converter
 - [rexdex/recompiler](https://github.com/rexdex/recompiler) - Xbox360 -&gt; Windows executable converter
@@ -547,7 +548,6 @@
 
 ## Dockerfile 
 
-- [tiny-pilot/janus-docker](https://github.com/tiny-pilot/janus-docker) - An experimental docker image for the Janus WebRTC server
 - [multiarch/crossbuild](https://github.com/multiarch/crossbuild) - :earth_africa: multiarch cross compiling environments
 - [vala-lang/docker-images](https://github.com/vala-lang/docker-images) - Official vala docker images
 - [developeranaz/Ubuntu-Desktop-noVNC-Heroku-VPS](https://github.com/developeranaz/Ubuntu-Desktop-noVNC-Heroku-VPS) - Ubuntu-Desktop-noVNC-Heroku-VPS serves docker VPS via heroku web and noVNC
@@ -1202,6 +1202,7 @@
 
 ## PHP 
 
+- [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
 - [soxft/UrlShorting](https://github.com/soxft/UrlShorting) - A simple but powerful URL shortener
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) - ⚙️ WP-CLI framework
@@ -1253,6 +1254,8 @@
 
 ## Python 
 
+- [jlu5/icoextract](https://github.com/jlu5/icoextract) - Extract icons from Windows PE files (.exe/.dll)
+- [PlayOnLinux/POL-POM-4](https://github.com/PlayOnLinux/POL-POM-4) - PlayOnLinux 4 repository
 - [natorsc/gui-python-gtk](https://github.com/natorsc/gui-python-gtk) - Criando interfaces gráficas com Python (PyGObject) e GTK.
 - [simons-public/protonfixes](https://github.com/simons-public/protonfixes) - A module for applying fixes at runtime to unsupported games with Steam Proton without changing game installation files
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
@@ -1565,6 +1568,11 @@
 
 ## Shell 
 
+- [procount/pinn-os](https://github.com/procount/pinn-os) - os-images for PINN
+- [exe-thumbnailer/exe-thumbnailer](https://github.com/exe-thumbnailer/exe-thumbnailer) - Thumbnailer for .exe/.dll/.msi/.lnk files on Linux systems.
+- [PlayOnLinux/Dosbox-PlayOnLinux-Wrapper](https://github.com/PlayOnLinux/Dosbox-PlayOnLinux-Wrapper) - 
+- [PlayOnLinux/wine-patches](https://github.com/PlayOnLinux/wine-patches) - Wine Patches used by PlayOnLinux/PlayOnMac project.
+- [ilikenwf/apt-fast](https://github.com/ilikenwf/apt-fast) - apt-fast: A shellscript wrapper for apt that speeds up downloading of packages.
 - [sukhmeetbawa/shell-theme-42](https://github.com/sukhmeetbawa/shell-theme-42) - Builds And Installs GNOME Shell Theme from GNOME GitLab
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [fscarmen/warp](https://github.com/fscarmen/warp) - WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本
@@ -1881,6 +1889,7 @@
 
 ## TypeScript 
 
+- [itchio/itch](https://github.com/itchio/itch) - 🎮 The best way to play your itch.io games
 - [purocean/yn](https://github.com/purocean/yn) - A Hackable Markdown Note Application for Programmers. Version control, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, plug-in, and macro replacement.
 - [fosscord/fosscord-server](https://github.com/fosscord/fosscord-server) - Fosscord backend made with Typescript and love (and a bit of C++)
 - [bitwarden/cli](https://github.com/bitwarden/cli) - The command line vault (Windows, macOS, & Linux).
