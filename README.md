@@ -14,6 +14,7 @@
   - [C++](#c++)
   - [CMake](#cmake)
   - [CSS](#css)
+  - [CUE](#cue)
   - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
   - [Common Lisp](#common-lisp)
@@ -89,6 +90,8 @@
 
 ## C 
 
+- [aide/aide](https://github.com/aide/aide) - aide source code
+- [HansKristian-Work/vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton) - Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.
 - [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey
 - [dccsillag/picom](https://github.com/dccsillag/picom) - A lightweight compositor for X11
 - [TheAlgorithms/C](https://github.com/TheAlgorithms/C) - Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
@@ -307,6 +310,8 @@
 
 ## C++ 
 
+- [zeldaret/botw](https://github.com/zeldaret/botw) - Decompilation of The Legend of Zelda: Breath of the Wild (Switch 1.5.0)
+- [linuxdeepin/dde-launcher](https://github.com/linuxdeepin/dde-launcher) - DDE Launcher Application
 - [dosbox-staging/dosbox-staging](https://github.com/dosbox-staging/dosbox-staging) - DOSBox Staging is a fork of the DOSBox project that focuses on ease of use, modern technology and best practices.
 - [nanocurrency/nano-node](https://github.com/nanocurrency/nano-node) - Nano is a cryptocurrency
 - [Grima04/recompiler](https://github.com/Grima04/recompiler) - Xbox360 -&gt; Windows executable converter
@@ -471,6 +476,8 @@
 
 ## CSS 
 
+- [FirefoxUX/photon](https://github.com/FirefoxUX/photon) - Firefox’s Photon Design System.
+- [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 - [zayronxio/windows11-GTKtheme](https://github.com/zayronxio/windows11-GTKtheme) - windows11-GTKtheme
 - [B-Software/Ward](https://github.com/B-Software/Ward) - Server dashboard
 - [catppuccin/gtk](https://github.com/catppuccin/gtk) - GTK theme for catppuccin. Warm dark theme for the masses!
@@ -512,6 +519,10 @@
 - [Botspot/Windows-10](https://github.com/Botspot/Windows-10) - 
 - [AllToMP3/alltomp3-app](https://github.com/AllToMP3/alltomp3-app) - Download and Convert YouTube, SoundCloud & Spotify in MP3 with full tags (title, artist, genre, cover, lyrics 🔥)
 - [t0xic0der/sysmon](https://github.com/t0xic0der/sysmon) - An intuitive remotely-accessible system performance monitoring and task management tool for servers and headless Raspberry Pi setups.
+
+## CUE 
+
+- [techcraftco/rpi-usb-gadget](https://github.com/techcraftco/rpi-usb-gadget) - Pre-built, Raspberry Pi OS-derived images to simplify using the Pi as a USB gadget.
 
 ## Clojure 
 
@@ -583,6 +594,9 @@
 
 ## Go 
 
+- [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+- [mkaczanowski/packer-builder-arm](https://github.com/mkaczanowski/packer-builder-arm) - Packer plugin to build ARM images
+- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: Secure Boot key manager
 - [OpenDiablo2/OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
 - [fosshostorg/fhctl](https://github.com/fosshostorg/fhctl) - Administer the Fosshost and AArch64.com infrastructure from the terminal.
@@ -724,6 +738,7 @@
 
 ## Java 
 
+- [CloudburstMC/Protocol](https://github.com/CloudburstMC/Protocol) - A protocol library for Minecraft Bedrock Edition
 - [AllPlatform/Box86Launcher](https://github.com/AllPlatform/Box86Launcher) - 
 - [stream-pi/util](https://github.com/stream-pi/util) - Stream-Pi Utilities Library
 - [stream-pi/server](https://github.com/stream-pi/server) - Stream-Pi Server
@@ -767,6 +782,13 @@
 
 ## JavaScript 
 
+- [sebhildebrandt/systeminformation](https://github.com/sebhildebrandt/systeminformation) - System Information Library for Node.JS
+- [matthewhudson/current-device](https://github.com/matthewhudson/current-device) - The easiest way to write conditional CSS and/or JavaScript based on device operating system (iOS, Android, Blackberry, Windows, Firefox OS, MeeGo), orientation (Portrait vs. Landscape), and type (Tablet vs. Mobile).
+- [marlun78/arith](https://github.com/marlun78/arith) - Math stuff
+- [izolate/millify](https://github.com/izolate/millify) - Convert long numbers to pretty, human-readable strings
+- [marlun78/number-to-words](https://github.com/marlun78/number-to-words) - Converts a number to words
+- [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
+- [TheBananaStore/web-store](https://github.com/TheBananaStore/web-store) - This is the Banana Web Store online page, built with React.
 - [aalin/gta2.js](https://github.com/aalin/gta2.js) - GTA2 in JavaScript
 - [niklasvh/WebGL-GTA](https://github.com/niklasvh/WebGL-GTA) - JavaScript implementation of GTA
 - [Kajakklubben/gta2-webgl](https://github.com/Kajakklubben/gta2-webgl) - Why not port GTA2 to webgl? That's a great idea....
@@ -1040,6 +1062,7 @@
 
 ## Others 
 
+- [TheBananaStore/Deb2Arch](https://github.com/TheBananaStore/Deb2Arch) - ♋➡♊ WIP utility to install DEBs on Arch
 - [Augmentedjs/balena-io-etcher-builds](https://github.com/Augmentedjs/balena-io-etcher-builds) - A place to host my community builds of Ethcher
 - [ukui/ukui-desktop-environment](https://github.com/ukui/ukui-desktop-environment) - 
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
@@ -1254,6 +1277,12 @@
 
 ## Python 
 
+- [robtech21/chromiumos](https://github.com/robtech21/chromiumos) - 
+- [FormerLurker/Octolapse](https://github.com/FormerLurker/Octolapse) - Stabilized timelapses for Octoprint
+- [TheBananaStore/TheBananaClient](https://github.com/TheBananaStore/TheBananaClient) - [WIP]🍌🐧 Client for the Banana Store
+- [mcpiscript/MarketPi](https://github.com/mcpiscript/MarketPi) - Some sort of Minecraft Pi Marketplace Client
+- [nat/ghtop](https://github.com/nat/ghtop) - See what's happening on GitHub in real time (also helpful if you need to use up your API quota as quickly as possible)
+- [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Launched in 2018. It's 2022 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with a full set of widgets. Multi-Window applications are also simple. 3.4 to 3.11 supported. 325+ Demo programs & Cookbook for rapid start. Extensive documentation.  Examples for Machine Learning(OpenCV Integration,  Chatterbot), Rainmeter-like Desktop Widgets, Matplotlib + Pyplot integration, add GUI to command line scripts, PDF & Image Viewer. For both beginning and advanced programmers. docs -  PySimpleGUI.org GitHub - PySimpleGUI.com. The Minecraft of GUIs - simple to complex... does them all.
 - [jlu5/icoextract](https://github.com/jlu5/icoextract) - Extract icons from Windows PE files (.exe/.dll)
 - [PlayOnLinux/POL-POM-4](https://github.com/PlayOnLinux/POL-POM-4) - PlayOnLinux 4 repository
 - [natorsc/gui-python-gtk](https://github.com/natorsc/gui-python-gtk) - Criando interfaces gráficas com Python (PyGObject) e GTK.
@@ -1500,6 +1529,7 @@
 
 ## Ruby 
 
+- [DaCuteRaccoon/img2ascii](https://github.com/DaCuteRaccoon/img2ascii) - A Ruby gem to convert images to ASCII
 - [Linuxbrew/brew](https://github.com/Linuxbrew/brew) - :beer::penguin: The Homebrew package manager for Linux
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
@@ -1568,6 +1598,10 @@
 
 ## Shell 
 
+- [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
+- [x08d/lockdown.sh](https://github.com/x08d/lockdown.sh) - Lockdown your linux install. The simple zero config linux hardening script
+- [mobilegmYT/mcpi-reborn-extended](https://github.com/mobilegmYT/mcpi-reborn-extended) - MCPI-Reborn, but modded with new community-made features!
+- [TheBananaStore/TheBananaStore](https://github.com/TheBananaStore/TheBananaStore) - 🍌🐧 Content repository for the Banana Store
 - [procount/pinn-os](https://github.com/procount/pinn-os) - os-images for PINN
 - [exe-thumbnailer/exe-thumbnailer](https://github.com/exe-thumbnailer/exe-thumbnailer) - Thumbnailer for .exe/.dll/.msi/.lnk files on Linux systems.
 - [PlayOnLinux/Dosbox-PlayOnLinux-Wrapper](https://github.com/PlayOnLinux/Dosbox-PlayOnLinux-Wrapper) - 
@@ -1875,6 +1909,7 @@
 
 ## Swift 
 
+- [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [fahimrahmanbooom/Duino-Coin_iOS_App](https://github.com/fahimrahmanbooom/Duino-Coin_iOS_App) - Duino-Coin iOS App. Features: Dashboard, Statistics, Transactions, Profile.
 - [ming900518/macOS-Virtual-Machine](https://github.com/ming900518/macOS-Virtual-Machine) - A ARM macOS Virtual Machine.
