@@ -310,6 +310,7 @@
 
 ## C++ 
 
+- [helio-fm/helio-workstation](https://github.com/helio-fm/helio-workstation) - One music sequencer for all major platforms, desktop and mobile
 - [zeldaret/botw](https://github.com/zeldaret/botw) - Decompilation of The Legend of Zelda: Breath of the Wild (Switch 1.5.0)
 - [linuxdeepin/dde-launcher](https://github.com/linuxdeepin/dde-launcher) - DDE Launcher Application
 - [dosbox-staging/dosbox-staging](https://github.com/dosbox-staging/dosbox-staging) - DOSBox Staging is a fork of the DOSBox project that focuses on ease of use, modern technology and best practices.
@@ -594,6 +595,7 @@
 
 ## Go 
 
+- [Chia-Network/chia-exporter](https://github.com/Chia-Network/chia-exporter) - RPC/Websocket based metrics exporter for Chia
 - [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [mkaczanowski/packer-builder-arm](https://github.com/mkaczanowski/packer-builder-arm) - Packer plugin to build ARM images
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
@@ -693,6 +695,7 @@
 
 ## HTML 
 
+- [Chia-Network/chiapos](https://github.com/Chia-Network/chiapos) - Chia Proof of Space library
 - [KumaTea/pytorch-aarch64](https://github.com/KumaTea/pytorch-aarch64) - PyTorch wheels (whl) & conda for aarch64 / ARMv8 / ARM64, with vision, audio, text & csprng
 - [revoxhere/revoxhere.github.io](https://github.com/revoxhere/revoxhere.github.io) - My portfolio
 - [revoxhere/magi-webservices](https://github.com/revoxhere/magi-webservices) - Coin Magi 2021 Explorer & Web Wallet
@@ -701,7 +704,6 @@
 - [linuxmint/live-installer](https://github.com/linuxmint/live-installer) - A live installer for the Debian edition
 - [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
 - [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge) - Can you create something cool without modern tools?
-- [ryanfortner/ryanfortner.github.io](https://github.com/ryanfortner/ryanfortner.github.io) - My website and portfolio.
 - [fosshostorg/public-docs](https://github.com/fosshostorg/public-docs) - The repository for the new Fosshost documentation.
 - [cs91chris/caddy-browse-template](https://github.com/cs91chris/caddy-browse-template) - Template file server for caddy web server
 - [pablouser1/TikTok-API-PHP](https://github.com/pablouser1/TikTok-API-PHP) - Unofficial TikTok API for PHP. Join our Discord server
@@ -720,7 +722,7 @@
 - [ryanfortner/blog-archived](https://github.com/ryanfortner/blog-archived) - Technology & programming blog.
 - [raspbian-addons/raspbian-addons](https://github.com/raspbian-addons/raspbian-addons) - Install automatically-updated extra open-source software on your Raspberry Pi, using Debian APT
 - [jamesjohnson280/hello-pwa](https://github.com/jamesjohnson280/hello-pwa) - The classic Hello World program as a Progressive Web App
-- [titaniumnetwork-dev/Incognito](https://github.com/titaniumnetwork-dev/Incognito) - Access the world wide web with Incognito, a fast and rather fancy proxy service. Enjoy a more private internet session without ads.
+- [titaniumnetwork-dev/Incognito-Archive](https://github.com/titaniumnetwork-dev/Incognito-Archive) - Access the world wide web with Incognito, a fast and rather fancy proxy service. Enjoy a more private internet session without ads.
 - [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
 - [Itai-Nelken/itai-nelken.github.io](https://github.com/Itai-Nelken/itai-nelken.github.io) - My website.
 - [Itai-Nelken/Webcord_debian-repo](https://github.com/Itai-Nelken/Webcord_debian-repo) - unofficial repo for electron-discord-webapp (https://github.com/SpacingBat3/WebCord) by @SpacingBat3
@@ -782,6 +784,7 @@
 
 ## JavaScript 
 
+- [Chia-Network/chia-docs](https://github.com/Chia-Network/chia-docs) - 
 - [sebhildebrandt/systeminformation](https://github.com/sebhildebrandt/systeminformation) - System Information Library for Node.JS
 - [matthewhudson/current-device](https://github.com/matthewhudson/current-device) - The easiest way to write conditional CSS and/or JavaScript based on device operating system (iOS, Android, Blackberry, Windows, Firefox OS, MeeGo), orientation (Portrait vs. Landscape), and type (Tablet vs. Mobile).
 - [marlun78/arith](https://github.com/marlun78/arith) - Math stuff
@@ -825,6 +828,7 @@
 - [nschloe/stackoverflow-card](https://github.com/nschloe/stackoverflow-card) - 
 - [RainyGao-GitHub/DocSys](https://github.com/RainyGao-GitHub/DocSys) - MxsDoc is a web based document management system
 - [jersou/markdown-explorer](https://github.com/jersou/markdown-explorer) - Easily explore, view and edit markdown documentation of a file tree
+- [ryanfortner/ryanfortner.github.io](https://github.com/ryanfortner/ryanfortner.github.io) - My website and portfolio.
 - [eugeneware/ffmpeg-static](https://github.com/eugeneware/ffmpeg-static) - ffmpeg static binaries for Mac OSX and Linux and Windows
 - [titaniumnetwork-dev/Corrosion](https://github.com/titaniumnetwork-dev/Corrosion) - The official proxy of Titanium Network with enhanced support for a large majority of sites with hCAPTCHA support. Successor to Alloy Proxy.
 - [discord/discord-open-source](https://github.com/discord/discord-open-source) - List of open source communities living on Discord
@@ -882,6 +886,7 @@
 - [Griphcode/Griphitor-IDE](https://github.com/Griphcode/Griphitor-IDE) - Griphitor is a code editor made in Electron. We take time and participation working with this IDE. find out more on our website.
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) - All-in-one browser extension for Scratch.
+- [raspbian-addons/docs](https://github.com/raspbian-addons/docs) - Raspbian Addons project documentation
 - [actions/create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API
 - [musicpro/temps](https://github.com/musicpro/temps) - Simple menubar application based on Electron with actual weather information and forecast.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
@@ -1062,6 +1067,8 @@
 
 ## Others 
 
+- [hmsjy2017/yn-arm](https://github.com/hmsjy2017/yn-arm) - 
+- [fliptheweb/bash-shortcuts-cheat-sheet](https://github.com/fliptheweb/bash-shortcuts-cheat-sheet) - Useful shortcuts for bash/zsh
 - [TheBananaStore/Deb2Arch](https://github.com/TheBananaStore/Deb2Arch) - ♋➡♊ WIP utility to install DEBs on Arch
 - [Augmentedjs/balena-io-etcher-builds](https://github.com/Augmentedjs/balena-io-etcher-builds) - A place to host my community builds of Ethcher
 - [ukui/ukui-desktop-environment](https://github.com/ukui/ukui-desktop-environment) - 
@@ -1152,7 +1159,6 @@
 - [ZvonimirKucis/conky](https://github.com/ZvonimirKucis/conky) - Simple Conky configuration for my desktop PC
 - [cycool29/emoji-switcher-linux](https://github.com/cycool29/emoji-switcher-linux) - Easily switch emoji themes in Linux machines,
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
-- [raspbian-addons/docs](https://github.com/raspbian-addons/docs) - Raspbian Addons project documentation
 - [Amog-OS/AmogOS](https://github.com/Amog-OS/AmogOS) - ඞ Among-us themed OS. As seen on Reddit and Youtube.
 - [IAmStoxe/wirehole](https://github.com/IAmStoxe/wirehole) - WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGuard VPN with ad blocking capabilities thanks to Pi-hole, and DNS caching, additional privacy options, and upstream providers via Unbound.
 - [zayronxio/Zafiro-icons](https://github.com/zayronxio/Zafiro-icons) - icon pack flat with light colors
@@ -1249,7 +1255,7 @@
 - [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted) - Raspberry Pi Self Hosted Server Based on Docker / Portainer.io
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [aonez/Keka](https://github.com/aonez/Keka) - The macOS file archiver
-- [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 Your Own URL Shortener
+- [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 Y̲our O̲wn U̲R̲L̲ S̲hortener
 - [WaLLy3K/Pi-hole-Block-Page](https://github.com/WaLLy3K/Pi-hole-Block-Page) - A "Website Blocked" page to go with https://pi-hole.net
 - [prasathmani/tinyfilemanager](https://github.com/prasathmani/tinyfilemanager) - The best web based PHP File Manager in single file, Manage your files efficiently and easily with tinyfilemanager
 - [RaspAP/raspap-webgui](https://github.com/RaspAP/raspap-webgui) - Simple wireless AP setup & management for Debian-based devices
@@ -1277,6 +1283,9 @@
 
 ## Python 
 
+- [termux/termux-apt-repo](https://github.com/termux/termux-apt-repo) - Script to create Termux apt repositories.
+- [hakandundar34coding/system-monitoring-center](https://github.com/hakandundar34coding/system-monitoring-center) - GTK and Python based, system performance and usage monitoring tool
+- [RMPR/atbswp](https://github.com/RMPR/atbswp) - A minimalist macro recorder
 - [robtech21/chromiumos](https://github.com/robtech21/chromiumos) - 
 - [FormerLurker/Octolapse](https://github.com/FormerLurker/Octolapse) - Stabilized timelapses for Octoprint
 - [TheBananaStore/TheBananaClient](https://github.com/TheBananaStore/TheBananaClient) - [WIP]🍌🐧 Client for the Banana Store
@@ -1924,6 +1933,7 @@
 
 ## TypeScript 
 
+- [Chia-Network/chia-blockchain-gui](https://github.com/Chia-Network/chia-blockchain-gui) - Chia blockchain GUI in electron/react
 - [itchio/itch](https://github.com/itchio/itch) - 🎮 The best way to play your itch.io games
 - [purocean/yn](https://github.com/purocean/yn) - A Hackable Markdown Note Application for Programmers. Version control, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, plug-in, and macro replacement.
 - [fosscord/fosscord-server](https://github.com/fosscord/fosscord-server) - Fosscord backend made with Typescript and love (and a bit of C++)
