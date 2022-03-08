@@ -90,6 +90,7 @@
 
 ## C 
 
+- [raspberrypi/windows-drivers](https://github.com/raspberrypi/windows-drivers) - Windows IOT drivers
 - [aide/aide](https://github.com/aide/aide) - aide source code
 - [HansKristian-Work/vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton) - Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.
 - [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey
@@ -713,7 +714,6 @@
 - [ryanfortner/jsterm](https://github.com/ryanfortner/jsterm) - fake terminal for my website
 - [hmsjy2017/7-zip-debs](https://github.com/hmsjy2017/7-zip-debs) - 
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [raspbian-addons/apt.raspbian-addons.org](https://github.com/raspbian-addons/apt.raspbian-addons.org) - about page for raspbian-addons' main mirror
 - [piware14/piware14.github.io](https://github.com/piware14/piware14.github.io) - 
 - [hmsjy2017/apt.raspbian-addons.org](https://github.com/hmsjy2017/apt.raspbian-addons.org) - 
 - [Pi-Apps-Coders/website](https://github.com/Pi-Apps-Coders/website) - Pi-Apps project website
@@ -722,7 +722,7 @@
 - [ryanfortner/blog-archived](https://github.com/ryanfortner/blog-archived) - Technology & programming blog.
 - [raspbian-addons/raspbian-addons](https://github.com/raspbian-addons/raspbian-addons) - Install automatically-updated extra open-source software on your Raspberry Pi, using Debian APT
 - [jamesjohnson280/hello-pwa](https://github.com/jamesjohnson280/hello-pwa) - The classic Hello World program as a Progressive Web App
-- [titaniumnetwork-dev/Incognito-Archive](https://github.com/titaniumnetwork-dev/Incognito-Archive) - Access the world wide web with Incognito, a fast and rather fancy proxy service. Enjoy a more private internet session without ads.
+- [titaniumnetwork-dev/Incognito-old](https://github.com/titaniumnetwork-dev/Incognito-old) - Access the world wide web with Incognito, a fast and rather fancy proxy service. Enjoy a more private internet session without ads.
 - [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
 - [Itai-Nelken/itai-nelken.github.io](https://github.com/Itai-Nelken/itai-nelken.github.io) - My website.
 - [Itai-Nelken/Webcord_debian-repo](https://github.com/Itai-Nelken/Webcord_debian-repo) - unofficial repo for electron-discord-webapp (https://github.com/SpacingBat3/WebCord) by @SpacingBat3
@@ -784,6 +784,7 @@
 
 ## JavaScript 
 
+- [FreeTubeApp/FreeTube-Vue](https://github.com/FreeTubeApp/FreeTube-Vue) - The repository for the upcoming FreeTube rewrite
 - [Chia-Network/chia-docs](https://github.com/Chia-Network/chia-docs) - 
 - [sebhildebrandt/systeminformation](https://github.com/sebhildebrandt/systeminformation) - System Information Library for Node.JS
 - [matthewhudson/current-device](https://github.com/matthewhudson/current-device) - The easiest way to write conditional CSS and/or JavaScript based on device operating system (iOS, Android, Blackberry, Windows, Firefox OS, MeeGo), orientation (Portrait vs. Landscape), and type (Tablet vs. Mobile).
@@ -868,12 +869,14 @@
 - [rpardini/adoptium-deb-installer](https://github.com/rpardini/adoptium-deb-installer) - Creates Ubuntu/Debian installer packages for Eclipse Adoptium using their API. Important: these are NOT official packages. JDK 8, 11, 16 and 17, all multiarch.
 - [tengbao/vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
 - [Wallux-0/Wallux](https://github.com/Wallux-0/Wallux) - A collection of cool wallpapers
+- [raspbian-addons/apt.raspbian-addons.org](https://github.com/raspbian-addons/apt.raspbian-addons.org) - about page for raspbian-addons' main mirror
 - [binary-person/womginx](https://github.com/binary-person/womginx) - Proxy using wombat + nginx
 - [FogNetwork/Rusty](https://github.com/FogNetwork/Rusty) - A simple frontend design for Corrosion you can deploy
 - [nirui/sshwifty](https://github.com/nirui/sshwifty) - Web SSH & Telnet (WebSSH & WebTelnet client) 🔮
 - [samuelmeuli/action-electron-builder](https://github.com/samuelmeuli/action-electron-builder) - :electron: GitHub Action for building and releasing Electron apps
 - [stephomi/sculptgl](https://github.com/stephomi/sculptgl) - DEVELOPMENT STOPPED  I'm now working on Nomad Sculpt instead
 - [Makashi2021/Christmas-Countdown](https://github.com/Makashi2021/Christmas-Countdown) - 
+- [Pi-Apps-Coders/docs](https://github.com/Pi-Apps-Coders/docs) - [wip] documentation website for pi-apps
 - [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
@@ -1139,7 +1142,6 @@
 - [natethinks/jog](https://github.com/natethinks/jog) - Simple script to print the last 10 commands you ran in the current directory
 - [hmsjy2017/Aria2-Pro-Core-debs](https://github.com/hmsjy2017/Aria2-Pro-Core-debs) - 
 - [hmsjy2017/transfer-debs](https://github.com/hmsjy2017/transfer-debs) - 
-- [Pi-Apps-Coders/docs](https://github.com/Pi-Apps-Coders/docs) - [wip] documentation website for pi-apps
 - [hmsjy2017/raspbian-addons-docs-test](https://github.com/hmsjy2017/raspbian-addons-docs-test) - 
 - [WaterfoxCo/Waterfox](https://github.com/WaterfoxCo/Waterfox) - The official Waterfox 💧 source code repository
 - [Pi-Apps-Coders/files](https://github.com/Pi-Apps-Coders/files) - 
@@ -1283,6 +1285,8 @@
 
 ## Python 
 
+- [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
+- [Axel-Erfurt/QTerminal](https://github.com/Axel-Erfurt/QTerminal) - Terminal (PyQt5)
 - [termux/termux-apt-repo](https://github.com/termux/termux-apt-repo) - Script to create Termux apt repositories.
 - [hakandundar34coding/system-monitoring-center](https://github.com/hakandundar34coding/system-monitoring-center) - GTK and Python based, system performance and usage monitoring tool
 - [RMPR/atbswp](https://github.com/RMPR/atbswp) - A minimalist macro recorder
@@ -1607,6 +1611,7 @@
 
 ## Shell 
 
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [x08d/lockdown.sh](https://github.com/x08d/lockdown.sh) - Lockdown your linux install. The simple zero config linux hardening script
 - [mobilegmYT/mcpi-reborn-extended](https://github.com/mobilegmYT/mcpi-reborn-extended) - MCPI-Reborn, but modded with new community-made features!
@@ -1808,7 +1813,7 @@
 - [cbrnix/Newaita](https://github.com/cbrnix/Newaita) - Linux icon theme
 - [vinceliuice/Qogir-icon-theme](https://github.com/vinceliuice/Qogir-icon-theme) - A colorful design icon theme for linux desktops
 - [TerraGitHuB/gnomeforpi](https://github.com/TerraGitHuB/gnomeforpi) - A script to install gnome on the Raspberry Pi
-- [f1linux/pi-ap](https://github.com/f1linux/pi-ap) - Raspberry Pi Access Point: This repo automates the configuration of hostapd, dnsmasq, dhcpcd & wpa_supplicant to transform a Pi into a wireless AP.  Requirements: a Pi, an Ethernet cable and a DHCP-enabled port on a router with a 'net connection or a switch connected to this router.
+- [f1linux/pi-ap](https://github.com/f1linux/pi-ap) - Raspberry Pi wireless Access Point: This repo automates the config of hostapd, dnsmasq, dhcpcd & wpa_supplicant to transform a Pi into an AP.  Requires: a Pi, Ethernet cable & DHCP-enabled port on a broadband router or a switch connected to this router. For other interesting & practical Pi solutions, my Stack page is: https://raspberrypi.stackexchange.com/users/97613/f1linux
 - [Itai-Nelken/youtubuddy-Arch](https://github.com/Itai-Nelken/youtubuddy-Arch) - Search/Watch/Download YouTube videos with a lightweight, interactive tool
 - [piware14/pi-ware](https://github.com/piware14/pi-ware) - Pi-Ware is an app store inspired by Botspots pi-apps for the Raspberry Pi that allows you to install apps that you generally can't get from the official repos and/or without an extra amount of work.
 - [ungoogled-software/ungoogled-chromium-debian](https://github.com/ungoogled-software/ungoogled-chromium-debian) - Debian, Ubuntu, and others packaging for ungoogled-chromium
@@ -1935,7 +1940,7 @@
 
 - [Chia-Network/chia-blockchain-gui](https://github.com/Chia-Network/chia-blockchain-gui) - Chia blockchain GUI in electron/react
 - [itchio/itch](https://github.com/itchio/itch) - 🎮 The best way to play your itch.io games
-- [purocean/yn](https://github.com/purocean/yn) - A Hackable Markdown Note Application for Programmers. Version control, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, plug-in, and macro replacement.
+- [purocean/yn](https://github.com/purocean/yn) - A Hackable Markdown Note Application for Programmers. Version control, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, plug-in, and macro replacement.
 - [fosscord/fosscord-server](https://github.com/fosscord/fosscord-server) - Fosscord backend made with Typescript and love (and a bit of C++)
 - [bitwarden/cli](https://github.com/bitwarden/cli) - The command line vault (Windows, macOS, & Linux).
 - [TheDavidDelta/lingva-translate](https://github.com/TheDavidDelta/lingva-translate) - Alternative front-end for Google Translate
