@@ -72,6 +72,7 @@
 
 ## Assembly 
 
+- [leachim6/hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!
 - [0xJonas/TIQuest](https://github.com/0xJonas/TIQuest) - Game for the TI-83 plus/TI-84 plus calculators
 - [calc84maniac/tiboyce](https://github.com/calc84maniac/tiboyce) - A Game Boy emulator for the TI-84 Plus CE and TI-83 Premium CE.
 
@@ -286,6 +287,7 @@
 
 ## C# # 
 
+- [gus33000/UUPMediaCreator](https://github.com/gus33000/UUPMediaCreator) - An utility to create Windows Media files (.ISO, .WIM, .VHD) from Unified Update Platform files
 - [viktor02/DuCoWallet](https://github.com/viktor02/DuCoWallet) - Yet Another DuinoCoin Wallet
 - [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11
 - [opentk/opentk](https://github.com/opentk/opentk) - The Open Toolkit library is a fast, low-level C# wrapper for OpenGL, OpenAL & OpenCL. It also includes windowing, mouse, keyboard and joystick input and a robust and fast math library, giving you everything you need to write your own renderer or game engine. OpenTK can be used standalone or inside a GUI on Windows, Linux, Mac.
@@ -784,6 +786,7 @@
 
 ## JavaScript 
 
+- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [FreeTubeApp/FreeTube-Vue](https://github.com/FreeTubeApp/FreeTube-Vue) - The repository for the upcoming FreeTube rewrite
 - [Chia-Network/chia-docs](https://github.com/Chia-Network/chia-docs) - 
 - [sebhildebrandt/systeminformation](https://github.com/sebhildebrandt/systeminformation) - System Information Library for Node.JS
@@ -1070,6 +1073,7 @@
 
 ## Others 
 
+- [flathub/io.freetubeapp.FreeTube](https://github.com/flathub/io.freetubeapp.FreeTube) - 
 - [hmsjy2017/yn-arm](https://github.com/hmsjy2017/yn-arm) - 
 - [fliptheweb/bash-shortcuts-cheat-sheet](https://github.com/fliptheweb/bash-shortcuts-cheat-sheet) - Useful shortcuts for bash/zsh
 - [TheBananaStore/Deb2Arch](https://github.com/TheBananaStore/Deb2Arch) - ♋➡♊ WIP utility to install DEBs on Arch
@@ -1285,6 +1289,8 @@
 
 ## Python 
 
+- [AppImageCrafters/appimage-builder](https://github.com/AppImageCrafters/appimage-builder) - GNU/Linux packaging solution using the AppImage format
+- [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
 - [Axel-Erfurt/QTerminal](https://github.com/Axel-Erfurt/QTerminal) - Terminal (PyQt5)
 - [termux/termux-apt-repo](https://github.com/termux/termux-apt-repo) - Script to create Termux apt repositories.
@@ -1361,7 +1367,7 @@
 - [sparkfun/RPi_PanTilt_Camera_Kit](https://github.com/sparkfun/RPi_PanTilt_Camera_Kit) - Example code for the the SparkFun Raspberry Pi Zero Pan Tilt Camera Kit.
 - [CorsairOfficial/cue-sdk-python](https://github.com/CorsairOfficial/cue-sdk-python) - Ctypes-based CUE SDK binding for Python
 - [nuno-faria/tiler](https://github.com/nuno-faria/tiler) - 👷 Build images with images
-- [ccrisan/motioneye](https://github.com/ccrisan/motioneye) - A web frontend for the motion daemon.
+- [motioneye-project/motioneye](https://github.com/motioneye-project/motioneye) - A web frontend for the motion daemon.
 - [ksharindam/quartz-browser-qt5](https://github.com/ksharindam/quartz-browser-qt5) - Light-weight fast web Browser based of PyQt5 QtWebkit
 - [MilhouseVH/bcmstat](https://github.com/MilhouseVH/bcmstat) - Simple Raspberry Pi monitoring tool
 - [muammar/mkchromecast](https://github.com/muammar/mkchromecast) - Cast macOS and Linux Audio/Video to your Google Cast and Sonos Devices
@@ -1415,7 +1421,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [bbilly1/tubearchivist](https://github.com/bbilly1/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-430-Stars](https://github.com/iBug/This-Repo-Has-430-Stars) - Yes, it's true :heart: This repository has 430 stars.
+- [iBug/This-Repo-Has-430-Stars](https://github.com/iBug/This-Repo-Has-430-Stars) - Yes, it's true :revolving_hearts: This repository has 430 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -1556,6 +1562,7 @@
 
 ## Rust 
 
+- [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 - [messense/aliyundrive-fuse](https://github.com/messense/aliyundrive-fuse) - 阿里云盘 FUSE 磁盘挂载
 - [mustafaquraish/cup](https://github.com/mustafaquraish/cup) - simple, C-like programming language
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
@@ -1938,6 +1945,7 @@
 
 ## TypeScript 
 
+- [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
 - [Chia-Network/chia-blockchain-gui](https://github.com/Chia-Network/chia-blockchain-gui) - Chia blockchain GUI in electron/react
 - [itchio/itch](https://github.com/itchio/itch) - 🎮 The best way to play your itch.io games
 - [purocean/yn](https://github.com/purocean/yn) - A Hackable Markdown Note Application for Programmers. Version control, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, plug-in, and macro replacement.
