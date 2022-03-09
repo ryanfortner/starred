@@ -1,4 +1,4 @@
-name: publish
+name: Generate Starred Repositories
 on:
   schedule:
   - cron: 30 0 * * *
