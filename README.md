@@ -91,6 +91,7 @@
 
 ## C 
 
+- [radxa/device-custom](https://github.com/radxa/device-custom) - 
 - [raspberrypi/windows-drivers](https://github.com/raspberrypi/windows-drivers) - Windows IOT drivers
 - [aide/aide](https://github.com/aide/aide) - aide source code
 - [HansKristian-Work/vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton) - Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.
@@ -287,6 +288,7 @@
 
 ## C# # 
 
+- [aaronpowell/httpstatus](https://github.com/aaronpowell/httpstatus) - Easily generate different HTTP responses for testing
 - [gus33000/UUPMediaCreator](https://github.com/gus33000/UUPMediaCreator) - An utility to create Windows Media files (.ISO, .WIM, .VHD) from Unified Update Platform files
 - [viktor02/DuCoWallet](https://github.com/viktor02/DuCoWallet) - Yet Another DuinoCoin Wallet
 - [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11
@@ -313,6 +315,7 @@
 
 ## C++ 
 
+- [Smittyvb/ms-electron](https://github.com/Smittyvb/ms-electron) - Microsoft's open source Electron fork
 - [helio-fm/helio-workstation](https://github.com/helio-fm/helio-workstation) - One music sequencer for all major platforms, desktop and mobile
 - [zeldaret/botw](https://github.com/zeldaret/botw) - Decompilation of The Legend of Zelda: Breath of the Wild (Switch 1.5.0)
 - [linuxdeepin/dde-launcher](https://github.com/linuxdeepin/dde-launcher) - DDE Launcher Application
@@ -480,6 +483,7 @@
 
 ## CSS 
 
+- [radxa/apt](https://github.com/radxa/apt) - radxa debian packages repository
 - [FirefoxUX/photon](https://github.com/FirefoxUX/photon) - Firefox’s Photon Design System.
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 - [zayronxio/windows11-GTKtheme](https://github.com/zayronxio/windows11-GTKtheme) - windows11-GTKtheme
@@ -598,6 +602,7 @@
 
 ## Go 
 
+- [rsc/web](https://github.com/rsc/web) - basic web site serving framework
 - [Chia-Network/chia-exporter](https://github.com/Chia-Network/chia-exporter) - RPC/Websocket based metrics exporter for Chia
 - [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [mkaczanowski/packer-builder-arm](https://github.com/mkaczanowski/packer-builder-arm) - Packer plugin to build ARM images
@@ -742,6 +747,8 @@
 
 ## Java 
 
+- [LWJGL/lwjgl3](https://github.com/LWJGL/lwjgl3) - LWJGL is a Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL, Vulkan, bgfx), audio (OpenAL, Opus), parallel computing (OpenCL, CUDA) and XR (OpenVR, LibOVR, OpenXR) applications.
+- [LWJGL/lwjgl](https://github.com/LWJGL/lwjgl) - [LEGACY] LWJGL 2.X - The Lightweight Java Game Library.
 - [CloudburstMC/Protocol](https://github.com/CloudburstMC/Protocol) - A protocol library for Minecraft Bedrock Edition
 - [AllPlatform/Box86Launcher](https://github.com/AllPlatform/Box86Launcher) - 
 - [stream-pi/util](https://github.com/stream-pi/util) - Stream-Pi Utilities Library
@@ -786,6 +793,8 @@
 
 ## JavaScript 
 
+- [simpleicons/simpleicons.now.sh](https://github.com/simpleicons/simpleicons.now.sh) - Serve simpleicons with options (and CDN).
+- [doctolib/windows-binary-architecture](https://github.com/doctolib/windows-binary-architecture) - Find the target CPU architecture of Windows binaries (DLLs, EXEs and others).
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [FreeTubeApp/FreeTube-Vue](https://github.com/FreeTubeApp/FreeTube-Vue) - The repository for the upcoming FreeTube rewrite
 - [Chia-Network/chia-docs](https://github.com/Chia-Network/chia-docs) - 
@@ -1073,6 +1082,13 @@
 
 ## Others 
 
+- [radxa/debos-build-action](https://github.com/radxa/debos-build-action) - GitHub Action for debos-radxa `build` command
+- [radxa/armbian-compile-action](https://github.com/radxa/armbian-compile-action) - GitHub Action for Armbian `compile` command
+- [radxa/rock-pi-s-images-released](https://github.com/radxa/rock-pi-s-images-released) - 
+- [radxa/rock-pi-images-released](https://github.com/radxa/rock-pi-images-released) - 
+- [radxa/radxa-cm3-projects](https://github.com/radxa/radxa-cm3-projects) - 
+- [raspbian-addons/.github](https://github.com/raspbian-addons/.github) - 
+- [justjavac/github-dark-light-theme](https://github.com/justjavac/github-dark-light-theme) - GitHub markdown 显示深色模式或者浅色模式
 - [flathub/io.freetubeapp.FreeTube](https://github.com/flathub/io.freetubeapp.FreeTube) - 
 - [hmsjy2017/yn-arm](https://github.com/hmsjy2017/yn-arm) - 
 - [fliptheweb/bash-shortcuts-cheat-sheet](https://github.com/fliptheweb/bash-shortcuts-cheat-sheet) - Useful shortcuts for bash/zsh
@@ -1289,6 +1305,7 @@
 
 ## Python 
 
+- [infinitepower18/WSA-Sideloader](https://github.com/infinitepower18/WSA-Sideloader) - Easily sideload Android apps on Windows Subsystem for Android on Windows 11
 - [AppImageCrafters/appimage-builder](https://github.com/AppImageCrafters/appimage-builder) - GNU/Linux packaging solution using the AppImage format
 - [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
@@ -1604,6 +1621,7 @@
 
 ## SCSS 
 
+- [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
 - [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) - MacOS Big Sur like theme for Gnome desktops
 - [pages-themes/hacker](https://github.com/pages-themes/hacker) - Hacker is a Jekyll theme for GitHub Pages
 - [pop-os/gtk-theme](https://github.com/pop-os/gtk-theme) - System76 Pop GTK+ Theme
@@ -1618,6 +1636,10 @@
 
 ## Shell 
 
+- [radxa/rabian-build](https://github.com/radxa/rabian-build) - Build scripts for Rabian
+- [radxa/armbian-build](https://github.com/radxa/armbian-build) - Armbian Linux build tools
+- [pguyot/arm-runner-action](https://github.com/pguyot/arm-runner-action) - Run tests natively and build images directly from GitHub Actions using a chroot-based virtualized Raspberry Pi (raspios/raspbian) environment
+- [Homebrew/install](https://github.com/Homebrew/install) - 📥 Homebrew (un)installer
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [x08d/lockdown.sh](https://github.com/x08d/lockdown.sh) - Lockdown your linux install. The simple zero config linux hardening script
@@ -1851,7 +1873,7 @@
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [Botspot/libreoffice-ms-theme](https://github.com/Botspot/libreoffice-ms-theme) - 
 - [Itai-Nelken/Pi-Assistant](https://github.com/Itai-Nelken/Pi-Assistant) - Pi-Assistant is a simple terminal app made for the Raspberry Pi that makes updating the system, installing apps, viewing system information, and more easier than ever
-- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!
+- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [foundObjects/zram-swap](https://github.com/foundObjects/zram-swap) - A simple zram swap service for modern systemd Linux
 - [ryanfortner/ppsspp-rpi](https://github.com/ryanfortner/ppsspp-rpi) - A PSP emulator, compiled for arm32 and arm64
 - [Nitrux/luv-icon-theme](https://github.com/Nitrux/luv-icon-theme) - Lüv is the spiritual successor to Flattr, a flat but complex icon theme for freedesktop environments.
