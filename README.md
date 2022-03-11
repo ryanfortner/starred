@@ -91,6 +91,10 @@
 
 ## C 
 
+- [zeldaret/oot](https://github.com/zeldaret/oot) - Decompilation of The Legend of Zelda: Ocarina of Time
+- [magi-project/wolf-m7m-cpuminer-V2](https://github.com/magi-project/wolf-m7m-cpuminer-V2) - 
+- [j6mes/wolf-m7m-cpuminer](https://github.com/j6mes/wolf-m7m-cpuminer) - M7M CPU Miner
+- [novaspirit/wolf-m7m-cpuminer](https://github.com/novaspirit/wolf-m7m-cpuminer) - M7M CPU Miner
 - [radxa/device-custom](https://github.com/radxa/device-custom) - 
 - [raspberrypi/windows-drivers](https://github.com/raspberrypi/windows-drivers) - Windows IOT drivers
 - [aide/aide](https://github.com/aide/aide) - aide source code
@@ -315,6 +319,9 @@
 
 ## C++ 
 
+- [m-pays/m-cpuminer-qt](https://github.com/m-pays/m-cpuminer-qt) - Qt version (GUI) of Magi CPU Miner
+- [jmanc3/winbar](https://github.com/jmanc3/winbar) - A familiar X11 panel/dock to ease new linux users transition
+- [m-pays/magi](https://github.com/m-pays/magi) - Official Source of Coin MAGI (XMG)
 - [Smittyvb/ms-electron](https://github.com/Smittyvb/ms-electron) - Microsoft's open source Electron fork
 - [helio-fm/helio-workstation](https://github.com/helio-fm/helio-workstation) - One music sequencer for all major platforms, desktop and mobile
 - [zeldaret/botw](https://github.com/zeldaret/botw) - Decompilation of The Legend of Zelda: Breath of the Wild (Switch 1.5.0)
@@ -483,6 +490,7 @@
 
 ## CSS 
 
+- [EliverLara/Kripton](https://github.com/EliverLara/Kripton) - A dark theme with flat style for GNOME
 - [radxa/apt](https://github.com/radxa/apt) - radxa debian packages repository
 - [FirefoxUX/photon](https://github.com/FirefoxUX/photon) - Firefox’s Photon Design System.
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
@@ -602,6 +610,7 @@
 
 ## Go 
 
+- [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - An open source, general-purpose policy engine.
 - [rsc/web](https://github.com/rsc/web) - basic web site serving framework
 - [Chia-Network/chia-exporter](https://github.com/Chia-Network/chia-exporter) - RPC/Websocket based metrics exporter for Chia
 - [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
@@ -703,11 +712,14 @@
 
 ## HTML 
 
+- [mymonero/mymonero-app-site](https://github.com/mymonero/mymonero-app-site) - The MyMonero website
+- [dcurtis/markdown-mark](https://github.com/dcurtis/markdown-mark) - Use this mark to identify Markdown.
 - [Chia-Network/chiapos](https://github.com/Chia-Network/chiapos) - Chia Proof of Space library
 - [KumaTea/pytorch-aarch64](https://github.com/KumaTea/pytorch-aarch64) - PyTorch wheels (whl) & conda for aarch64 / ARMv8 / ARM64, with vision, audio, text & csprng
 - [revoxhere/revoxhere.github.io](https://github.com/revoxhere/revoxhere.github.io) - My portfolio
 - [revoxhere/magi-webservices](https://github.com/revoxhere/magi-webservices) - Coin Magi 2021 Explorer & Web Wallet
 - [cycool29/cycool29.github.io](https://github.com/cycool29/cycool29.github.io) - 
+- [LAX1DUDE/eaglercraft](https://github.com/LAX1DUDE/eaglercraft) - Eaglercraft is real Minecraft 1.5.2 that you can play in any regular web browser. That includes school chromebooks, it works on all chromebooks. You can join real Minecraft 1.5.2 servers with it through a custom proxy based on Bungeecord.
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for Raspberry Pi or any Linux distro for running self-hosted apps
 - [linuxmint/live-installer](https://github.com/linuxmint/live-installer) - A live installer for the Debian edition
 - [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
@@ -747,6 +759,7 @@
 
 ## Java 
 
+- [opencast/opencast](https://github.com/opencast/opencast) - The free and open source solution for automated video capture and distribution at scale.
 - [LWJGL/lwjgl3](https://github.com/LWJGL/lwjgl3) - LWJGL is a Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL, Vulkan, bgfx), audio (OpenAL, Opus), parallel computing (OpenCL, CUDA) and XR (OpenVR, LibOVR, OpenXR) applications.
 - [LWJGL/lwjgl](https://github.com/LWJGL/lwjgl) - [LEGACY] LWJGL 2.X - The Lightweight Java Game Library.
 - [CloudburstMC/Protocol](https://github.com/CloudburstMC/Protocol) - A protocol library for Minecraft Bedrock Edition
@@ -793,6 +806,12 @@
 
 ## JavaScript 
 
+- [mymonero/mymonero-utils](https://github.com/mymonero/mymonero-utils) - A collection of npm packages providing the core functionality to the web, desktop, and android apps
+- [mymonero/mymonero-core-js](https://github.com/mymonero/mymonero-core-js) - The JS library containing the Monero crypto plus lightwallet functions behind the official MyMonero apps
+- [mymonero/mymonero-app-js](https://github.com/mymonero/mymonero-app-js) - The JS codebase for the MyMonero desktop apps
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, open-source session replay.
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core (formerly Material UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
+- [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [simpleicons/simpleicons.now.sh](https://github.com/simpleicons/simpleicons.now.sh) - Serve simpleicons with options (and CDN).
 - [doctolib/windows-binary-architecture](https://github.com/doctolib/windows-binary-architecture) - Find the target CPU architecture of Windows binaries (DLLs, EXEs and others).
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
@@ -823,7 +842,6 @@
 - [Griphitor/Griphitor](https://github.com/Griphitor/Griphitor) - Griphitor is a Code editor developed with ☕
 - [denysdovhan/bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
 - [denysdovhan/learnyoubash](https://github.com/denysdovhan/learnyoubash) - Learn you how to write your first bash script
-- [LAX1DUDE/eaglercraft](https://github.com/LAX1DUDE/eaglercraft) - Eaglercraft is real Minecraft 1.5.2 that you can play in any regular web browser. That includes school chromebooks, it works on all chromebooks. You can join real Minecraft 1.5.2 servers with it through a custom proxy based on Bungeecord.
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [shivshankar9/Student-portal](https://github.com/shivshankar9/Student-portal) - Online tools for students to manage documents
 - [specious/bitly-client](https://github.com/specious/bitly-client) - :link: Create and manage your Bitly shortlinks from the command line
@@ -1305,6 +1323,11 @@
 
 ## Python 
 
+- [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
+- [maoschanz/dynamic-wallpaper-editor](https://github.com/maoschanz/dynamic-wallpaper-editor) - A little utility for creation or edition of GNOME desktop's XML wallpapers
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [dougbrion/OctoRest](https://github.com/dougbrion/OctoRest) - Python client library for OctoPrint REST API
+- [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [infinitepower18/WSA-Sideloader](https://github.com/infinitepower18/WSA-Sideloader) - Easily sideload Android apps on Windows Subsystem for Android on Windows 11
 - [AppImageCrafters/appimage-builder](https://github.com/AppImageCrafters/appimage-builder) - GNU/Linux packaging solution using the AppImage format
 - [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
@@ -1438,7 +1461,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [bbilly1/tubearchivist](https://github.com/bbilly1/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-431-Stars](https://github.com/iBug/This-Repo-Has-431-Stars) - Yes, it's true :sparkling_heart: This repository has 431 stars.
+- [iBug/This-Repo-Has-431-Stars](https://github.com/iBug/This-Repo-Has-431-Stars) - Yes, it's true :revolving_hearts: This repository has 431 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -1636,6 +1659,9 @@
 
 ## Shell 
 
+- [twolfson/sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, git statuses, and git branches.
+- [yeyushengfan258/Reversal-icon-theme](https://github.com/yeyushengfan258/Reversal-icon-theme) - A colorful Design Rectangle icon theme for linux desktops
+- [novaspirit/rpi_zram](https://github.com/novaspirit/rpi_zram) - script to enable zram for raspberry pi
 - [radxa/rabian-build](https://github.com/radxa/rabian-build) - Build scripts for Rabian
 - [radxa/armbian-build](https://github.com/radxa/armbian-build) - Armbian Linux build tools
 - [pguyot/arm-runner-action](https://github.com/pguyot/arm-runner-action) - Run tests natively and build images directly from GitHub Actions using a chroot-based virtualized Raspberry Pi (raspios/raspbian) environment
@@ -1740,7 +1766,7 @@
 - [rvm/rvm](https://github.com/rvm/rvm) - Ruby enVironment Manager (RVM)
 - [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
 - [algernon/dh-exec](https://github.com/algernon/dh-exec) - Debhelper executable file substition helpers
-- [aditya24raj/darth_waydr](https://github.com/aditya24raj/darth_waydr) - attempts waydroid installation on debian-based distributions
+- [aditya24raj/darth_waydr](https://github.com/aditya24raj/darth_waydr) - automates waydroid installation steps on debian-based distributions
 - [paulirish/dotfiles](https://github.com/paulirish/dotfiles) - paul's shell, git, etc config files. also homebrew, migration setup. good stuff.
 - [jenkinsci/packaging](https://github.com/jenkinsci/packaging) - Native packaging for Jenkins
 - [koendv/arduino-ide-raspberrypi](https://github.com/koendv/arduino-ide-raspberrypi) - arduino IDE v2 for raspberry pi
@@ -1952,6 +1978,7 @@
 
 ## Swift 
 
+- [mymonero/mymonero-app-ios](https://github.com/mymonero/mymonero-app-ios) - The MyMonero native iOS app
 - [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [fahimrahmanbooom/Duino-Coin_iOS_App](https://github.com/fahimrahmanbooom/Duino-Coin_iOS_App) - Duino-Coin iOS App. Features: Dashboard, Statistics, Transactions, Profile.
@@ -1967,6 +1994,8 @@
 
 ## TypeScript 
 
+- [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
+- [oznu/node-pty-prebuilt-multiarch](https://github.com/oznu/node-pty-prebuilt-multiarch) - A parallel fork of node-pty providing ia32, amd64, arm, and aarch64 prebuilt packages for macOS, Windows and Linux (glibc and musl libc).
 - [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
 - [Chia-Network/chia-blockchain-gui](https://github.com/Chia-Network/chia-blockchain-gui) - Chia blockchain GUI in electron/react
 - [itchio/itch](https://github.com/itchio/itch) - 🎮 The best way to play your itch.io games
