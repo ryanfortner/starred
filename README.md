@@ -91,6 +91,8 @@
 
 ## C 
 
+- [monero-project/monero-gui](https://github.com/monero-project/monero-gui) - Monero: the secure, private, untraceable cryptocurrency
+- [MoneroOcean/xmrig](https://github.com/MoneroOcean/xmrig) - Monero (rx/0, rx/wow, rx/loki, defyx, rx/arq, rx/sfx, rx/keva, cn/0, cn/1, cn/2, cn/r, cn/fast, cn/half, cn/xao, cn/rto, cn/rwz, cn/zls, cn/double, cn/gpu, cn-lite/0, cn-lite/1, cn-heavy/0, cn-heavy/tube, cn-heavy/xhv, cn-pico, cn-pico/tlo, argon2/chukwa, argon2/wrkz, astrobwt) CPU/GPU miner
 - [zeldaret/oot](https://github.com/zeldaret/oot) - Decompilation of The Legend of Zelda: Ocarina of Time
 - [magi-project/wolf-m7m-cpuminer-V2](https://github.com/magi-project/wolf-m7m-cpuminer-V2) - 
 - [j6mes/wolf-m7m-cpuminer](https://github.com/j6mes/wolf-m7m-cpuminer) - M7M CPU Miner
@@ -319,6 +321,8 @@
 
 ## C++ 
 
+- [tevador/RandomX](https://github.com/tevador/RandomX) - Proof of work algorithm based on random code execution
+- [linuxdeepin/dtkwidget](https://github.com/linuxdeepin/dtkwidget) - Deepin Toolkit, widget module for DDE look and feel
 - [m-pays/m-cpuminer-qt](https://github.com/m-pays/m-cpuminer-qt) - Qt version (GUI) of Magi CPU Miner
 - [jmanc3/winbar](https://github.com/jmanc3/winbar) - A familiar X11 panel/dock to ease new linux users transition
 - [m-pays/magi](https://github.com/m-pays/magi) - Official Source of Coin MAGI (XMG)
@@ -368,7 +372,7 @@
 - [mhoeher/opentodolist](https://github.com/mhoeher/opentodolist) - A simple Todo and task management application - Mirror of https://gitlab.com/rpdev/opentodolist
 - [Slicer/Slicer](https://github.com/Slicer/Slicer) - Multi-platform, free open source software for visualization and image computing.
 - [ccMSC/ckb](https://github.com/ccMSC/ckb) - RGB Driver for Linux and OS X
-- [XMuli/chinessChess](https://github.com/XMuli/chinessChess) - Cross-platform and online battle platform game based on Qt: Chinese Chess
+- [XMuli/ChineseChess](https://github.com/XMuli/ChineseChess) - Cross-platform and online battle platform game based on Qt: Chinese Chess. Also known as:『Xiangqi』『中国象棋』
 - [ValveSoftware/halflife](https://github.com/ValveSoftware/halflife) - Half-Life 1 engine based games
 - [baumgarr/nixnote2](https://github.com/baumgarr/nixnote2) - Nixnote - A clone of Evernote for Linux
 - [ErnyTech/p7zip](https://github.com/ErnyTech/p7zip) - 
@@ -759,6 +763,9 @@
 
 ## Java 
 
+- [AuthMe/AuthMeReloaded](https://github.com/AuthMe/AuthMeReloaded) - The best authentication plugin for the Bukkit/Spigot API!
+- [lenis0012/LoginSecurity-2](https://github.com/lenis0012/LoginSecurity-2) - 
+- [AmkSoft/AmkMcAuth-V-1.5.1](https://github.com/AmkSoft/AmkMcAuth-V-1.5.1) - Easy to use (offline-mode) login authentication plugin
 - [opencast/opencast](https://github.com/opencast/opencast) - The free and open source solution for automated video capture and distribution at scale.
 - [LWJGL/lwjgl3](https://github.com/LWJGL/lwjgl3) - LWJGL is a Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL, Vulkan, bgfx), audio (OpenAL, Opus), parallel computing (OpenCL, CUDA) and XR (OpenVR, LibOVR, OpenXR) applications.
 - [LWJGL/lwjgl](https://github.com/LWJGL/lwjgl) - [LEGACY] LWJGL 2.X - The Lightweight Java Game Library.
@@ -806,6 +813,8 @@
 
 ## JavaScript 
 
+- [MoneroOcean/meta-miner](https://github.com/MoneroOcean/meta-miner) - Allows to add algo switching support to *any* stratum miner. Zero fees.
+- [arduino/arduino-ide](https://github.com/arduino/arduino-ide) - Arduino IDE
 - [mymonero/mymonero-utils](https://github.com/mymonero/mymonero-utils) - A collection of npm packages providing the core functionality to the web, desktop, and android apps
 - [mymonero/mymonero-core-js](https://github.com/mymonero/mymonero-core-js) - The JS library containing the Monero crypto plus lightwallet functions behind the official MyMonero apps
 - [mymonero/mymonero-app-js](https://github.com/mymonero/mymonero-app-js) - The JS codebase for the MyMonero desktop apps
@@ -1100,6 +1109,7 @@
 
 ## Others 
 
+- [nanopool/nanominer](https://github.com/nanopool/nanominer) - Nanominer is a versatile tool for mining cryptocurrencies on GPUs and CPUs.
 - [radxa/debos-build-action](https://github.com/radxa/debos-build-action) - GitHub Action for debos-radxa `build` command
 - [radxa/armbian-compile-action](https://github.com/radxa/armbian-compile-action) - GitHub Action for Armbian `compile` command
 - [radxa/rock-pi-s-images-released](https://github.com/radxa/rock-pi-s-images-released) - 
@@ -1323,6 +1333,10 @@
 
 ## Python 
 
+- [mopidy/mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server written in Python
+- [alexmojaki/sorcery](https://github.com/alexmojaki/sorcery) - Dark magic delights in Python
+- [SynoCommunity/spkrepo](https://github.com/SynoCommunity/spkrepo) - Synology Package Repository
+- [Diaoul/subliminal](https://github.com/Diaoul/subliminal) - Subtitles, faster than your thoughts
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
 - [maoschanz/dynamic-wallpaper-editor](https://github.com/maoschanz/dynamic-wallpaper-editor) - A little utility for creation or edition of GNOME desktop's XML wallpapers
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
@@ -2076,6 +2090,7 @@
 
 ## Vala 
 
+- [lainsce/dot-matrix](https://github.com/lainsce/dot-matrix) - The glyph playground of creativity from simple lines
 - [IBBoard/cawbird](https://github.com/IBBoard/cawbird) - A fork of the Corebird GTK Twitter client that continues to work with Twitter
 - [krishenriksen/pikiss-gui](https://github.com/krishenriksen/pikiss-gui) - Buy me a Coffee https://www.paypal.me/krishenriksendk
 - [calo001/fondo](https://github.com/calo001/fondo) - 📷 Wallpaper App for Linux
