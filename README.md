@@ -91,6 +91,7 @@
 
 ## C 
 
+- [arata-nvm/mitnal](https://github.com/arata-nvm/mitnal) - Twitter client for UEFI
 - [monero-project/monero-gui](https://github.com/monero-project/monero-gui) - Monero: the secure, private, untraceable cryptocurrency
 - [MoneroOcean/xmrig](https://github.com/MoneroOcean/xmrig) - Monero (rx/0, rx/wow, rx/loki, defyx, rx/arq, rx/sfx, rx/keva, cn/0, cn/1, cn/2, cn/r, cn/fast, cn/half, cn/xao, cn/rto, cn/rwz, cn/zls, cn/double, cn/gpu, cn-lite/0, cn-lite/1, cn-heavy/0, cn-heavy/tube, cn-heavy/xhv, cn-pico, cn-pico/tlo, argon2/chukwa, argon2/wrkz, astrobwt) CPU/GPU miner
 - [zeldaret/oot](https://github.com/zeldaret/oot) - Decompilation of The Legend of Zelda: Ocarina of Time
@@ -614,6 +615,7 @@
 
 ## Go 
 
+- [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
 - [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - An open source, general-purpose policy engine.
 - [rsc/web](https://github.com/rsc/web) - basic web site serving framework
 - [Chia-Network/chia-exporter](https://github.com/Chia-Network/chia-exporter) - RPC/Websocket based metrics exporter for Chia
@@ -719,7 +721,7 @@
 - [mymonero/mymonero-app-site](https://github.com/mymonero/mymonero-app-site) - The MyMonero website
 - [dcurtis/markdown-mark](https://github.com/dcurtis/markdown-mark) - Use this mark to identify Markdown.
 - [Chia-Network/chiapos](https://github.com/Chia-Network/chiapos) - Chia Proof of Space library
-- [KumaTea/pytorch-aarch64](https://github.com/KumaTea/pytorch-aarch64) - PyTorch wheels (whl) & conda for aarch64 / ARMv8 / ARM64, with vision, audio, text & csprng
+- [KumaTea/pytorch-aarch64](https://github.com/KumaTea/pytorch-aarch64) - PyTorch wheels (whl) & conda for aarch64 / ARMv8 / ARM64
 - [revoxhere/revoxhere.github.io](https://github.com/revoxhere/revoxhere.github.io) - My portfolio
 - [revoxhere/magi-webservices](https://github.com/revoxhere/magi-webservices) - Coin Magi 2021 Explorer & Web Wallet
 - [cycool29/cycool29.github.io](https://github.com/cycool29/cycool29.github.io) - 
@@ -813,6 +815,8 @@
 
 ## JavaScript 
 
+- [ethereum/ethereum-org-website](https://github.com/ethereum/ethereum-org-website) - Ethereum.org is a primary online resource for the Ethereum community.
+- [Flupp/sticky-window-snapping](https://github.com/Flupp/sticky-window-snapping) - A KWin script which lets snapped window edges stick together when one window is resized.
 - [MoneroOcean/meta-miner](https://github.com/MoneroOcean/meta-miner) - Allows to add algo switching support to *any* stratum miner. Zero fees.
 - [arduino/arduino-ide](https://github.com/arduino/arduino-ide) - Arduino IDE
 - [mymonero/mymonero-utils](https://github.com/mymonero/mymonero-utils) - A collection of npm packages providing the core functionality to the web, desktop, and android apps
@@ -882,6 +886,7 @@
 - [bootstrap-vue/bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - BootstrapVue provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
 - [maxiz1225/the-simple-unblocker-public](https://github.com/maxiz1225/the-simple-unblocker-public) - a simple front end proxy
 - [tomer8007/spotify-web-ads-remover](https://github.com/tomer8007/spotify-web-ads-remover) - Simple extension to remove audio ads on Spotify web player
+- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [FirefoxCSS-Store/FirefoxCSS-Store.github.io](https://github.com/FirefoxCSS-Store/FirefoxCSS-Store.github.io) - A collection site of Firefox userchrome themes, mostly from FirefoxCSS Reddit community.
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [Schneegans/Desktop-Cube](https://github.com/Schneegans/Desktop-Cube) - 🧊 Indulge in nostalgia with useless 3D effects.
@@ -1333,6 +1338,8 @@
 
 ## Python 
 
+- [redhat-performance/tuned](https://github.com/redhat-performance/tuned) - Tuning Profile Delivery Mechanism for Linux
+- [mbusb/multibootusb](https://github.com/mbusb/multibootusb) - Create multiboot live Linux on a USB disk...
 - [mopidy/mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server written in Python
 - [alexmojaki/sorcery](https://github.com/alexmojaki/sorcery) - Dark magic delights in Python
 - [SynoCommunity/spkrepo](https://github.com/SynoCommunity/spkrepo) - Synology Package Repository
@@ -1622,7 +1629,6 @@
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [dtolnay/path-to-error](https://github.com/dtolnay/path-to-error) - Find out path at which a deserialization error occurred
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
@@ -1673,6 +1679,8 @@
 
 ## Shell 
 
+- [schierlm/usb-modboot](https://github.com/schierlm/usb-modboot) - Boot multiple systems from a single GRUB2-powered USB drive (just drop ISO or other modules to integrate into menu)
+- [Whonix/monero-gui](https://github.com/Whonix/monero-gui) - Archived -&gt; MOVED to GitLAB: https://gitlab.com/whonix/monero-gui - Old description: Monero GUI and CLI Debian Package. Can be installed using APT. Upstream / origin is https://github.com/monero-project/monero-gui.
 - [twolfson/sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, git statuses, and git branches.
 - [yeyushengfan258/Reversal-icon-theme](https://github.com/yeyushengfan258/Reversal-icon-theme) - A colorful Design Rectangle icon theme for linux desktops
 - [novaspirit/rpi_zram](https://github.com/novaspirit/rpi_zram) - script to enable zram for raspberry pi
@@ -2008,6 +2016,8 @@
 
 ## TypeScript 
 
+- [teuteuf/worldle](https://github.com/teuteuf/worldle) - 
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
 - [oznu/node-pty-prebuilt-multiarch](https://github.com/oznu/node-pty-prebuilt-multiarch) - A parallel fork of node-pty providing ia32, amd64, arm, and aarch64 prebuilt packages for macOS, Windows and Linux (glibc and musl libc).
 - [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
