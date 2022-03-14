@@ -615,6 +615,7 @@
 
 ## Go 
 
+- [yippiez/go-miner](https://github.com/yippiez/go-miner) - a miner made in golang.
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
 - [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - An open source, general-purpose policy engine.
 - [rsc/web](https://github.com/rsc/web) - basic web site serving framework
@@ -718,6 +719,7 @@
 
 ## HTML 
 
+- [sarvjeets/i-use-arch](https://github.com/sarvjeets/i-use-arch) - Get your own webpage on i-use-arch.fyi to show off your neofetch output to the world!
 - [mymonero/mymonero-app-site](https://github.com/mymonero/mymonero-app-site) - The MyMonero website
 - [dcurtis/markdown-mark](https://github.com/dcurtis/markdown-mark) - Use this mark to identify Markdown.
 - [Chia-Network/chiapos](https://github.com/Chia-Network/chiapos) - Chia Proof of Space library
@@ -815,6 +817,10 @@
 
 ## JavaScript 
 
+- [LDarki/NodeJS-DuinoCoin-Miner](https://github.com/LDarki/NodeJS-DuinoCoin-Miner) - A Multi-Threaded Node.JS Miner for DuinoCoin
+- [sys-256/Duino-JS](https://github.com/sys-256/Duino-JS) - A JavaScript miner to mine Duino-Coin, which you can easily implement in your site.
+- [stefanXO/firebug-lite](https://github.com/stefanXO/firebug-lite) - Firebug Lite for Chrome - an extension of the popular Firebug Firefox functionality
+- [ozh/cookieclicker](https://github.com/ozh/cookieclicker) - Cookie Clicker copy for, errrr, educational purpose.
 - [ethereum/ethereum-org-website](https://github.com/ethereum/ethereum-org-website) - Ethereum.org is a primary online resource for the Ethereum community.
 - [Flupp/sticky-window-snapping](https://github.com/Flupp/sticky-window-snapping) - A KWin script which lets snapped window edges stick together when one window is resized.
 - [MoneroOcean/meta-miner](https://github.com/MoneroOcean/meta-miner) - Allows to add algo switching support to *any* stratum miner. Zero fees.
@@ -886,7 +892,6 @@
 - [bootstrap-vue/bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - BootstrapVue provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
 - [maxiz1225/the-simple-unblocker-public](https://github.com/maxiz1225/the-simple-unblocker-public) - a simple front end proxy
 - [tomer8007/spotify-web-ads-remover](https://github.com/tomer8007/spotify-web-ads-remover) - Simple extension to remove audio ads on Spotify web player
-- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [FirefoxCSS-Store/FirefoxCSS-Store.github.io](https://github.com/FirefoxCSS-Store/FirefoxCSS-Store.github.io) - A collection site of Firefox userchrome themes, mostly from FirefoxCSS Reddit community.
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [Schneegans/Desktop-Cube](https://github.com/Schneegans/Desktop-Cube) - 🧊 Indulge in nostalgia with useless 3D effects.
@@ -1089,6 +1094,7 @@
 
 ## Nim 
 
+- [its5Q/ducominer](https://github.com/its5Q/ducominer) - A multithreaded miner for DuinoCoin written in Nim
 - [PMunch/notifishower](https://github.com/PMunch/notifishower) - 
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [ParrotSec/anonsurf](https://github.com/ParrotSec/anonsurf) - parrot anonymous mode
@@ -1286,6 +1292,7 @@
 
 ## PHP 
 
+- [MPOS/php-mpos](https://github.com/MPOS/php-mpos) - MPOS stands for Mining Portal Open Source. Issue tracker is now closed since it's not maintained anymore.
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
 - [soxft/UrlShorting](https://github.com/soxft/UrlShorting) - A simple but powerful URL shortener
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
@@ -1338,6 +1345,10 @@
 
 ## Python 
 
+- [BastelPichi/MineCryptoOnWifiRouter](https://github.com/BastelPichi/MineCryptoOnWifiRouter) - this is a project that mines duinocoin on your router
+- [BunkerInnovations/duco-3ds](https://github.com/BunkerInnovations/duco-3ds) - duino-coin-miner-3ds
+- [mcpiscript/Planet](https://github.com/mcpiscript/Planet) - 🌍🍓 A better MCPi Launcher
+- [trentm/python-markdown2](https://github.com/trentm/python-markdown2) - markdown2: A fast and complete implementation of Markdown in Python
 - [redhat-performance/tuned](https://github.com/redhat-performance/tuned) - Tuning Profile Delivery Mechanism for Linux
 - [mbusb/multibootusb](https://github.com/mbusb/multibootusb) - Create multiboot live Linux on a USB disk...
 - [mopidy/mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server written in Python
@@ -1623,12 +1634,14 @@
 
 ## Rust 
 
+- [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 - [messense/aliyundrive-fuse](https://github.com/messense/aliyundrive-fuse) - 阿里云盘 FUSE 磁盘挂载
 - [mustafaquraish/cup](https://github.com/mustafaquraish/cup) - simple, C-like programming language
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [dtolnay/path-to-error](https://github.com/dtolnay/path-to-error) - Find out path at which a deserialization error occurred
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
@@ -1679,6 +1692,7 @@
 
 ## Shell 
 
+- [ryanfortner/rpi-cryptomining-scripts](https://github.com/ryanfortner/rpi-cryptomining-scripts) - 
 - [schierlm/usb-modboot](https://github.com/schierlm/usb-modboot) - Boot multiple systems from a single GRUB2-powered USB drive (just drop ISO or other modules to integrate into menu)
 - [Whonix/monero-gui](https://github.com/Whonix/monero-gui) - Archived -&gt; MOVED to GitLAB: https://gitlab.com/whonix/monero-gui - Old description: Monero GUI and CLI Debian Package. Can be installed using APT. Upstream / origin is https://github.com/monero-project/monero-gui.
 - [twolfson/sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, git statuses, and git branches.
@@ -1691,7 +1705,7 @@
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [x08d/lockdown.sh](https://github.com/x08d/lockdown.sh) - Lockdown your linux install. The simple zero config linux hardening script
-- [mobilegmYT/mcpi-reborn-extended](https://github.com/mobilegmYT/mcpi-reborn-extended) - MCPI-Reborn, but modded with new community-made features!
+- [mobilegmYT/mcpi-reborn-extended](https://github.com/mobilegmYT/mcpi-reborn-extended) - MCPI-Reborn, but modded with new features!
 - [TheBananaStore/TheBananaStore](https://github.com/TheBananaStore/TheBananaStore) - 🍌🐧 Content repository for the Banana Store
 - [procount/pinn-os](https://github.com/procount/pinn-os) - os-images for PINN
 - [exe-thumbnailer/exe-thumbnailer](https://github.com/exe-thumbnailer/exe-thumbnailer) - Thumbnailer for .exe/.dll/.msi/.lnk files on Linux systems.
