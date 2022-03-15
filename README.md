@@ -53,6 +53,7 @@
   - [Pascal](#pascal)
   - [Perl](#perl)
   - [PowerShell](#powershell)
+  - [Pug](#pug)
   - [Python](#python)
   - [QML](#qml)
   - [Roff](#roff)
@@ -91,6 +92,11 @@
 
 ## C 
 
+- [strace/strace](https://github.com/strace/strace) - strace is a diagnostic, debugging and instructional userspace utility for Linux
+- [jserv/amacc](https://github.com/jserv/amacc) - Small C Compiler generating ELF executable Arm architecture, supporting JIT execution
+- [lineage-rpi/android_kernel_brcm_rpi](https://github.com/lineage-rpi/android_kernel_brcm_rpi) - 
+- [jhhoward/MicroFlight](https://github.com/jhhoward/MicroFlight) - Flight simulator demo for Arduboy
+- [JayDDee/cpuminer-opt](https://github.com/JayDDee/cpuminer-opt) - Optimized multi algo CPU miner
 - [arata-nvm/mitnal](https://github.com/arata-nvm/mitnal) - Twitter client for UEFI
 - [monero-project/monero-gui](https://github.com/monero-project/monero-gui) - Monero: the secure, private, untraceable cryptocurrency
 - [MoneroOcean/xmrig](https://github.com/MoneroOcean/xmrig) - Monero (rx/0, rx/wow, rx/loki, defyx, rx/arq, rx/sfx, rx/keva, cn/0, cn/1, cn/2, cn/r, cn/fast, cn/half, cn/xao, cn/rto, cn/rwz, cn/zls, cn/double, cn/gpu, cn-lite/0, cn-lite/1, cn-heavy/0, cn-heavy/tube, cn-heavy/xhv, cn-pico, cn-pico/tlo, argon2/chukwa, argon2/wrkz, astrobwt) CPU/GPU miner
@@ -322,6 +328,8 @@
 
 ## C++ 
 
+- [beyondcoin-project/beyondcoin](https://github.com/beyondcoin-project/beyondcoin) - Beyondcoin Core integration/staging tree.
+- [fragmede/schroot](https://github.com/fragmede/schroot) - Securely enter a chroot and run a command or login shell
 - [tevador/RandomX](https://github.com/tevador/RandomX) - Proof of work algorithm based on random code execution
 - [linuxdeepin/dtkwidget](https://github.com/linuxdeepin/dtkwidget) - Deepin Toolkit, widget module for DDE look and feel
 - [m-pays/m-cpuminer-qt](https://github.com/m-pays/m-cpuminer-qt) - Qt version (GUI) of Magi CPU Miner
@@ -495,6 +503,8 @@
 
 ## CSS 
 
+- [flexdinesh/dev-landing-page](https://github.com/flexdinesh/dev-landing-page) - Minimal landing page for developers
+- [swcool/landing-page-theme](https://github.com/swcool/landing-page-theme) - Jekyll Bootstrap theme
 - [EliverLara/Kripton](https://github.com/EliverLara/Kripton) - A dark theme with flat style for GNOME
 - [radxa/apt](https://github.com/radxa/apt) - radxa debian packages repository
 - [FirefoxUX/photon](https://github.com/FirefoxUX/photon) - Firefox’s Photon Design System.
@@ -719,6 +729,7 @@
 
 ## HTML 
 
+- [sproogen/modern-resume-theme](https://github.com/sproogen/modern-resume-theme) - A modern static resume template and theme. Powered by Jekyll and GitHub pages.
 - [sarvjeets/i-use-arch](https://github.com/sarvjeets/i-use-arch) - Get your own webpage on i-use-arch.fyi to show off your neofetch output to the world!
 - [mymonero/mymonero-app-site](https://github.com/mymonero/mymonero-app-site) - The MyMonero website
 - [dcurtis/markdown-mark](https://github.com/dcurtis/markdown-mark) - Use this mark to identify Markdown.
@@ -817,6 +828,15 @@
 
 ## JavaScript 
 
+- [Bilaboz/duino-coin-pools](https://github.com/Bilaboz/duino-coin-pools) - 
+- [carlsednaoui/ouibounce](https://github.com/carlsednaoui/ouibounce) - Increase your landing page conversion rates.
+- [Esri/esri.github.io](https://github.com/Esri/esri.github.io) - Esri GitHub landing page
+- [nordicgiant2/cool-landing](https://github.com/nordicgiant2/cool-landing) - A personalized material-ui landingpage template
+- [nordicgiant2/gh-pages-theme](https://github.com/nordicgiant2/gh-pages-theme) - A very beautiful github pages theme template
+- [lindelof/particles-bg](https://github.com/lindelof/particles-bg) - React particles animation background component
+- [nordicgiant2/sn-landing-page](https://github.com/nordicgiant2/sn-landing-page) - A Simple and beautiful Landing Page Template
+- [wonderfullandingpage/Technology-LandingPage](https://github.com/wonderfullandingpage/Technology-LandingPage) - A beautiful technology product website
+- [nordicgiant2/react-nice-resume](https://github.com/nordicgiant2/react-nice-resume) - A React.js Nice Resume Template
 - [LDarki/NodeJS-DuinoCoin-Miner](https://github.com/LDarki/NodeJS-DuinoCoin-Miner) - A Multi-Threaded Node.JS Miner for DuinoCoin
 - [sys-256/Duino-JS](https://github.com/sys-256/Duino-JS) - A JavaScript miner to mine Duino-Coin, which you can easily implement in your site.
 - [stefanXO/firebug-lite](https://github.com/stefanXO/firebug-lite) - Firebug Lite for Chrome - an extension of the popular Firebug Firefox functionality
@@ -851,7 +871,7 @@
 - [Mcorial/DuinoCoin-Wallet-extension](https://github.com/Mcorial/DuinoCoin-Wallet-extension) - 
 - [meetfranz/franz](https://github.com/meetfranz/franz) - Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.
 - [getferdi/ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
-- [google/zx](https://github.com/google/zx) - Replace Bash with JavaScript
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts 🐚🔥🔥
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [virae/we-stand-with-ukraine](https://github.com/virae/we-stand-with-ukraine) - Ukraine flag badge for your website
@@ -874,6 +894,7 @@
 - [miraclx/freyr-js](https://github.com/miraclx/freyr-js) - A tool for downloading songs from music streaming services like Spotify and Apple Music.
 - [evilsocket/pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 - [ABSphreak/readme-jokes](https://github.com/ABSphreak/readme-jokes) - 😄 Jokes for your GitHub READMEs
+- [l3oatkunGG/DUCO-dashboard-widget-for-iOS](https://github.com/l3oatkunGG/DUCO-dashboard-widget-for-iOS) - A duino-coin dashboard for iOS using scriptable app
 - [shitcorp/discord-bot-dashboard](https://github.com/shitcorp/discord-bot-dashboard) - The npm package for using the Discord Bot Dashboard inside your own source code
 - [nschloe/stackoverflow-card](https://github.com/nschloe/stackoverflow-card) - 
 - [RainyGao-GitHub/DocSys](https://github.com/RainyGao-GitHub/DocSys) - MxsDoc is a web based document management system
@@ -1069,6 +1090,8 @@
 
 ## Makefile 
 
+- [lineage-rpi/proprietary_vendor_brcm](https://github.com/lineage-rpi/proprietary_vendor_brcm) - 
+- [lineage-rpi/android_device_brcm_rpi4](https://github.com/lineage-rpi/android_device_brcm_rpi4) - 
 - [ryanfortner/debuild-experiments](https://github.com/ryanfortner/debuild-experiments) - Experiments with Debian packaging
 - [ccrisan/motioneyeos](https://github.com/ccrisan/motioneyeos) - A Video Surveillance OS For Single-board Computers
 - [morrolinux/ChimeraDesk](https://github.com/morrolinux/ChimeraDesk) - Simple, fast and flexible DIY Remote Desktop software
@@ -1106,6 +1129,7 @@
 
 ## Objective-C 
 
+- [josh-/CloudyTabs](https://github.com/josh-/CloudyTabs) - CloudyTabs is a simple menu bar application that lists your iCloud Tabs.
 - [google/santa](https://github.com/google/santa) - A binary authorization system for macOS
 - [yujitach/MenuMeters](https://github.com/yujitach/MenuMeters) - my fork of MenuMeters by http://www.ragingmenace.com/software/menumeters/
 - [alexzielenski/Mousecape](https://github.com/alexzielenski/Mousecape) - Cursor Manager for OSX
@@ -1120,6 +1144,9 @@
 
 ## Others 
 
+- [nordicgiant2/vue-nice-homepage](https://github.com/nordicgiant2/vue-nice-homepage) - A beautiful vue.js homepage template, very useful
+- [nordicgiant2/awesome-landing-page](https://github.com/nordicgiant2/awesome-landing-page) - A series of beautiful and practical landing page templates
+- [lineage-rpi/OTA](https://github.com/lineage-rpi/OTA) - 
 - [nanopool/nanominer](https://github.com/nanopool/nanominer) - Nanominer is a versatile tool for mining cryptocurrencies on GPUs and CPUs.
 - [radxa/debos-build-action](https://github.com/radxa/debos-build-action) - GitHub Action for debos-radxa `build` command
 - [radxa/armbian-compile-action](https://github.com/radxa/armbian-compile-action) - GitHub Action for Armbian `compile` command
@@ -1131,7 +1158,6 @@
 - [flathub/io.freetubeapp.FreeTube](https://github.com/flathub/io.freetubeapp.FreeTube) - 
 - [hmsjy2017/yn-arm](https://github.com/hmsjy2017/yn-arm) - 
 - [fliptheweb/bash-shortcuts-cheat-sheet](https://github.com/fliptheweb/bash-shortcuts-cheat-sheet) - Useful shortcuts for bash/zsh
-- [TheBananaStore/Deb2Arch](https://github.com/TheBananaStore/Deb2Arch) - ♋➡♊ WIP utility to install DEBs on Arch
 - [Augmentedjs/balena-io-etcher-builds](https://github.com/Augmentedjs/balena-io-etcher-builds) - A place to host my community builds of Ethcher
 - [ukui/ukui-desktop-environment](https://github.com/ukui/ukui-desktop-environment) - 
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
@@ -1164,7 +1190,6 @@
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
 - [geeekpi/cm4routerboard](https://github.com/geeekpi/cm4routerboard) - Raspberry Pi Computer Module 4 internet extand board firmware and config files
-- [l3oatkunGG/DUCO-dashboard-widget-for-iOS](https://github.com/l3oatkunGG/DUCO-dashboard-widget-for-iOS) - A duino-coin dashboard for iOS using scriptable app
 - [ryanfortner/box86-debs-action](https://github.com/ryanfortner/box86-debs-action) - 
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
 - [hmsjy2017/xmake-debs](https://github.com/hmsjy2017/xmake-debs) - 
@@ -1343,8 +1368,14 @@
 - [kiedtl/winfetch](https://github.com/kiedtl/winfetch) - 🛠 A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 
+## Pug 
+
+- [StartBootstrap/startbootstrap-landing-page](https://github.com/StartBootstrap/startbootstrap-landing-page) - A responsive, Bootstrap landing page template created by Start Bootstrap
+
 ## Python 
 
+- [toniebox-reverse-engineering/toniebox](https://github.com/toniebox-reverse-engineering/toniebox) - Holds all gathered information. Join our telegram-channel Check out our Telegram Channel https://t.me/toniebox_reverse_engineering
+- [revoxhere/magi-rest-api](https://github.com/revoxhere/magi-rest-api) - Coin Magi 2021 REST & RPC Python API
 - [BastelPichi/MineCryptoOnWifiRouter](https://github.com/BastelPichi/MineCryptoOnWifiRouter) - this is a project that mines duinocoin on your router
 - [BunkerInnovations/duco-3ds](https://github.com/BunkerInnovations/duco-3ds) - duino-coin-miner-3ds
 - [mcpiscript/Planet](https://github.com/mcpiscript/Planet) - 🌍🍓 A better MCPi Launcher
@@ -1400,7 +1431,7 @@
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [Jahaja/psdash](https://github.com/Jahaja/psdash) - A linux system information web dashboard using psutils and flask
 - [holoviz/panel](https://github.com/holoviz/panel) - A high-level app and dashboarding solution for Python
-- [vinifmor/bauh](https://github.com/vinifmor/bauh) - Graphical user interface for managing your Linux applications. Supports AppImage, Arch (repositories/AUR), Flatpak, Snap and native Web applications.
+- [vinifmor/bauh](https://github.com/vinifmor/bauh) - Graphical user interface for managing your Linux applications. Supports AppImage, Arch packages (including AUR), Debian packages, Flatpak, Snap and native Web applications
 - [splitbrain/pimenu](https://github.com/splitbrain/pimenu) - Simple fullscreen menu system for Raspberry Pi Touchscreen
 - [lovesegfault/beautysh](https://github.com/lovesegfault/beautysh) - A Bash beautifier for the masses.
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
@@ -1634,6 +1665,7 @@
 
 ## Rust 
 
+- [sekey/sekey](https://github.com/sekey/sekey) - Use Touch ID / Secure Enclave for SSH Authentication!
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 - [messense/aliyundrive-fuse](https://github.com/messense/aliyundrive-fuse) - 阿里云盘 FUSE 磁盘挂载
@@ -1692,7 +1724,12 @@
 
 ## Shell 
 
-- [ryanfortner/rpi-cryptomining-scripts](https://github.com/ryanfortner/rpi-cryptomining-scripts) - 
+- [agkozak/zcomet](https://github.com/agkozak/zcomet) - zcomet - Fast, Simple Zsh Plugin Manager
+- [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
+- [rupa/z](https://github.com/rupa/z) - z - jump around
+- [gniemetz/automount](https://github.com/gniemetz/automount) - Mount shares at login
+- [lineage-rpi/android_device_brcm_rpi-common](https://github.com/lineage-rpi/android_device_brcm_rpi-common) - 
+- [ryanfortner/rpi-cryptomining-scripts](https://github.com/ryanfortner/rpi-cryptomining-scripts) - Mine cryptocurrency on Raspberry Pies!
 - [schierlm/usb-modboot](https://github.com/schierlm/usb-modboot) - Boot multiple systems from a single GRUB2-powered USB drive (just drop ISO or other modules to integrate into menu)
 - [Whonix/monero-gui](https://github.com/Whonix/monero-gui) - Archived -&gt; MOVED to GitLAB: https://gitlab.com/whonix/monero-gui - Old description: Monero GUI and CLI Debian Package. Can be installed using APT. Upstream / origin is https://github.com/monero-project/monero-gui.
 - [twolfson/sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, git statuses, and git branches.
@@ -2014,6 +2051,8 @@
 
 ## Swift 
 
+- [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
+- [apple/swift-markdown](https://github.com/apple/swift-markdown) - A Swift package for parsing, building, editing, and analyzing Markdown documents.
 - [mymonero/mymonero-app-ios](https://github.com/mymonero/mymonero-app-ios) - The MyMonero native iOS app
 - [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
@@ -2142,6 +2181,7 @@
 
 ## Vue 
 
+- [lindelof/particles-bg-vue](https://github.com/lindelof/particles-bg-vue) - A vue.js particles animation background component
 - [IceWhaleTech/CasaOS-UI](https://github.com/IceWhaleTech/CasaOS-UI) - The front-end of CasaOS,build with VueJS
 - [ek0t0v/minecraft-launcher](https://github.com/ek0t0v/minecraft-launcher) - Launcher for Minecraft written in Electron and Node.js
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
