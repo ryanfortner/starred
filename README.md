@@ -92,6 +92,8 @@
 
 ## C 
 
+- [gl-inet/openwrt](https://github.com/gl-inet/openwrt) - This repository is fork from openwrt official repo, we will update the latest tag and release GL.iNet firmware based on it.
+- [kilograham/rp2040-doom](https://github.com/kilograham/rp2040-doom) - Fully-featured Doom port for the Raspberry Pi RP2040 microcontroller
 - [strace/strace](https://github.com/strace/strace) - strace is a diagnostic, debugging and instructional userspace utility for Linux
 - [jserv/amacc](https://github.com/jserv/amacc) - Small C Compiler generating ELF executable Arm architecture, supporting JIT execution
 - [lineage-rpi/android_kernel_brcm_rpi](https://github.com/lineage-rpi/android_kernel_brcm_rpi) - 
@@ -682,7 +684,6 @@
 - [RandomSoup/pipan](https://github.com/RandomSoup/pipan) - A new Minecraft: Pi Edition Launcher
 - [long2ice/longurl](https://github.com/long2ice/longurl) - A self-hosted short url service
 - [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
-- [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - 🔥 🔥   Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more. 🔥 🔥
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [nakabonne/ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
@@ -871,7 +872,7 @@
 - [Mcorial/DuinoCoin-Wallet-extension](https://github.com/Mcorial/DuinoCoin-Wallet-extension) - 
 - [meetfranz/franz](https://github.com/meetfranz/franz) - Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.
 - [getferdi/ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
-- [google/zx](https://github.com/google/zx) - A tool for writing better scripts 🐚🔥🔥
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts 🔥🔥🔥
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [virae/we-stand-with-ukraine](https://github.com/virae/we-stand-with-ukraine) - Ukraine flag badge for your website
@@ -964,6 +965,7 @@
 - [musicpro/temps](https://github.com/musicpro/temps) - Simple menubar application based on Electron with actual weather information and forecast.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
+- [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - 🔥 🔥   Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more. 🔥 🔥
 - [NeverDecaf/discord-PWA](https://github.com/NeverDecaf/discord-PWA) - A wrapper for the Discord web client as a PWA, made for Chromium browsers on desktop.
 - [fosscord/fosscord](https://github.com/fosscord/fosscord) - Fosscord is a free open source selfhostable discord compatible communication platform
 - [thomasbrueggemann/paperless-desktop](https://github.com/thomasbrueggemann/paperless-desktop) - 🍃 macOS app that uses the paperless API to manage your document scans.
@@ -1090,6 +1092,7 @@
 
 ## Makefile 
 
+- [turquoise-hexagon/fonts](https://github.com/turquoise-hexagon/fonts) - another bitmap fonts repo
 - [lineage-rpi/proprietary_vendor_brcm](https://github.com/lineage-rpi/proprietary_vendor_brcm) - 
 - [lineage-rpi/android_device_brcm_rpi4](https://github.com/lineage-rpi/android_device_brcm_rpi4) - 
 - [ryanfortner/debuild-experiments](https://github.com/ryanfortner/debuild-experiments) - Experiments with Debian packaging
@@ -1144,6 +1147,7 @@
 
 ## Others 
 
+- [runcitadel/citadel](https://github.com/runcitadel/citadel) - Citadel - get started
 - [nordicgiant2/vue-nice-homepage](https://github.com/nordicgiant2/vue-nice-homepage) - A beautiful vue.js homepage template, very useful
 - [nordicgiant2/awesome-landing-page](https://github.com/nordicgiant2/awesome-landing-page) - A series of beautiful and practical landing page templates
 - [lineage-rpi/OTA](https://github.com/lineage-rpi/OTA) - 
@@ -1374,6 +1378,7 @@
 
 ## Python 
 
+- [qutip/qutip](https://github.com/qutip/qutip) - QuTiP: Quantum Toolbox in Python
 - [toniebox-reverse-engineering/toniebox](https://github.com/toniebox-reverse-engineering/toniebox) - Holds all gathered information. Join our telegram-channel Check out our Telegram Channel https://t.me/toniebox_reverse_engineering
 - [revoxhere/magi-rest-api](https://github.com/revoxhere/magi-rest-api) - Coin Magi 2021 REST & RPC Python API
 - [BastelPichi/MineCryptoOnWifiRouter](https://github.com/BastelPichi/MineCryptoOnWifiRouter) - this is a project that mines duinocoin on your router
@@ -1427,7 +1432,7 @@
 - [Gamper98/Sudoku-Solver](https://github.com/Gamper98/Sudoku-Solver) - Sudoku solver written in python
 - [raspberrypi/picamera2](https://github.com/raspberrypi/picamera2) - New libcamera based python library
 - [casualsnek/cassowary](https://github.com/casualsnek/cassowary) - Run Windows Applications on Linux as if they are native, Use linux applications to launch files files located in windows vm without needing to install applications on vm. With easy to use configuration GUI
-- [vandalsoul/darkmatter-grub2-theme](https://github.com/vandalsoul/darkmatter-grub2-theme) - Dark Matter GRUB Theme  👨‍🔬💙
+- [vandalsoul/darkmatter-grub2-theme](https://github.com/vandalsoul/darkmatter-grub2-theme) - Dark Matter GRUB Theme  💙💙
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [Jahaja/psdash](https://github.com/Jahaja/psdash) - A linux system information web dashboard using psutils and flask
 - [holoviz/panel](https://github.com/holoviz/panel) - A high-level app and dashboarding solution for Python
@@ -1524,7 +1529,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [bbilly1/tubearchivist](https://github.com/bbilly1/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-431-Stars](https://github.com/iBug/This-Repo-Has-431-Stars) - Yes, it's true :revolving_hearts: This repository has 431 stars.
+- [iBug/This-Repo-Has-431-Stars](https://github.com/iBug/This-Repo-Has-431-Stars) - Yes, it's true :yellow_heart: This repository has 431 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
