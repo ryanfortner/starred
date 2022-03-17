@@ -779,6 +779,7 @@
 
 ## Java 
 
+- [Catrobat/Catroid](https://github.com/Catrobat/Catroid) - Writing programs on an Android device without prior knowledge.
 - [AuthMe/AuthMeReloaded](https://github.com/AuthMe/AuthMeReloaded) - The best authentication plugin for the Bukkit/Spigot API!
 - [lenis0012/LoginSecurity-2](https://github.com/lenis0012/LoginSecurity-2) - 
 - [AmkSoft/AmkMcAuth-V-1.5.1](https://github.com/AmkSoft/AmkMcAuth-V-1.5.1) - Easy to use (offline-mode) login authentication plugin
@@ -829,6 +830,9 @@
 
 ## JavaScript 
 
+- [patrickkunka/mixitup](https://github.com/patrickkunka/mixitup) - A high-performance, dependency-free library for animated filtering, sorting, insertion, removal and more
+- [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
+- [retspen/webvirtmgr](https://github.com/retspen/webvirtmgr) - WebVirtMgr panel for manage virtual machine
 - [Bilaboz/duino-coin-pools](https://github.com/Bilaboz/duino-coin-pools) - 
 - [carlsednaoui/ouibounce](https://github.com/carlsednaoui/ouibounce) - Increase your landing page conversion rates.
 - [Esri/esri.github.io](https://github.com/Esri/esri.github.io) - Esri GitHub landing page
@@ -878,7 +882,7 @@
 - [virae/we-stand-with-ukraine](https://github.com/virae/we-stand-with-ukraine) - Ukraine flag badge for your website
 - [mrcrypster/notide](https://github.com/mrcrypster/notide) - Edit local code from desktop/server online with syntax highlighting and files explorer
 - [titaniumnetwork-dev/Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet) - Highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more!
-- [titaniumnetwork-dev/ultraviolet-node](https://github.com/titaniumnetwork-dev/ultraviolet-node) - Ultraviolet web application example for easy deployment (Node.js)
+- [titaniumnetwork-dev/Ultraviolet-Node](https://github.com/titaniumnetwork-dev/Ultraviolet-Node) - Highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more! Easy deployment version (Node.js)
 - [Griphitor/Griphitor](https://github.com/Griphitor/Griphitor) - Griphitor is a Code editor developed with ☕
 - [denysdovhan/bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
 - [denysdovhan/learnyoubash](https://github.com/denysdovhan/learnyoubash) - Learn you how to write your first bash script
@@ -1096,7 +1100,7 @@
 - [lineage-rpi/proprietary_vendor_brcm](https://github.com/lineage-rpi/proprietary_vendor_brcm) - 
 - [lineage-rpi/android_device_brcm_rpi4](https://github.com/lineage-rpi/android_device_brcm_rpi4) - 
 - [ryanfortner/debuild-experiments](https://github.com/ryanfortner/debuild-experiments) - Experiments with Debian packaging
-- [ccrisan/motioneyeos](https://github.com/ccrisan/motioneyeos) - A Video Surveillance OS For Single-board Computers
+- [motioneye-project/motioneyeos](https://github.com/motioneye-project/motioneyeos) - A Video Surveillance OS For Single-board Computers
 - [morrolinux/ChimeraDesk](https://github.com/morrolinux/ChimeraDesk) - Simple, fast and flexible DIY Remote Desktop software
 - [raspberrypi/noobs](https://github.com/raspberrypi/noobs) - NOOBS (New Out Of Box Software) - An easy Operating System install manager for the Raspberry Pi
 - [varlesh/VLC-Arc-Dark](https://github.com/varlesh/VLC-Arc-Dark) - Arc Dark skin for VLC
@@ -1147,6 +1151,7 @@
 
 ## Others 
 
+- [CreativeTools/3DBenchy](https://github.com/CreativeTools/3DBenchy) - #3DBenchy is a 3D model specifically designed for testing and benchmarking 3D printers. It is a small recognizable object that you can download for free, make and share.
 - [runcitadel/citadel](https://github.com/runcitadel/citadel) - Citadel - get started
 - [nordicgiant2/vue-nice-homepage](https://github.com/nordicgiant2/vue-nice-homepage) - A beautiful vue.js homepage template, very useful
 - [nordicgiant2/awesome-landing-page](https://github.com/nordicgiant2/awesome-landing-page) - A series of beautiful and practical landing page templates
@@ -1378,6 +1383,8 @@
 
 ## Python 
 
+- [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
+- [ustclug/mirrorhelp](https://github.com/ustclug/mirrorhelp) - Documents about how to use repos on mirrors.ustc.edu.cn.
 - [qutip/qutip](https://github.com/qutip/qutip) - QuTiP: Quantum Toolbox in Python
 - [toniebox-reverse-engineering/toniebox](https://github.com/toniebox-reverse-engineering/toniebox) - Holds all gathered information. Join our telegram-channel Check out our Telegram Channel https://t.me/toniebox_reverse_engineering
 - [revoxhere/magi-rest-api](https://github.com/revoxhere/magi-rest-api) - Coin Magi 2021 REST & RPC Python API
@@ -1670,6 +1677,8 @@
 
 ## Rust 
 
+- [naaive/orange](https://github.com/naaive/orange) - Cross-platform local file search engine.
+- [Brooooooklyn/simple-git](https://github.com/Brooooooklyn/simple-git) - Simple and fast git helper functions.
 - [sekey/sekey](https://github.com/sekey/sekey) - Use Touch ID / Secure Enclave for SSH Authentication!
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
@@ -1729,6 +1738,8 @@
 
 ## Shell 
 
+- [bikass/kora](https://github.com/bikass/kora) - Kora icon theme for GNU/Linux os
+- [Hax4us/TermuxBlack](https://github.com/Hax4us/TermuxBlack) - Termux repository for hacking tools and packages
 - [agkozak/zcomet](https://github.com/agkozak/zcomet) - zcomet - Fast, Simple Zsh Plugin Manager
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [rupa/z](https://github.com/rupa/z) - z - jump around
@@ -2074,6 +2085,9 @@
 
 ## TypeScript 
 
+- [JSPrismarine/JSPrismarine](https://github.com/JSPrismarine/JSPrismarine) - Dedicated Minecraft Bedrock Edition server written in TypeScript.
+- [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to position floating elements while intelligently keeping them in view. Tooltips, popovers, dropdowns, menus, and more
+- [timche/gmail-desktop](https://github.com/timche/gmail-desktop) - :postbox: Nifty Gmail desktop app for macOS, Linux & Windows
 - [teuteuf/worldle](https://github.com/teuteuf/worldle) - 
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
