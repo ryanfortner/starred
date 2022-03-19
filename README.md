@@ -331,6 +331,8 @@
 
 ## C++ 
 
+- [xmrig/xmrig-proxy](https://github.com/xmrig/xmrig-proxy) - Monero (XMR) Stratum protocol proxy
+- [feather-wallet/feather](https://github.com/feather-wallet/feather) - A free and open-source Monero desktop wallet.
 - [beyondcoin-project/beyondcoin](https://github.com/beyondcoin-project/beyondcoin) - Beyondcoin Core integration/staging tree.
 - [fragmede/schroot](https://github.com/fragmede/schroot) - Securely enter a chroot and run a command or login shell
 - [tevador/RandomX](https://github.com/tevador/RandomX) - Proof of work algorithm based on random code execution
@@ -593,6 +595,7 @@
 
 ## Dockerfile 
 
+- [hmsjy2017/debian-arm-build-env](https://github.com/hmsjy2017/debian-arm-build-env) - 
 - [multiarch/crossbuild](https://github.com/multiarch/crossbuild) - :earth_africa: multiarch cross compiling environments
 - [vala-lang/docker-images](https://github.com/vala-lang/docker-images) - Official vala docker images
 - [developeranaz/Ubuntu-Desktop-noVNC-Heroku-VPS](https://github.com/developeranaz/Ubuntu-Desktop-noVNC-Heroku-VPS) - Ubuntu-Desktop-noVNC-Heroku-VPS serves docker VPS via heroku web and noVNC
@@ -628,6 +631,7 @@
 
 ## Go 
 
+- [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [yippiez/go-miner](https://github.com/yippiez/go-miner) - a miner made in golang.
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
 - [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - An open source, general-purpose policy engine.
@@ -731,6 +735,7 @@
 
 ## HTML 
 
+- [mesh0000/poolui](https://github.com/mesh0000/poolui) - User interface based on Monero Pool API developed by Snipa - https://github.com/Snipa22/nodejs-pool
 - [sproogen/modern-resume-theme](https://github.com/sproogen/modern-resume-theme) - A modern static resume template and theme. Powered by Jekyll and GitHub pages.
 - [sarvjeets/i-use-arch](https://github.com/sarvjeets/i-use-arch) - Get your own webpage on i-use-arch.fyi to show off your neofetch output to the world!
 - [mymonero/mymonero-app-site](https://github.com/mymonero/mymonero-app-site) - The MyMonero website
@@ -831,6 +836,7 @@
 
 ## JavaScript 
 
+- [Snipa22/nodejs-pool](https://github.com/Snipa22/nodejs-pool) - 
 - [patrickkunka/mixitup](https://github.com/patrickkunka/mixitup) - A high-performance, dependency-free library for animated filtering, sorting, insertion, removal and more
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [retspen/webvirtmgr](https://github.com/retspen/webvirtmgr) - WebVirtMgr panel for manage virtual machine
@@ -968,7 +974,7 @@
 - [raspbian-addons/docs](https://github.com/raspbian-addons/docs) - Raspbian Addons project documentation
 - [actions/create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API
 - [musicpro/temps](https://github.com/musicpro/temps) - Simple menubar application based on Electron with actual weather information and forecast.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Open-Source Backend Server for Web, Mobile & Flutter Developers 🚀
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - 🔥 🔥   Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more. 🔥 🔥
 - [NeverDecaf/discord-PWA](https://github.com/NeverDecaf/discord-PWA) - A wrapper for the Discord web client as a PWA, made for Chromium browsers on desktop.
@@ -1152,6 +1158,7 @@
 
 ## Others 
 
+- [ryanfortner/magi-wallet-debs](https://github.com/ryanfortner/magi-wallet-debs) - XMG (Coin Magi) wallet software for Linux
 - [uadata/uadata](https://github.com/uadata/uadata) - Український Дата Хаб - Сервіс відкритих даних про Україну з простим інтерфейсом та безкоштовним доступом через API для розробників
 - [CreativeTools/3DBenchy](https://github.com/CreativeTools/3DBenchy) - #3DBenchy is a 3D model specifically designed for testing and benchmarking 3D printers. It is a small recognizable object that you can download for free, make and share.
 - [runcitadel/citadel](https://github.com/runcitadel/citadel) - Citadel - get started
@@ -1385,6 +1392,7 @@
 
 ## Python 
 
+- [kraibse/minecraft-art-generator](https://github.com/kraibse/minecraft-art-generator) - 
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [ustclug/mirrorhelp](https://github.com/ustclug/mirrorhelp) - Documents about how to use repos on mirrors.ustc.edu.cn.
 - [qutip/qutip](https://github.com/qutip/qutip) - QuTiP: Quantum Toolbox in Python
@@ -1538,7 +1546,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [bbilly1/tubearchivist](https://github.com/bbilly1/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-431-Stars](https://github.com/iBug/This-Repo-Has-431-Stars) - Yes, it's true :sparkling_heart: This repository has 431 stars.
+- [iBug/This-Repo-Has-432-Stars](https://github.com/iBug/This-Repo-Has-432-Stars) - Yes, it's true :heartpulse: This repository has 432 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -1740,6 +1748,8 @@
 
 ## Shell 
 
+- [Reyansh-Khobragade/dotfiles](https://github.com/Reyansh-Khobragade/dotfiles) - My dotfiles
+- [vinceliuice/WhiteSur-wallpapers](https://github.com/vinceliuice/WhiteSur-wallpapers) - WhiteSur wallpapers
 - [bikass/kora](https://github.com/bikass/kora) - Kora icon theme for GNU/Linux os
 - [Hax4us/TermuxBlack](https://github.com/Hax4us/TermuxBlack) - Termux repository for hacking tools and packages
 - [agkozak/zcomet](https://github.com/agkozak/zcomet) - zcomet - Fast, Simple Zsh Plugin Manager
