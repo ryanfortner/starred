@@ -92,6 +92,9 @@
 
 ## C 
 
+- [m-pays/m-cpuminer-v2](https://github.com/m-pays/m-cpuminer-v2) - Latest miner (m-minerd)
+- [Alvarito050506/n2vm](https://github.com/Alvarito050506/n2vm) - No Name Virtual Machine.
+- [AsahiLinux/m1n1](https://github.com/AsahiLinux/m1n1) - A bootloader and experimentation playground for Apple Silicon
 - [jhhoward/Ardutosh](https://github.com/jhhoward/Ardutosh) - Classic Macintosh style desktop environment for Arduboy
 - [gl-inet/openwrt](https://github.com/gl-inet/openwrt) - This repository is fork from openwrt official repo, we will update the latest tag and release GL.iNet firmware based on it.
 - [kilograham/rp2040-doom](https://github.com/kilograham/rp2040-doom) - Fully-featured Doom port for the Raspberry Pi RP2040 microcontroller
@@ -331,6 +334,7 @@
 
 ## C++ 
 
+- [linuxdeepin/dtkgui](https://github.com/linuxdeepin/dtkgui) - Deepin Toolkit, gui module for DDE look and feel
 - [xmrig/xmrig-proxy](https://github.com/xmrig/xmrig-proxy) - Monero (XMR) Stratum protocol proxy
 - [feather-wallet/feather](https://github.com/feather-wallet/feather) - A free and open-source Monero desktop wallet.
 - [beyondcoin-project/beyondcoin](https://github.com/beyondcoin-project/beyondcoin) - Beyondcoin Core integration/staging tree.
@@ -631,6 +635,7 @@
 
 ## Go 
 
+- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Gatus - Automated service health dashboard
 - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [yippiez/go-miner](https://github.com/yippiez/go-miner) - a miner made in golang.
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
@@ -1335,6 +1340,7 @@
 
 ## PHP 
 
+- [boxbilling/boxbilling](https://github.com/boxbilling/boxbilling) - BoxBilling - Open source billing and client management software
 - [MPOS/php-mpos](https://github.com/MPOS/php-mpos) - MPOS stands for Mining Portal Open Source. Issue tracker is now closed since it's not maintained anymore.
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
 - [soxft/UrlShorting](https://github.com/soxft/UrlShorting) - A simple but powerful URL shortener
@@ -1392,6 +1398,7 @@
 
 ## Python 
 
+- [GustavoPeredo/Font-Downloader](https://github.com/GustavoPeredo/Font-Downloader) - Download fonts from the web!
 - [kraibse/minecraft-art-generator](https://github.com/kraibse/minecraft-art-generator) - 
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [ustclug/mirrorhelp](https://github.com/ustclug/mirrorhelp) - Documents about how to use repos on mirrors.ustc.edu.cn.
@@ -1748,6 +1755,7 @@
 
 ## Shell 
 
+- [AsahiLinux/asahi-scripts](https://github.com/AsahiLinux/asahi-scripts) - Miscellaneous admin scripts for the Asahi Linux reference distro
 - [Reyansh-Khobragade/dotfiles](https://github.com/Reyansh-Khobragade/dotfiles) - My dotfiles
 - [vinceliuice/WhiteSur-wallpapers](https://github.com/vinceliuice/WhiteSur-wallpapers) - WhiteSur wallpapers
 - [bikass/kora](https://github.com/bikass/kora) - Kora icon theme for GNU/Linux os
