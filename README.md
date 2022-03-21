@@ -92,6 +92,11 @@
 
 ## C 
 
+- [lucasjones/cpuminer-multi](https://github.com/lucasjones/cpuminer-multi) - Multi-algo CPUMiner & Reference Cryptonote Miner (JSON-RPC 2.0)
+- [tkinjo1985/cpuminer-multi](https://github.com/tkinjo1985/cpuminer-multi) - crypto cpuminer (linux + windows)
+- [jarcode-foss/glava](https://github.com/jarcode-foss/glava) - GLava - OpenGL audio spectrum visualizer
+- [bosmoment/PineTime-apps](https://github.com/bosmoment/PineTime-apps) - Firmware for the PineTime based on RIOT, NimBLE and LittleVGL
+- [abhayanigam/Learn_C](https://github.com/abhayanigam/Learn_C) - Introduction in C language and all basic codes.
 - [m-pays/m-cpuminer-v2](https://github.com/m-pays/m-cpuminer-v2) - Latest miner (m-minerd)
 - [Alvarito050506/n2vm](https://github.com/Alvarito050506/n2vm) - No Name Virtual Machine.
 - [AsahiLinux/m1n1](https://github.com/AsahiLinux/m1n1) - A bootloader and experimentation playground for Apple Silicon
@@ -307,6 +312,8 @@
 
 ## C# # 
 
+- [joshspicer/pihole-mobile-app](https://github.com/joshspicer/pihole-mobile-app) - iOS and Android (Xamarin Forms) app to manage your local Pi-hole
+- [WOA-Project/WOA-Deployer-Rpi](https://github.com/WOA-Project/WOA-Deployer-Rpi) - WOA Deployer for Raspberry Pi
 - [aaronpowell/httpstatus](https://github.com/aaronpowell/httpstatus) - Easily generate different HTTP responses for testing
 - [gus33000/UUPMediaCreator](https://github.com/gus33000/UUPMediaCreator) - An utility to create Windows Media files (.ISO, .WIM, .VHD) from Unified Update Platform files
 - [viktor02/DuCoWallet](https://github.com/viktor02/DuCoWallet) - Yet Another DuinoCoin Wallet
@@ -512,6 +519,7 @@
 
 ## CSS 
 
+- [revoxhere/duco-statistics](https://github.com/revoxhere/duco-statistics) - 📃 Duino-Coin (DUCO) network statistics & explorer website
 - [flexdinesh/dev-landing-page](https://github.com/flexdinesh/dev-landing-page) - Minimal landing page for developers
 - [swcool/landing-page-theme](https://github.com/swcool/landing-page-theme) - Jekyll Bootstrap theme
 - [EliverLara/Kripton](https://github.com/EliverLara/Kripton) - A dark theme with flat style for GNOME
@@ -520,7 +528,7 @@
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 - [zayronxio/windows11-GTKtheme](https://github.com/zayronxio/windows11-GTKtheme) - windows11-GTKtheme
 - [B-Software/Ward](https://github.com/B-Software/Ward) - Server dashboard
-- [catppuccin/gtk](https://github.com/catppuccin/gtk) - GTK theme for catppuccin. Warm dark theme for the masses!
+- [catppuccin/gtk](https://github.com/catppuccin/gtk) - 🪟 Soothing pastel theme for GTK3
 - [tusharnankani/ToDoList](https://github.com/tusharnankani/ToDoList) - A dynamic and aesthetic To-Do List Website built with HTML, CSS, Vanilla JavaScript.
 - [andreasgrafen/cascade](https://github.com/andreasgrafen/cascade) - Firefox custom CSS based on Simplefox
 - [ayushhroyy/elegantfox](https://github.com/ayushhroyy/elegantfox) - firefox themed context and bookmark menus
@@ -740,6 +748,7 @@
 
 ## HTML 
 
+- [revoxhere/duco-exchange](https://github.com/revoxhere/duco-exchange) - 💱 Source of the easy to use static coin exchange service - DUCO Exchange
 - [mesh0000/poolui](https://github.com/mesh0000/poolui) - User interface based on Monero Pool API developed by Snipa - https://github.com/Snipa22/nodejs-pool
 - [sproogen/modern-resume-theme](https://github.com/sproogen/modern-resume-theme) - A modern static resume template and theme. Powered by Jekyll and GitHub pages.
 - [sarvjeets/i-use-arch](https://github.com/sarvjeets/i-use-arch) - Get your own webpage on i-use-arch.fyi to show off your neofetch output to the world!
@@ -790,6 +799,7 @@
 
 ## Java 
 
+- [termux/termux-tasker](https://github.com/termux/termux-tasker) - Termux add-on app for integration with Tasker.
 - [Catrobat/Catroid](https://github.com/Catrobat/Catroid) - Writing programs on an Android device without prior knowledge.
 - [AuthMe/AuthMeReloaded](https://github.com/AuthMe/AuthMeReloaded) - The best authentication plugin for the Bukkit/Spigot API!
 - [lenis0012/LoginSecurity-2](https://github.com/lenis0012/LoginSecurity-2) - 
@@ -841,6 +851,9 @@
 
 ## JavaScript 
 
+- [Lulaschkas/duco-mining-dashboard](https://github.com/Lulaschkas/duco-mining-dashboard) - The duino-coin mining dashboard is an easy way to monitor miners, identify problems and get accurate data. Just open the Website, enter your username and go!
+- [revoxhere/duino-coin-pools](https://github.com/revoxhere/duino-coin-pools) - Source of Duino-Coin mining nodes
+- [k0mmsussert0d/wordlesolver](https://github.com/k0mmsussert0d/wordlesolver) - CLI tool for solving wordle riddles
 - [Snipa22/nodejs-pool](https://github.com/Snipa22/nodejs-pool) - 
 - [patrickkunka/mixitup](https://github.com/patrickkunka/mixitup) - A high-performance, dependency-free library for animated filtering, sorting, insertion, removal and more
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
@@ -1080,6 +1093,7 @@
 
 ## Kotlin 
 
+- [termux/termux-gui](https://github.com/termux/termux-gui) - A plugin for Termux to use native Android GUI components from CLI applications.
 - [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
 - [fython/PackageTracker](https://github.com/fython/PackageTracker) - Track your package simply on Android.
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.                                                                                          NOTE:   BEING REWRITTEN,  SO  STAY TUNED.
@@ -1163,6 +1177,9 @@
 
 ## Others 
 
+- [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine
+- [joshnh/Git-Commands](https://github.com/joshnh/Git-Commands) - A list of commonly used Git commands
+- [speedcrunch/SpeedCrunch](https://github.com/speedcrunch/SpeedCrunch) - A fast, high-precision and powerful cross-platform desktop calculator.
 - [ryanfortner/magi-wallet-debs](https://github.com/ryanfortner/magi-wallet-debs) - XMG (Coin Magi) wallet software for Linux
 - [uadata/uadata](https://github.com/uadata/uadata) - Український Дата Хаб - Сервіс відкритих даних про Україну з простим інтерфейсом та безкоштовним доступом через API для розробників
 - [CreativeTools/3DBenchy](https://github.com/CreativeTools/3DBenchy) - #3DBenchy is a 3D model specifically designed for testing and benchmarking 3D printers. It is a small recognizable object that you can download for free, make and share.
@@ -1398,6 +1415,10 @@
 
 ## Python 
 
+- [revoxhere/duco-rest-api](https://github.com/revoxhere/duco-rest-api) - Source of Duino-Coin REST API
+- [hroncok/octoclient](https://github.com/hroncok/octoclient) - Python client library for OctoPrint REST API
+- [hadcl4/Thunder](https://github.com/hadcl4/Thunder) - A gaming service that brings the best open-source software together to create a way to play games on ARM.
+- [termius/termius-cli](https://github.com/termius/termius-cli) - CLI for the ssh client Termius
 - [GustavoPeredo/Font-Downloader](https://github.com/GustavoPeredo/Font-Downloader) - Download fonts from the web!
 - [kraibse/minecraft-art-generator](https://github.com/kraibse/minecraft-art-generator) - 
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
@@ -1675,6 +1696,7 @@
 
 ## Roff 
 
+- [WOA-Project/SurfaceDuo-Drivers](https://github.com/WOA-Project/SurfaceDuo-Drivers) - Collection of driver binaries for Surface Duo devices
 - [RPi-Distro/chromium-browser](https://github.com/RPi-Distro/chromium-browser) - 
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 
@@ -1755,6 +1777,7 @@
 
 ## Shell 
 
+- [Adapta-Projects/Papirus-Nord](https://github.com/Adapta-Projects/Papirus-Nord) - Custom colors for folder icons for Papirus Icon Theme!
 - [AsahiLinux/asahi-scripts](https://github.com/AsahiLinux/asahi-scripts) - Miscellaneous admin scripts for the Asahi Linux reference distro
 - [Reyansh-Khobragade/dotfiles](https://github.com/Reyansh-Khobragade/dotfiles) - My dotfiles
 - [vinceliuice/WhiteSur-wallpapers](https://github.com/vinceliuice/WhiteSur-wallpapers) - WhiteSur wallpapers
@@ -2087,6 +2110,7 @@
 
 ## Swift 
 
+- [xan-m/InfiniLink](https://github.com/xan-m/InfiniLink) - iOS Companion App for PineTime
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
 - [apple/swift-markdown](https://github.com/apple/swift-markdown) - A Swift package for parsing, building, editing, and analyzing Markdown documents.
 - [mymonero/mymonero-app-ios](https://github.com/mymonero/mymonero-app-ios) - The MyMonero native iOS app
@@ -2220,6 +2244,7 @@
 
 ## Vue 
 
+- [joaquimorg/InfinitimeExplorer](https://github.com/joaquimorg/InfinitimeExplorer) - File Explorer for InfiniTime firmware on PineTime smartwatch
 - [lindelof/particles-bg-vue](https://github.com/lindelof/particles-bg-vue) - A vue.js particles animation background component
 - [IceWhaleTech/CasaOS-UI](https://github.com/IceWhaleTech/CasaOS-UI) - The front-end of CasaOS,build with VueJS
 - [ek0t0v/minecraft-launcher](https://github.com/ek0t0v/minecraft-launcher) - Launcher for Minecraft written in Electron and Node.js
