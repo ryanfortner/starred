@@ -341,6 +341,7 @@
 
 ## C++ 
 
+- [getlynx/Lynx](https://github.com/getlynx/Lynx) - The entire Lynx network is designed to operate on a collaboration of low power devices resulting in a collective global mining cost of only dollars a day.
 - [linuxdeepin/dtkgui](https://github.com/linuxdeepin/dtkgui) - Deepin Toolkit, gui module for DDE look and feel
 - [xmrig/xmrig-proxy](https://github.com/xmrig/xmrig-proxy) - Monero (XMR) Stratum protocol proxy
 - [feather-wallet/feather](https://github.com/feather-wallet/feather) - A free and open-source Monero desktop wallet.
@@ -851,6 +852,7 @@
 
 ## JavaScript 
 
+- [canucklegame/canuckle](https://github.com/canucklegame/canuckle) - Canuckle - A daily Canadian word game.
 - [Lulaschkas/duco-mining-dashboard](https://github.com/Lulaschkas/duco-mining-dashboard) - The duino-coin mining dashboard is an easy way to monitor miners, identify problems and get accurate data. Just open the Website, enter your username and go!
 - [revoxhere/duino-coin-pools](https://github.com/revoxhere/duino-coin-pools) - Source of Duino-Coin mining nodes
 - [k0mmsussert0d/wordlesolver](https://github.com/k0mmsussert0d/wordlesolver) - CLI tool for solving wordle riddles
@@ -992,7 +994,7 @@
 - [raspbian-addons/docs](https://github.com/raspbian-addons/docs) - Raspbian Addons project documentation
 - [actions/create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API
 - [musicpro/temps](https://github.com/musicpro/temps) - Simple menubar application based on Electron with actual weather information and forecast.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Open-Source Backend Server for Web, Mobile & Flutter Developers 🚀
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - 🔥 🔥   Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more. 🔥 🔥
 - [NeverDecaf/discord-PWA](https://github.com/NeverDecaf/discord-PWA) - A wrapper for the Discord web client as a PWA, made for Chromium browsers on desktop.
@@ -1415,6 +1417,7 @@
 
 ## Python 
 
+- [alexr4535/siglo](https://github.com/alexr4535/siglo) - GTK app to sync InfiniTime watch with PinePhone
 - [revoxhere/duco-rest-api](https://github.com/revoxhere/duco-rest-api) - Source of Duino-Coin REST API
 - [hroncok/octoclient](https://github.com/hroncok/octoclient) - Python client library for OctoPrint REST API
 - [hadcl4/Thunder](https://github.com/hadcl4/Thunder) - A gaming service that brings the best open-source software together to create a way to play games on ARM.
@@ -1574,7 +1577,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [bbilly1/tubearchivist](https://github.com/bbilly1/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-432-Stars](https://github.com/iBug/This-Repo-Has-432-Stars) - Yes, it's true :heartpulse: This repository has 432 stars.
+- [iBug/This-Repo-Has-433-Stars](https://github.com/iBug/This-Repo-Has-433-Stars) - Yes, it's true :heart: This repository has 433 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -1777,6 +1780,7 @@
 
 ## Shell 
 
+- [getlynx/LynxCI](https://github.com/getlynx/LynxCI) - Lynx Cryptocurrency Installer (LynxCI) creates a Lynx cryptocurrency node that confirms and relays transactions, provides wallet functions and runs an eco-friendly, built-in solo miner.
 - [Adapta-Projects/Papirus-Nord](https://github.com/Adapta-Projects/Papirus-Nord) - Custom colors for folder icons for Papirus Icon Theme!
 - [AsahiLinux/asahi-scripts](https://github.com/AsahiLinux/asahi-scripts) - Miscellaneous admin scripts for the Asahi Linux reference distro
 - [Reyansh-Khobragade/dotfiles](https://github.com/Reyansh-Khobragade/dotfiles) - My dotfiles
@@ -2129,6 +2133,8 @@
 
 ## TypeScript 
 
+- [leonwind/cli2cloud](https://github.com/leonwind/cli2cloud) - Pipe your terminal output to the cloud.
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx
 - [JSPrismarine/JSPrismarine](https://github.com/JSPrismarine/JSPrismarine) - Dedicated Minecraft Bedrock Edition server written in TypeScript.
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to position floating elements while intelligently keeping them in view. Tooltips, popovers, dropdowns, menus, and more
 - [timche/gmail-desktop](https://github.com/timche/gmail-desktop) - :postbox: Nifty Gmail desktop app for macOS, Linux & Windows
