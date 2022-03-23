@@ -156,7 +156,7 @@
 - [Botspot/wine-stuff](https://github.com/Botspot/wine-stuff) - 
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
 - [atar-axis/xpadneo](https://github.com/atar-axis/xpadneo) - Advanced Linux Driver for Xbox One Wireless Controller (shipped with Xbox One S)
-- [pikvm/ustreamer](https://github.com/pikvm/ustreamer) - µStreamer - Lightweight and fast MJPG-HTTP streamer
+- [pikvm/ustreamer](https://github.com/pikvm/ustreamer) - µStreamer - Lightweight and fast MJPEG-HTTP streamer
 - [jwatte/hgui](https://github.com/jwatte/hgui) - Very lightweight GUI-toolkit for Linux (X11) with customizable widgets
 - [netsurf-browser/netsurf](https://github.com/netsurf-browser/netsurf) - Mirror
 - [mate-desktop/marco](https://github.com/mate-desktop/marco) - MATE default window manager
@@ -341,6 +341,7 @@
 
 ## C++ 
 
+- [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software
 - [getlynx/Lynx](https://github.com/getlynx/Lynx) - The entire Lynx network is designed to operate on a collaboration of low power devices resulting in a collective global mining cost of only dollars a day.
 - [linuxdeepin/dtkgui](https://github.com/linuxdeepin/dtkgui) - Deepin Toolkit, gui module for DDE look and feel
 - [xmrig/xmrig-proxy](https://github.com/xmrig/xmrig-proxy) - Monero (XMR) Stratum protocol proxy
@@ -644,6 +645,7 @@
 
 ## Go 
 
+- [prabhatsharma/zinc](https://github.com/prabhatsharma/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Gatus - Automated service health dashboard
 - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [yippiez/go-miner](https://github.com/yippiez/go-miner) - a miner made in golang.
@@ -1012,7 +1014,7 @@
 - [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
 - [TurboWarp/packager](https://github.com/TurboWarp/packager) - Converts Scratch projects into HTML files, zip archives, or executable programs for Windows, macOS, and Linux.
 - [sonnyp/Tangram](https://github.com/sonnyp/Tangram) - Browser for your pinned tabs
-- [titaniumnetwork-dev/Holy-Unblocker](https://github.com/titaniumnetwork-dev/Holy-Unblocker) - Holy Unblocker is a secure web proxy service supporting numerous sites while concentrating on detail with design, mechanics, and features. Bypass web filters regardless of whether it is an extension or network-based.
+- [QuiteAFancyEmerald/Holy-Unblocker](https://github.com/QuiteAFancyEmerald/Holy-Unblocker) - Holy Unblocker is a secure web proxy service supporting numerous sites while concentrating on detail with design, mechanics, and features. Bypass web filters regardless of whether it is an extension or network-based.
 - [vinceliuice/dash-to-dock](https://github.com/vinceliuice/dash-to-dock) - A dock for the Gnome Shell. This extension   moves the dash out of the overview transforming it in a dock for an easier   launching of applications and a faster switching between windows and desktops.
 - [alyssaxuu/mapus](https://github.com/alyssaxuu/mapus) - A map tool with real-time collaboration 🗺️
 - [monkaBlyat/docker-chromium-armhf](https://github.com/monkaBlyat/docker-chromium-armhf) - A docker container to provide an armhf chromium instance with widevine installed in it (allows Spotify, Netflix, etc.)
@@ -1780,6 +1782,7 @@
 
 ## Shell 
 
+- [nmilosev/anyfed](https://github.com/nmilosev/anyfed) - Universal Fedora chroot tool
 - [getlynx/LynxCI](https://github.com/getlynx/LynxCI) - Lynx Cryptocurrency Installer (LynxCI) creates a Lynx cryptocurrency node that confirms and relays transactions, provides wallet functions and runs an eco-friendly, built-in solo miner.
 - [Adapta-Projects/Papirus-Nord](https://github.com/Adapta-Projects/Papirus-Nord) - Custom colors for folder icons for Papirus Icon Theme!
 - [AsahiLinux/asahi-scripts](https://github.com/AsahiLinux/asahi-scripts) - Miscellaneous admin scripts for the Asahi Linux reference distro
@@ -2133,6 +2136,8 @@
 
 ## TypeScript 
 
+- [oae/gnome-shell-extensions-sync](https://github.com/oae/gnome-shell-extensions-sync) - Syncs gnome shell keybindings, tweaks settings and extensions with their configuration across all gnome installations
+- [shalldie/vscode-background](https://github.com/shalldie/vscode-background) - A vscode extension to make it lovely. vscode background 背景扩展插件。
 - [leonwind/cli2cloud](https://github.com/leonwind/cli2cloud) - Pipe your terminal output to the cloud.
 - [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx
 - [JSPrismarine/JSPrismarine](https://github.com/JSPrismarine/JSPrismarine) - Dedicated Minecraft Bedrock Edition server written in TypeScript.
