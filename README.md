@@ -92,6 +92,9 @@
 
 ## C 
 
+- [lajp/dev_rickroll](https://github.com/lajp/dev_rickroll) - A kernel module that adds the /dev/rickroll device
+- [s-matyukevich/raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) - Learning operating system development using Linux kernel and Raspberry Pi
+- [xqemu/xqemu](https://github.com/xqemu/xqemu) - Open-source emulator to play original Xbox games on Windows, macOS, and Linux
 - [lucasjones/cpuminer-multi](https://github.com/lucasjones/cpuminer-multi) - Multi-algo CPUMiner & Reference Cryptonote Miner (JSON-RPC 2.0)
 - [tkinjo1985/cpuminer-multi](https://github.com/tkinjo1985/cpuminer-multi) - crypto cpuminer (linux + windows)
 - [jarcode-foss/glava](https://github.com/jarcode-foss/glava) - GLava - OpenGL audio spectrum visualizer
@@ -312,6 +315,7 @@
 
 ## C# # 
 
+- [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
 - [joshspicer/pihole-mobile-app](https://github.com/joshspicer/pihole-mobile-app) - iOS and Android (Xamarin Forms) app to manage your local Pi-hole
 - [WOA-Project/WOA-Deployer-Rpi](https://github.com/WOA-Project/WOA-Deployer-Rpi) - WOA Deployer for Raspberry Pi
 - [aaronpowell/httpstatus](https://github.com/aaronpowell/httpstatus) - Easily generate different HTTP responses for testing
@@ -341,6 +345,10 @@
 
 ## C++ 
 
+- [bunkercoin/bunkercoin](https://github.com/bunkercoin/bunkercoin) - Bunkercoin staging tree
+- [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
+- [LibreCAD/LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a cross-platform 2D CAD program written in C++11 using the Qt framework. It can read DXF and DWG files and can write DXF, PDF and SVG files. The user interface is highly customizable, and has dozens of translations.
+- [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
 - [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software
 - [getlynx/Lynx](https://github.com/getlynx/Lynx) - The entire Lynx network is designed to operate on a collaboration of low power devices resulting in a collective global mining cost of only dollars a day.
 - [linuxdeepin/dtkgui](https://github.com/linuxdeepin/dtkgui) - Deepin Toolkit, gui module for DDE look and feel
@@ -500,7 +508,6 @@
 - [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the forums on ppsspp.org.
 - [keepassx/keepassx](https://github.com/keepassx/keepassx) - KeePassX is a cross platform port of the windows application “Keepass Password Safe”.
 - [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
-- [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
 - [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator
 - [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [ttalvitie/browservice](https://github.com/ttalvitie/browservice) - Browservice: Browse the modern web on historical browsers
@@ -521,6 +528,7 @@
 
 ## CSS 
 
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [revoxhere/duco-statistics](https://github.com/revoxhere/duco-statistics) - 📃 Duino-Coin (DUCO) network statistics & explorer website
 - [flexdinesh/dev-landing-page](https://github.com/flexdinesh/dev-landing-page) - Minimal landing page for developers
 - [swcool/landing-page-theme](https://github.com/swcool/landing-page-theme) - Jekyll Bootstrap theme
@@ -854,6 +862,12 @@
 
 ## JavaScript 
 
+- [philipptrenz/photo-booth](https://github.com/philipptrenz/photo-booth) - A multi-platform photo booth software using Electron and your camera
+- [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
+- [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
+- [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
+- [piskelapp/piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
+- [Annihil/github-spray](https://github.com/Annihil/github-spray) - :octocat: Draw on your GitHub contribution graph ░▒▓█
 - [canucklegame/canuckle](https://github.com/canucklegame/canuckle) - Canuckle - A daily Canadian word game.
 - [Lulaschkas/duco-mining-dashboard](https://github.com/Lulaschkas/duco-mining-dashboard) - The duino-coin mining dashboard is an easy way to monitor miners, identify problems and get accurate data. Just open the Website, enter your username and go!
 - [revoxhere/duino-coin-pools](https://github.com/revoxhere/duino-coin-pools) - Source of Duino-Coin mining nodes
@@ -1181,6 +1195,12 @@
 
 ## Others 
 
+- [ryanfortner/Ender3Pro-Timelapses](https://github.com/ryanfortner/Ender3Pro-Timelapses) - Timelapses from my Ender 3 Pro 3d printer, made with OctoLapse.
+- [karlhorky/learn-to-program](https://github.com/karlhorky/learn-to-program) - Educational resources to learn to program (Foundation in Web Development)
+- [karan/Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
+- [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
+- [aalhour/awesome-compilers](https://github.com/aalhour/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine
 - [joshnh/Git-Commands](https://github.com/joshnh/Git-Commands) - A list of commonly used Git commands
 - [speedcrunch/SpeedCrunch](https://github.com/speedcrunch/SpeedCrunch) - A fast, high-precision and powerful cross-platform desktop calculator.
@@ -1419,6 +1439,8 @@
 
 ## Python 
 
+- [piwheels/piwheels](https://github.com/piwheels/piwheels) - Python package repository providing wheels (pre-built binaries) for Raspberry Pi
+- [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
 - [alexr4535/siglo](https://github.com/alexr4535/siglo) - GTK app to sync InfiniTime watch with PinePhone
 - [revoxhere/duco-rest-api](https://github.com/revoxhere/duco-rest-api) - Source of Duino-Coin REST API
 - [hroncok/octoclient](https://github.com/hroncok/octoclient) - Python client library for OctoPrint REST API
@@ -1721,6 +1743,7 @@
 
 ## Rust 
 
+- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [naaive/orange](https://github.com/naaive/orange) - Cross-platform local file search engine.
 - [Brooooooklyn/simple-git](https://github.com/Brooooooklyn/simple-git) - Simple and fast git helper functions.
 - [sekey/sekey](https://github.com/sekey/sekey) - Use Touch ID / Secure Enclave for SSH Authentication!
@@ -1782,6 +1805,7 @@
 
 ## Shell 
 
+- [zerojay/RetroPie-Extra](https://github.com/zerojay/RetroPie-Extra) - A collection of unofficial scripts for adding more emulators/ports/games to RetroPie.
 - [nmilosev/anyfed](https://github.com/nmilosev/anyfed) - Universal Fedora chroot tool
 - [getlynx/LynxCI](https://github.com/getlynx/LynxCI) - Lynx Cryptocurrency Installer (LynxCI) creates a Lynx cryptocurrency node that confirms and relays transactions, provides wallet functions and runs an eco-friendly, built-in solo miner.
 - [Adapta-Projects/Papirus-Nord](https://github.com/Adapta-Projects/Papirus-Nord) - Custom colors for folder icons for Papirus Icon Theme!
@@ -2117,6 +2141,7 @@
 
 ## Swift 
 
+- [toothbrush/Spotiqueue](https://github.com/toothbrush/Spotiqueue) - Dead-simple queue-oriented client for Spotify
 - [xan-m/InfiniLink](https://github.com/xan-m/InfiniLink) - iOS Companion App for PineTime
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
 - [apple/swift-markdown](https://github.com/apple/swift-markdown) - A Swift package for parsing, building, editing, and analyzing Markdown documents.
@@ -2136,6 +2161,7 @@
 
 ## TypeScript 
 
+- [will-stone/browserosaurus](https://github.com/will-stone/browserosaurus) - The browser prompter for macOS
 - [oae/gnome-shell-extensions-sync](https://github.com/oae/gnome-shell-extensions-sync) - Syncs gnome shell keybindings, tweaks settings and extensions with their configuration across all gnome installations
 - [shalldie/vscode-background](https://github.com/shalldie/vscode-background) - A vscode extension to make it lovely. vscode background 背景扩展插件。
 - [leonwind/cli2cloud](https://github.com/leonwind/cli2cloud) - Pipe your terminal output to the cloud.
@@ -2255,6 +2281,7 @@
 
 ## Vue 
 
+- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [joaquimorg/InfinitimeExplorer](https://github.com/joaquimorg/InfinitimeExplorer) - File Explorer for InfiniTime firmware on PineTime smartwatch
 - [lindelof/particles-bg-vue](https://github.com/lindelof/particles-bg-vue) - A vue.js particles animation background component
 - [IceWhaleTech/CasaOS-UI](https://github.com/IceWhaleTech/CasaOS-UI) - The front-end of CasaOS,build with VueJS
