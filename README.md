@@ -92,6 +92,7 @@
 
 ## C 
 
+- [linuxmint/nemo-extensions](https://github.com/linuxmint/nemo-extensions) - A set of extensions for Nemo
 - [lajp/dev_rickroll](https://github.com/lajp/dev_rickroll) - A kernel module that adds the /dev/rickroll device
 - [s-matyukevich/raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) - Learning operating system development using Linux kernel and Raspberry Pi
 - [xqemu/xqemu](https://github.com/xqemu/xqemu) - Open-source emulator to play original Xbox games on Windows, macOS, and Linux
@@ -315,6 +316,7 @@
 
 ## C# # 
 
+- [scottlerch/HostsFileEditor](https://github.com/scottlerch/HostsFileEditor) - Easily edit and manage the hosts file for Windows
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
 - [joshspicer/pihole-mobile-app](https://github.com/joshspicer/pihole-mobile-app) - iOS and Android (Xamarin Forms) app to manage your local Pi-hole
 - [WOA-Project/WOA-Deployer-Rpi](https://github.com/WOA-Project/WOA-Deployer-Rpi) - WOA Deployer for Raspberry Pi
@@ -522,6 +524,7 @@
 
 ## CMake 
 
+- [Ultimaker/cura-build](https://github.com/Ultimaker/cura-build) - Build scripts for Cura
 - [cutefishos/icons](https://github.com/cutefishos/icons) - System default icon theme
 - [ryanfortner/c-alculator](https://github.com/ryanfortner/c-alculator) - c-calculator: a simple calculator written in c
 - [stuntrally/tracks](https://github.com/stuntrally/tracks) - Tracks of Stunt Rally. Meant to be inside data/tracks/.
@@ -553,7 +556,6 @@
 - [cheeaun/hackerweb](https://github.com/cheeaun/hackerweb) - A simply readable Hacker News web app
 - [c8hunderscore/unsafe](https://github.com/c8hunderscore/unsafe) - 
 - [Nouridio/Discord-bot-website-template](https://github.com/Nouridio/Discord-bot-website-template) - Amazing website designed with Bootstrap for new Discord bots.
-- [pacstall/website](https://github.com/pacstall/website) - Website for the Pacstall organization
 - [poole/lanyon](https://github.com/poole/lanyon) - A content-first, sliding sidebar theme for Jekyll.
 - [poole/poole](https://github.com/poole/poole) - The Jekyll Butler. A no frills responsive Jekyll blog theme.
 - [raspbian-addons/raspbian-addons.github.io](https://github.com/raspbian-addons/raspbian-addons.github.io) - Website for the Raspbian Addons debian repository
@@ -653,6 +655,8 @@
 
 ## Go 
 
+- [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
+- [arduino/arduino-create-agent](https://github.com/arduino/arduino-create-agent) - The Arduino Create Agent
 - [prabhatsharma/zinc](https://github.com/prabhatsharma/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Gatus - Automated service health dashboard
 - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
@@ -759,6 +763,7 @@
 
 ## HTML 
 
+- [whatwg/html](https://github.com/whatwg/html) - HTML Standard
 - [revoxhere/duco-exchange](https://github.com/revoxhere/duco-exchange) - 💱 Source of the easy to use static coin exchange service - DUCO Exchange
 - [mesh0000/poolui](https://github.com/mesh0000/poolui) - User interface based on Monero Pool API developed by Snipa - https://github.com/Snipa22/nodejs-pool
 - [sproogen/modern-resume-theme](https://github.com/sproogen/modern-resume-theme) - A modern static resume template and theme. Powered by Jekyll and GitHub pages.
@@ -862,6 +867,8 @@
 
 ## JavaScript 
 
+- [osano/cookieconsent](https://github.com/osano/cookieconsent) - A free solution to the EU, GDPR, and California Cookie Laws
+- [LinusU/node-appdmg](https://github.com/LinusU/node-appdmg) - 💾 Generate your app dmgs
 - [philipptrenz/photo-booth](https://github.com/philipptrenz/photo-booth) - A multi-platform photo booth software using Electron and your camera
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
@@ -1028,7 +1035,7 @@
 - [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
 - [TurboWarp/packager](https://github.com/TurboWarp/packager) - Converts Scratch projects into HTML files, zip archives, or executable programs for Windows, macOS, and Linux.
 - [sonnyp/Tangram](https://github.com/sonnyp/Tangram) - Browser for your pinned tabs
-- [QuiteAFancyEmerald/Holy-Unblocker](https://github.com/QuiteAFancyEmerald/Holy-Unblocker) - Holy Unblocker is a secure web proxy service supporting numerous sites while concentrating on detail with design, mechanics, and features. Bypass web filters regardless of whether it is an extension or network-based.
+- [QuiteAFancyEmerald/Holy-Unblocker-Old](https://github.com/QuiteAFancyEmerald/Holy-Unblocker-Old) - Holy Unblocker is a secure web proxy service supporting numerous sites while concentrating on detail with design, mechanics, and features. Bypass web filters regardless of whether it is an extension or network-based.
 - [vinceliuice/dash-to-dock](https://github.com/vinceliuice/dash-to-dock) - A dock for the Gnome Shell. This extension   moves the dash out of the overview transforming it in a dock for an easier   launching of applications and a faster switching between windows and desktops.
 - [alyssaxuu/mapus](https://github.com/alyssaxuu/mapus) - A map tool with real-time collaboration 🗺️
 - [monkaBlyat/docker-chromium-armhf](https://github.com/monkaBlyat/docker-chromium-armhf) - A docker container to provide an armhf chromium instance with widevine installed in it (allows Spotify, Netflix, etc.)
@@ -1061,7 +1068,7 @@
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [mani-barathi/Octave](https://github.com/mani-barathi/Octave) - Music🎵  streaming web-app
 - [klaussinani/tusk](https://github.com/klaussinani/tusk) - Refined Evernote desktop app
-- [hmlendea/geforcenow-electron](https://github.com/hmlendea/geforcenow-electron) - Linux Desktop client for Nvidia's GeForce NOW game streaming service
+- [hmlendea/gfn-electron](https://github.com/hmlendea/gfn-electron) - Linux Desktop client for Nvidia's GeForce NOW game streaming service
 - [Cat5TV/pinecraft](https://github.com/Cat5TV/pinecraft) - Minecraft Server Installer for Raspberry Pi and Other SBCs
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - A simple and modern GTK eBook reader
 - [alienzhangyw/BlockPi](https://github.com/alienzhangyw/BlockPi) - A visual programming editor app for Raspberry Pi
@@ -1195,6 +1202,7 @@
 
 ## Others 
 
+- [watermelon4468/tasty-grubs](https://github.com/watermelon4468/tasty-grubs) - A collection of GRUB2 themes.
 - [ryanfortner/Ender3Pro-Timelapses](https://github.com/ryanfortner/Ender3Pro-Timelapses) - Timelapses from my Ender 3 Pro 3d printer, made with OctoLapse.
 - [karlhorky/learn-to-program](https://github.com/karlhorky/learn-to-program) - Educational resources to learn to program (Foundation in Web Development)
 - [karan/Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
@@ -1381,6 +1389,7 @@
 
 ## PHP 
 
+- [yrccondor/mdx](https://github.com/yrccondor/mdx) - MDx - Material Design WordPress Theme
 - [boxbilling/boxbilling](https://github.com/boxbilling/boxbilling) - BoxBilling - Open source billing and client management software
 - [MPOS/php-mpos](https://github.com/MPOS/php-mpos) - MPOS stands for Mining Portal Open Source. Issue tracker is now closed since it's not maintained anymore.
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
@@ -1601,7 +1610,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [bbilly1/tubearchivist](https://github.com/bbilly1/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-433-Stars](https://github.com/iBug/This-Repo-Has-433-Stars) - Yes, it's true :heart: This repository has 433 stars.
+- [iBug/This-Repo-Has-433-Stars](https://github.com/iBug/This-Repo-Has-433-Stars) - Yes, it's true :orange_heart: This repository has 433 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -1805,6 +1814,9 @@
 
 ## Shell 
 
+- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.
+- [RPi-Distro/pi-bluetooth](https://github.com/RPi-Distro/pi-bluetooth) - Loads BCM43430A1 firmware on boot
+- [AppImage/appimage.github.io](https://github.com/AppImage/appimage.github.io) - Given an URL to an AppImage, AppImageHub inspects the AppImage and puts it into a community-maintained catalog
 - [zerojay/RetroPie-Extra](https://github.com/zerojay/RetroPie-Extra) - A collection of unofficial scripts for adding more emulators/ports/games to RetroPie.
 - [nmilosev/anyfed](https://github.com/nmilosev/anyfed) - Universal Fedora chroot tool
 - [getlynx/LynxCI](https://github.com/getlynx/LynxCI) - Lynx Cryptocurrency Installer (LynxCI) creates a Lynx cryptocurrency node that confirms and relays transactions, provides wallet functions and runs an eco-friendly, built-in solo miner.
@@ -2209,6 +2221,7 @@
 - [krypt0nn/warp-gui](https://github.com/krypt0nn/warp-gui) - Unofficial Cloudflare WARP GUI client for Linux written on Neutralino
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [app-outlet/app-outlet](https://github.com/app-outlet/app-outlet) - A Universal linux app store
+- [pacstall/website](https://github.com/pacstall/website) - Website for the Pacstall organization
 - [cokemine/nodestatus](https://github.com/cokemine/nodestatus) - Yet another servers monitor written in TypeScript
 - [bernhardfritz/pitunes](https://github.com/bernhardfritz/pitunes) - 🎵 A Raspberry Pi compatible tool to manage and stream your personal music collection remotely
 - [vector-im/element-desktop](https://github.com/vector-im/element-desktop) - A glossy Matrix collaboration client for desktop.
@@ -2281,6 +2294,7 @@
 
 ## Vue 
 
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [joaquimorg/InfinitimeExplorer](https://github.com/joaquimorg/InfinitimeExplorer) - File Explorer for InfiniTime firmware on PineTime smartwatch
 - [lindelof/particles-bg-vue](https://github.com/lindelof/particles-bg-vue) - A vue.js particles animation background component
