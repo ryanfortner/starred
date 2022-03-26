@@ -209,7 +209,7 @@
 - [douglas-development/android_kernel_amazon_douglas](https://github.com/douglas-development/android_kernel_amazon_douglas) - LineageOS Kernel Tree for the Amazon Fire HD8 2017 codenamed "douglas".
 - [mt8163-dev/android_device_amazon_mt8163-common](https://github.com/mt8163-dev/android_device_amazon_mt8163-common) - Common Device Tree for the Amazon Fire HD8 2016 & 2017.
 - [giuliomoro/checkinstall](https://github.com/giuliomoro/checkinstall) - 
-- [phillbush/shod](https://github.com/phillbush/shod) - tabbed window manager that can tile windows inside floating containers
+- [phillbush/shod](https://github.com/phillbush/shod) - mouse-based window manager that can tile windows inside floating containers
 - [cutiepi-io/cutiepi-drivers](https://github.com/cutiepi-io/cutiepi-drivers) - Drivers for the CutiePi tablet
 - [rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) - Desktop customization tool for Windows
 - [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11
@@ -635,6 +635,7 @@
 
 ## EJS 
 
+- [fengkx/hexo-theme-purer](https://github.com/fengkx/hexo-theme-purer) - Remake version of hexo-theme-pure powered by TailWind
 - [techcoder20/themesaver-website](https://github.com/techcoder20/themesaver-website) - The Official Website for the themesaver app
 
 ## Elixir 
@@ -763,6 +764,7 @@
 
 ## HTML 
 
+- [marchof/java-almanac](https://github.com/marchof/java-almanac) - The history and future of Java.
 - [whatwg/html](https://github.com/whatwg/html) - HTML Standard
 - [revoxhere/duco-exchange](https://github.com/revoxhere/duco-exchange) - 💱 Source of the easy to use static coin exchange service - DUCO Exchange
 - [mesh0000/poolui](https://github.com/mesh0000/poolui) - User interface based on Monero Pool API developed by Snipa - https://github.com/Snipa22/nodejs-pool
@@ -867,6 +869,10 @@
 
 ## JavaScript 
 
+- [emailjs/emailjs-imap-client](https://github.com/emailjs/emailjs-imap-client) - Low-level JS IMAP client for all your IMAP needs.
+- [Oxygem/Kanmail](https://github.com/Oxygem/Kanmail) - :inbox_tray: An email client that functions like a kanban board.
+- [ryanfortner/browsermail](https://github.com/ryanfortner/browsermail) - Javascript IMAP email client for browsers
+- [hiddentao/browsermail](https://github.com/hiddentao/browsermail) - Javascript IMAP email client for browsers
 - [osano/cookieconsent](https://github.com/osano/cookieconsent) - A free solution to the EU, GDPR, and California Cookie Laws
 - [LinusU/node-appdmg](https://github.com/LinusU/node-appdmg) - 💾 Generate your app dmgs
 - [philipptrenz/photo-booth](https://github.com/philipptrenz/photo-booth) - A multi-platform photo booth software using Electron and your camera
@@ -1035,7 +1041,7 @@
 - [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
 - [TurboWarp/packager](https://github.com/TurboWarp/packager) - Converts Scratch projects into HTML files, zip archives, or executable programs for Windows, macOS, and Linux.
 - [sonnyp/Tangram](https://github.com/sonnyp/Tangram) - Browser for your pinned tabs
-- [QuiteAFancyEmerald/Holy-Unblocker-Old](https://github.com/QuiteAFancyEmerald/Holy-Unblocker-Old) - Holy Unblocker is a secure web proxy service supporting numerous sites while concentrating on detail with design, mechanics, and features. Bypass web filters regardless of whether it is an extension or network-based.
+- [QuiteAFancyEmerald/Holy-Unblocker-Old](https://github.com/QuiteAFancyEmerald/Holy-Unblocker-Old) - Holy Unblocker is a secure web proxy service supporting numerous sites while concentrating on detail with design, mechanics, and features. Bypass web filters regardless of whether it is an extension or network-based. [MOVED]
 - [vinceliuice/dash-to-dock](https://github.com/vinceliuice/dash-to-dock) - A dock for the Gnome Shell. This extension   moves the dash out of the overview transforming it in a dock for an easier   launching of applications and a faster switching between windows and desktops.
 - [alyssaxuu/mapus](https://github.com/alyssaxuu/mapus) - A map tool with real-time collaboration 🗺️
 - [monkaBlyat/docker-chromium-armhf](https://github.com/monkaBlyat/docker-chromium-armhf) - A docker container to provide an armhf chromium instance with widevine installed in it (allows Spotify, Netflix, etc.)
@@ -1202,6 +1208,7 @@
 
 ## Others 
 
+- [Jai-JAP/tabby-arm-builds](https://github.com/Jai-JAP/tabby-arm-builds) - 
 - [watermelon4468/tasty-grubs](https://github.com/watermelon4468/tasty-grubs) - A collection of GRUB2 themes.
 - [ryanfortner/Ender3Pro-Timelapses](https://github.com/ryanfortner/Ender3Pro-Timelapses) - Timelapses from my Ender 3 Pro 3d printer, made with OctoLapse.
 - [karlhorky/learn-to-program](https://github.com/karlhorky/learn-to-program) - Educational resources to learn to program (Foundation in Web Development)
@@ -1752,6 +1759,7 @@
 
 ## Rust 
 
+- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [naaive/orange](https://github.com/naaive/orange) - Cross-platform local file search engine.
 - [Brooooooklyn/simple-git](https://github.com/Brooooooklyn/simple-git) - Simple and fast git helper functions.
@@ -2173,6 +2181,7 @@
 
 ## TypeScript 
 
+- [Icalingua-plus-plus/Icalingua-plus-plus](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus) - A client for QQ and more.:electron:
 - [will-stone/browserosaurus](https://github.com/will-stone/browserosaurus) - The browser prompter for macOS
 - [oae/gnome-shell-extensions-sync](https://github.com/oae/gnome-shell-extensions-sync) - Syncs gnome shell keybindings, tweaks settings and extensions with their configuration across all gnome installations
 - [shalldie/vscode-background](https://github.com/shalldie/vscode-background) - A vscode extension to make it lovely. vscode background 背景扩展插件。
