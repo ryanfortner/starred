@@ -93,6 +93,8 @@
 
 ## C 
 
+- [madewokherd/wine-mono](https://github.com/madewokherd/wine-mono) - 
+- [raspberrypi/userland](https://github.com/raspberrypi/userland) - Source code for ARM side libraries for interfacing to Raspberry Pi GPU.
 - [fluix-dev/sway-borders](https://github.com/fluix-dev/sway-borders) - Fork of sway with some extra features, mainly related to borders.
 - [adlererik/qemu-virgl](https://github.com/adlererik/qemu-virgl) - Debianization QEMU code with spice OpenGL/virgl acceleration.
 - [linuxmint/nemo-extensions](https://github.com/linuxmint/nemo-extensions) - A set of extensions for Nemo
@@ -351,6 +353,7 @@
 
 ## C++ 
 
+- [piggz/harbour-amazfish](https://github.com/piggz/harbour-amazfish) - Amazfit Bip support for SailfishOS
 - [bunkercoin/bunkercoin](https://github.com/bunkercoin/bunkercoin) - Bunkercoin staging tree
 - [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 - [LibreCAD/LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a cross-platform 2D CAD program written in C++11 using the Qt framework. It can read DXF and DWG files and can write DXF, PDF and SVG files. The user interface is highly customizable, and has dozens of translations.
@@ -623,6 +626,7 @@
 
 ## Dockerfile 
 
+- [TrafeX/docker-php-nginx](https://github.com/TrafeX/docker-php-nginx) - Docker image with Nginx 1.20 & PHP-FPM 8.0 on Alpine Linux
 - [hmsjy2017/debian-arm-build-env](https://github.com/hmsjy2017/debian-arm-build-env) - 
 - [multiarch/crossbuild](https://github.com/multiarch/crossbuild) - :earth_africa: multiarch cross compiling environments
 - [vala-lang/docker-images](https://github.com/vala-lang/docker-images) - Official vala docker images
@@ -660,6 +664,8 @@
 
 ## Go 
 
+- [mitchellh/go-ps](https://github.com/mitchellh/go-ps) - Find, list, and inspect processes from Go (golang).
+- [souramoo/commentoplusplus](https://github.com/souramoo/commentoplusplus) - Commento with out of the box patches and updates to add useful features and fixes. Also with one-click deploy to Heroku so you can get up and running fast.
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
 - [helm/charts](https://github.com/helm/charts) - ⚠️(OBSOLETE) Curated applications for Kubernetes
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
@@ -785,7 +791,6 @@
 - [KumaTea/pytorch-aarch64](https://github.com/KumaTea/pytorch-aarch64) - PyTorch wheels (whl) & conda for aarch64 / ARMv8 / ARM64
 - [revoxhere/revoxhere.github.io](https://github.com/revoxhere/revoxhere.github.io) - My portfolio
 - [revoxhere/magi-webservices](https://github.com/revoxhere/magi-webservices) - Coin Magi 2021 Explorer & Web Wallet
-- [cycool29/cycool29.github.io](https://github.com/cycool29/cycool29.github.io) - 
 - [LAX1DUDE/eaglercraft](https://github.com/LAX1DUDE/eaglercraft) - Eaglercraft is real Minecraft 1.5.2 that you can play in any regular web browser. That includes school chromebooks, it works on all chromebooks. You can join real Minecraft 1.5.2 servers with it through a custom proxy based on Bungeecord.
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for Raspberry Pi or any Linux distro for running self-hosted apps
 - [linuxmint/live-installer](https://github.com/linuxmint/live-installer) - A live installer for the Debian edition
@@ -878,6 +883,8 @@
 
 ## JavaScript 
 
+- [khlam/discord-sandboxed](https://github.com/khlam/discord-sandboxed) - An open source, privacy-focused Discord client.
+- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp client(linux, mac, win)
 - [Wexagonal/Wexagonal](https://github.com/Wexagonal/Wexagonal) - A Lightweight \ Multi Platform \ Out of The Box hexo backend Manager | 轻量级\多平台\开箱即用的hexo后端管理器
 - [zhaojh329/oui](https://github.com/zhaojh329/oui) - A modern web interface for OpenWrt implemented in vue.js and Lua.
@@ -915,7 +922,6 @@
 - [sys-256/Duino-JS](https://github.com/sys-256/Duino-JS) - A JavaScript miner to mine Duino-Coin, which you can easily implement in your site.
 - [stefanXO/firebug-lite](https://github.com/stefanXO/firebug-lite) - Firebug Lite for Chrome - an extension of the popular Firebug Firefox functionality
 - [ozh/cookieclicker](https://github.com/ozh/cookieclicker) - Cookie Clicker copy for, errrr, educational purpose.
-- [ethereum/ethereum-org-website](https://github.com/ethereum/ethereum-org-website) - Ethereum.org is a primary online resource for the Ethereum community.
 - [Flupp/sticky-window-snapping](https://github.com/Flupp/sticky-window-snapping) - A KWin script which lets snapped window edges stick together when one window is resized.
 - [MoneroOcean/meta-miner](https://github.com/MoneroOcean/meta-miner) - Allows to add algo switching support to *any* stratum miner. Zero fees.
 - [arduino/arduino-ide](https://github.com/arduino/arduino-ide) - Arduino IDE
@@ -1171,6 +1177,7 @@
 
 ## Makefile 
 
+- [ipxe/pipxe](https://github.com/ipxe/pipxe) - iPXE for the Raspberry Pi
 - [turquoise-hexagon/fonts](https://github.com/turquoise-hexagon/fonts) - another bitmap fonts repo
 - [lineage-rpi/proprietary_vendor_brcm](https://github.com/lineage-rpi/proprietary_vendor_brcm) - 
 - [lineage-rpi/android_device_brcm_rpi4](https://github.com/lineage-rpi/android_device_brcm_rpi4) - 
@@ -1186,6 +1193,7 @@
 
 ## Markdown 
 
+- [ethereum/ethereum-org-website](https://github.com/ethereum/ethereum-org-website) - Ethereum.org is a primary online resource for the Ethereum community.
 - [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
@@ -1473,6 +1481,9 @@
 
 ## Python 
 
+- [knight0x07/pyc2bytecode](https://github.com/knight0x07/pyc2bytecode) - A Python Bytecode Disassembler helping reverse engineers in dissecting Python binaries by disassembling and analyzing the compiled python byte-code(.pyc) files across all python versions (including Python 3.10.*)
+- [wine-compholio/wine-packaging](https://github.com/wine-compholio/wine-packaging) - Packaging files for Wine. Report bugs at https://bugs.winehq.org/.
+- [ZephyrLabs/PinetimeFlasher](https://github.com/ZephyrLabs/PinetimeFlasher) - GUI based app to help flash the pinetime with xpack-openOCD on windows,
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [daniel-thompson/wasp-os](https://github.com/daniel-thompson/wasp-os) - A MicroPython based development environment for smart watches (including Pine64 PineTime)
 - [jleclanche/tan](https://github.com/jleclanche/tan) - The uncompromising Python code formatter
@@ -1783,6 +1794,7 @@
 
 ## Rust 
 
+- [lupyuen/pinetime-watchface](https://github.com/lupyuen/pinetime-watchface) - Watch Face Framework for Rust + Mynewt on PineTime Smart Watch
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [naaive/orange](https://github.com/naaive/orange) - Cross-platform local file search engine.
@@ -1831,6 +1843,7 @@
 
 ## SCSS 
 
+- [DiscordStyles/SoftX](https://github.com/DiscordStyles/SoftX) - A soft and comfy feel for Discord.
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
 - [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) - MacOS Big Sur like theme for Gnome desktops
 - [pages-themes/hacker](https://github.com/pages-themes/hacker) - Hacker is a Jekyll theme for GitHub Pages
@@ -1846,6 +1859,7 @@
 
 ## Shell 
 
+- [saint-13/Linux_Dynamic_Wallpapers](https://github.com/saint-13/Linux_Dynamic_Wallpapers) - Dynamic Wallpapers for Linux
 - [openfans-community-offical/Debian-Pi-Aarch64](https://github.com/openfans-community-offical/Debian-Pi-Aarch64) - This is the first 64-bit system in the world to support all Raspberry Pi 64-bit hardware!!! (Include: PI400,4B,3B+,3B,3A+,Zero2W)
 - [terroo/wallset](https://github.com/terroo/wallset) - A wallpaper manager that makes it possible to put videos as wallpaper
 - [AlmaLinux/almalinux-deploy](https://github.com/AlmaLinux/almalinux-deploy) - EL to AlmaLinux migration tool.
