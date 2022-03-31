@@ -93,6 +93,9 @@
 
 ## C 
 
+- [InfiniTimeOrg/pinetime-mcuboot-bootloader](https://github.com/InfiniTimeOrg/pinetime-mcuboot-bootloader) - An open source bootloader for the PineTime based on MyNEWT and MCUBoot.
+- [joaquimorg/PinetimeLite](https://github.com/joaquimorg/PinetimeLite) - Firmware for Pinetime smartwatch written in C/C++ and based on FreeRTOS
+- [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
 - [madewokherd/wine-mono](https://github.com/madewokherd/wine-mono) - 
 - [raspberrypi/userland](https://github.com/raspberrypi/userland) - Source code for ARM side libraries for interfacing to Raspberry Pi GPU.
 - [fluix-dev/sway-borders](https://github.com/fluix-dev/sway-borders) - Fork of sway with some extra features, mainly related to borders.
@@ -353,6 +356,7 @@
 
 ## C++ 
 
+- [InfiniTimeOrg/InfiniSim](https://github.com/InfiniTimeOrg/InfiniSim) - Simulator for InfiniTime user interface without needing a PineTime
 - [piggz/harbour-amazfish](https://github.com/piggz/harbour-amazfish) - Amazfit Bip support for SailfishOS
 - [bunkercoin/bunkercoin](https://github.com/bunkercoin/bunkercoin) - Bunkercoin staging tree
 - [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
@@ -664,6 +668,7 @@
 
 ## Go 
 
+- [google/ko](https://github.com/google/ko) - Build and deploy Go applications on Kubernetes
 - [mitchellh/go-ps](https://github.com/mitchellh/go-ps) - Find, list, and inspect processes from Go (golang).
 - [souramoo/commentoplusplus](https://github.com/souramoo/commentoplusplus) - Commento with out of the box patches and updates to add useful features and fixes. Also with one-click deploy to Heroku so you can get up and running fast.
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
@@ -883,6 +888,7 @@
 
 ## JavaScript 
 
+- [FreeTubeApp/freetube-redirect](https://github.com/FreeTubeApp/freetube-redirect) - Browser extension to open YouTube links into FreeTube
 - [khlam/discord-sandboxed](https://github.com/khlam/discord-sandboxed) - An open source, privacy-focused Discord client.
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp client(linux, mac, win)
@@ -929,7 +935,7 @@
 - [mymonero/mymonero-core-js](https://github.com/mymonero/mymonero-core-js) - The JS library containing the Monero crypto plus lightwallet functions behind the official MyMonero apps
 - [mymonero/mymonero-app-js](https://github.com/mymonero/mymonero-app-js) - The JS codebase for the MyMonero desktop apps
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, open-source session replay.
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core (formerly Material UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
 - [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [simpleicons/simpleicons.now.sh](https://github.com/simpleicons/simpleicons.now.sh) - Serve simpleicons with options (and CDN).
 - [doctolib/windows-binary-architecture](https://github.com/doctolib/windows-binary-architecture) - Find the target CPU architecture of Windows binaries (DLLs, EXEs and others).
@@ -1234,6 +1240,11 @@
 
 ## Others 
 
+- [lfit/itpol](https://github.com/lfit/itpol) - Useful IT policies
+- [JingOS-team/JingOS](https://github.com/JingOS-team/JingOS) - Awesome - JingOS - The World’s First Linux-based OS design for Tablets
+- [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+- [bchiang7/Halcyon](https://github.com/bchiang7/Halcyon) - Halcyon Theme for Sublime Text
+- [craigevil/brotab](https://github.com/craigevil/brotab) - Control your browser's tabs from the command line
 - [Jai-JAP/tabby-arm-builds](https://github.com/Jai-JAP/tabby-arm-builds) - 
 - [watermelon4468/tasty-grubs](https://github.com/watermelon4468/tasty-grubs) - A collection of GRUB2 themes.
 - [ryanfortner/Ender3Pro-Timelapses](https://github.com/ryanfortner/Ender3Pro-Timelapses) - Timelapses from my Ender 3 Pro 3d printer, made with OctoLapse.
@@ -1481,6 +1492,8 @@
 
 ## Python 
 
+- [asottile/all-repos](https://github.com/asottile/all-repos) - Clone all your repositories and apply sweeping changes.
+- [balta2ar/brotab](https://github.com/balta2ar/brotab) - Control your browser's tabs from the command line
 - [knight0x07/pyc2bytecode](https://github.com/knight0x07/pyc2bytecode) - A Python Bytecode Disassembler helping reverse engineers in dissecting Python binaries by disassembling and analyzing the compiled python byte-code(.pyc) files across all python versions (including Python 3.10.*)
 - [wine-compholio/wine-packaging](https://github.com/wine-compholio/wine-packaging) - Packaging files for Wine. Report bugs at https://bugs.winehq.org/.
 - [ZephyrLabs/PinetimeFlasher](https://github.com/ZephyrLabs/PinetimeFlasher) - GUI based app to help flash the pinetime with xpack-openOCD on windows,
@@ -1652,7 +1665,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [bbilly1/tubearchivist](https://github.com/bbilly1/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-433-Stars](https://github.com/iBug/This-Repo-Has-433-Stars) - Yes, it's true :gift_heart: This repository has 433 stars.
+- [iBug/This-Repo-Has-432-Stars](https://github.com/iBug/This-Repo-Has-432-Stars) - Yes, it's true :heartpulse: This repository has 432 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -1859,6 +1872,8 @@
 
 ## Shell 
 
+- [dreemurrs-embedded/Pine64-Arch](https://github.com/dreemurrs-embedded/Pine64-Arch) - PKGBUILD for running Arch Linux on PinePhone/PineTab.
+- [ofirgall/tmux-browser](https://github.com/ofirgall/tmux-browser) - Web browser sessions attached to tmux sessions
 - [saint-13/Linux_Dynamic_Wallpapers](https://github.com/saint-13/Linux_Dynamic_Wallpapers) - Dynamic Wallpapers for Linux
 - [openfans-community-offical/Debian-Pi-Aarch64](https://github.com/openfans-community-offical/Debian-Pi-Aarch64) - This is the first 64-bit system in the world to support all Raspberry Pi 64-bit hardware!!! (Include: PI400,4B,3B+,3B,3A+,Zero2W)
 - [terroo/wallset](https://github.com/terroo/wallset) - A wallpaper manager that makes it possible to put videos as wallpaper
