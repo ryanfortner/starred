@@ -75,7 +75,6 @@
 ## Assembly 
 
 - [leachim6/hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!
-- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [0xJonas/TIQuest](https://github.com/0xJonas/TIQuest) - Game for the TI-83 plus/TI-84 plus calculators
 - [calc84maniac/tiboyce](https://github.com/calc84maniac/tiboyce) - A Game Boy emulator for the TI-84 Plus CE and TI-83 Premium CE.
 
@@ -141,6 +140,7 @@
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
 - [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
+- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [likecoin-pro/likecoin](https://github.com/likecoin-pro/likecoin) - Likecoin core
 - [stefansundin/altdrag](https://github.com/stefansundin/altdrag) - :file_folder: Easily drag windows when pressing the alt key. (Windows)
 - [librerpi/rpi-open-firmware](https://github.com/librerpi/rpi-open-firmware) - Open source VPU side bootloader for Raspberry Pi.
@@ -1352,7 +1352,7 @@
 - [hmsjy2017/debs](https://github.com/hmsjy2017/debs) - 
 - [ryanfortner/box64-debs](https://github.com/ryanfortner/box64-debs) - box64 debian/apt repository
 - [raspbian-addons/status](https://github.com/raspbian-addons/status) - raspbian-addons uptime monitoring
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
 - [Wallux-0/Wallpapers](https://github.com/Wallux-0/Wallpapers) - Wallpapers for Wallux
 - [Amog-OS/AmogOS-Wallpapers](https://github.com/Amog-OS/AmogOS-Wallpapers) - Central repository for all AmogOS wallpapers
 - [ryanfortner/invuedious](https://github.com/ryanfortner/invuedious) - An alternative frontend for invidious built with vue.js
@@ -1574,7 +1574,7 @@
 - [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Launched in 2018. It's 2022 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with a full set of widgets. Multi-Window applications are also simple. 3.4 to 3.11 supported. 325+ Demo programs & Cookbook for rapid start. Extensive documentation.  Examples for Machine Learning(OpenCV Integration,  Chatterbot), Rainmeter-like Desktop Widgets, Matplotlib + Pyplot integration, add GUI to command line scripts, PDF & Image Viewer. For both beginning and advanced programmers. docs -  PySimpleGUI.org GitHub - PySimpleGUI.com. The Minecraft of GUIs - simple to complex... does them all.
 - [jlu5/icoextract](https://github.com/jlu5/icoextract) - Extract icons from Windows PE files (.exe/.dll)
 - [PlayOnLinux/POL-POM-4](https://github.com/PlayOnLinux/POL-POM-4) - PlayOnLinux 4 repository
-- [natorsc/gui-python-gtk](https://github.com/natorsc/gui-python-gtk) - Criando interfaces gráficas com Python (PyGObject) e GTK.
+- [natorsc/gui-python-gtk](https://github.com/natorsc/gui-python-gtk) - Criando interfaces gráficas com a linguagem de programação Python (PyGObject) e o tooltkit GTK 4.
 - [simons-public/protonfixes](https://github.com/simons-public/protonfixes) - A module for applying fixes at runtime to unsupported games with Steam Proton without changing game installation files
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
@@ -1646,7 +1646,7 @@
 - [baseblack/ReproWeb](https://github.com/baseblack/ReproWeb) - Reproweb is designed to provide insight into your self hosted apt repository. It is built on top of the standard debian dpkg toolchain and the repository builder/mirroror reprepro.
 - [polychromatic/polychromatic](https://github.com/polychromatic/polychromatic) - RGB lighting management software for GNU/Linux. Powered by OpenRazer (working to be vendor agnostic)
 - [GabMus/razerCommander](https://github.com/GabMus/razerCommander) - GTK contol center for managing razer peripherals on Linux
-- [redaxmedia/chroma-feedback](https://github.com/redaxmedia/chroma-feedback) - Turn your RGB powered hardware into a status indicator for continuous integration, continuous deployment and infrastructure monitoring
+- [henryruhs/chroma-feedback](https://github.com/henryruhs/chroma-feedback) - Turn your RGB powered hardware into a status indicator for continuous integration, continuous deployment and infrastructure monitoring
 - [JezerM/web-greeter](https://github.com/JezerM/web-greeter) - A modern, visually appealing greeter for LightDM.
 - [BenJetson/gnome-dash-fix](https://github.com/BenJetson/gnome-dash-fix) - Sort GNOME apps dashboard by category.
 - [techcoder20/qpi-os](https://github.com/techcoder20/qpi-os) - A install script for installing qtile and my configs on Raspberry Pi OS
@@ -1691,7 +1691,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [bbilly1/tubearchivist](https://github.com/bbilly1/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-432-Stars](https://github.com/iBug/This-Repo-Has-432-Stars) - Yes, it's true :heartpulse: This repository has 432 stars.
+- [iBug/This-Repo-Has-434-Stars](https://github.com/iBug/This-Repo-Has-434-Stars) - Yes, it's true :yellow_heart: This repository has 434 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
