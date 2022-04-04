@@ -93,6 +93,7 @@
 
 ## C 
 
+- [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression
 - [immortalwrt/luci](https://github.com/immortalwrt/luci) - LuCI - OpenWrt Configuration Interface
 - [apache/mynewt-nimble](https://github.com/apache/mynewt-nimble) - Apache mynewt
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - Powerful and easy-to-use embedded GUI library with many widgets, advanced visual effects (opacity, antialiasing, animations) and low memory requirements (16K RAM, 64K Flash).
@@ -210,7 +211,7 @@
 - [neg2led/cm4io-fan](https://github.com/neg2led/cm4io-fan) - CM4 IO board PWM fan controller driver
 - [termux/termux-x11](https://github.com/termux/termux-x11) - Termux X11 add-on application. Still in early development.
 - [nakst/luigi](https://github.com/nakst/luigi) - A barebones single-header GUI library for Win32, X11 and Essence.
-- [pikvm/packages](https://github.com/pikvm/packages) - Pi-KVM Packages
+- [pikvm/packages](https://github.com/pikvm/packages) - PiKVM Packages
 - [wren-lang/wren](https://github.com/wren-lang/wren) - The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language.
 - [tldr-pages/tldr-c-client](https://github.com/tldr-pages/tldr-c-client) - C command-line client for tldr pages
 - [amengol/MinGL](https://github.com/amengol/MinGL) - Minimal Graphics Library
@@ -542,6 +543,7 @@
 
 ## CMake 
 
+- [Ravbug/AppImage.cmake](https://github.com/Ravbug/AppImage.cmake) - Generate AppImages automatically from your CMake build process
 - [Ultimaker/cura-build](https://github.com/Ultimaker/cura-build) - Build scripts for Cura
 - [cutefishos/icons](https://github.com/cutefishos/icons) - System default icon theme
 - [ryanfortner/c-alculator](https://github.com/ryanfortner/c-alculator) - c-calculator: a simple calculator written in c
@@ -549,6 +551,7 @@
 
 ## CSS 
 
+- [lassekongo83/adw-gtk3](https://github.com/lassekongo83/adw-gtk3) - The theme from libadwaita ported to GTK-3
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [revoxhere/duco-statistics](https://github.com/revoxhere/duco-statistics) - 📃 Duino-Coin (DUCO) network statistics & explorer website
 - [flexdinesh/dev-landing-page](https://github.com/flexdinesh/dev-landing-page) - Minimal landing page for developers
@@ -676,6 +679,9 @@
 
 ## Go 
 
+- [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
+- [diamondburned/gtkcord3](https://github.com/diamondburned/gtkcord3) - A Gtk3 Discord client in Golang
+- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [trustwallet/assets](https://github.com/trustwallet/assets) - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
 - [klaytn/klaytn](https://github.com/klaytn/klaytn) - Official Go implementation of the Klaytn protocol
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
@@ -846,6 +852,7 @@
 
 ## Java 
 
+- [salesforce/dockerfile-image-update](https://github.com/salesforce/dockerfile-image-update) - A tool that helps you get security patches for Docker images into production as quickly as possible without breaking things
 - [jenkinsci/jenkinsfile-runner](https://github.com/jenkinsci/jenkinsfile-runner) - A command line tool to run Jenkinsfile as a function
 - [termux/termux-tasker](https://github.com/termux/termux-tasker) - Termux add-on app for integration with Tasker.
 - [Catrobat/Catroid](https://github.com/Catrobat/Catroid) - Writing programs on an Android device without prior knowledge.
@@ -1255,6 +1262,7 @@
 
 ## Others 
 
+- [elVucko/Duino_Coin_AVR](https://github.com/elVucko/Duino_Coin_AVR) - 
 - [jotaen/xit](https://github.com/jotaen/xit) - A plain-text file format for todos and check lists
 - [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
 - [microsoft/DirectStorage](https://github.com/microsoft/DirectStorage) - DirectStorage for Windows is an API that allows game developers to unlock the full potential of high speed NVMe drives for loading game assets.
@@ -1495,6 +1503,7 @@
 
 ## Perl 
 
+- [raspbian-addons/packages.raspbian-addons.org](https://github.com/raspbian-addons/packages.raspbian-addons.org) - [wip] package search website for raspbian-addons
 - [smxi/inxi](https://github.com/smxi/inxi) - inxi is a full featured CLI system information tool. It is available in most Linux distribution repositories, and does its best to support the BSDs.
 - [jnweiger/showspeed](https://github.com/jnweiger/showspeed) - print I/O activity of process, files, or network.
 - [apt-mirror/apt-mirror](https://github.com/apt-mirror/apt-mirror) - Official apt-mirror source.
@@ -1514,6 +1523,8 @@
 
 ## Python 
 
+- [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
+- [peppermintos/ice](https://github.com/peppermintos/ice) - Tool to create Chromium/Chrome/Firefox/Vivaldi SSBs in Peppermint OS.
 - [google/yapf](https://github.com/google/yapf) - A formatter for Python files
 - [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
 - [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) - Collection of Testflight public app link（iOS/iPad OS/macOS）。
@@ -1819,6 +1830,7 @@
 
 ## Ruby 
 
+- [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [DaCuteRaccoon/img2ascii](https://github.com/DaCuteRaccoon/img2ascii) - A Ruby gem to convert images to ASCII
 - [Linuxbrew/brew](https://github.com/Linuxbrew/brew) - :beer::penguin: The Homebrew package manager for Linux
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
@@ -2004,7 +2016,7 @@
 - [sabotage-linux/sabotage](https://github.com/sabotage-linux/sabotage) - a radical and experimental distribution based on musl libc and busybox
 - [ryanfortner/pacman](https://github.com/ryanfortner/pacman) - Yet another pacman clone in C/C++ and SDL.
 - [ryanfortner/debianization-files](https://github.com/ryanfortner/debianization-files) - Scripts and files for packaging debian software using dh-make.
-- [kskeigrshi/to-arch.sh](https://github.com/kskeigrshi/to-arch.sh) - Mirror of https://sr.ht/~kskeigrshi/to-arch.sh/
+- [kskeigrshi/to-arch.sh](https://github.com/kskeigrshi/to-arch.sh) - Convert Arch-based distros into vanilla Arch. Mirror of https://sr.ht/~kskeigrshi/to-arch.sh/ .
 - [RPi-Distro/pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the raspberrypi.org Raspbian images
 - [pi-hole/PADD](https://github.com/pi-hole/PADD) - PADD (formerly Chronometer2) is a more expansive version of the original chronometer.sh that is included with Pi-Hole. PADD provides in-depth information about your Pi-hole.
 - [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web
@@ -2249,6 +2261,9 @@
 
 ## Swift 
 
+- [NordicSemiconductor/IOS-nRF-Toolbox](https://github.com/NordicSemiconductor/IOS-nRF-Toolbox) - The nRF Toolbox is a container app that stores your Nordic Semiconductor apps for Bluetooth Low Energy in one location.
+- [NordicSemiconductor/IOS-nRF-Connect-Device-Manager](https://github.com/NordicSemiconductor/IOS-nRF-Connect-Device-Manager) - A mobile management library for devices supporting nRF Connect Device Manager.
+- [Copephobia/ntfy-ios](https://github.com/Copephobia/ntfy-ios) - iOS App for https://github.com/binwiederhier/ntfy
 - [toothbrush/Spotiqueue](https://github.com/toothbrush/Spotiqueue) - Dead-simple queue-oriented client for Spotify
 - [xan-m/InfiniLink](https://github.com/xan-m/InfiniLink) - iOS Companion App for PineTime
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
