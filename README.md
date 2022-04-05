@@ -361,6 +361,7 @@
 
 ## C++ 
 
+- [google/filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
 - [koolkdev/wfs-tools](https://github.com/koolkdev/wfs-tools) - WFS (WiiU File System) Tools
 - [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
@@ -414,7 +415,7 @@
 - [cutefishos/calculator](https://github.com/cutefishos/calculator) - Calculator.
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 - [mriscoc/Ender3V2S1](https://github.com/mriscoc/Ender3V2S1) - This is optimized firmware for Ender3 V2/S1 3D printers.
-- [SamVanheer/halflife-updated](https://github.com/SamVanheer/halflife-updated) - Half-Life SDK updated to compile under VS2019.
+- [SamVanheer/halflife-updated](https://github.com/SamVanheer/halflife-updated) - Half-Life SDK updated to compile under VS2019. See here for more information: https://github.com/SamVanheer/halflife-updated/wiki
 - [soui3/soui](https://github.com/soui3/soui) - the simplest direct ui engine!
 - [netblue30/firetools](https://github.com/netblue30/firetools) - Firejail GUI
 - [Jyers/Marlin](https://github.com/Jyers/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.
@@ -569,7 +570,7 @@
 - [adriel/Caddy-Server-minimal-browse-template](https://github.com/adriel/Caddy-Server-minimal-browse-template) - Minimalist Caddy browse template
 - [linuxmint/mint-themes](https://github.com/linuxmint/mint-themes) - Mint-X, Mint-Y..
 - [petabyt/Windows10Emulator](https://github.com/petabyt/Windows10Emulator) - A game launcher and operating environment for school Chromebooks.
-- [GilbN/theme.park](https://github.com/GilbN/theme.park) - A collection of themes/skins for your favorite apps.
+- [GilbN/theme.park](https://github.com/GilbN/theme.park) - A collection of themes/skins for 48 selfhosted apps!
 - [vinceliuice/Colloid-gtk-theme](https://github.com/vinceliuice/Colloid-gtk-theme) - Colloid gtk theme for linux
 - [EliverLara/firefox-nordic-theme](https://github.com/EliverLara/firefox-nordic-theme) - :snowflake: A dark theme for firefox theme created using the awesome Nord color palette.
 - [oguzhaninan/Stacer-Web](https://github.com/oguzhaninan/Stacer-Web) - Stacer - Linux System Optimizer and Monitoring https://oguzhaninan.github.io/Stacer-Web
@@ -679,6 +680,7 @@
 
 ## Go 
 
+- [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - [diamondburned/gtkcord3](https://github.com/diamondburned/gtkcord3) - A Gtk3 Discord client in Golang
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
@@ -799,6 +801,7 @@
 
 ## HTML 
 
+- [hubmartin/WebBLEWatch](https://github.com/hubmartin/WebBLEWatch) - 
 - [geerlingguy/turing-pi-cluster](https://github.com/geerlingguy/turing-pi-cluster) - Turing Pi cluster configuration for Raspberry Pi Compute Modules
 - [marchof/java-almanac](https://github.com/marchof/java-almanac) - The history and future of Java.
 - [whatwg/html](https://github.com/whatwg/html) - HTML Standard
@@ -852,6 +855,7 @@
 
 ## Java 
 
+- [PaperMC/Paper](https://github.com/PaperMC/Paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
 - [salesforce/dockerfile-image-update](https://github.com/salesforce/dockerfile-image-update) - A tool that helps you get security patches for Docker images into production as quickly as possible without breaking things
 - [jenkinsci/jenkinsfile-runner](https://github.com/jenkinsci/jenkinsfile-runner) - A command line tool to run Jenkinsfile as a function
 - [termux/termux-tasker](https://github.com/termux/termux-tasker) - Termux add-on app for integration with Tasker.
@@ -906,6 +910,8 @@
 
 ## JavaScript 
 
+- [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
+- [Aguga2201/PloudOsBot](https://github.com/Aguga2201/PloudOsBot) - 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [jvalen/pixel-art-react](https://github.com/jvalen/pixel-art-react) - Pixel art animation and drawing web app powered by React
@@ -1205,6 +1211,7 @@
 
 ## Makefile 
 
+- [dmlls/whatsapp-emoji-linux](https://github.com/dmlls/whatsapp-emoji-linux) - WhatsApp Emoji for GNU/Linux 🐧
 - [ipxe/pipxe](https://github.com/ipxe/pipxe) - iPXE for the Raspberry Pi
 - [turquoise-hexagon/fonts](https://github.com/turquoise-hexagon/fonts) - another bitmap fonts repo
 - [lineage-rpi/proprietary_vendor_brcm](https://github.com/lineage-rpi/proprietary_vendor_brcm) - 
@@ -1262,6 +1269,7 @@
 
 ## Others 
 
+- [android-rpi/local_manifests](https://github.com/android-rpi/local_manifests) - Android on Raspberry Pi : Entry-Point
 - [elVucko/Duino_Coin_AVR](https://github.com/elVucko/Duino_Coin_AVR) - 
 - [jotaen/xit](https://github.com/jotaen/xit) - A plain-text file format for todos and check lists
 - [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
@@ -1462,6 +1470,7 @@
 
 ## PHP 
 
+- [cfstar/Grass-Design-Theme-for-Typecho](https://github.com/cfstar/Grass-Design-Theme-for-Typecho) - Grass Design Theme is a lite and beautiful (Maybe) Theme. GDTT is made for Typecho.
 - [pi-hosted/pi-hosted](https://github.com/pi-hosted/pi-hosted) - Pi-Hosted is a collection of tutorials for hosting a variety of server applications using Docker and Portainer on the Raspberry Pi.
 - [yrccondor/mdx](https://github.com/yrccondor/mdx) - MDx - Material Design WordPress Theme
 - [boxbilling/boxbilling](https://github.com/boxbilling/boxbilling) - BoxBilling - Open source billing and client management software
@@ -1523,6 +1532,9 @@
 
 ## Python 
 
+- [dwyl/english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
+- [pypa/pip](https://github.com/pypa/pip) - The Python package installer
+- [pyqtgraph/pyqtgraph](https://github.com/pyqtgraph/pyqtgraph) - Fast data visualization and GUI tools for scientific / engineering applications
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
 - [peppermintos/ice](https://github.com/peppermintos/ice) - Tool to create Chromium/Chrome/Firefox/Vivaldi SSBs in Peppermint OS.
 - [google/yapf](https://github.com/google/yapf) - A formatter for Python files
@@ -1912,6 +1924,8 @@
 
 ## Shell 
 
+- [awesome-openwrt/oh-my-openwrt](https://github.com/awesome-openwrt/oh-my-openwrt) - 🤔 How to use openwrt?
+- [jaclu/tmux-menus](https://github.com/jaclu/tmux-menus) - Tmux plugin, Popup menus to help with managing your environment
 - [willfarrell/docker-crontab](https://github.com/willfarrell/docker-crontab) - A docker job scheduler (aka. crontab for docker)
 - [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - A hackable statusbar for tmux consisting of dynamic & beautiful looking segments, inspired by vim-powerline, written purely in bash.
 - [abhilesh/self-hosted_docker_setups](https://github.com/abhilesh/self-hosted_docker_setups) - A collection of my docker-compose files used to setup self-hosted services on Raspberry Pi 4 running 64-bit Raspberry Pi OS
