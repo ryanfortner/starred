@@ -361,6 +361,8 @@
 
 ## C++ 
 
+- [mholtkamp/octave](https://github.com/mholtkamp/octave) - A simple 3D game engine for GameCube, Wii, 3DS, Windows, and Linux.
+- [mholtkamp/retro-league](https://github.com/mholtkamp/retro-league) - Retro League GX is a demake of Rocket League for older game consoles.
 - [google/filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
 - [koolkdev/wfs-tools](https://github.com/koolkdev/wfs-tools) - WFS (WiiU File System) Tools
 - [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
@@ -680,6 +682,7 @@
 
 ## Go 
 
+- [matrix-org/dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - [diamondburned/gtkcord3](https://github.com/diamondburned/gtkcord3) - A Gtk3 Discord client in Golang
@@ -802,6 +805,7 @@
 ## HTML 
 
 - [hubmartin/WebBLEWatch](https://github.com/hubmartin/WebBLEWatch) - 
+- [elVucko/Duino_Coin_AVR](https://github.com/elVucko/Duino_Coin_AVR) - 
 - [geerlingguy/turing-pi-cluster](https://github.com/geerlingguy/turing-pi-cluster) - Turing Pi cluster configuration for Raspberry Pi Compute Modules
 - [marchof/java-almanac](https://github.com/marchof/java-almanac) - The history and future of Java.
 - [whatwg/html](https://github.com/whatwg/html) - HTML Standard
@@ -910,6 +914,8 @@
 
 ## JavaScript 
 
+- [lisaac/luci-in-docker](https://github.com/lisaac/luci-in-docker) - LuCI running in docker, use for manager config files for other containers.
+- [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
 - [Aguga2201/PloudOsBot](https://github.com/Aguga2201/PloudOsBot) - 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -1270,7 +1276,6 @@
 ## Others 
 
 - [android-rpi/local_manifests](https://github.com/android-rpi/local_manifests) - Android on Raspberry Pi : Entry-Point
-- [elVucko/Duino_Coin_AVR](https://github.com/elVucko/Duino_Coin_AVR) - 
 - [jotaen/xit](https://github.com/jotaen/xit) - A plain-text file format for todos and check lists
 - [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
 - [microsoft/DirectStorage](https://github.com/microsoft/DirectStorage) - DirectStorage for Windows is an API that allows game developers to unlock the full potential of high speed NVMe drives for loading game assets.
@@ -1470,6 +1475,7 @@
 
 ## PHP 
 
+- [andreknieriem/photobooth](https://github.com/andreknieriem/photobooth) - A photobooth Web-Application for raspberry pi with gphoto2
 - [cfstar/Grass-Design-Theme-for-Typecho](https://github.com/cfstar/Grass-Design-Theme-for-Typecho) - Grass Design Theme is a lite and beautiful (Maybe) Theme. GDTT is made for Typecho.
 - [pi-hosted/pi-hosted](https://github.com/pi-hosted/pi-hosted) - Pi-Hosted is a collection of tutorials for hosting a variety of server applications using Docker and Portainer on the Raspberry Pi.
 - [yrccondor/mdx](https://github.com/yrccondor/mdx) - MDx - Material Design WordPress Theme
@@ -1532,6 +1538,7 @@
 
 ## Python 
 
+- [reloadware/reloadium](https://github.com/reloadware/reloadium) - Advanced hot reloading for Python
 - [dwyl/english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
 - [pypa/pip](https://github.com/pypa/pip) - The Python package installer
 - [pyqtgraph/pyqtgraph](https://github.com/pyqtgraph/pyqtgraph) - Fast data visualization and GUI tools for scientific / engineering applications
@@ -1714,7 +1721,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [bbilly1/tubearchivist](https://github.com/bbilly1/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-434-Stars](https://github.com/iBug/This-Repo-Has-434-Stars) - Yes, it's true :yellow_heart: This repository has 434 stars.
+- [iBug/This-Repo-Has-435-Stars](https://github.com/iBug/This-Repo-Has-435-Stars) - Yes, it's true :two_hearts: This repository has 435 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -1857,6 +1864,7 @@
 
 ## Rust 
 
+- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [cloudhead/rx](https://github.com/cloudhead/rx) - 👾 Modern and minimalist pixel editor
 - [lupyuen/pinetime-watchface](https://github.com/lupyuen/pinetime-watchface) - Watch Face Framework for Rust + Mynewt on PineTime Smart Watch
@@ -1924,6 +1932,7 @@
 
 ## Shell 
 
+- [appnjoy/dosbian](https://github.com/appnjoy/dosbian) - A Raspberry Pi distro that boots straightly to Dosbox emulator
 - [awesome-openwrt/oh-my-openwrt](https://github.com/awesome-openwrt/oh-my-openwrt) - 🤔 How to use openwrt?
 - [jaclu/tmux-menus](https://github.com/jaclu/tmux-menus) - Tmux plugin, Popup menus to help with managing your environment
 - [willfarrell/docker-crontab](https://github.com/willfarrell/docker-crontab) - A docker job scheduler (aka. crontab for docker)
@@ -2298,6 +2307,7 @@
 
 ## TypeScript 
 
+- [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [Icalingua-plus-plus/Icalingua-plus-plus](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus) - A client for QQ and more.:electron:
 - [will-stone/browserosaurus](https://github.com/will-stone/browserosaurus) - The browser prompter for macOS
