@@ -65,6 +65,7 @@
   - [Shell](#shell)
   - [Smali](#smali)
   - [Smarty](#smarty)
+  - [Stylus](#stylus)
   - [Svelte](#svelte)
   - [Swift](#swift)
   - [TypeScript](#typescript)
@@ -93,6 +94,7 @@
 
 ## C 
 
+- [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 - [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression
 - [immortalwrt/luci](https://github.com/immortalwrt/luci) - LuCI - OpenWrt Configuration Interface
 - [apache/mynewt-nimble](https://github.com/apache/mynewt-nimble) - Apache mynewt
@@ -328,6 +330,8 @@
 
 ## C# # 
 
+- [emoacht/Monitorian](https://github.com/emoacht/Monitorian) - A Windows desktop tool to adjust the brightness of multiple monitors with ease
+- [revenz/FileFlows](https://github.com/revenz/FileFlows) - FileFlows is a file processing application that can execute actions against a file in a tree flow structure.
 - [dotnet/msbuild](https://github.com/dotnet/msbuild) - The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio.
 - [microsoft/winget-create](https://github.com/microsoft/winget-create) - The Windows Package Manager Manifest Creator command-line tool (aka wingetcreate)
 - [scottlerch/HostsFileEditor](https://github.com/scottlerch/HostsFileEditor) - Easily edit and manage the hosts file for Windows
@@ -554,6 +558,7 @@
 
 ## CSS 
 
+- [broeker/spacebook](https://github.com/broeker/spacebook) - 💥 Create fast and simple documentation to explain almost anything. Uses Eleventy, Tailwind 2.0, and Alpine JS with an optional Netlify CMS.
 - [lassekongo83/adw-gtk3](https://github.com/lassekongo83/adw-gtk3) - The theme from libadwaita ported to GTK-3
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [revoxhere/duco-statistics](https://github.com/revoxhere/duco-statistics) - 📃 Duino-Coin (DUCO) network statistics & explorer website
@@ -643,6 +648,7 @@
 
 ## Dockerfile 
 
+- [filerun/docker](https://github.com/filerun/docker) - FileRun Docker Image
 - [unixfox/invidious-custom](https://github.com/unixfox/invidious-custom) - Invidious with some git patches (mostly from existing PRs) for yewtu.be
 - [TrafeX/docker-php-nginx](https://github.com/TrafeX/docker-php-nginx) - Docker image with Nginx 1.20 & PHP-FPM 8.0 on Alpine Linux
 - [hmsjy2017/debian-arm-build-env](https://github.com/hmsjy2017/debian-arm-build-env) - 
@@ -682,6 +688,8 @@
 
 ## Go 
 
+- [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
@@ -914,6 +922,8 @@
 
 ## JavaScript 
 
+- [migueravila/Bento](https://github.com/migueravila/Bento) - 🍱 The minimalist, elegant and hackable startpage.
+- [alseambusher/crontab-ui](https://github.com/alseambusher/crontab-ui) - Easy and safe way to manage your crontab file
 - [lisaac/luci-in-docker](https://github.com/lisaac/luci-in-docker) - LuCI running in docker, use for manager config files for other containers.
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
@@ -1222,6 +1232,7 @@
 - [turquoise-hexagon/fonts](https://github.com/turquoise-hexagon/fonts) - another bitmap fonts repo
 - [lineage-rpi/proprietary_vendor_brcm](https://github.com/lineage-rpi/proprietary_vendor_brcm) - 
 - [lineage-rpi/android_device_brcm_rpi4](https://github.com/lineage-rpi/android_device_brcm_rpi4) - 
+- [ryanfortner/debianization-files](https://github.com/ryanfortner/debianization-files) - Scripts and files for packaging debian software using dh-make.
 - [ryanfortner/debuild-experiments](https://github.com/ryanfortner/debuild-experiments) - Experiments with Debian packaging
 - [motioneye-project/motioneyeos](https://github.com/motioneye-project/motioneyeos) - A Video Surveillance OS For Single-board Computers
 - [morrolinux/ChimeraDesk](https://github.com/morrolinux/ChimeraDesk) - Simple, fast and flexible DIY Remote Desktop software
@@ -1275,6 +1286,8 @@
 
 ## Others 
 
+- [vegasbrianc/prometheus](https://github.com/vegasbrianc/prometheus) - A docker-compose stack for Prometheus monitoring
+- [cutiepi-io/cutiepi-board](https://github.com/cutiepi-io/cutiepi-board) - Open source hardware design for the CutiePi tablet
 - [android-rpi/local_manifests](https://github.com/android-rpi/local_manifests) - Android on Raspberry Pi : Entry-Point
 - [jotaen/xit](https://github.com/jotaen/xit) - A plain-text file format for todos and check lists
 - [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
@@ -1538,6 +1551,7 @@
 
 ## Python 
 
+- [oskarsh/Yin-Yang](https://github.com/oskarsh/Yin-Yang) - Auto Nightmode for KDE, Gnome, Budgie, VSCode, Atom and more
 - [reloadware/reloadium](https://github.com/reloadware/reloadium) - Advanced hot reloading for Python
 - [dwyl/english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
 - [pypa/pip](https://github.com/pypa/pip) - The Python package installer
@@ -1864,6 +1878,7 @@
 
 ## Rust 
 
+- [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [cloudhead/rx](https://github.com/cloudhead/rx) - 👾 Modern and minimalist pixel editor
@@ -1932,6 +1947,7 @@
 
 ## Shell 
 
+- [wahyd4/aria2-ariang-docker](https://github.com/wahyd4/aria2-ariang-docker) - The Docker image for Aria2 + AriaNg + File Browser + Rclone
 - [appnjoy/dosbian](https://github.com/appnjoy/dosbian) - A Raspberry Pi distro that boots straightly to Dosbox emulator
 - [awesome-openwrt/oh-my-openwrt](https://github.com/awesome-openwrt/oh-my-openwrt) - 🤔 How to use openwrt?
 - [jaclu/tmux-menus](https://github.com/jaclu/tmux-menus) - Tmux plugin, Popup menus to help with managing your environment
@@ -2038,7 +2054,6 @@
 - [beta-tester/RPi-PXE-Server](https://github.com/beta-tester/RPi-PXE-Server) - setup a Raspberry Pi as an PXE-Server
 - [sabotage-linux/sabotage](https://github.com/sabotage-linux/sabotage) - a radical and experimental distribution based on musl libc and busybox
 - [ryanfortner/pacman](https://github.com/ryanfortner/pacman) - Yet another pacman clone in C/C++ and SDL.
-- [ryanfortner/debianization-files](https://github.com/ryanfortner/debianization-files) - Scripts and files for packaging debian software using dh-make.
 - [kskeigrshi/to-arch.sh](https://github.com/kskeigrshi/to-arch.sh) - Convert Arch-based distros into vanilla Arch. Mirror of https://sr.ht/~kskeigrshi/to-arch.sh/ .
 - [RPi-Distro/pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the raspberrypi.org Raspbian images
 - [pi-hole/PADD](https://github.com/pi-hole/PADD) - PADD (formerly Chronometer2) is a more expansive version of the original chronometer.sh that is included with Pi-Hole. PADD provides in-depth information about your Pi-hole.
@@ -2274,6 +2289,10 @@
 
 - [genofire/caddy-browse-template](https://github.com/genofire/caddy-browse-template) - Minimalist Caddy browse template
 
+## Stylus 
+
+- [xaoxuu/hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar) - Elegant and powerful theme for Hexo.
+
 ## Svelte 
 
 - [snipline/rsyncinator-desktop](https://github.com/snipline/rsyncinator-desktop) - 
@@ -2307,6 +2326,7 @@
 
 ## TypeScript 
 
+- [gillchristian/tsplay.dev](https://github.com/gillchristian/tsplay.dev) - TypeScript Playground Shortener
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [Icalingua-plus-plus/Icalingua-plus-plus](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus) - A client for QQ and more.:electron:
