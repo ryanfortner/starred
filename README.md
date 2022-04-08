@@ -65,6 +65,7 @@
   - [Shell](#shell)
   - [Smali](#smali)
   - [Smarty](#smarty)
+  - [Solidity](#solidity)
   - [Stylus](#stylus)
   - [Svelte](#svelte)
   - [Swift](#swift)
@@ -558,6 +559,7 @@
 
 ## CSS 
 
+- [Godiesc/Chameleons-Beauty](https://github.com/Godiesc/Chameleons-Beauty) - Adapted "Beautiful" Themes
 - [broeker/spacebook](https://github.com/broeker/spacebook) - 💥 Create fast and simple documentation to explain almost anything. Uses Eleventy, Tailwind 2.0, and Alpine JS with an optional Netlify CMS.
 - [lassekongo83/adw-gtk3](https://github.com/lassekongo83/adw-gtk3) - The theme from libadwaita ported to GTK-3
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -1551,6 +1553,7 @@
 
 ## Python 
 
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [oskarsh/Yin-Yang](https://github.com/oskarsh/Yin-Yang) - Auto Nightmode for KDE, Gnome, Budgie, VSCode, Atom and more
 - [reloadware/reloadium](https://github.com/reloadware/reloadium) - Advanced hot reloading for Python
 - [dwyl/english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
@@ -2288,6 +2291,10 @@
 ## Smarty 
 
 - [genofire/caddy-browse-template](https://github.com/genofire/caddy-browse-template) - Minimalist Caddy browse template
+
+## Solidity 
+
+- [PresearchOfficial/PRE-Token](https://github.com/PresearchOfficial/PRE-Token) - Presearch Ethereum Token
 
 ## Stylus 
 
