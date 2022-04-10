@@ -591,7 +591,7 @@
 - [poole/lanyon](https://github.com/poole/lanyon) - A content-first, sliding sidebar theme for Jekyll.
 - [poole/poole](https://github.com/poole/poole) - The Jekyll Butler. A no frills responsive Jekyll blog theme.
 - [raspbian-addons/raspbian-addons.github.io](https://github.com/raspbian-addons/raspbian-addons.github.io) - Website for the Raspbian Addons debian repository
-- [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment. Deprecated, preparing Joyful Desktop v4. Consider installing!
+- [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment
 - [vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme) - Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.
 - [muckSponge/MaterialFox](https://github.com/muckSponge/MaterialFox) - A Material Design-inspired userChrome.css theme for Firefox
 - [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - A GNOME👣 theme for Firefox🔥
@@ -671,7 +671,7 @@
 ## EJS 
 
 - [fengkx/hexo-theme-purer](https://github.com/fengkx/hexo-theme-purer) - Remake version of hexo-theme-pure powered by TailWind
-- [techcoder20/themesaver-website](https://github.com/techcoder20/themesaver-website) - The Official Website for the themesaver app
+- [ThemeSaverApp/themesaver-website](https://github.com/ThemeSaverApp/themesaver-website) - The Official Website for the themesaver app
 
 ## Elixir 
 
@@ -1777,7 +1777,7 @@
 - [kozec/syncthing-gtk](https://github.com/kozec/syncthing-gtk) - GTK3 & python based GUI for Syncthing
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [gnome-terminator/terminator](https://github.com/gnome-terminator/terminator) - multiple GNOME terminals in one window
-- [techcoder20/themesaver](https://github.com/techcoder20/themesaver) - This is a program that will help you to save your different Linux rice and apply them without rebooting.
+- [ThemeSaverApp/themesaver](https://github.com/ThemeSaverApp/themesaver) - This is a program that will help you to save your different Linux rice and apply them without rebooting.
 - [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
 - [libratbag/piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices
 - [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
