@@ -95,6 +95,7 @@
 
 ## C 
 
+- [probonopd/zsync-curl](https://github.com/probonopd/zsync-curl) - Partial/differential file download client over HTTP(S)
 - [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 - [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression
 - [immortalwrt/luci](https://github.com/immortalwrt/luci) - LuCI - OpenWrt Configuration Interface
@@ -709,7 +710,7 @@
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [arduino/arduino-create-agent](https://github.com/arduino/arduino-create-agent) - The Arduino Create Agent
-- [prabhatsharma/zinc](https://github.com/prabhatsharma/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+- [zinclabs/zinc](https://github.com/zinclabs/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Gatus - Automated service health dashboard
 - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [yippiez/go-miner](https://github.com/yippiez/go-miner) - a miner made in golang.
@@ -732,7 +733,6 @@
 - [minio/mc](https://github.com/minio/mc) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [minio/minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
-- [titaniumnetwork-dev/aero](https://github.com/titaniumnetwork-dev/aero) - An interception-based proxy.
 - [aliyun/ossutil](https://github.com/aliyun/ossutil) - A user friendly command line tool to access AliCloud OSS.
 - [appleboy/gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang).
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
@@ -936,7 +936,7 @@
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [jvalen/pixel-art-react](https://github.com/jvalen/pixel-art-react) - Pixel art animation and drawing web app powered by React
 - [FreeTubeApp/freetube-redirect](https://github.com/FreeTubeApp/freetube-redirect) - Browser extension to open YouTube links into FreeTube
-- [khlam/discord-sandboxed](https://github.com/khlam/discord-sandboxed) - An open source, privacy-focused Discord client.
+- [khlam/discord-sandboxed](https://github.com/khlam/discord-sandboxed) - An alternative electron-based Discord client. Blocks telemetry and enables push-to-talk.
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp client(linux, mac, win)
 - [Wexagonal/Wexagonal](https://github.com/Wexagonal/Wexagonal) - A Lightweight \ Multi Platform \ Out of The Box hexo backend Manager | 轻量级\多平台\开箱即用的hexo后端管理器
@@ -1014,6 +1014,7 @@
 - [denysdovhan/bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
 - [denysdovhan/learnyoubash](https://github.com/denysdovhan/learnyoubash) - Learn you how to write your first bash script
 - [LAX1DUDE/eaglercraft](https://github.com/LAX1DUDE/eaglercraft) - Eaglercraft is real Minecraft 1.5.2 that you can play in any regular web browser. That includes school chromebooks, it works on all chromebooks. You can join real Minecraft 1.5.2 servers with it through a custom proxy based on Bungeecord.
+- [titaniumnetwork-dev/aero](https://github.com/titaniumnetwork-dev/aero) - An interception-based proxy.
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [shivshankar9/Student-portal](https://github.com/shivshankar9/Student-portal) - Online tools for students to manage documents
 - [specious/bitly-client](https://github.com/specious/bitly-client) - :link: Create and manage your Bitly shortlinks from the command line
@@ -1291,6 +1292,7 @@
 
 ## Others 
 
+- [damianperera/openwrt-rpi](https://github.com/damianperera/openwrt-rpi) - An OpenWrt build for Raspberry Pi
 - [brazilianbytes/kubernetes-the-rpi-way](https://github.com/brazilianbytes/kubernetes-the-rpi-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 - [vegasbrianc/prometheus](https://github.com/vegasbrianc/prometheus) - A docker-compose stack for Prometheus monitoring
@@ -1525,7 +1527,7 @@
 - [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted) - Raspberry Pi Self Hosted Server Based on Docker / Portainer.io
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [aonez/Keka](https://github.com/aonez/Keka) - The macOS file archiver
-- [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 Y̲our O̲wn U̲R̲L̲ S̲hortener
+- [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 Y̲our O̲wn U̲R̲L̲ S̲hortener - the 𝑑𝑒 𝑓𝑎𝑐𝑡𝑜 standard self hosted URL shortener in PHP. Star us on Github!
 - [WaLLy3K/Pi-hole-Block-Page](https://github.com/WaLLy3K/Pi-hole-Block-Page) - A "Website Blocked" page to go with https://pi-hole.net
 - [prasathmani/tinyfilemanager](https://github.com/prasathmani/tinyfilemanager) - The best web based PHP File Manager in single file, Manage your files efficiently and easily with tinyfilemanager
 - [RaspAP/raspap-webgui](https://github.com/RaspAP/raspap-webgui) - Simple wireless AP setup & management for Debian-based devices
@@ -2358,7 +2360,7 @@
 - [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
 - [Chia-Network/chia-blockchain-gui](https://github.com/Chia-Network/chia-blockchain-gui) - Chia blockchain GUI in electron/react
 - [itchio/itch](https://github.com/itchio/itch) - 🎮 The best way to play your itch.io games
-- [purocean/yn](https://github.com/purocean/yn) - A Hackable Markdown Note Application for Programmers. Version control, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, plug-in, and macro replacement.
+- [purocean/yn](https://github.com/purocean/yn) - A Hackable Markdown Note Application for Programmers. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, plug-in, and macro replacement.
 - [fosscord/fosscord-server](https://github.com/fosscord/fosscord-server) - Fosscord backend made with Typescript and love (and a bit of C++)
 - [bitwarden/cli](https://github.com/bitwarden/cli) - The command line vault (Windows, macOS, & Linux).
 - [TheDavidDelta/lingva-translate](https://github.com/TheDavidDelta/lingva-translate) - Alternative front-end for Google Translate
