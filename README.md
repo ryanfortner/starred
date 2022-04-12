@@ -692,6 +692,9 @@
 
 ## Go 
 
+- [srevinsaju/zap](https://github.com/srevinsaju/zap) - :zap: Delightful AppImage package manager
+- [jaksi/sshesame](https://github.com/jaksi/sshesame) - An easy to set up and use SSH honeypot, a fake SSH server that lets anyone in and logs their activity
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Developer-First Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
@@ -1292,6 +1295,7 @@
 
 ## Others 
 
+- [xirixiz/adguard-home-filters](https://github.com/xirixiz/adguard-home-filters) - Custom filter files for AdGuard Home
 - [damianperera/openwrt-rpi](https://github.com/damianperera/openwrt-rpi) - An OpenWrt build for Raspberry Pi
 - [brazilianbytes/kubernetes-the-rpi-way](https://github.com/brazilianbytes/kubernetes-the-rpi-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
@@ -1560,6 +1564,7 @@
 
 ## Python 
 
+- [bluesabre/mugshot](https://github.com/bluesabre/mugshot) - Mugshot - User Management Utility for Linux
 - [tuna/oh-my-tuna](https://github.com/tuna/oh-my-tuna) - Keep calm and use TUNA mirrors.
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [oskarsh/Yin-Yang](https://github.com/oskarsh/Yin-Yang) - Auto Nightmode for KDE, Gnome, Budgie, VSCode, Atom and more
@@ -1750,6 +1755,7 @@
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
+- [alvatip/Nordzy-cursors](https://github.com/alvatip/Nordzy-cursors) - Cursor theme using the Nord color palette and based on Vimix and cz-Viator.
 - [samschott/maestral](https://github.com/samschott/maestral) - Open-source Dropbox client for macOS and Linux
 - [WoeUSB/WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) - WoeUSB-ng is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. This is a rewrite of original WoeUSB.
 - [KanoComputing/kano-updater](https://github.com/KanoComputing/kano-updater) - 
@@ -1958,6 +1964,8 @@
 
 ## Shell 
 
+- [emojifreak/debian-rpi-image-script](https://github.com/emojifreak/debian-rpi-image-script) - Shell script to build Debian and Devuan SD card image booting the Raspberry Pi series
+- [buddyjojo/worli](https://github.com/buddyjojo/worli) - simple wor on linux installer
 - [wahyd4/aria2-ariang-docker](https://github.com/wahyd4/aria2-ariang-docker) - The Docker image for Aria2 + AriaNg + File Browser + Rclone
 - [appnjoy/dosbian](https://github.com/appnjoy/dosbian) - A Raspberry Pi distro that boots straightly to Dosbox emulator
 - [awesome-openwrt/oh-my-openwrt](https://github.com/awesome-openwrt/oh-my-openwrt) - 🤔 How to use openwrt?
@@ -2053,7 +2061,7 @@
 - [PuffOS/teaiso-profile](https://github.com/PuffOS/teaiso-profile) - powered by teaiso
 - [LukeSmithxyz/emailwiz](https://github.com/LukeSmithxyz/emailwiz) - Script that installs/configures a Dovecot, Postfix, Spam Assassin, OpenDKIM Debian web server
 - [varlesh/volantes-cursors](https://github.com/varlesh/volantes-cursors) - Cursor Theme
-- [nicokaiser/rpi-audio-receiver](https://github.com/nicokaiser/rpi-audio-receiver) - Raspberry Pi Audio Receiver with Bluetooth A2DP, AirPlay, UPnP and Spotify Connect
+- [nicokaiser/rpi-audio-receiver](https://github.com/nicokaiser/rpi-audio-receiver) - Raspberry Pi Audio Receiver with Bluetooth A2DP, AirPlay, and Spotify Connect
 - [multiarch/qemu-user-static](https://github.com/multiarch/qemu-user-static) - :earth_africa: `/usr/bin/qemu-*-static`
 - [gohugoio/hugoThemes](https://github.com/gohugoio/hugoThemes) - A curated directory of Hugo themes
 - [cycool29/microsoft-teams-for-linux](https://github.com/cycool29/microsoft-teams-for-linux) - 
@@ -2163,7 +2171,6 @@
 - [cobalt2727/L4T-Megascript](https://github.com/cobalt2727/L4T-Megascript) - All-in-one installer and updater for popular programs on L4T Ubuntu with no prior knowledge of Linux needed
 - [gacts/upload-to-release](https://github.com/gacts/upload-to-release) - A GitHub Action that uploads a file to a new release
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-- [alvatip/Nordzy-cursors](https://github.com/alvatip/Nordzy-cursors) - Cursor theme using the Nord color palette and based on Vimix and cz-Viator.
 - [Botspot/wor-flasher](https://github.com/Botspot/wor-flasher) - Legal utility that runs on RPiOS to flash another SD card with Windows 10/11
 - [Pi-Apps-Recreates/pi-apps-x86](https://github.com/Pi-Apps-Recreates/pi-apps-x86) - Pi-Apps For X86
 - [Fmstrat/winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
