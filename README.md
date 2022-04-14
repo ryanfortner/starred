@@ -367,6 +367,7 @@
 
 ## C++ 
 
+- [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
 - [0vercl0k/wtf](https://github.com/0vercl0k/wtf) - wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows.
 - [mholtkamp/octave](https://github.com/mholtkamp/octave) - A simple 3D game engine for GameCube, Wii, 3DS, Windows, and Linux.
 - [mholtkamp/retro-league](https://github.com/mholtkamp/retro-league) - Retro League GX is a demake of Rocket League for older game consoles.
@@ -581,7 +582,7 @@
 - [adriel/Caddy-Server-minimal-browse-template](https://github.com/adriel/Caddy-Server-minimal-browse-template) - Minimalist Caddy browse template
 - [linuxmint/mint-themes](https://github.com/linuxmint/mint-themes) - Mint-X, Mint-Y..
 - [petabyt/Windows10Emulator](https://github.com/petabyt/Windows10Emulator) - A game launcher and operating environment for school Chromebooks.
-- [GilbN/theme.park](https://github.com/GilbN/theme.park) - A collection of themes/skins for 48 selfhosted apps!
+- [GilbN/theme.park](https://github.com/GilbN/theme.park) - A collection of themes/skins for 49 selfhosted apps!
 - [vinceliuice/Colloid-gtk-theme](https://github.com/vinceliuice/Colloid-gtk-theme) - Colloid gtk theme for linux
 - [EliverLara/firefox-nordic-theme](https://github.com/EliverLara/firefox-nordic-theme) - :snowflake: A dark theme for firefox theme created using the awesome Nord color palette.
 - [oguzhaninan/Stacer-Web](https://github.com/oguzhaninan/Stacer-Web) - Stacer - Linux System Optimizer and Monitoring https://oguzhaninan.github.io/Stacer-Web
@@ -1006,7 +1007,6 @@
 - [gr2m/twitter-together](https://github.com/gr2m/twitter-together) - :bird: A GitHub action to tweet from a repository
 - [Mcorial/DuinoCoin-Wallet-extension](https://github.com/Mcorial/DuinoCoin-Wallet-extension) - 
 - [meetfranz/franz](https://github.com/meetfranz/franz) - Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.
-- [getferdi/ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
@@ -1117,7 +1117,7 @@
 - [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
 - [TurboWarp/packager](https://github.com/TurboWarp/packager) - Converts Scratch projects into HTML files, zip archives, or executable programs for Windows, macOS, and Linux.
 - [sonnyp/Tangram](https://github.com/sonnyp/Tangram) - Browser for your pinned tabs
-- [QuiteAFancyEmerald/Holy-Unblocker-Old](https://github.com/QuiteAFancyEmerald/Holy-Unblocker-Old) - Holy Unblocker is a secure web proxy service supporting numerous sites while concentrating on detail with design, mechanics, and features. Bypass web filters regardless of whether it is an extension or network-based. [MOVED]
+- [QuiteAFancyEmerald/Holy-Unblocker-Old](https://github.com/QuiteAFancyEmerald/Holy-Unblocker-Old) - Holy Unblocker is a secure web proxy service supporting numerous sites while concentrating on detail with design, mechanics, and features. Bypass web filters regardless of whether it is an extension or network-based.
 - [vinceliuice/dash-to-dock](https://github.com/vinceliuice/dash-to-dock) - A dock for the Gnome Shell. This extension   moves the dash out of the overview transforming it in a dock for an easier   launching of applications and a faster switching between windows and desktops.
 - [alyssaxuu/mapus](https://github.com/alyssaxuu/mapus) - A map tool with real-time collaboration 🗺️
 - [monkaBlyat/docker-chromium-armhf](https://github.com/monkaBlyat/docker-chromium-armhf) - A docker container to provide an armhf chromium instance with widevine installed in it (allows Spotify, Netflix, etc.)
@@ -1646,7 +1646,6 @@
 - [sphero-inc/sphero-sdk-raspberrypi-python](https://github.com/sphero-inc/sphero-sdk-raspberrypi-python) - Sphero RVR SDK to run on Raspberry Pi using Python
 - [fritzing/fritzing-parts](https://github.com/fritzing/fritzing-parts) - Electronic components for use in the Fritzing app (aka the parts library)
 - [powerline/powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
-- [firedm/FireDM](https://github.com/firedm/FireDM) - python open source (Internet Download Manager) with multi-connections, high speed engine, based on python, LibCurl, and youtube_dl https://github.com/firedm/FireDM
 - [HsOjo/Dockore](https://github.com/HsOjo/Dockore) - A Web GUI manager for docker.
 - [virtio-win/virtio-win-guest-tools-installer](https://github.com/virtio-win/virtio-win-guest-tools-installer) - 
 - [spesmilo/electrum](https://github.com/spesmilo/electrum) - Electrum Bitcoin Wallet
@@ -1751,7 +1750,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [bbilly1/tubearchivist](https://github.com/bbilly1/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-435-Stars](https://github.com/iBug/This-Repo-Has-435-Stars) - Yes, it's true :two_hearts: This repository has 435 stars.
+- [iBug/This-Repo-Has-436-Stars](https://github.com/iBug/This-Repo-Has-436-Stars) - Yes, it's true :heartpulse: This repository has 436 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
