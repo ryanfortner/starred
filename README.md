@@ -95,6 +95,7 @@
 
 ## C 
 
+- [mhsjlw/mcpilauncher](https://github.com/mhsjlw/mcpilauncher) - Launch Minecraft: PI Edition on non-ARM-based Linux systems
 - [probonopd/zsync-curl](https://github.com/probonopd/zsync-curl) - Partial/differential file download client over HTTP(S)
 - [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 - [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression
@@ -1294,6 +1295,7 @@
 
 ## Others 
 
+- [Red-exe-Engineer/Compiled-Scratch-Games](https://github.com/Red-exe-Engineer/Compiled-Scratch-Games) - A list of compiled Scratch games you can play in the browser!
 - [xirixiz/adguard-home-filters](https://github.com/xirixiz/adguard-home-filters) - Custom filter files for AdGuard Home
 - [damianperera/openwrt-rpi](https://github.com/damianperera/openwrt-rpi) - An OpenWrt build for Raspberry Pi
 - [brazilianbytes/kubernetes-the-rpi-way](https://github.com/brazilianbytes/kubernetes-the-rpi-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
@@ -1564,6 +1566,8 @@
 
 ## Python 
 
+- [Red-exe-Engineer/CPP-GUI-Compiler](https://github.com/Red-exe-Engineer/CPP-GUI-Compiler) - A simple GUI for compiling C++ programs
+- [novialriptide/Gravity](https://github.com/novialriptide/Gravity) - A puzzle game where you can control the gravity in the room you're in.
 - [bluesabre/mugshot](https://github.com/bluesabre/mugshot) - Mugshot - User Management Utility for Linux
 - [tuna/oh-my-tuna](https://github.com/tuna/oh-my-tuna) - Keep calm and use TUNA mirrors.
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
@@ -1894,6 +1898,7 @@
 
 ## Rust 
 
+- [pop-os/upgrade](https://github.com/pop-os/upgrade) - Utility for upgrading Pop!_OS and its recovery partition to new releases.
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
@@ -1963,6 +1968,7 @@
 
 ## Shell 
 
+- [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A hugh collection (80+) of plymouth themes ported from android bootanimations
 - [emojifreak/debian-rpi-image-script](https://github.com/emojifreak/debian-rpi-image-script) - Shell script to build Debian and Devuan SD card image booting the Raspberry Pi series
 - [buddyjojo/worli](https://github.com/buddyjojo/worli) - simple wor on linux installer
 - [wahyd4/aria2-ariang-docker](https://github.com/wahyd4/aria2-ariang-docker) - The Docker image for Aria2 + AriaNg + File Browser + Rclone
@@ -2328,7 +2334,7 @@
 - [NordicSemiconductor/IOS-nRF-Connect-Device-Manager](https://github.com/NordicSemiconductor/IOS-nRF-Connect-Device-Manager) - A mobile management library for devices supporting nRF Connect Device Manager.
 - [Copephobia/ntfy-ios](https://github.com/Copephobia/ntfy-ios) - iOS App for https://github.com/binwiederhier/ntfy
 - [toothbrush/Spotiqueue](https://github.com/toothbrush/Spotiqueue) - Dead-simple queue-oriented client for Spotify
-- [xan-m/InfiniLink](https://github.com/xan-m/InfiniLink) - iOS Companion App for PineTime
+- [InfiniTimeOrg/InfiniLink](https://github.com/InfiniTimeOrg/InfiniLink) - iOS Companion App for PineTime
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
 - [apple/swift-markdown](https://github.com/apple/swift-markdown) - A Swift package for parsing, building, editing, and analyzing Markdown documents.
 - [mymonero/mymonero-app-ios](https://github.com/mymonero/mymonero-app-ios) - The MyMonero native iOS app
