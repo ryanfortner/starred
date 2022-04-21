@@ -26,7 +26,6 @@
   - [Elixir](#elixir)
   - [Elm](#elm)
   - [Emacs Lisp](#emacs-lisp)
-  - [G-code](#g-code)
   - [GLSL](#glsl)
   - [Go](#go)
   - [HTML](#html)
@@ -96,6 +95,10 @@
 
 ## C 
 
+- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter
+- [pulkomandy/grafx2](https://github.com/pulkomandy/grafx2) - Mirror of GrafX2. Official repo is on gitlab.
+- [pbatard/libwdi](https://github.com/pbatard/libwdi) - Windows Driver Installer library for USB devices
+- [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [WireGuard/wireguard-linux](https://github.com/WireGuard/wireguard-linux) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-linux
 - [ck-telecom/pinetime](https://github.com/ck-telecom/pinetime) - zephyr based PineTime smartwatch
 - [winfsp/winfsp](https://github.com/winfsp/winfsp) - Windows File System Proxy - FUSE for Windows
@@ -373,6 +376,7 @@
 
 ## C++ 
 
+- [CrealityOfficial/Ender-3V2](https://github.com/CrealityOfficial/Ender-3V2) - 
 - [chromiumembedded/cef](https://github.com/chromiumembedded/cef) - Chromium Embedded Framework (CEF) official mirror. A simple framework for embedding Chromium-based browsers in other applications.
 - [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
 - [0vercl0k/wtf](https://github.com/0vercl0k/wtf) - wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows.
@@ -431,6 +435,7 @@
 - [cutefishos/core](https://github.com/cutefishos/core) - System components and backend.
 - [cutefishos/calculator](https://github.com/cutefishos/calculator) - Calculator.
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
+- [mriscoc/Ender3V2S1](https://github.com/mriscoc/Ender3V2S1) - This is optimized firmware for Ender3 V2/S1 3D printers.
 - [SamVanheer/halflife-updated](https://github.com/SamVanheer/halflife-updated) - Half-Life SDK updated to compile under VS2019. See here for more information: https://github.com/SamVanheer/halflife-updated/wiki
 - [soui3/soui](https://github.com/soui3/soui) - the simplest direct ui engine!
 - [netblue30/firetools](https://github.com/netblue30/firetools) - Firejail GUI
@@ -560,6 +565,7 @@
 
 ## CMake 
 
+- [unlimitedbacon/stl-thumb-kde](https://github.com/unlimitedbacon/stl-thumb-kde) - KDE plugin for stl-thumb
 - [Ravbug/AppImage.cmake](https://github.com/Ravbug/AppImage.cmake) - Generate AppImages automatically from your CMake build process
 - [cutefishos/icons](https://github.com/cutefishos/icons) - System default icon theme
 - [ryanfortner/c-alculator](https://github.com/ryanfortner/c-alculator) - c-calculator: a simple calculator written in c
@@ -691,10 +697,6 @@
 ## Emacs Lisp 
 
 - [dungeon-mode/game](https://github.com/dungeon-mode/game) - Create free (as in freedom) RPGs with GNU Emacs. And then play them.
-
-## G-code 
-
-- [mriscoc/Ender3V2S1](https://github.com/mriscoc/Ender3V2S1) - This is optimized firmware for Ender3 V2/S1 3D printers.
 
 ## GLSL 
 
@@ -942,6 +944,9 @@
 
 ## JavaScript 
 
+- [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
+- [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) - 🔥 Disintegrate your windows with style.
+- [dthree/cash](https://github.com/dthree/cash) - Cross-platform Linux commands in ES6
 - [conaticus/chrome-password-manager-extension](https://github.com/conaticus/chrome-password-manager-extension) - A password manager extension for Google Chrome.
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [nagix/mini-tokyo-3d](https://github.com/nagix/mini-tokyo-3d) - A real-time 3D digital map of Tokyo's public transport system
@@ -1311,6 +1316,8 @@
 
 ## Others 
 
+- [CrealityOfficial/OctoPrint-CrealityCloud-With-Video](https://github.com/CrealityOfficial/OctoPrint-CrealityCloud-With-Video) - A plugin to connect the CrealityCloud and OctoPrint with camera
+- [CrealityOfficial/OctoPrint-CrealityCloud](https://github.com/CrealityOfficial/OctoPrint-CrealityCloud) - OctoPrint Plugin for CrealityCloud
 - [hmsjy2017/tea-debs](https://github.com/hmsjy2017/tea-debs) - 
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [Red-exe-Engineer/Compiled-Scratch-Games](https://github.com/Red-exe-Engineer/Compiled-Scratch-Games) - A list of compiled Scratch games you can play in the browser!
@@ -1566,6 +1573,7 @@
 
 ## Perl 
 
+- [beyondgrep/ack3](https://github.com/beyondgrep/ack3) - ack is a grep-like search tool optimized for source code.
 - [raspbian-addons/packages.raspbian-addons.org](https://github.com/raspbian-addons/packages.raspbian-addons.org) - [wip] package search website for raspbian-addons
 - [smxi/inxi](https://github.com/smxi/inxi) - inxi is a full featured CLI system information tool. It is available in most Linux distribution repositories, and does its best to support the BSDs.
 - [jnweiger/showspeed](https://github.com/jnweiger/showspeed) - print I/O activity of process, files, or network.
@@ -1586,6 +1594,8 @@
 
 ## Python 
 
+- [idank/bashlex](https://github.com/idank/bashlex) - Python parser for bash
+- [dmerejkowsky/pycp](https://github.com/dmerejkowsky/pycp) - cp and mv with a progress bar
 - [googlefonts/noto-emoji](https://github.com/googlefonts/noto-emoji) - Noto Emoji fonts
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [pytest-dev/pytest-qt](https://github.com/pytest-dev/pytest-qt) - pytest plugin for Qt (PyQt4, PyQt5 and PySide) application testing
@@ -1782,7 +1792,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-437-Stars](https://github.com/iBug/This-Repo-Has-437-Stars) - Yes, it's true :purple_heart: This repository has 437 stars.
+- [iBug/This-Repo-Has-438-Stars](https://github.com/iBug/This-Repo-Has-438-Stars) - Yes, it's true :orange_heart: This repository has 438 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -1997,6 +2007,9 @@
 
 ## Shell 
 
+- [manishprivet/dynamic-gnome-wallpapers](https://github.com/manishprivet/dynamic-gnome-wallpapers) - A collection of awesome dynamic wallpapers for Gnome, and easy scripts to install them
+- [The-Exterminator/PiShrink-to-Crontab](https://github.com/The-Exterminator/PiShrink-to-Crontab) - Raspberry; PiShrink to Crontab
+- [imperador/chromefy](https://github.com/imperador/chromefy) - Project Croissant: Install Chrome OS on any Computer - Transforming Chromium to Chrome
 - [MatthewVance/unbound-docker-rpi](https://github.com/MatthewVance/unbound-docker-rpi) - Run Unbound with latest version of OpenSSL on Raspberry Pi with Docker.
 - [kryptoslogic/godaddy-domainclient](https://github.com/kryptoslogic/godaddy-domainclient) - Golang client for the Godaddy Domain API generated using Swagger Codegen
 - [RPi-Distro/raspi-gpio](https://github.com/RPi-Distro/raspi-gpio) - Dump the state of the BCM270x GPIOs
@@ -2484,6 +2497,7 @@
 
 ## Vala 
 
+- [pantheon-tweaks/pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks) - A system settings panel for the Pantheon desktop environment.
 - [Jai-JAP/pikiss-gui](https://github.com/Jai-JAP/pikiss-gui) - GTK frontend for PiKISS
 - [lainsce/dot-matrix](https://github.com/lainsce/dot-matrix) - The glyph playground of creativity from simple lines
 - [IBBoard/cawbird](https://github.com/IBBoard/cawbird) - A fork of the Corebird GTK Twitter client that continues to work with Twitter
