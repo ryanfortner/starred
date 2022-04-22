@@ -95,6 +95,9 @@
 
 ## C 
 
+- [Klipper3d/klipper](https://github.com/Klipper3d/klipper) - Klipper is a 3d-printer firmware
+- [Kitware/CMake](https://github.com/Kitware/CMake) - Mirror of CMake upstream repository
+- [Interrupt/systemshock](https://github.com/Interrupt/systemshock) - Shockolate - Same great System Shock, new great taste.
 - [php/php-src](https://github.com/php/php-src) - The PHP Interpreter
 - [pulkomandy/grafx2](https://github.com/pulkomandy/grafx2) - Mirror of GrafX2. Official repo is on gitlab.
 - [pbatard/libwdi](https://github.com/pbatard/libwdi) - Windows Driver Installer library for USB devices
@@ -310,7 +313,6 @@
 - [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
-- [MCPI-Revival/minecraft-pi-reborn](https://github.com/MCPI-Revival/minecraft-pi-reborn) - Official Mirror Of @TheBrokenRail's Minecraft: Pi Edition: Reborn.
 - [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.chat
 - [incbee/Unarchiver](https://github.com/incbee/Unarchiver) - Git mirror of The Unarchiver
 - [GNOME/dia](https://github.com/GNOME/dia) - Read-only mirror of https://gitlab.gnome.org/GNOME/dia
@@ -534,11 +536,12 @@
 - [anbox/anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
-- [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at https://www.freecadweb.org/tracker
+- [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) - A fast usermode x86 and x86-64 emulator for Arm64
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [CytopiaTeam/Cytopia](https://github.com/CytopiaTeam/Cytopia) - :deciduous_tree::house_with_garden::office::evergreen_tree: A city building simulation game
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
+- [MCPI-Revival/minecraft-pi-reborn](https://github.com/MCPI-Revival/minecraft-pi-reborn) - Official Mirror Of @TheBrokenRail's Minecraft: Pi Edition: Reborn.
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin) - very currency
 - [basvodde/filezilla](https://github.com/basvodde/filezilla) - Clone from https://svn.filezilla-project.org/svn/FileZilla3/trunk
@@ -704,6 +707,7 @@
 
 ## Go 
 
+- [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 - [go-gitea/tea](https://github.com/go-gitea/tea) - A command line tool to interact with Gitea servers, moved to https://gitea.com/gitea/tea
 - [winfsp/hubfs](https://github.com/winfsp/hubfs) - File system for GitHub
 - [srevinsaju/zap](https://github.com/srevinsaju/zap) - :zap: Delightful AppImage package manager
@@ -849,7 +853,7 @@
 - [KumaTea/pytorch-aarch64](https://github.com/KumaTea/pytorch-aarch64) - PyTorch wheels (whl) & conda for aarch64 / ARMv8 / ARM64
 - [revoxhere/revoxhere.github.io](https://github.com/revoxhere/revoxhere.github.io) - My portfolio
 - [revoxhere/magi-webservices](https://github.com/revoxhere/magi-webservices) - Coin Magi 2021 Explorer & Web Wallet
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for Raspberry Pi or any Linux distro for running self-hosted apps
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for Raspberry Pi or any Linux distro for self-hosting everything
 - [linuxmint/live-installer](https://github.com/linuxmint/live-installer) - A live installer for the Debian edition
 - [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
 - [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge) - Can you create something cool without modern tools?
@@ -888,6 +892,7 @@
 
 ## Java 
 
+- [i2p/i2p.i2p](https://github.com/i2p/i2p.i2p) - I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is both distributed and dynamic, with no trusted parties.
 - [google/gitiles](https://github.com/google/gitiles) - A simple browser for Git repositories.
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
 - [salesforce/dockerfile-image-update](https://github.com/salesforce/dockerfile-image-update) - A tool that helps you get security patches for Docker images into production as quickly as possible without breaking things
@@ -944,6 +949,10 @@
 
 ## JavaScript 
 
+- [EmDev21/Dollar](https://github.com/EmDev21/Dollar) - A startpage looking like a terminal
+- [Crilum/FireTerm](https://github.com/Crilum/FireTerm) - Firefox terminal startpage
+- [timothypholmes/startup-page](https://github.com/timothypholmes/startup-page) - A custom startup page for your browser.
+- [mifi/build-electron](https://github.com/mifi/build-electron) - Use ES modules in Electron
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) - 🔥 Disintegrate your windows with style.
 - [dthree/cash](https://github.com/dthree/cash) - Cross-platform Linux commands in ES6
@@ -1316,6 +1325,9 @@
 
 ## Others 
 
+- [project-afterburner/packages](https://github.com/project-afterburner/packages) - Project Afterburner package repository
+- [scotws/ubuntu-nas](https://github.com/scotws/ubuntu-nas) - Notes on a small Ubuntu NAS with ZFS and Docker
+- [soft-aesthetic/soft-era-vs-code](https://github.com/soft-aesthetic/soft-era-vs-code) - 🌸 soft era for VS Code ~ Light pastel syntax theme for soft, warm, cozy, cute coding. 🌱
 - [CrealityOfficial/OctoPrint-CrealityCloud-With-Video](https://github.com/CrealityOfficial/OctoPrint-CrealityCloud-With-Video) - A plugin to connect the CrealityCloud and OctoPrint with camera
 - [CrealityOfficial/OctoPrint-CrealityCloud](https://github.com/CrealityOfficial/OctoPrint-CrealityCloud) - OctoPrint Plugin for CrealityCloud
 - [hmsjy2017/tea-debs](https://github.com/hmsjy2017/tea-debs) - 
@@ -1594,6 +1606,9 @@
 
 ## Python 
 
+- [oxmc/itunes-rpi](https://github.com/oxmc/itunes-rpi) - 
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+- [UN-GCPDS/qt-material](https://github.com/UN-GCPDS/qt-material) - Material inspired stylesheet for PySide2, PySide6, PyQt5 and PyQt6
 - [idank/bashlex](https://github.com/idank/bashlex) - Python parser for bash
 - [dmerejkowsky/pycp](https://github.com/dmerejkowsky/pycp) - cp and mv with a progress bar
 - [googlefonts/noto-emoji](https://github.com/googlefonts/noto-emoji) - Noto Emoji fonts
@@ -2007,6 +2022,7 @@
 
 ## Shell 
 
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get functionality for .debs published in 3rd party repositories or via direct download
 - [manishprivet/dynamic-gnome-wallpapers](https://github.com/manishprivet/dynamic-gnome-wallpapers) - A collection of awesome dynamic wallpapers for Gnome, and easy scripts to install them
 - [The-Exterminator/PiShrink-to-Crontab](https://github.com/The-Exterminator/PiShrink-to-Crontab) - Raspberry; PiShrink to Crontab
 - [imperador/chromefy](https://github.com/imperador/chromefy) - Project Croissant: Install Chrome OS on any Computer - Transforming Chromium to Chrome
@@ -2399,6 +2415,7 @@
 
 ## TypeScript 
 
+- [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
 - [gillchristian/tsplay.dev](https://github.com/gillchristian/tsplay.dev) - TypeScript Playground Shortener
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
