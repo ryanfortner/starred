@@ -98,6 +98,7 @@
 
 ## C 
 
+- [littlefs-project/littlefs](https://github.com/littlefs-project/littlefs) - A little fail-safe filesystem designed for microcontrollers
 - [radxa/rtkbt](https://github.com/radxa/rtkbt) - Realtek Bluetooth Linux Driver
 - [PeterCxy/evdev-right-click-emulation](https://github.com/PeterCxy/evdev-right-click-emulation) - Implement Long-Press-to-Right-Click on Touchscreen Linux Devices with Xorg or Wayland
 - [ProgerXP/SaneC](https://github.com/ProgerXP/SaneC) - A Library That Makes Programming in C Sane
@@ -1721,6 +1722,7 @@
 
 ## Python 
 
+- [crawsome/PyRPG_Mini](https://github.com/crawsome/PyRPG_Mini) - A small Python RPG, focused on RPG elements like battle and grinding
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [Dhravya/beautify-this-bot](https://github.com/Dhravya/beautify-this-bot) - A twitter bot that simply replies with a beautiful screenshot of the tweet, powered by beautify.dhravya.dev
 - [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
@@ -2746,6 +2748,8 @@
 
 ## Vala 
 
+- [lainsce/quilter](https://github.com/lainsce/quilter) - [DEPRECATED] Focus on your writing.
+- [lainsce/notejot](https://github.com/lainsce/notejot) - Stupidly-simple notes app.
 - [pantheon-tweaks/pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks) - A system settings panel for the Pantheon desktop environment.
 - [Jai-JAP/pikiss-gui](https://github.com/Jai-JAP/pikiss-gui) - GTK frontend for PiKISS
 - [lainsce/dot-matrix](https://github.com/lainsce/dot-matrix) - The glyph playground of creativity from simple lines
