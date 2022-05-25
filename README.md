@@ -765,6 +765,8 @@
 
 ## Go 
 
+- [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
+- [aarzilli/gdlv](https://github.com/aarzilli/gdlv) - GUI frontend for Delve
 - [flashmob/go-guerrilla](https://github.com/flashmob/go-guerrilla) - Mini SMTP server written in golang
 - [go-debos/debos](https://github.com/go-debos/debos) - Debian OS builder
 - [benjojo/mcod](https://github.com/benjojo/mcod) - Minecraft servers that only run when people are playing on them
@@ -1034,6 +1036,7 @@
 
 ## JavaScript 
 
+- [binary-person/rammerhead](https://github.com/binary-person/rammerhead) - User friendly web proxy powered by testcafe-hammerhead
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - 📷 Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
@@ -1429,6 +1432,7 @@
 
 ## Others 
 
+- [AppImage/awesome-appimage](https://github.com/AppImage/awesome-appimage) - Lovingly crafted AppImage tools and resources
 - [ryanfortner/peazip-arm](https://github.com/ryanfortner/peazip-arm) - 
 - [kmille36/windows-11-cursors-concept-premium](https://github.com/kmille36/windows-11-cursors-concept-premium) - Windows 11 Cursors Concept v2 by  jepriCreations (PREMIUM)
 - [arduino/library-registry](https://github.com/arduino/library-registry) - Arduino Library Manager list
@@ -1705,6 +1709,7 @@
 
 ## Perl 
 
+- [nthykier/apt-file](https://github.com/nthykier/apt-file) - 
 - [ParrotSec/tasksel](https://github.com/ParrotSec/tasksel) - 
 - [beyondgrep/ack3](https://github.com/beyondgrep/ack3) - ack is a grep-like search tool optimized for source code.
 - [raspbian-addons/packages.raspbian-addons.org](https://github.com/raspbian-addons/packages.raspbian-addons.org) - [wip] package search website for raspbian-addons
@@ -1729,6 +1734,7 @@
 
 ## Python 
 
+- [Soemonewho2/apocolyptic-fighter](https://github.com/Soemonewho2/apocolyptic-fighter) - A post apocalyptic game made with pygame
 - [GabMus/HydraPaper](https://github.com/GabMus/HydraPaper) - A Gtk utility to set two different backgrounds for each monitor on GNOME (which lacks this feature)
 - [crawsome/PyRPG_Mini](https://github.com/crawsome/PyRPG_Mini) - A small Python RPG, focused on RPG elements like battle and grinding
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
@@ -2120,6 +2126,7 @@
 
 ## Rust 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative.
 - [SerenityOS/jakt](https://github.com/SerenityOS/jakt) - The Jakt Programming Language
 - [gorilla-devs/ferium](https://github.com/gorilla-devs/ferium) - Fast and multi-source CLI program for managing Minecraft mods and modpacks from Modrinth, CurseForge, and Github Releases
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
