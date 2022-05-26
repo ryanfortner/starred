@@ -99,6 +99,8 @@
 
 ## C 
 
+- [libimobiledevice/libirecovery](https://github.com/libimobiledevice/libirecovery) - Library and utility to talk to iBoot/iBSS via USB on Mac OS X, Windows, and Linux
+- [1Conan/tsschecker](https://github.com/1Conan/tsschecker) - a powerful tool to check tss signing status of various devices and firmwares
 - [littlefs-project/littlefs](https://github.com/littlefs-project/littlefs) - A little fail-safe filesystem designed for microcontrollers
 - [radxa/rtkbt](https://github.com/radxa/rtkbt) - Realtek Bluetooth Linux Driver
 - [PeterCxy/evdev-right-click-emulation](https://github.com/PeterCxy/evdev-right-click-emulation) - Implement Long-Press-to-Right-Click on Touchscreen Linux Devices with Xorg or Wayland
@@ -411,6 +413,8 @@
 
 ## C++ 
 
+- [futurerestore/futurerestore](https://github.com/futurerestore/futurerestore) - A hacked up idevicerestore wrapper, which allows specifying SEP and Baseband for restoring
+- [widelands/widelands](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and d
 - [davidbannon/libqt5pas](https://github.com/davidbannon/libqt5pas) - Unofficial Repository
 - [GNOME/gparted](https://github.com/GNOME/gparted) - Read-only mirror of https://gitlab.gnome.org/GNOME/gparted
 - [oxen-io/lokinet-control-panel](https://github.com/oxen-io/lokinet-control-panel) - a control panel for managing Lokinet
@@ -613,7 +617,7 @@
 - [MultiMC/Launcher](https://github.com/MultiMC/Launcher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
 - [JJTech0130/MultiMC5](https://github.com/JJTech0130/MultiMC5) - Deprecated.
 - [FD-/RPiPlay](https://github.com/FD-/RPiPlay) - An open-source AirPlay mirroring server for the Raspberry Pi. Supports iOS 9 and up.
-- [winegui/WineGui](https://github.com/winegui/WineGui) - Finally, a user-friendly WINE graphical interface (mirror from Gitlab)
+- [winegui/WineGUI](https://github.com/winegui/WineGUI) - Finally, a user-friendly WINE graphical interface (mirror from Gitlab)
 - [oxen-io/lokinet](https://github.com/oxen-io/lokinet) - Lokinet is an anonymous, decentralized and IP based overlay network for the internet.
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 - [RetroPie/EmulationStation](https://github.com/RetroPie/EmulationStation) - A Fork of Emulation Station for RetroPie. Emulation Station is a flexible emulator front-end supporting keyboardless navigation and custom system themes.
@@ -910,6 +914,8 @@
 
 ## HTML 
 
+- [mrmierzejewski/hugo-theme-console](https://github.com/mrmierzejewski/hugo-theme-console) - A minimal, responsive and light theme for Hugo inspired by Linux console.
+- [xvvvyz/tilde](https://github.com/xvvvyz/tilde) - Minimal browser startpage.
 - [grassmunk/Chicago95](https://github.com/grassmunk/Chicago95) - A rendition of everyone's favorite 1995 Microsoft operating system for Linux.
 - [xfirefly/Airplay-SDK](https://github.com/xfirefly/Airplay-SDK) - Airplay Receiver SDK supports Airplay Mirroring and AirPlay Casting to a receiver device.
 - [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
@@ -937,6 +943,7 @@
 - [revoxhere/magi-webservices](https://github.com/revoxhere/magi-webservices) - Coin Magi 2021 Explorer & Web Wallet
 - [LAX1DUDE/eaglercraft](https://github.com/LAX1DUDE/eaglercraft) - Eaglercraft is real Minecraft 1.5.2 that you can play in any regular web browser. That includes school chromebooks, it works on all chromebooks. You can join real Minecraft 1.5.2 servers with it throu
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for Raspberry Pi or any Linux distro for self-hosting everything
+- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [linuxmint/live-installer](https://github.com/linuxmint/live-installer) - A live installer for the Debian edition
 - [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
 - [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge) - Can you create something cool without modern tools?
@@ -1432,6 +1439,7 @@
 
 ## Others 
 
+- [raspbian-addons/mirrors](https://github.com/raspbian-addons/mirrors) - repository mirrors for the Raspbian Addons repository
 - [AppImage/awesome-appimage](https://github.com/AppImage/awesome-appimage) - Lovingly crafted AppImage tools and resources
 - [ryanfortner/peazip-arm](https://github.com/ryanfortner/peazip-arm) - 
 - [kmille36/windows-11-cursors-concept-premium](https://github.com/kmille36/windows-11-cursors-concept-premium) - Windows 11 Cursors Concept v2 by  jepriCreations (PREMIUM)
@@ -1734,6 +1742,7 @@
 
 ## Python 
 
+- [m1stadev/Inferius](https://github.com/m1stadev/Inferius) - Create & Restore 64-bit custom IPSWs
 - [Soemonewho2/apocolyptic-fighter](https://github.com/Soemonewho2/apocolyptic-fighter) - A post apocalyptic game made with pygame
 - [GabMus/HydraPaper](https://github.com/GabMus/HydraPaper) - A Gtk utility to set two different backgrounds for each monitor on GNOME (which lacks this feature)
 - [crawsome/PyRPG_Mini](https://github.com/crawsome/PyRPG_Mini) - A small Python RPG, focused on RPG elements like battle and grinding
@@ -1975,7 +1984,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-448-Stars](https://github.com/iBug/This-Repo-Has-448-Stars) - Yes, it's true :yellow_heart: This repository has 448 stars.
+- [iBug/This-Repo-Has-448-Stars](https://github.com/iBug/This-Repo-Has-448-Stars) - Yes, it's true :heartpulse: This repository has 448 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -2208,6 +2217,7 @@
 
 ## Shell 
 
+- [pirate/wikipedia-mirror](https://github.com/pirate/wikipedia-mirror) - 🌐 Guide and tools to run a full offline mirror of Wikipedia.org with three different approaches: Nginx caching proxy, Kiwix + ZIM dump, and MediaWiki/XOWA + XML dump
 - [clayrisser/breeze-hacked-cursor-theme](https://github.com/clayrisser/breeze-hacked-cursor-theme) - Official cursor theme for Jam OS
 - [ProjectAfterBurner/afterburner-neofetch-theme](https://github.com/ProjectAfterBurner/afterburner-neofetch-theme) - 🖼️  A command-line system information tool written in bash 3.2+
 - [ryanfortner/ubuntu22.04-scripts](https://github.com/ryanfortner/ubuntu22.04-scripts) - scripts to make ubuntu 22.04 better
@@ -2583,7 +2593,7 @@
 - [Botspot/Pi-Power-Tools](https://github.com/Botspot/Pi-Power-Tools) - General Purpose Raspbian Image & SD Card Manager
 - [Botspot/Boxy-SVG-RPi](https://github.com/Botspot/Boxy-SVG-RPi) - 
 - [Botspot/box86-updater](https://github.com/Botspot/box86-updater) - Keeps box86 updated on a weekly basis, without ever compiling it thanks to Pale's weekly builds.
-- [dtcooper/raspotify](https://github.com/dtcooper/raspotify) - Spotify Connect client for the Raspberry Pi that Just Works™
+- [dtcooper/raspotify](https://github.com/dtcooper/raspotify) - A Spotify Connect client that mostly Just Works™
 - [XPi3032/XPiWhite](https://github.com/XPi3032/XPiWhite) - Whitelisting for the Raspberry Pi's Pi-hole
 - [RetroPie/RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup) - Shell script to set up a Raspberry Pi/Odroid/PC with RetroArch emulator and various cores
 - [Botspot/TwistUP](https://github.com/Botspot/TwistUP) - The new, simple Twister OS patcher
@@ -2648,6 +2658,7 @@
 
 ## TypeScript 
 
+- [motifland/yfs](https://github.com/motifland/yfs) - Synchronize text files between browser and disk using Yjs and the File System Access API
 - [flathub/linux-store-frontend](https://github.com/flathub/linux-store-frontend) - A web application to browse and install applications present in Flatpak repositories. Powers https://www.flathub.org
 - [ncipollo/release-action](https://github.com/ncipollo/release-action) - An action which manages a github release
 - [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website
@@ -2692,7 +2703,6 @@
 - [fosscord/fosscord-server](https://github.com/fosscord/fosscord-server) - Fosscord backend made with Typescript and love (and a bit of C++)
 - [bitwarden/cli](https://github.com/bitwarden/cli) - The command line vault (Windows, macOS, & Linux).
 - [thedaviddelta/lingva-translate](https://github.com/thedaviddelta/lingva-translate) - Alternative front-end for Google Translate
-- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [AH-dark/UptimePage](https://github.com/AH-dark/UptimePage) - Static Page for UptimeRobot. Powered by Next.js
 - [ArmCord/ArmCord](https://github.com/ArmCord/ArmCord) - ArmCord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
