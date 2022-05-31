@@ -349,6 +349,7 @@
 - [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
+- [MCPI-Revival/minecraft-pi-reborn](https://github.com/MCPI-Revival/minecraft-pi-reborn) - Official Mirror Of @TheBrokenRail's Minecraft: Pi Edition: Reborn.
 - [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.c
 - [incbee/Unarchiver](https://github.com/incbee/Unarchiver) - Git mirror of The Unarchiver
 - [GNOME/dia](https://github.com/GNOME/dia) - Read-only mirror of https://gitlab.gnome.org/GNOME/dia
@@ -415,6 +416,7 @@
 
 ## C++ 
 
+- [skyline-emu/skyline](https://github.com/skyline-emu/skyline) - Run Nintendo Switch homebrew & games on your Android device!
 - [contour-terminal/contour](https://github.com/contour-terminal/contour) - Modern C++ Terminal Emulator
 - [futurerestore/futurerestore](https://github.com/futurerestore/futurerestore) - A hacked up idevicerestore wrapper, which allows specifying SEP and Baseband for restoring
 - [widelands/widelands](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and d
@@ -602,7 +604,6 @@
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [CytopiaTeam/Cytopia](https://github.com/CytopiaTeam/Cytopia) - :deciduous_tree::house_with_garden::office::evergreen_tree: A city building simulation game
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
-- [MCPI-Revival/minecraft-pi-reborn](https://github.com/MCPI-Revival/minecraft-pi-reborn) - Official Mirror Of @TheBrokenRail's Minecraft: Pi Edition: Reborn.
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin) - very currency
 - [basvodde/filezilla](https://github.com/basvodde/filezilla) - Clone from https://svn.filezilla-project.org/svn/FileZilla3/trunk
@@ -1051,6 +1052,7 @@
 
 ## JavaScript 
 
+- [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware
 - [binary-person/rammerhead](https://github.com/binary-person/rammerhead) - User friendly web proxy powered by testcafe-hammerhead
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - 📷 Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
@@ -1153,6 +1155,7 @@
 - [gr2m/twitter-together](https://github.com/gr2m/twitter-together) - :bird: A GitHub action to tweet from a repository
 - [Mcorial/DuinoCoin-Wallet-extension](https://github.com/Mcorial/DuinoCoin-Wallet-extension) - 
 - [meetfranz/franz](https://github.com/meetfranz/franz) - Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [virae/we-stand-with-ukraine](https://github.com/virae/we-stand-with-ukraine) - Ukraine flag badge for your website
@@ -1441,6 +1444,7 @@
 
 ## Others 
 
+- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [worproject/WoR-Translations](https://github.com/worproject/WoR-Translations) - Language files for the Windows on Raspberry imager.
 - [merocle/scalable-Mac-mini-stand](https://github.com/merocle/scalable-Mac-mini-stand) - Rack-mount stand for Apple Mac mini
 - [raspbian-addons/mirrors](https://github.com/raspbian-addons/mirrors) - repository mirrors for the Raspbian Addons repository
@@ -2142,6 +2146,7 @@
 
 ## Rust 
 
+- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [leftwm/leftwm](https://github.com/leftwm/leftwm) - LeftWM - A tiling window manager for Adventurers
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices.
 - [SerenityOS/jakt](https://github.com/SerenityOS/jakt) - The Jakt Programming Language
@@ -2225,6 +2230,7 @@
 
 ## Shell 
 
+- [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [grokbeer/wifi-to-ethernet](https://github.com/grokbeer/wifi-to-ethernet) - WiFi-to-Ethernet: Use a Raspberry Pi to easily connect an Ethernet-only device to your WiFi network.
 - [mapi68/raspi-info](https://github.com/mapi68/raspi-info) - RASPI-INFO is a tool to get a lot of infomations about your Raspberry Pi
 - [pirate/wikipedia-mirror](https://github.com/pirate/wikipedia-mirror) - 🌐 Guide and tools to run a full offline mirror of Wikipedia.org with three different approaches: Nginx caching proxy, Kiwix + ZIM dump, and MediaWiki/XOWA + XML dump
@@ -2448,7 +2454,6 @@
 - [ryanfortner/snapdrop-rpi](https://github.com/ryanfortner/snapdrop-rpi) - A Progressive Web App for local file sharing
 - [ryanfortner/build-deb](https://github.com/ryanfortner/build-deb) - GNU/Linux Debian package builder.
 - [ryanfortner/au-sh](https://github.com/ryanfortner/au-sh) - autoupdate script
-- [ryanfortner/pi-apps](https://github.com/ryanfortner/pi-apps) - Raspberry Pi App Store for Open Source Projects
 - [billw2/rpi-clone](https://github.com/billw2/rpi-clone) - A shell script to clone a booted disk.
 - [pacstall/pacstall-programs](https://github.com/pacstall/pacstall-programs) - Pacstall's official program repository
 - [rajkumardusad/onex](https://github.com/rajkumardusad/onex) - Onex is a package manager for hacker's. Onex manage more than 400+ hacking tools that can be installed on single click.
@@ -2710,7 +2715,6 @@
 - [Chia-Network/chia-blockchain-gui](https://github.com/Chia-Network/chia-blockchain-gui) - Chia blockchain GUI in electron/react
 - [itchio/itch](https://github.com/itchio/itch) - 🎮 The best way to play your itch.io games
 - [purocean/yn](https://github.com/purocean/yn) - A Hackable Markdown Note Application for Programmers. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, plug-in,
-- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [fosscord/fosscord-server](https://github.com/fosscord/fosscord-server) - Fosscord backend made with Typescript and love (and a bit of C++)
 - [bitwarden/cli](https://github.com/bitwarden/cli) - The command line vault (Windows, macOS, & Linux).
 - [thedaviddelta/lingva-translate](https://github.com/thedaviddelta/lingva-translate) - Alternative front-end for Google Translate
