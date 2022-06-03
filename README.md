@@ -99,6 +99,7 @@
 
 ## C 
 
+- [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
 - [git-for-windows/git](https://github.com/git-for-windows/git) - A fork of Git containing Windows-specific patches.
 - [linuxmint/xed](https://github.com/linuxmint/xed) - X-Apps [Text] Editor (Cross-DE, backward-compatible, GTK3, traditional UI)
 - [intel/media-driver](https://github.com/intel/media-driver) - 
@@ -927,6 +928,7 @@
 
 ## HTML 
 
+- [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
 - [mrmierzejewski/hugo-theme-console](https://github.com/mrmierzejewski/hugo-theme-console) - A minimal, responsive and light theme for Hugo inspired by Linux console.
 - [xvvvyz/tilde](https://github.com/xvvvyz/tilde) - Minimal browser startpage.
 - [grassmunk/Chicago95](https://github.com/grassmunk/Chicago95) - A rendition of everyone's favorite 1995 Microsoft operating system for Linux.
@@ -1059,6 +1061,7 @@
 
 ## JavaScript 
 
+- [tholman/cursor-effects](https://github.com/tholman/cursor-effects) - Only 90's kids remember... well not really, but these beloved effects that would follow your mouse around will always be classic reminders of the old, beloved internet.
 - [xianfei/SysMocap](https://github.com/xianfei/SysMocap) - A real-time motion capture system for 3D virtual character animating.
 - [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware
 - [binary-person/rammerhead](https://github.com/binary-person/rammerhead) - User friendly web proxy powered by testcafe-hammerhead
@@ -1370,6 +1373,7 @@
 
 ## Lua 
 
+- [HTV04/funkin-rewritten](https://github.com/HTV04/funkin-rewritten) - Optimized rewrite of Friday Night Funkin' built on LÖVE
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for NeoVim
 - [ChrisTitusTech/titus-awesome](https://github.com/ChrisTitusTech/titus-awesome) - Custom AwesomeWM Theme
 - [2439905184/oh-my-giraffe](https://github.com/2439905184/oh-my-giraffe) - a game made with love2d ,here is the code ,if you want to learn program
@@ -1453,6 +1457,8 @@
 
 ## Others 
 
+- [ryanfortner/cherryflowerJB](https://github.com/ryanfortner/cherryflowerJB) - 
+- [foxlet/bootra1n](https://github.com/foxlet/bootra1n) - Just enough Linux for checkra1n.
 - [ryanfortner/pfp-collection](https://github.com/ryanfortner/pfp-collection) - my profile picture collection for different seasons
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [worproject/WoR-Translations](https://github.com/worproject/WoR-Translations) - Language files for the Windows on Raspberry imager.
@@ -1593,7 +1599,7 @@
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [actionschnitzel/Make-Me-Xfce](https://github.com/actionschnitzel/Make-Me-Xfce) - 
 - [pepers/vim-adventures](https://github.com/pepers/vim-adventures) - solutions to puzzles in Vim Adventures
-- [github/feedback](https://github.com/github/feedback) - Public feedback discussions for: GitHub for Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
+- [github-community/community](https://github.com/github-community/community) - Public feedback discussions for: GitHub for Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
 - [natethinks/jog](https://github.com/natethinks/jog) - Simple script to print the last 10 commands you ran in the current directory
 - [hmsjy2017/Aria2-Pro-Core-debs](https://github.com/hmsjy2017/Aria2-Pro-Core-debs) - 
 - [hmsjy2017/transfer-debs](https://github.com/hmsjy2017/transfer-debs) - 
@@ -1890,7 +1896,7 @@
 - [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Launched in 2018. It's 2022 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with 
 - [jlu5/icoextract](https://github.com/jlu5/icoextract) - Extract icons from Windows PE files (.exe/.dll)
 - [PlayOnLinux/POL-POM-4](https://github.com/PlayOnLinux/POL-POM-4) - PlayOnLinux 4 repository
-- [natorsc/gui-python-gtk](https://github.com/natorsc/gui-python-gtk) - Repositório criado para documentar e centralizar conteúdos, dicas, tutoriais e exemplos de código sobre a construção de interfaces com a linguagem de programação Python (PyGObject) e o toolkit gráfico
+- [natorsc/gui-python-pygobject-gtk4](https://github.com/natorsc/gui-python-pygobject-gtk4) - Repositório criado para documentar e centralizar conteúdos, dicas, tutoriais e exemplos de código sobre a construção de interfaces com a linguagem de programação Python (PyGObject) e o toolkit gráfico
 - [simons-public/protonfixes](https://github.com/simons-public/protonfixes) - A module for applying fixes at runtime to unsupported games with Steam Proton without changing game installation files
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
@@ -2159,6 +2165,7 @@
 
 ## Rust 
 
+- [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [leftwm/leftwm](https://github.com/leftwm/leftwm) - LeftWM - A tiling window manager for Adventurers
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices.
