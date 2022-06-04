@@ -63,6 +63,7 @@
 - [Rust](#rust)
 - [SCSS](#scss)
 - [SWIG](#swig)
+- [Sass](#sass)
 - [Scala](#scala)
 - [Shell](#shell)
 - [Smali](#smali)
@@ -99,6 +100,9 @@
 
 ## C 
 
+- [coolstar/RecordMyScreen](https://github.com/coolstar/RecordMyScreen) - Record the display even on non-jailbroken iPhones.
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
+- [gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
 - [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
 - [git-for-windows/git](https://github.com/git-for-windows/git) - A fork of Git containing Windows-specific patches.
 - [linuxmint/xed](https://github.com/linuxmint/xed) - X-Apps [Text] Editor (Cross-DE, backward-compatible, GTK3, traditional UI)
@@ -420,6 +424,7 @@
 
 ## C++ 
 
+- [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
 - [ruckard/magi](https://github.com/ruckard/magi) - Official Source of Coin MAGI (XMG)
 - [snes9xgit/snes9x](https://github.com/snes9xgit/snes9x) - Snes9x - Portable Super Nintendo Entertainment System (TM) emulator
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
@@ -957,7 +962,6 @@
 - [revoxhere/magi-webservices](https://github.com/revoxhere/magi-webservices) - Coin Magi 2021 Explorer & Web Wallet
 - [LAX1DUDE/eaglercraft](https://github.com/LAX1DUDE/eaglercraft) - Eaglercraft is real Minecraft 1.5.2 that you can play in any regular web browser. That includes school chromebooks, it works on all chromebooks. You can join real Minecraft 1.5.2 servers with it throu
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for Raspberry Pi or any Linux distro for self-hosting everything
-- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [linuxmint/live-installer](https://github.com/linuxmint/live-installer) - A live installer for the Debian edition
 - [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
 - [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge) - Can you create something cool without modern tools?
@@ -1061,6 +1065,11 @@
 
 ## JavaScript 
 
+- [ZorinOS/zorin-taskbar](https://github.com/ZorinOS/zorin-taskbar) - The official taskbar for Zorin OS.
+- [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
+- [rishz/URL-Shortener](https://github.com/rishz/URL-Shortener) - A URL-Shortener created using Node-JS and synced with Firebase Database.
+- [AnandChowdhary/followers-tracker](https://github.com/AnandChowdhary/followers-tracker) - :octocat: Tracking my GitHub followers using Slack
+- [plibither8/gh-followers-tracker](https://github.com/plibither8/gh-followers-tracker) - :octocat: Tracking my GitHub following and un-following with notifications on Telegram (why not lol)
 - [tholman/cursor-effects](https://github.com/tholman/cursor-effects) - Only 90's kids remember... well not really, but these beloved effects that would follow your mouse around will always be classic reminders of the old, beloved internet.
 - [xianfei/SysMocap](https://github.com/xianfei/SysMocap) - A real-time motion capture system for 3D virtual character animating.
 - [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware
@@ -1174,7 +1183,6 @@
 - [mrcrypster/notide](https://github.com/mrcrypster/notide) - Edit local code from desktop/server online with syntax highlighting and files explorer
 - [titaniumnetwork-dev/Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet) - Highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more!
 - [titaniumnetwork-dev/Ultraviolet-Node](https://github.com/titaniumnetwork-dev/Ultraviolet-Node) - Highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more! Easy deployment version (Node.js)
-- [Griphitor/Griphitor](https://github.com/Griphitor/Griphitor) - Griphitor is a Code editor developed with ☕
 - [denysdovhan/bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
 - [denysdovhan/learnyoubash](https://github.com/denysdovhan/learnyoubash) - Learn you how to write your first bash script
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
@@ -1359,6 +1367,7 @@
 
 ## Kotlin 
 
+- [rouzbehzarei/filester](https://github.com/rouzbehzarei/filester) - A simple file uploader for Android
 - [retrowars/retrowars](https://github.com/retrowars/retrowars) - Play retro games against each other in any combination in this open source Android multiplayer game.
 - [termux/termux-gui](https://github.com/termux/termux-gui) - A plugin for Termux to use native Android GUI components from CLI applications.
 - [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
@@ -1521,7 +1530,7 @@
 - [ryanfortner/magi-wallet-debs](https://github.com/ryanfortner/magi-wallet-debs) - XMG (Coin Magi) wallet software for Linux
 - [uadata/uadata](https://github.com/uadata/uadata) - Український Дата Хаб - Сервіс відкритих даних про Україну з простим інтерфейсом та безкоштовним доступом через API для розробників
 - [CreativeTools/3DBenchy](https://github.com/CreativeTools/3DBenchy) - #3DBenchy is a 3D model specifically designed for testing and benchmarking 3D printers. It is a small recognizable object that you can download for free, make and share.
-- [runcitadel/citadel](https://github.com/runcitadel/citadel) - Citadel - get started
+- [runcitadel/citadel](https://github.com/runcitadel/citadel) - Citadel - free and open-source Lightning node and home server
 - [nordicgiant2/vue-nice-homepage](https://github.com/nordicgiant2/vue-nice-homepage) - A beautiful vue.js homepage template, very useful
 - [nordicgiant2/awesome-landing-page](https://github.com/nordicgiant2/awesome-landing-page) - A series of beautiful and practical landing page templates
 - [lineage-rpi/OTA](https://github.com/lineage-rpi/OTA) - 
@@ -1714,7 +1723,7 @@
 - [luolongfei/freenom](https://github.com/luolongfei/freenom) - Freenom 域名自动续期。Freenom domain name renews automatically.
 - [uup-dump/api](https://github.com/uup-dump/api) - UUP dump API code
 - [uup-dump/website](https://github.com/uup-dump/website) - Core code of the UUP dump website
-- [MiczFlor/RPi-Jukebox-RFID](https://github.com/MiczFlor/RPi-Jukebox-RFID) - A Raspberry Pi jukebox, playing local music, podcasts and web radio, streams and spotify triggered by RFID cards and/or web app. All plug and play via USB. GPIO scripts available.
+- [MiczFlor/RPi-Jukebox-RFID](https://github.com/MiczFlor/RPi-Jukebox-RFID) - A Raspberry Pi jukebox, playing local music, podcasts, web radio and streams triggered by RFID cards, web app or home automation. All plug and play via USB. GPIO scripts available.
 - [PiPass/blockpage](https://github.com/PiPass/blockpage) - A temporary unblock solution and blockpage for your Pi-Hole system
 - [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher
 - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding
@@ -1768,6 +1777,7 @@
 
 ## Python 
 
+- [disposable/disposable](https://github.com/disposable/disposable) - A list of disposable/temporary email address domains
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [tareksander/termux-gui-package](https://github.com/tareksander/termux-gui-package) - A Termux package containing utilities for Termux:GUI.
 - [kroo/wyzecam](https://github.com/kroo/wyzecam) - Python package for streaming video from wyze cameras over the local network
@@ -1915,7 +1925,7 @@
 - [Gamper98/Sudoku-Solver](https://github.com/Gamper98/Sudoku-Solver) - Sudoku solver written in python
 - [raspberrypi/picamera2](https://github.com/raspberrypi/picamera2) - New libcamera based python library
 - [casualsnek/cassowary](https://github.com/casualsnek/cassowary) - Run Windows Applications on Linux as if they are native, Use linux applications to launch files files located in windows vm without needing to install applications on vm. With easy to use configuratio
-- [vandalsoul/darkmatter-grub2-theme](https://github.com/vandalsoul/darkmatter-grub2-theme) - Dark Matter GRUB Theme  💙💙
+- [VandalByte/darkmatter-grub2-theme](https://github.com/VandalByte/darkmatter-grub2-theme) - Dark Matter GRUB Theme  💙💙
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [Jahaja/psdash](https://github.com/Jahaja/psdash) - A linux system information web dashboard using psutils and flask
 - [holoviz/panel](https://github.com/holoviz/panel) - A high-level app and dashboarding solution for Python
@@ -2165,6 +2175,7 @@
 
 ## Rust 
 
+- [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [leftwm/leftwm](https://github.com/leftwm/leftwm) - LeftWM - A tiling window manager for Adventurers
@@ -2244,12 +2255,17 @@
 
 - [microsoft/Microsoft-3D-Movie-Maker](https://github.com/microsoft/Microsoft-3D-Movie-Maker) - This is the source code for the original Microsoft 3D Movie Maker released in 1995. This is not supported software.
 
+## Sass 
+
+- [Weilbyte/PVEDiscordDark](https://github.com/Weilbyte/PVEDiscordDark) - A Discord-like dark theme for the Proxmox Web UI.
+
 ## Scala 
 
 - [softwaremill/tapir](https://github.com/softwaremill/tapir) - Declarative, type-safe web endpoints library
 
 ## Shell 
 
+- [YurinDoctrine/ubuntu-base-setup](https://github.com/YurinDoctrine/ubuntu-base-setup) - A fine rice bootstrapping script for Ubuntu & Pop!_OS
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [grokbeer/wifi-to-ethernet](https://github.com/grokbeer/wifi-to-ethernet) - WiFi-to-Ethernet: Use a Raspberry Pi to easily connect an Ethernet-only device to your WiFi network.
 - [mapi68/raspi-info](https://github.com/mapi68/raspi-info) - RASPI-INFO is a tool to get a lot of infomations about your Raspberry Pi
@@ -2664,6 +2680,7 @@
 
 ## Swift 
 
+- [Sileo/Sileo](https://github.com/Sileo/Sileo) - A modern package manager for iOS 12 and higher.
 - [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 The Camera library that sees the vision.
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [LinusHenze/Fugu14](https://github.com/LinusHenze/Fugu14) - Fugu14 is an untethered iOS 14.3-14.5.1 jailbreak
@@ -2739,6 +2756,7 @@
 - [fosscord/fosscord-server](https://github.com/fosscord/fosscord-server) - Fosscord backend made with Typescript and love (and a bit of C++)
 - [bitwarden/cli](https://github.com/bitwarden/cli) - The command line vault (Windows, macOS, & Linux).
 - [thedaviddelta/lingva-translate](https://github.com/thedaviddelta/lingva-translate) - Alternative front-end for Google Translate
+- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [AH-dark/UptimePage](https://github.com/AH-dark/UptimePage) - Static Page for UptimeRobot. Powered by Next.js
 - [ArmCord/ArmCord](https://github.com/ArmCord/ArmCord) - ArmCord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
@@ -2814,6 +2832,7 @@
 
 ## Vala 
 
+- [linuxmint/timeshift](https://github.com/linuxmint/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be resto
 - [lainsce/quilter](https://github.com/lainsce/quilter) - [DEPRECATED] Focus on your writing.
 - [lainsce/notejot](https://github.com/lainsce/notejot) - Stupidly-simple notes app.
 - [pantheon-tweaks/pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks) - A system settings panel for the Pantheon desktop environment.
