@@ -752,7 +752,7 @@
 - [filerun/docker](https://github.com/filerun/docker) - FileRun Docker Image
 - [unixfox/invidious-custom](https://github.com/unixfox/invidious-custom) - Invidious with some git patches (mostly from existing PRs) for yewtu.be
 - [TrafeX/docker-php-nginx](https://github.com/TrafeX/docker-php-nginx) - Docker image with PHP-FPM 8.1 & Nginx 1.22 on Alpine Linux
-- [hmsjy2017/debian-arm-build-env](https://github.com/hmsjy2017/debian-arm-build-env) - 
+- [hmsjy2017/debian-arm-build-env](https://github.com/hmsjy2017/debian-arm-build-env) - Build Linux arm software in Docker
 - [multiarch/crossbuild](https://github.com/multiarch/crossbuild) - :earth_africa: multiarch cross compiling environments
 - [vala-lang/docker-images](https://github.com/vala-lang/docker-images) - Official vala docker images
 - [developeranaz/Ubuntu-Desktop-noVNC-Heroku-VPS](https://github.com/developeranaz/Ubuntu-Desktop-noVNC-Heroku-VPS) - Ubuntu-Desktop-noVNC-Heroku-VPS serves docker VPS via heroku web and noVNC
@@ -790,6 +790,7 @@
 
 ## Go 
 
+- [alexballas/go2tv](https://github.com/alexballas/go2tv) - Cast media files to UPnP/DLNA Media Renderers and Smart TVs.
 - [coloradocolby/gh-eco](https://github.com/coloradocolby/gh-eco) - 🦎 gh extension to explore the ecosystem
 - [HyNetwork/hysteria](https://github.com/HyNetwork/hysteria) - Hysteria is a feature-packed network utility optimized for networks of poor quality (e.g. satellite connections, congested public Wi-Fi, connecting from China to servers abroad)
 - [CleanMachine1/Clone-repo-tool](https://github.com/CleanMachine1/Clone-repo-tool) - A short Go script to help clone lots of Git repositories at once
@@ -1079,7 +1080,7 @@
 - [xianfei/SysMocap](https://github.com/xianfei/SysMocap) - A real-time motion capture system for 3D virtual character animating.
 - [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware
 - [binary-person/rammerhead](https://github.com/binary-person/rammerhead) - User friendly web proxy powered by testcafe-hammerhead
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - 📷 Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [tchx84/Flatseal](https://github.com/tchx84/Flatseal) - Manage Flatpak permissions
@@ -2181,6 +2182,7 @@
 
 ## Rust 
 
+- [dteare/opbookmarks](https://github.com/dteare/opbookmarks) - Export 1Password item metadata to support 3rd party app integrations using the 1Password CLI
 - [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
 - [kyoheiu/felix](https://github.com/kyoheiu/felix) - tui file manager with vim-like key mapping
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
@@ -2273,6 +2275,7 @@
 
 ## Shell 
 
+- [phyver/GameShell](https://github.com/phyver/GameShell) - a game to learn (or teach) how to use standard commands in a Unix shell
 - [TheRemote/MinecraftBedrockServer](https://github.com/TheRemote/MinecraftBedrockServer) - Sets up a Minecraft Bedrock dedicated server on Ubuntu with options for automatic updates and running at startup
 - [koendv/Arduino_Tools](https://github.com/koendv/Arduino_Tools) - Contains upload tools for STM32 based boards
 - [YurinDoctrine/ubuntu-base-setup](https://github.com/YurinDoctrine/ubuntu-base-setup) - A fine rice bootstrapping script for Ubuntu & Pop!_OS
@@ -2304,7 +2307,7 @@
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [Crilum/apttools](https://github.com/Crilum/apttools) - make apt easier to use
 - [ProjectAfterBurner/update-scripts](https://github.com/ProjectAfterBurner/update-scripts) - package update scripts for our apt repository
-- [LukeZGD/iOS-OTA-Downgrader](https://github.com/LukeZGD/iOS-OTA-Downgrader) - Downgrade/restore and jailbreak iOS devices to signed OTA firmwares
+- [LukeZGD/iOS-OTA-Downgrader](https://github.com/LukeZGD/iOS-OTA-Downgrader) - Downgrade/restore and jailbreak legacy iOS devices to signed OTA firmwares
 - [missuo/MTProxy](https://github.com/missuo/MTProxy) - MTProxy v2 One-Click Installation
 - [NicoD-SBC/armbian-gaming](https://github.com/NicoD-SBC/armbian-gaming) - Tool to install gaming apps on Armbian Linux/Ubuntu/Debian arm64
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
@@ -2598,7 +2601,7 @@
 - [sakaki-/raspbian-nspawn-64](https://github.com/sakaki-/raspbian-nspawn-64) - Bootable RPi4 / RPi3 image with 64-bit kernel, 32-bit Raspbian Buster host OS, 64-bit Debian Buster guest OS in nspawn container
 - [CleanMachine1/Linux-DNS-Set](https://github.com/CleanMachine1/Linux-DNS-Set) - A small script to change the DNS server you use to resolve websites
 - [phoenixbyrd/TwistUP-UI](https://github.com/phoenixbyrd/TwistUP-UI) - The new, simple Twister OS patcher
-- [librewolf-community/LibreWolf](https://github.com/librewolf-community/LibreWolf) - Please open issues and PRs on GitLab. This is but a mirror.
+- [librewolf-community/browser-linux](https://github.com/librewolf-community/browser-linux) - Mirror of https://gitlab.com/librewolf-community/browser/linux. Please open issues and PRs there.
 - [agoldcheidt/Universal-Image-Generator-for-Berryboot](https://github.com/agoldcheidt/Universal-Image-Generator-for-Berryboot) - Now you can create your own Berryboot images of Multiples Operating Systems
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [Botspot/libreoffice-ms-theme](https://github.com/Botspot/libreoffice-ms-theme) - 
@@ -2719,6 +2722,7 @@
 
 ## TypeScript 
 
+- [SpacingBat3/ReForged](https://github.com/SpacingBat3/ReForged) - A set of Electron Forge tools, makers and publishers.
 - [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [debiki/talkyard](https://github.com/debiki/talkyard) - A community discussion platform: Brings together the main features from StackOverflow, Slack, Discourse, Reddit, and Disqus blog comments.
