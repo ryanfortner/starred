@@ -100,6 +100,8 @@
 
 ## C 
 
+- [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
+- [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer designed for reading research papers and technical books.
 - [pwmt/zathura](https://github.com/pwmt/zathura) - a document viewer
 - [coolstar/RecordMyScreen](https://github.com/coolstar/RecordMyScreen) - Record the display even on non-jailbroken iPhones.
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
@@ -655,6 +657,7 @@
 
 ## CSS 
 
+- [seankross/the-unix-workbench](https://github.com/seankross/the-unix-workbench) - :house_with_garden: A Book for Anyone to Get Started with Unix
 - [connors/photon](https://github.com/connors/photon) - The fastest way to build beautiful Electron apps using simple HTML and CSS
 - [sighingnow/jekyll-gitbook](https://github.com/sighingnow/jekyll-gitbook) - Build Jekyll site with GitBook style!
 - [discord-extensions/compact-userarea](https://github.com/discord-extensions/compact-userarea) - A compact, better looking, top-left user area.
@@ -738,6 +741,7 @@
 
 ## Dart 
 
+- [flutter/pinball](https://github.com/flutter/pinball) - Google I/O 2022 Pinball game built with Flutter and Firebase
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) - 
 - [proninyaroslav/libretrack](https://github.com/proninyaroslav/libretrack) - Private, cross-platform package tracking app
 - [dart-lang/sdk](https://github.com/dart-lang/sdk) - The Dart SDK, including the VM, dart2js, core libraries, and more.
@@ -791,8 +795,8 @@
 ## Go 
 
 - [alexballas/go2tv](https://github.com/alexballas/go2tv) - Cast media files to UPnP/DLNA Media Renderers and Smart TVs.
-- [coloradocolby/gh-eco](https://github.com/coloradocolby/gh-eco) - 🦎 gh extension to explore the ecosystem
-- [HyNetwork/hysteria](https://github.com/HyNetwork/hysteria) - Hysteria is a feature-packed network utility optimized for networks of poor quality (e.g. satellite connections, congested public Wi-Fi, connecting from China to servers abroad)
+- [coloradocolby/gh-eco](https://github.com/coloradocolby/gh-eco) - 🦎 gh cli extension to explore the ecosystem
+- [HyNetwork/hysteria](https://github.com/HyNetwork/hysteria) - Hysteria is a feature-packed proxy & relay utility optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting from China to servers abroad)
 - [CleanMachine1/Clone-repo-tool](https://github.com/CleanMachine1/Clone-repo-tool) - A short Go script to help clone lots of Git repositories at once
 - [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [aarzilli/gdlv](https://github.com/aarzilli/gdlv) - GUI frontend for Delve
@@ -1071,6 +1075,7 @@
 
 ## JavaScript 
 
+- [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
 - [ZorinOS/zorin-taskbar](https://github.com/ZorinOS/zorin-taskbar) - The official taskbar for Zorin OS.
 - [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
 - [rishz/URL-Shortener](https://github.com/rishz/URL-Shortener) - A URL-Shortener created using Node-JS and synced with Firebase Database.
@@ -1373,7 +1378,7 @@
 
 ## Kotlin 
 
-- [rouzbehzarei/filester](https://github.com/rouzbehzarei/filester) - A simple file uploader for android
+- [roozbehzarei/filester](https://github.com/roozbehzarei/filester) - A simple file uploader for android
 - [retrowars/retrowars](https://github.com/retrowars/retrowars) - Play retro games against each other in any combination in this open source Android multiplayer game.
 - [termux/termux-gui](https://github.com/termux/termux-gui) - A plugin for Termux to use native Android GUI components from CLI applications.
 - [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
@@ -1472,6 +1477,7 @@
 
 ## Others 
 
+- [auctors/free-lunch](https://github.com/auctors/free-lunch) - A curated list of free Windows software, online services and resources.
 - [zachary7829/openpwnage](https://github.com/zachary7829/openpwnage) - iOS 9.X Semi-Untethered jailbreak
 - [ryanfortner/cherryflowerJB](https://github.com/ryanfortner/cherryflowerJB) - 
 - [foxlet/bootra1n](https://github.com/foxlet/bootra1n) - Just enough Linux for checkra1n.
@@ -2060,7 +2066,6 @@
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [linuxmint/warpinator](https://github.com/linuxmint/warpinator) - Share files across the LAN
 - [ChimeraOS/chimera](https://github.com/ChimeraOS/chimera) - A web interface for managing Steam remotely
-- [rajkumardusad/Tool-X](https://github.com/rajkumardusad/Tool-X) - Tool-X is a kali linux hacking Tool installer. Tool-X developed for termux and other Linux based systems. using Tool-X you can install almost 370+ hacking tools in termux app and other linux based dis
 - [kozec/syncthing-gtk](https://github.com/kozec/syncthing-gtk) - GTK3 & python based GUI for Syncthing
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [gnome-terminator/terminator](https://github.com/gnome-terminator/terminator) - multiple GNOME terminals in one window
@@ -2166,6 +2171,7 @@
 
 ## Ruby 
 
+- [solidusio/solidus](https://github.com/solidusio/solidus) - 🛒Solidus, Rails eCommerce System
 - [philnash/bitly](https://github.com/philnash/bitly) - A Ruby wrapper for the bit.ly API
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [DaCuteRaccoon/img2ascii](https://github.com/DaCuteRaccoon/img2ascii) - A Ruby gem to convert images to ASCII
@@ -2284,7 +2290,7 @@
 - [mapi68/raspi-info](https://github.com/mapi68/raspi-info) - RASPI-INFO is a tool to get a lot of infomations about your Raspberry Pi
 - [pirate/wikipedia-mirror](https://github.com/pirate/wikipedia-mirror) - 🌐 Guide and tools to run a full offline mirror of Wikipedia.org with three different approaches: Nginx caching proxy, Kiwix + ZIM dump, and MediaWiki/XOWA + XML dump
 - [clayrisser/breeze-hacked-cursor-theme](https://github.com/clayrisser/breeze-hacked-cursor-theme) - Official cursor theme for Jam OS
-- [ProjectAfterBurner/afterburner-neofetch-theme](https://github.com/ProjectAfterBurner/afterburner-neofetch-theme) - 🖼️  A command-line system information tool written in bash 3.2+
+- [ProjectAfterBurner/afterburner-neofetch-theme](https://github.com/ProjectAfterBurner/afterburner-neofetch-theme) - Fork of neofetch that displays the afterburner logo
 - [ryanfortner/ubuntu22.04-scripts](https://github.com/ryanfortner/ubuntu22.04-scripts) - scripts to make ubuntu 22.04 better
 - [radxa/debos-radxa](https://github.com/radxa/debos-radxa) - 
 - [catppuccin/fish](https://github.com/catppuccin/fish) - 🐟 Soothing pastel theme for the Fish Shell
@@ -2505,7 +2511,6 @@
 - [ryanfortner/au-sh](https://github.com/ryanfortner/au-sh) - autoupdate script
 - [billw2/rpi-clone](https://github.com/billw2/rpi-clone) - A shell script to clone a booted disk.
 - [pacstall/pacstall-programs](https://github.com/pacstall/pacstall-programs) - Pacstall's official program repository
-- [rajkumardusad/onex](https://github.com/rajkumardusad/onex) - Onex is a package manager for hacker's. Onex manage more than 400+ hacking tools that can be installed on single click.
 - [raspberrypi/rpi-eeprom](https://github.com/raspberrypi/rpi-eeprom) - Installation scripts and binaries for the closed sourced Raspberry Pi 4 EEPROMs
 - [armbian/config](https://github.com/armbian/config) - Armbian Linux configuration utility
 - [0x00009b/pkget](https://github.com/0x00009b/pkget) - Install packages on any Debian based Linux distro without root or installing it on the entire system
@@ -2722,6 +2727,7 @@
 
 ## TypeScript 
 
+- [bytedance/bytemd](https://github.com/bytedance/bytemd) - Hackable Markdown editor and viewer
 - [SpacingBat3/ReForged](https://github.com/SpacingBat3/ReForged) - A set of Electron Forge tools, makers and publishers.
 - [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
@@ -2755,7 +2761,7 @@
 - [will-stone/browserosaurus](https://github.com/will-stone/browserosaurus) - The browser prompter for macOS
 - [oae/gnome-shell-extensions-sync](https://github.com/oae/gnome-shell-extensions-sync) - Syncs gnome shell keybindings, tweaks settings and extensions with their configuration across all gnome installations
 - [shalldie/vscode-background](https://github.com/shalldie/vscode-background) - A vscode extension to make it lovely. vscode background 背景扩展插件。
-- [leonwind/cli2cloud](https://github.com/leonwind/cli2cloud) - Monitor and Share Your Terminal Output with Everyone from Everywhere in Realtime.
+- [leonwind/cli2cloud](https://github.com/leonwind/cli2cloud) - Monitor and share your terminal output with everyone from everywhere in realtime.
 - [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx
 - [JSPrismarine/JSPrismarine](https://github.com/JSPrismarine/JSPrismarine) - Dedicated Minecraft Bedrock Edition server written in TypeScript.
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more
