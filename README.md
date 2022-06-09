@@ -428,6 +428,7 @@
 
 ## C++ 
 
+- [vaxerski/Hyprland](https://github.com/vaxerski/Hyprland) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your 
 - [love2d/love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
 - [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
@@ -472,7 +473,6 @@
 - [InfiniTimeOrg/InfiniSim](https://github.com/InfiniTimeOrg/InfiniSim) - Simulator for InfiniTime user interface without needing a PineTime
 - [piggz/harbour-amazfish](https://github.com/piggz/harbour-amazfish) - Amazfit Bip support for SailfishOS
 - [bunkercoin/bunkercoin](https://github.com/bunkercoin/bunkercoin) - Bunkercoin staging tree
-- [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 - [LibreCAD/LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a cross-platform 2D CAD program written in C++11 using the Qt framework. It can read DXF and DWG files and can write DXF, PDF and SVG files. The user interface is highly customizable, and 
 - [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
 - [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software
@@ -753,6 +753,7 @@
 
 ## Dockerfile 
 
+- [linuxserver/docker-code-server](https://github.com/linuxserver/docker-code-server) - 
 - [filerun/docker](https://github.com/filerun/docker) - FileRun Docker Image
 - [unixfox/invidious-custom](https://github.com/unixfox/invidious-custom) - Invidious with some git patches (mostly from existing PRs) for yewtu.be
 - [TrafeX/docker-php-nginx](https://github.com/TrafeX/docker-php-nginx) - Docker image with PHP-FPM 8.1 & Nginx 1.22 on Alpine Linux
@@ -804,7 +805,7 @@
 - [go-debos/debos](https://github.com/go-debos/debos) - Debian OS builder
 - [benjojo/mcod](https://github.com/benjojo/mcod) - Minecraft servers that only run when people are playing on them
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
-- [sealerio/sealer](https://github.com/sealerio/sealer) - A tool to seal application's all dependencies and Kubernetes into CloudImage, distribute this application anywhere via CloudImage, and run it within any cluster in one command.
+- [sealerio/sealer](https://github.com/sealerio/sealer) - A tool to seal application's all dependencies and Kubernetes into ClusterImage, distribute this application anywhere via ClusterImage, and run it within any cluster in one command.
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [DagAgren/toot-relay](https://github.com/DagAgren/toot-relay) - Relay that forwards web push notifications to APNs, built for Toot!.app but usable for anyone.
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
@@ -967,6 +968,7 @@
 - [mymonero/mymonero-app-site](https://github.com/mymonero/mymonero-app-site) - The MyMonero website
 - [dcurtis/markdown-mark](https://github.com/dcurtis/markdown-mark) - Use this mark to identify Markdown.
 - [Chia-Network/chiapos](https://github.com/Chia-Network/chiapos) - Chia Proof of Space library
+- [TheBananaStore/web-store](https://github.com/TheBananaStore/web-store) - 🌐🍌This is the Banana Web Store online page repo, built with raw HTML, CSS, and JS.
 - [KumaTea/pytorch-aarch64](https://github.com/KumaTea/pytorch-aarch64) - PyTorch wheels (whl) & conda for aarch64 / ARMv8 / ARM64
 - [revoxhere/revoxhere.github.io](https://github.com/revoxhere/revoxhere.github.io) - My portfolio
 - [revoxhere/magi-webservices](https://github.com/revoxhere/magi-webservices) - Coin Magi 2021 Explorer & Web Wallet
@@ -1023,6 +1025,7 @@
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
 - [salesforce/dockerfile-image-update](https://github.com/salesforce/dockerfile-image-update) - A tool that helps you get security patches for Docker images into production as quickly as possible without breaking things
 - [jenkinsci/jenkinsfile-runner](https://github.com/jenkinsci/jenkinsfile-runner) - A command line tool to run Jenkinsfile as a function
+- [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 - [termux/termux-tasker](https://github.com/termux/termux-tasker) - Termux add-on app for integration with Tasker.
 - [Catrobat/Catroid](https://github.com/Catrobat/Catroid) - Writing programs on an Android device without prior knowledge.
 - [AuthMe/AuthMeReloaded](https://github.com/AuthMe/AuthMeReloaded) - The best authentication plugin for the Bukkit/Spigot API!
@@ -1179,7 +1182,6 @@
 - [izolate/millify](https://github.com/izolate/millify) - Convert long numbers to pretty, human-readable strings
 - [marlun78/number-to-words](https://github.com/marlun78/number-to-words) - Converts a number to words
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
-- [TheBananaStore/web-store](https://github.com/TheBananaStore/web-store) - 🌐🍌This is the Banana Web Store online page repo, built with raw HTML, CSS, and JS.
 - [aalin/gta2.js](https://github.com/aalin/gta2.js) - GTA2 in JavaScript
 - [niklasvh/WebGL-GTA](https://github.com/niklasvh/WebGL-GTA) - JavaScript implementation of GTA
 - [Kajakklubben/gta2-webgl](https://github.com/Kajakklubben/gta2-webgl) - Why not port GTA2 to webgl? That's a great idea....
@@ -1790,6 +1792,7 @@
 
 ## Python 
 
+- [Crilum/pyqt5-weather-app](https://github.com/Crilum/pyqt5-weather-app) - A simple weather app written in PyQt5
 - [disposable/disposable](https://github.com/disposable/disposable) - A list of disposable/temporary email address domains
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [tareksander/termux-gui-package](https://github.com/tareksander/termux-gui-package) - A Termux package containing utilities for Termux:GUI.
@@ -2036,7 +2039,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-449-Stars](https://github.com/iBug/This-Repo-Has-449-Stars) - Yes, it's true :orange_heart: This repository has 449 stars.
+- [iBug/This-Repo-Has-449-Stars](https://github.com/iBug/This-Repo-Has-449-Stars) - Yes, it's true :yellow_heart: This repository has 449 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -2727,6 +2730,7 @@
 
 ## TypeScript 
 
+- [pl4nty/spotify-public-likes](https://github.com/pl4nty/spotify-public-likes) - Sync your liked songs to a public Spotify playlist
 - [bytedance/bytemd](https://github.com/bytedance/bytemd) - Hackable Markdown editor and viewer
 - [SpacingBat3/ReForged](https://github.com/SpacingBat3/ReForged) - A set of Electron Forge tools, makers and publishers.
 - [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
@@ -2899,7 +2903,7 @@
 - [bocchilorenzo/invuedious](https://github.com/bocchilorenzo/invuedious) - An alternative frontend for invidious built with vue.js
 - [ryanfortner/invuedious](https://github.com/ryanfortner/invuedious) - An alternative frontend for invidious built with vue.js
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
