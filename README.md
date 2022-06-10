@@ -1585,7 +1585,7 @@
 - [NayamAmarshe/ToucheggKDE](https://github.com/NayamAmarshe/ToucheggKDE) - TouchEgg configuration for MacOS and Windows like Touchpad Multi-Touch Gestures on KDE Plasma.
 - [ryanfortner/starship-arm](https://github.com/ryanfortner/starship-arm) - starship arm packages
 - [layquack/Twister-UI-Manjaro](https://github.com/layquack/Twister-UI-Manjaro) - Twister UI for aarch64 Manjaro
-- [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - Privacy-respecting web frontends for popular services 🔐🌐
+- [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
 - [github/dev](https://github.com/github/dev) - Press the . key on any repo
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [techcoder20/MyRices](https://github.com/techcoder20/MyRices) - A repo for storing my rices.
@@ -1716,6 +1716,7 @@
 
 ## PHP 
 
+- [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
 - [mrcrypster/screenapi](https://github.com/mrcrypster/screenapi) - API to take screenshots of webpages
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
 - [DirectoryLister/DirectoryLister](https://github.com/DirectoryLister/DirectoryLister) - 📂 Directory Lister is the easiest way to expose the contents of any web-accessible folder for browsing and sharing.
@@ -2239,7 +2240,7 @@
 - [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust.
 - [cloudflare/wrangler](https://github.com/cloudflare/wrangler) - 🤠   wrangle your Cloudflare Workers
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - Powerful, fast, and an easy to use search engine
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [facundoolano/rpg-cli](https://github.com/facundoolano/rpg-cli) - Your filesystem as a dungeon!
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
