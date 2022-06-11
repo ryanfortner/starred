@@ -100,6 +100,7 @@
 
 ## C 
 
+- [opa334/sandbox_extension_generator](https://github.com/opa334/sandbox_extension_generator) - iOS 15.0 - 15.3.1 sandbox escape technique using kernel read/write primitives
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer designed for reading research papers and technical books.
 - [pwmt/zathura](https://github.com/pwmt/zathura) - a document viewer
@@ -428,6 +429,7 @@
 
 ## C++ 
 
+- [LMMS/lmms](https://github.com/LMMS/lmms) - Cross-platform music production software
 - [vaxerski/Hyprland](https://github.com/vaxerski/Hyprland) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your 
 - [love2d/love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
@@ -1793,6 +1795,8 @@
 
 ## Python 
 
+- [blender/blender-addons](https://github.com/blender/blender-addons) - This is an official read-only mirror.
+- [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
 - [Crilum/pyqt5-weather-app](https://github.com/Crilum/pyqt5-weather-app) - A simple weather app written in PyQt5
 - [disposable/disposable](https://github.com/disposable/disposable) - A list of disposable/temporary email address domains
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
@@ -2040,7 +2044,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-449-Stars](https://github.com/iBug/This-Repo-Has-449-Stars) - Yes, it's true :yellow_heart: This repository has 449 stars.
+- [iBug/This-Repo-Has-450-Stars](https://github.com/iBug/This-Repo-Has-450-Stars) - Yes, it's true :sparkling_heart: This repository has 450 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -2285,6 +2289,7 @@
 
 ## Shell 
 
+- [shadlyd15/DoomLinux](https://github.com/shadlyd15/DoomLinux) - A bash script to build a minimal linux operating system just to play Doom.
 - [phyver/GameShell](https://github.com/phyver/GameShell) - a game to learn (or teach) how to use standard commands in a Unix shell
 - [TheRemote/MinecraftBedrockServer](https://github.com/TheRemote/MinecraftBedrockServer) - Sets up a Minecraft Bedrock dedicated server on Ubuntu with options for automatic updates and running at startup
 - [koendv/Arduino_Tools](https://github.com/koendv/Arduino_Tools) - Contains upload tools for STM32 based boards
