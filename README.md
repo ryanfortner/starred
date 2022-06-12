@@ -975,7 +975,7 @@
 - [revoxhere/revoxhere.github.io](https://github.com/revoxhere/revoxhere.github.io) - My portfolio
 - [revoxhere/magi-webservices](https://github.com/revoxhere/magi-webservices) - Coin Magi 2021 Explorer & Web Wallet
 - [LAX1DUDE/eaglercraft](https://github.com/LAX1DUDE/eaglercraft) - Eaglercraft is real Minecraft 1.5.2 that you can play in any regular web browser. That includes school chromebooks, it works on all chromebooks. You can join real Minecraft 1.5.2 servers with it throu
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for self-hosting. Install on a Raspberry Pi or Ubuntu/Debian.
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for self-hosting. Install on a Raspberry Pi 4 or Ubuntu/Debian.
 - [linuxmint/live-installer](https://github.com/linuxmint/live-installer) - A live installer for the Debian edition
 - [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
 - [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge) - Can you create something cool without modern tools?
@@ -1080,6 +1080,7 @@
 
 ## JavaScript 
 
+- [commonshost/bulldohzer](https://github.com/commonshost/bulldohzer) - 🚜 Bulldohzer is a performance measurement tool for DNS. It supports DNS-over-HTTPS (DoH) and DNS-over-UDP (Do53).
 - [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
 - [ZorinOS/zorin-taskbar](https://github.com/ZorinOS/zorin-taskbar) - The official taskbar for Zorin OS.
 - [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
@@ -1465,6 +1466,7 @@
 
 ## Objective-C 
 
+- [reddit-archive/iReddit](https://github.com/reddit-archive/iReddit) - The iReddit iPhone app
 - [ryannair05/Cylinder-Remade](https://github.com/ryannair05/Cylinder-Remade) - A fully rewritten Cylinder for iOS 14 and above
 - [josh-/CloudyTabs](https://github.com/josh-/CloudyTabs) - CloudyTabs is a simple menu bar application that lists your iCloud Tabs.
 - [google/santa](https://github.com/google/santa) - A binary authorization system for macOS
@@ -1795,6 +1797,7 @@
 
 ## Python 
 
+- [reddit-archive/reddit](https://github.com/reddit-archive/reddit) - historical code from reddit.com
 - [blender/blender-addons](https://github.com/blender/blender-addons) - This is an official read-only mirror.
 - [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
 - [Crilum/pyqt5-weather-app](https://github.com/Crilum/pyqt5-weather-app) - A simple weather app written in PyQt5
@@ -2737,7 +2740,7 @@
 ## TypeScript 
 
 - [pl4nty/spotify-public-likes](https://github.com/pl4nty/spotify-public-likes) - Sync your liked songs to a public Spotify playlist
-- [bytedance/bytemd](https://github.com/bytedance/bytemd) - Hackable Markdown editor and viewer
+- [bytedance/bytemd](https://github.com/bytedance/bytemd) - Hackable Markdown Editor and Viewer
 - [SpacingBat3/ReForged](https://github.com/SpacingBat3/ReForged) - A set of Electron Forge tools, makers and publishers.
 - [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
