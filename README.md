@@ -798,7 +798,7 @@
 ## Go 
 
 - [alexballas/go2tv](https://github.com/alexballas/go2tv) - Cast media files to UPnP/DLNA Media Renderers and Smart TVs.
-- [coloradocolby/gh-eco](https://github.com/coloradocolby/gh-eco) - 🦎 gh cli extension to explore the ecosystem
+- [thatvegandev/gh-eco](https://github.com/thatvegandev/gh-eco) - 🦎 gh cli extension to explore the ecosystem
 - [HyNetwork/hysteria](https://github.com/HyNetwork/hysteria) - Hysteria is a feature-packed proxy & relay utility optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting from China to servers abroad)
 - [CleanMachine1/Clone-repo-tool](https://github.com/CleanMachine1/Clone-repo-tool) - A short Go script to help clone lots of Git repositories at once
 - [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
@@ -1419,7 +1419,6 @@
 
 - [mate-desktop/mate-icon-theme](https://github.com/mate-desktop/mate-icon-theme) - MATE default icon theme
 - [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
-- [pikvm/pi-builder](https://github.com/pikvm/pi-builder) - Extensible tool to build Arch Linux ARM for Raspberry Pi on x86_64 host using Docker
 - [android-rpi/device_arpi_rpi4](https://github.com/android-rpi/device_arpi_rpi4) - Device build-config for Raspberry Pi 4
 - [dmlls/whatsapp-emoji-linux](https://github.com/dmlls/whatsapp-emoji-linux) - WhatsApp Emoji for GNU/Linux 🐧
 - [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) - [WIP] This repository will hold machine-readable data for awesome-selfhosted
@@ -1832,6 +1831,7 @@
 - [AbysssDevelopment/hMCPIL](https://github.com/AbysssDevelopment/hMCPIL) - Hacks launcher for MCPI-Reborn
 - [chbrown/pi](https://github.com/chbrown/pi) - Simpler python package installation
 - [CMDR-Piboy314/Python-Typing-Test](https://github.com/CMDR-Piboy314/Python-Typing-Test) - A Text-Based Typing Test made in Python
+- [pikvm/pi-builder](https://github.com/pikvm/pi-builder) - Extensible tool to build Arch Linux ARM for Raspberry Pi on x86_64 host using Docker
 - [pdinklag/MinecraftStats](https://github.com/pdinklag/MinecraftStats) - A Minecraft player statistics browser for the web - supports 1.13 to 1.19!
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [pindexis/qfc](https://github.com/pindexis/qfc) - Quick Command-line File Completion
