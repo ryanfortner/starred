@@ -229,7 +229,7 @@
 - [linuxmint/muffin](https://github.com/linuxmint/muffin) - The window management library for the Cinnamon desktop (libmuffin) and its sample WM binary (muffin)
 - [antirez/linenoise](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit
 - [PacktPublishing/Learn-C-Programming](https://github.com/PacktPublishing/Learn-C-Programming) - Learn C Programming, published by Packt
-- [processhacker/processhacker](https://github.com/processhacker/processhacker) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
+- [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.co
 - [Entware/Entware](https://github.com/Entware/Entware) - Ultimate repo for embedded devices
 - [berlin-open-wireless-lab/DAWN](https://github.com/berlin-open-wireless-lab/DAWN) - Decentralized WiFi Controller
 - [teslamotors/linux](https://github.com/teslamotors/linux) - Linux sources
@@ -390,6 +390,7 @@
 
 ## C# # 
 
+- [Xeroday/Spotify-Ad-Blocker](https://github.com/Xeroday/Spotify-Ad-Blocker) - EZBlocker - A Spotify Ad Blocker for Windows
 - [DigitalRuby/IPBan](https://github.com/DigitalRuby/IPBan) - For over 11 years, IPBan is the worlds most trusted security software to block hackers and botnets. With both Windows and Linux support, IPBan has your dedicated or cloud server protected. Upgrade to 
 - [iH8sn0w/iFaith](https://github.com/iH8sn0w/iFaith) - A SHSH Dumper for Windows.
 - [microsoft/Oryx](https://github.com/microsoft/Oryx) - Build your repo automatically.
@@ -1060,7 +1061,7 @@
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
 - [corretto/corretto-8](https://github.com/corretto/corretto-8) - Amazon Corretto 8 is a no-cost, multi-platform, production-ready distribution of OpenJDK 8
-- [k9mail/k-9](https://github.com/k9mail/k-9) - K-9 Mail – Open Source Email App for Android
+- [thundernest/k-9](https://github.com/thundernest/k-9) - K-9 Mail – Open Source Email App for Android
 - [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) - A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. This repository contains source code for Android platform.
 - [AOF-Dev/MCinaBox](https://github.com/AOF-Dev/MCinaBox) - MCinaBox - A Minecraft: Java Edition Launcher for Android.  An Encapsulation of [CosineMath's BoatApp](https://github.com/AOF-Dev/BoatApp).
 - [mclaunch/mclaunch](https://github.com/mclaunch/mclaunch) - The old Minecraft Java launcher, updated.
@@ -1080,6 +1081,7 @@
 
 ## JavaScript 
 
+- [hiql/mytools-desktop](https://github.com/hiql/mytools-desktop) - A desktop application based on Electron and React for daily application development.
 - [commonshost/bulldohzer](https://github.com/commonshost/bulldohzer) - 🚜 Bulldohzer is a performance measurement tool for DNS. It supports DNS-over-HTTPS (DoH) and DNS-over-UDP (Do53).
 - [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
 - [ZorinOS/zorin-taskbar](https://github.com/ZorinOS/zorin-taskbar) - The official taskbar for Zorin OS.
@@ -1383,6 +1385,7 @@
 
 ## Kotlin 
 
+- [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative YouTube front end, for Android. [WIP]
 - [roozbehzarei/filester](https://github.com/roozbehzarei/filester) - A simple file uploader for android
 - [retrowars/retrowars](https://github.com/retrowars/retrowars) - Play retro games against each other in any combination in this open source Android multiplayer game.
 - [termux/termux-gui](https://github.com/termux/termux-gui) - A plugin for Termux to use native Android GUI components from CLI applications.
@@ -1534,7 +1537,7 @@
 - [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [bchiang7/Halcyon](https://github.com/bchiang7/Halcyon) - Halcyon Theme for Sublime Text
 - [Jai-JAP/tabby-arm-builds](https://github.com/Jai-JAP/tabby-arm-builds) - 
-- [watermelon4468/tasty-grubs](https://github.com/watermelon4468/tasty-grubs) - A collection of GRUB2 themes.
+- [derdiedav/tasty-grubs](https://github.com/derdiedav/tasty-grubs) - A collection of GRUB2 themes.
 - [Ultimaker/cura-build](https://github.com/Ultimaker/cura-build) - Build scripts for Cura
 - [ryanfortner/Ender3Pro-Timelapses](https://github.com/ryanfortner/Ender3Pro-Timelapses) - Timelapses from my Ender 3 Pro 3d printer, made with OctoLapse.
 - [karan/Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
@@ -1796,6 +1799,7 @@
 
 ## Python 
 
+- [NayamAmarshe/please](https://github.com/NayamAmarshe/please) - Please - Minimalistic New Tab Page with a greeting, date and time, inspirational quotes and your personal tasks and to-do list
 - [reddit-archive/reddit](https://github.com/reddit-archive/reddit) - historical code from reddit.com
 - [blender/blender-addons](https://github.com/blender/blender-addons) - This is an official read-only mirror.
 - [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
@@ -2199,6 +2203,7 @@
 
 ## Rust 
 
+- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [dteare/opbookmarks](https://github.com/dteare/opbookmarks) - Export 1Password item metadata to support 3rd party app integrations using the 1Password CLI
 - [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
 - [kyoheiu/felix](https://github.com/kyoheiu/felix) - tui file manager with vim-like key mapping
@@ -2292,6 +2297,7 @@
 
 ## Shell 
 
+- [openFyde/overlay-rpi4-openfyde](https://github.com/openFyde/overlay-rpi4-openfyde) - 
 - [shadlyd15/DoomLinux](https://github.com/shadlyd15/DoomLinux) - A bash script to build a minimal linux operating system just to play Doom.
 - [phyver/GameShell](https://github.com/phyver/GameShell) - a game to learn (or teach) how to use standard commands in a Unix shell
 - [TheRemote/MinecraftBedrockServer](https://github.com/TheRemote/MinecraftBedrockServer) - Sets up a Minecraft Bedrock dedicated server on Ubuntu with options for automatic updates and running at startup
@@ -2633,7 +2639,7 @@
 - [novaspirit/linux_autoclicker](https://github.com/novaspirit/linux_autoclicker) - android auto clicke with linux and scrcpy
 - [Itai-Nelken/box86-2deb-weekly-script](https://github.com/Itai-Nelken/box86-2deb-weekly-script) - a script that automatically compiles and packages box86 into a deb
 - [gitbls/sdm](https://github.com/gitbls/sdm) - Raspberry Pi SD Card Image Manager
-- [RichardMidnight/pi-safe](https://github.com/RichardMidnight/pi-safe) - Backup and Restore Raspberry Pi SD cards ... easily create image files
+- [RichardMidnight/pi-safe](https://github.com/RichardMidnight/pi-safe) - Create your own custom image files
 - [showmewebcam/showmewebcam](https://github.com/showmewebcam/showmewebcam) - Raspberry Pi + High Quality Camera = High-quality USB Webcam!
 - [SpacingBat3/box86-appimage](https://github.com/SpacingBat3/box86-appimage) - Bash scripts that builds and packages the box86 to the AppImage format.
 - [Itai-Nelken/qemu2deb](https://github.com/Itai-Nelken/qemu2deb) - Compile/package/install QEMU easier than ever on the Raspberry Pi and other Linux computers.
