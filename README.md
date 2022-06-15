@@ -100,6 +100,8 @@
 
 ## C 
 
+- [TeamWin/Team-Win-Recovery-Project](https://github.com/TeamWin/Team-Win-Recovery-Project) - Core recovery files for the Team Win Recovery Project (T.W.R.P) - this is not up to date, please see https://github.com/TeamWin/android_bootable_recovery/
+- [mt8163-dev/android_kernel_amazon_mt8163](https://github.com/mt8163-dev/android_kernel_amazon_mt8163) - Common Kernel Tree for the Amazon Fire HD8 2016 & 2017.
 - [opa334/sandbox_extension_generator](https://github.com/opa334/sandbox_extension_generator) - iOS 15.0 - 15.3.1 sandbox escape technique using kernel read/write primitives
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer designed for reading research papers and technical books.
@@ -676,7 +678,7 @@
 - [FirefoxUX/photon](https://github.com/FirefoxUX/photon) - Firefox’s Photon Design System.
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 - [zayronxio/windows11-GTKtheme](https://github.com/zayronxio/windows11-GTKtheme) - windows11-GTKtheme
-- [B-Software/Ward](https://github.com/B-Software/Ward) - Server dashboard
+- [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard
 - [catppuccin/gtk](https://github.com/catppuccin/gtk) - 🪟 Soothing pastel theme for GTK3
 - [tusharnankani/ToDoList](https://github.com/tusharnankani/ToDoList) - A dynamic and aesthetic To-Do List Website built with HTML, CSS, Vanilla JavaScript.
 - [andreasgrafen/cascade](https://github.com/andreasgrafen/cascade) - Firefox custom CSS based on Simplefox
@@ -1420,6 +1422,7 @@
 
 ## Makefile 
 
+- [mt8163-dev/android_device_amazon_douglas](https://github.com/mt8163-dev/android_device_amazon_douglas) - LineageOS Device Tree for the Amazon Fire HD8 2017 codenamed "douglas".
 - [mate-desktop/mate-icon-theme](https://github.com/mate-desktop/mate-icon-theme) - MATE default icon theme
 - [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
 - [android-rpi/device_arpi_rpi4](https://github.com/android-rpi/device_arpi_rpi4) - Device build-config for Raspberry Pi 4
@@ -1537,7 +1540,7 @@
 - [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [bchiang7/Halcyon](https://github.com/bchiang7/Halcyon) - Halcyon Theme for Sublime Text
 - [Jai-JAP/tabby-arm-builds](https://github.com/Jai-JAP/tabby-arm-builds) - 
-- [derdiedav/tasty-grubs](https://github.com/derdiedav/tasty-grubs) - A collection of GRUB2 themes.
+- [okayvid/tasty-grubs](https://github.com/okayvid/tasty-grubs) - A collection of GRUB2 themes.
 - [Ultimaker/cura-build](https://github.com/Ultimaker/cura-build) - Build scripts for Cura
 - [ryanfortner/Ender3Pro-Timelapses](https://github.com/ryanfortner/Ender3Pro-Timelapses) - Timelapses from my Ender 3 Pro 3d printer, made with OctoLapse.
 - [karan/Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
@@ -1799,6 +1802,7 @@
 
 ## Python 
 
+- [MatthewPierson/Vieux](https://github.com/MatthewPierson/Vieux) - Vieux - A tool for 32/64 Bit iOS downgrades using OTA Blobs
 - [NayamAmarshe/please](https://github.com/NayamAmarshe/please) - Please - Minimalistic New Tab Page with a greeting, date and time, inspirational quotes and your personal tasks and to-do list
 - [reddit-archive/reddit](https://github.com/reddit-archive/reddit) - historical code from reddit.com
 - [blender/blender-addons](https://github.com/blender/blender-addons) - This is an official read-only mirror.
@@ -2297,6 +2301,7 @@
 
 ## Shell 
 
+- [MatthewPierson/1033-OTA-Downgrader](https://github.com/MatthewPierson/1033-OTA-Downgrader) - First ever tool to downgrade ANY iPhone 5s, ANY iPad Air and (almost any) iPad Mini 2 to 10.3.3 with OTA blobs + checkm8!
 - [openFyde/overlay-rpi4-openfyde](https://github.com/openFyde/overlay-rpi4-openfyde) - 
 - [shadlyd15/DoomLinux](https://github.com/shadlyd15/DoomLinux) - A bash script to build a minimal linux operating system just to play Doom.
 - [phyver/GameShell](https://github.com/phyver/GameShell) - a game to learn (or teach) how to use standard commands in a Unix shell
