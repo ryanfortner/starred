@@ -100,6 +100,7 @@
 
 ## C 
 
+- [FASTSHIFT/X-TRACK](https://github.com/FASTSHIFT/X-TRACK) - A GPS bicycle speedometer that supports offline maps and track recording
 - [TeamWin/Team-Win-Recovery-Project](https://github.com/TeamWin/Team-Win-Recovery-Project) - Core recovery files for the Team Win Recovery Project (T.W.R.P) - this is not up to date, please see https://github.com/TeamWin/android_bootable_recovery/
 - [mt8163-dev/android_kernel_amazon_mt8163](https://github.com/mt8163-dev/android_kernel_amazon_mt8163) - Common Kernel Tree for the Amazon Fire HD8 2016 & 2017.
 - [opa334/sandbox_extension_generator](https://github.com/opa334/sandbox_extension_generator) - iOS 15.0 - 15.3.1 sandbox escape technique using kernel read/write primitives
@@ -949,6 +950,7 @@
 
 ## HTML 
 
+- [lordelph/pastebin](https://github.com/lordelph/pastebin) - The original pastebin source, available under an AGPL licence
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
 - [mrmierzejewski/hugo-theme-console](https://github.com/mrmierzejewski/hugo-theme-console) - A minimal, responsive and light theme for Hugo inspired by Linux console.
 - [xvvvyz/tilde](https://github.com/xvvvyz/tilde) - Minimal browser startpage.
@@ -1083,6 +1085,7 @@
 
 ## JavaScript 
 
+- [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 - [hiql/mytools-desktop](https://github.com/hiql/mytools-desktop) - A desktop application based on Electron and React for daily application development.
 - [commonshost/bulldohzer](https://github.com/commonshost/bulldohzer) - 🚜 Bulldohzer is a performance measurement tool for DNS. It supports DNS-over-HTTPS (DoH) and DNS-over-UDP (Do53).
 - [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
@@ -1472,6 +1475,7 @@
 ## Objective-C 
 
 - [reddit-archive/iReddit](https://github.com/reddit-archive/iReddit) - The iReddit iPhone app
+- [zachary7829/openpwnage](https://github.com/zachary7829/openpwnage) - iOS 9.X Semi-Untethered jailbreak
 - [ryannair05/Cylinder-Remade](https://github.com/ryannair05/Cylinder-Remade) - A fully rewritten Cylinder for iOS 14 and above
 - [josh-/CloudyTabs](https://github.com/josh-/CloudyTabs) - CloudyTabs is a simple menu bar application that lists your iCloud Tabs.
 - [google/santa](https://github.com/google/santa) - A binary authorization system for macOS
@@ -1489,7 +1493,6 @@
 ## Others 
 
 - [auctors/free-lunch](https://github.com/auctors/free-lunch) - A curated list of free Windows software, online services and resources.
-- [zachary7829/openpwnage](https://github.com/zachary7829/openpwnage) - iOS 9.X Semi-Untethered jailbreak
 - [ryanfortner/cherryflowerJB](https://github.com/ryanfortner/cherryflowerJB) - 
 - [foxlet/bootra1n](https://github.com/foxlet/bootra1n) - Just enough Linux for checkra1n.
 - [ryanfortner/pfp-collection](https://github.com/ryanfortner/pfp-collection) - my profile picture collection for different seasons
@@ -1725,6 +1728,7 @@
 
 ## PHP 
 
+- [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE) - Paste is a project that started from the files pastebin.com used before it was bought.
 - [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
 - [mrcrypster/screenapi](https://github.com/mrcrypster/screenapi) - API to take screenshots of webpages
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
@@ -1802,6 +1806,7 @@
 
 ## Python 
 
+- [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [MatthewPierson/Vieux](https://github.com/MatthewPierson/Vieux) - Vieux - A tool for 32/64 Bit iOS downgrades using OTA Blobs
 - [NayamAmarshe/please](https://github.com/NayamAmarshe/please) - Please - Minimalistic New Tab Page with a greeting, date and time, inspirational quotes and your personal tasks and to-do list
 - [reddit-archive/reddit](https://github.com/reddit-archive/reddit) - historical code from reddit.com
