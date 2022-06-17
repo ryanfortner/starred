@@ -1085,6 +1085,7 @@
 
 ## JavaScript 
 
+- [offen/offen](https://github.com/offen/offen) - The fair and lightweight alternative to common web analytics tools
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 - [hiql/mytools-desktop](https://github.com/hiql/mytools-desktop) - A desktop application based on Electron and React for daily application development.
 - [commonshost/bulldohzer](https://github.com/commonshost/bulldohzer) - 🚜 Bulldohzer is a performance measurement tool for DNS. It supports DNS-over-HTTPS (DoH) and DNS-over-UDP (Do53).
@@ -1474,6 +1475,7 @@
 
 ## Objective-C 
 
+- [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [reddit-archive/iReddit](https://github.com/reddit-archive/iReddit) - The iReddit iPhone app
 - [zachary7829/openpwnage](https://github.com/zachary7829/openpwnage) - iOS 9.X Semi-Untethered jailbreak
 - [ryannair05/Cylinder-Remade](https://github.com/ryannair05/Cylinder-Remade) - A fully rewritten Cylinder for iOS 14 and above
@@ -1806,6 +1808,7 @@
 
 ## Python 
 
+- [ryanfortner/FireHD8-2017](https://github.com/ryanfortner/FireHD8-2017) - How I converted my Amazon bloatware to an Android tablet
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [MatthewPierson/Vieux](https://github.com/MatthewPierson/Vieux) - Vieux - A tool for 32/64 Bit iOS downgrades using OTA Blobs
 - [NayamAmarshe/please](https://github.com/NayamAmarshe/please) - Please - Minimalistic New Tab Page with a greeting, date and time, inspirational quotes and your personal tasks and to-do list
@@ -2306,6 +2309,7 @@
 
 ## Shell 
 
+- [wimpysworld/ubuntu-pi-image](https://github.com/wimpysworld/ubuntu-pi-image) - 
 - [MatthewPierson/1033-OTA-Downgrader](https://github.com/MatthewPierson/1033-OTA-Downgrader) - First ever tool to downgrade ANY iPhone 5s, ANY iPad Air and (almost any) iPad Mini 2 to 10.3.3 with OTA blobs + checkm8!
 - [openFyde/overlay-rpi4-openfyde](https://github.com/openFyde/overlay-rpi4-openfyde) - 
 - [shadlyd15/DoomLinux](https://github.com/shadlyd15/DoomLinux) - A bash script to build a minimal linux operating system just to play Doom.
