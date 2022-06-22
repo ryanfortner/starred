@@ -438,6 +438,9 @@
 
 ## C++ 
 
+- [hiyohiyo/CrystalDiskInfo](https://github.com/hiyohiyo/CrystalDiskInfo) - CrystalDiskInfo
+- [IonelPopJara/ascii-video-player](https://github.com/IonelPopJara/ascii-video-player) - A simple script that turns .mp4 files into ASCII characters
+- [riverar/mach2](https://github.com/riverar/mach2) - Windows Feature Control Multi-tool
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [LMMS/lmms](https://github.com/LMMS/lmms) - Cross-platform music production software
 - [vaxerski/Hyprland](https://github.com/vaxerski/Hyprland) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
@@ -554,7 +557,6 @@
 - [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2) - PCSX2 - The Playstation 2 Emulator
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [linuxdeepin/dde-control-center](https://github.com/linuxdeepin/dde-control-center) - Control panel of Deepin Desktop Environment.
-- [FreeCAD/FreeCAD-library](https://github.com/FreeCAD/FreeCAD-library) - A library of Parts for FreeCAD. WARNING - This library is huge. It might take a long time to download and make the addons manager unresponsive for many minutes.
 - [zerotier/libzt](https://github.com/zerotier/libzt) - Encrypted P2P sockets over ZeroTier
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
 - [MinecraftMachina/ManyMC](https://github.com/MinecraftMachina/ManyMC) - 📦 A familiar Minecraft Launcher with native support for macOS arm64 (M1)
@@ -1001,6 +1003,7 @@
 - [ryanfortner/jsterm](https://github.com/ryanfortner/jsterm) - fake terminal for my website
 - [hmsjy2017/7-zip-debs](https://github.com/hmsjy2017/7-zip-debs) - 
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [FreeCAD/FreeCAD-library](https://github.com/FreeCAD/FreeCAD-library) - A library of Parts for FreeCAD. WARNING - This library is huge. It might take a long time to download and make the addons manager unresponsive for many minutes.
 - [raspbian-addons/apt.raspbian-addons.org](https://github.com/raspbian-addons/apt.raspbian-addons.org) - about page for raspbian-addons' main mirror
 - [piware14/piware14.github.io](https://github.com/piware14/piware14.github.io) - 
 - [hmsjy2017/apt.raspbian-addons.org](https://github.com/hmsjy2017/apt.raspbian-addons.org) - 
@@ -1093,6 +1096,7 @@
 
 ## JavaScript 
 
+- [maoschanz/emoji-selector-for-gnome](https://github.com/maoschanz/emoji-selector-for-gnome) - This extension provide a popup menu with some emojis ; clicking on an emoji copies it to the clipboard.
 - [atom-community/atom](https://github.com/atom-community/atom) - :atom: Community build of the hackable text editor
 - [offen/offen](https://github.com/offen/offen) - The fair and lightweight alternative to common web analytics tools
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
@@ -1817,6 +1821,7 @@
 
 ## Python 
 
+- [walkxhub/dashboard-icons](https://github.com/walkxhub/dashboard-icons) - 📂 Dashboard Icons for your selfhosted services.
 - [hugsy/cemu](https://github.com/hugsy/cemu) - Cheap EMUlator: lightweight multi-architecture assembly playground
 - [pyston/pyston](https://github.com/pyston/pyston) - A faster and highly-compatible implementation of the Python programming language.
 - [ryanfortner/FireHD8-2017](https://github.com/ryanfortner/FireHD8-2017) - How I converted my Amazon bloatware to an Android tablet
@@ -2074,7 +2079,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-450-Stars](https://github.com/iBug/This-Repo-Has-450-Stars) - Yes, it's true :sparkling_heart: This repository has 450 stars.
+- [iBug/This-Repo-Has-450-Stars](https://github.com/iBug/This-Repo-Has-450-Stars) - Yes, it's true :purple_heart: This repository has 450 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
