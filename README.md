@@ -100,6 +100,7 @@
 
 ## C 
 
+- [FreeRDP/Remmina](https://github.com/FreeRDP/Remmina) - Mirror of https://gitlab.com/Remmina/Remmina The GTK+ Remmina Remote Desktop Client
 - [flatpak/flatpak](https://github.com/flatpak/flatpak) - Linux application sandboxing and distribution framework
 - [jc-kynesim/hello_drmprime](https://github.com/jc-kynesim/hello_drmprime) - Simple ffmpeg h265 drm output prog
 - [ssvb/xf86-video-fbturbo](https://github.com/ssvb/xf86-video-fbturbo) - Xorg DDX driver for ARM devices (Allwinner, RPi and others)
@@ -443,7 +444,7 @@
 - [riverar/mach2](https://github.com/riverar/mach2) - Windows Feature Control Multi-tool
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [LMMS/lmms](https://github.com/LMMS/lmms) - Cross-platform music production software
-- [vaxerski/Hyprland](https://github.com/vaxerski/Hyprland) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your 
 - [love2d/love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
 - [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
@@ -809,6 +810,7 @@
 
 ## Go 
 
+- [reujab/wallpaper](https://github.com/reujab/wallpaper) - A cross-platform Golang library for getting and setting desktop wallpapers
 - [packwiz/packwiz](https://github.com/packwiz/packwiz) - A command line tool for editing and distributing Minecraft modpacks, using a git-friendly TOML format. Supports CurseForge and Modrinth mods with automated updates!
 - [alexballas/go2tv](https://github.com/alexballas/go2tv) - Cast media files to UPnP/DLNA Media Renderers and Smart TVs.
 - [thatvegandev/gh-eco](https://github.com/thatvegandev/gh-eco) - 🦎 gh cli extension to explore the ecosystem
@@ -823,7 +825,6 @@
 - [sealerio/sealer](https://github.com/sealerio/sealer) - A tool to seal application's all dependencies and Kubernetes into ClusterImage, distribute this application anywhere via ClusterImage, and run it within any cluster in one command.
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [DagAgren/toot-relay](https://github.com/DagAgren/toot-relay) - Relay that forwards web push notifications to APNs, built for Toot!.app but usable for anyone.
-- [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [r7wx/easy-gate](https://github.com/r7wx/easy-gate) - A gate to your self hosted infrastructure
 - [caarlos0/starcharts](https://github.com/caarlos0/starcharts) - Plot your repository stars over time.
 - [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
@@ -1855,6 +1856,7 @@
 - [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
+- [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [Red-exe-Engineer/Toybox](https://github.com/Red-exe-Engineer/Toybox) - A simple(ish) tool to list installed commands
 - [cycool29/CoffeeTime](https://github.com/cycool29/CoffeeTime) - A coffee reminder for programmers. (WIP)
 - [armbian/documentation](https://github.com/armbian/documentation) - Armbian Linux documentation
