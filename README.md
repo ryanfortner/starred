@@ -1641,7 +1641,6 @@
 - [ryanfortner/freecad-rpi](https://github.com/ryanfortner/freecad-rpi) - FreeCAD compiled as .deb for armhf
 - [hmsjy2017/aliyundrive-webdav-debs](https://github.com/hmsjy2017/aliyundrive-webdav-debs) - 
 - [apple/swift-community-hosted-continuous-integration](https://github.com/apple/swift-community-hosted-continuous-integration) - Swift Community-Hosted Continuous Integration
-- [koendv/arduino-ide-raspberrypi](https://github.com/koendv/arduino-ide-raspberrypi) - arduino IDE v2 for raspberry pi
 - [theofficialgman/meta-multimc](https://github.com/theofficialgman/meta-multimc) - Auto Updating (cross-fingers) for MultiMC Minecraft package metadata for ARM64 and ARMhf Linux. Use the master-clean branch for ARM64 and master-clean-arm32 for ARMhf. A full project description and R
 - [hmsjy2017/debs](https://github.com/hmsjy2017/debs) - 
 - [raspbian-addons/status](https://github.com/raspbian-addons/status) - raspbian-addons uptime monitoring
@@ -2081,7 +2080,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-450-Stars](https://github.com/iBug/This-Repo-Has-450-Stars) - Yes, it's true :purple_heart: This repository has 450 stars.
+- [iBug/This-Repo-Has-451-Stars](https://github.com/iBug/This-Repo-Has-451-Stars) - Yes, it's true :revolving_hearts: This repository has 451 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -2326,6 +2325,7 @@
 
 ## Shell 
 
+- [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) - This will run the new self-hosted github actions runners with docker-in-docker
 - [wimpysworld/ubuntu-pi-image](https://github.com/wimpysworld/ubuntu-pi-image) - 
 - [MatthewPierson/1033-OTA-Downgrader](https://github.com/MatthewPierson/1033-OTA-Downgrader) - First ever tool to downgrade ANY iPhone 5s, ANY iPad Air and (almost any) iPad Mini 2 to 10.3.3 with OTA blobs + checkm8!
 - [openFyde/overlay-rpi4-openfyde](https://github.com/openFyde/overlay-rpi4-openfyde) - 
@@ -2533,6 +2533,7 @@
 - [aditya24raj/darth_waydr](https://github.com/aditya24raj/darth_waydr) - automates waydroid installation steps on debian-based distributions
 - [paulirish/dotfiles](https://github.com/paulirish/dotfiles) - paul's shell, git, etc config files. also homebrew, migration setup. good stuff.
 - [jenkinsci/packaging](https://github.com/jenkinsci/packaging) - Native packaging for Jenkins
+- [koendv/arduino-ide-raspberrypi](https://github.com/koendv/arduino-ide-raspberrypi) - arduino IDE v2 for raspberry pi
 - [CleanMachine1/AdlistTXTS](https://github.com/CleanMachine1/AdlistTXTS) - A repository dedicated to mirroring some block-lists into 1 file for ease of use
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
 - [ryanfortner/box64-debs](https://github.com/ryanfortner/box64-debs) - box64 debian/apt repository
@@ -2777,6 +2778,7 @@
 
 ## TypeScript 
 
+- [app-clones/netflix-clone](https://github.com/app-clones/netflix-clone) - A Netflix clone made using React, Firebase, and Firestore
 - [cloudflare/wrangler2](https://github.com/cloudflare/wrangler2) - ⛅️ The CLI for Cloudflare Workers®
 - [airmessage/airmessage-web](https://github.com/airmessage/airmessage-web) - AirMessage for the web and Windows
 - [pl4nty/spotify-public-likes](https://github.com/pl4nty/spotify-public-likes) - Sync your liked songs to a public Spotify playlist
@@ -2835,7 +2837,6 @@
 - [ArmCord/ArmCord](https://github.com/ArmCord/ArmCord) - ArmCord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
 - [Katsute/GitHub-Red-Issues](https://github.com/Katsute/GitHub-Red-Issues) - Revert closed GitHub issues from purple back to red.
-- [brhigginsuk/discord-activity-monitor](https://github.com/brhigginsuk/discord-activity-monitor) - Discord bot to add/remove roles based on user activity
 - [shitcorp/discord-bot-dashboard](https://github.com/shitcorp/discord-bot-dashboard) - The npm package for using the Discord Bot Dashboard inside your own source code
 - [lowlighter/denolithic](https://github.com/lowlighter/denolithic) - 🦕 Transform any markdown file into presentation slides with extended markup and runnable code snippets
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
