@@ -100,6 +100,7 @@
 
 ## C 
 
+- [ujjwal96/xwinwrap](https://github.com/ujjwal96/xwinwrap) - My fork of xwinwrap. Xwinwrap allows you to stick most of the apps to your desktop background.
 - [FreeRDP/Remmina](https://github.com/FreeRDP/Remmina) - Mirror of https://gitlab.com/Remmina/Remmina The GTK+ Remmina Remote Desktop Client
 - [flatpak/flatpak](https://github.com/flatpak/flatpak) - Linux application sandboxing and distribution framework
 - [jc-kynesim/hello_drmprime](https://github.com/jc-kynesim/hello_drmprime) - Simple ffmpeg h265 drm output prog
@@ -1491,7 +1492,7 @@
 
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [reddit-archive/iReddit](https://github.com/reddit-archive/iReddit) - The iReddit iPhone app
-- [zachary7829/openpwnage](https://github.com/zachary7829/openpwnage) - iOS 9.X Semi-Untethered jailbreak
+- [zachary7829/openpwnage](https://github.com/zachary7829/openpwnage) - iOS 8.4b4-9.3.6 Semi-Untethered jailbreak
 - [ryannair05/Cylinder-Remade](https://github.com/ryannair05/Cylinder-Remade) - A fully rewritten Cylinder for iOS 14 and above
 - [josh-/CloudyTabs](https://github.com/josh-/CloudyTabs) - CloudyTabs is a simple menu bar application that lists your iCloud Tabs.
 - [google/santa](https://github.com/google/santa) - A binary authorization system for macOS
@@ -1821,6 +1822,7 @@
 
 ## Python 
 
+- [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 - [walkxhub/dashboard-icons](https://github.com/walkxhub/dashboard-icons) - 📂 Dashboard Icons for your selfhosted services.
 - [hugsy/cemu](https://github.com/hugsy/cemu) - Cheap EMUlator: lightweight multi-architecture assembly playground
 - [pyston/pyston](https://github.com/pyston/pyston) - A faster and highly-compatible implementation of the Python programming language.
@@ -2080,7 +2082,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-451-Stars](https://github.com/iBug/This-Repo-Has-451-Stars) - Yes, it's true :revolving_hearts: This repository has 451 stars.
+- [iBug/This-Repo-Has-453-Stars](https://github.com/iBug/This-Repo-Has-453-Stars) - Yes, it's true :revolving_hearts: This repository has 453 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -2241,7 +2243,7 @@
 - [leftwm/leftwm](https://github.com/leftwm/leftwm) - LeftWM - A tiling window manager for Adventurers
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices.
 - [SerenityOS/jakt](https://github.com/SerenityOS/jakt) - The Jakt Programming Language
-- [gorilla-devs/ferium](https://github.com/gorilla-devs/ferium) - Fast and multi-source CLI program for managing Minecraft mods and modpacks from Modrinth, CurseForge, and Github Releases
+- [gorilla-devs/ferium](https://github.com/gorilla-devs/ferium) - Fast and multi-source CLI program for managing Minecraft mods and modpacks from Modrinth, CurseForge, and GitHub Releases
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
