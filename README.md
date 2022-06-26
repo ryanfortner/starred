@@ -2437,7 +2437,7 @@
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [x08d/lockdown.sh](https://github.com/x08d/lockdown.sh) - Lockdown your linux install. The simple zero config linux hardening script
-- [mobilegmYT/mcpi-reborn-extended](https://github.com/mobilegmYT/mcpi-reborn-extended) - MCPI-Reborn, but modded with new features!
+- [mobilegmYT/mcpi-reborn-extended](https://github.com/mobilegmYT/mcpi-reborn-extended) - The next generation of Minecraft: Pi Edition
 - [TheBananaStore/TheBananaStore](https://github.com/TheBananaStore/TheBananaStore) - 🍌🐧 Content repository for the Banana Store
 - [procount/pinn-os](https://github.com/procount/pinn-os) - os-images for PINN
 - [exe-thumbnailer/exe-thumbnailer](https://github.com/exe-thumbnailer/exe-thumbnailer) - Thumbnailer for .exe/.dll/.msi/.lnk files on Linux systems.
