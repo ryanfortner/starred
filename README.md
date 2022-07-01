@@ -29,6 +29,7 @@
 - [GLSL](#glsl)
 - [Go](#go)
 - [HTML](#html)
+- [Hack](#hack)
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -100,6 +101,7 @@
 
 ## C 
 
+- [Ryu0118/TouchSimulator-iOS14](https://github.com/Ryu0118/TouchSimulator-iOS14) - simulate touch tool working on iOS14
 - [rA9stuff/LeetDown](https://github.com/rA9stuff/LeetDown) - an OTA Downgrade Tool for A6 and A7 Devices
 - [Samgisaninja/SuccessionRestore](https://github.com/Samgisaninja/SuccessionRestore) - Restore iOS devices without updating via rootfilesystem DMG
 - [ujjwal96/xwinwrap](https://github.com/ujjwal96/xwinwrap) - My fork of xwinwrap. Xwinwrap allows you to stick most of the apps to your desktop background.
@@ -401,6 +403,7 @@
 
 ## C# # 
 
+- [HarshalKudale/NoMoreEdge](https://github.com/HarshalKudale/NoMoreEdge) - 
 - [Xeroday/Spotify-Ad-Blocker](https://github.com/Xeroday/Spotify-Ad-Blocker) - EZBlocker - A Spotify Ad Blocker for Windows
 - [DigitalRuby/IPBan](https://github.com/DigitalRuby/IPBan) - For over 11 years, IPBan is the worlds most trusted security software to block hackers and botnets. With both Windows and Linux support, IPBan has your dedicated or cloud server protected. Upgrade to 
 - [iH8sn0w/iFaith](https://github.com/iH8sn0w/iFaith) - A SHSH Dumper for Windows.
@@ -510,7 +513,7 @@
 - [zeldaret/botw](https://github.com/zeldaret/botw) - Decompilation of The Legend of Zelda: Breath of the Wild (Switch 1.5.0)
 - [linuxdeepin/dde-launcher](https://github.com/linuxdeepin/dde-launcher) - DDE Launcher Application
 - [dosbox-staging/dosbox-staging](https://github.com/dosbox-staging/dosbox-staging) - DOSBox Staging is a fork of the DOSBox project that focuses on ease of use, modern technology and best practices.
-- [nanocurrency/nano-node](https://github.com/nanocurrency/nano-node) - Nano is a cryptocurrency
+- [nanocurrency/nano-node](https://github.com/nanocurrency/nano-node) - Nano is digital money
 - [Grima04/recompiler](https://github.com/Grima04/recompiler) - Xbox360 -&gt; Windows executable converter
 - [rexdex/recompiler](https://github.com/rexdex/recompiler) - Xbox360 -&gt; Windows executable converter
 - [KDE/kwin](https://github.com/KDE/kwin) - Easy to use, but flexible, X Window Manager and Wayland Compositor
@@ -1027,6 +1030,10 @@
 - [MCPI-Revival/mcpi-revival.github.io](https://github.com/MCPI-Revival/mcpi-revival.github.io) - MCPI-Devs web page.
 - [phoenixbyrd/TwisterOS](https://github.com/phoenixbyrd/TwisterOS) - Twister OS Website
 
+## Hack 
+
+- [D3Ext/WEF](https://github.com/D3Ext/WEF) - Wi-Fi Exploitation Framework
+
 ## Haskell 
 
 - [tfausak/github-release](https://github.com/tfausak/github-release) - :octocat: Upload files to GitHub releases.
@@ -1201,7 +1208,7 @@
 - [simpleicons/simpleicons.now.sh](https://github.com/simpleicons/simpleicons.now.sh) - Serve simpleicons with options (and CDN).
 - [doctolib/windows-binary-architecture](https://github.com/doctolib/windows-binary-architecture) - Find the target CPU architecture of Windows binaries (DLLs, EXEs and others).
 - [FreeTubeApp/FreeTube-Vue](https://github.com/FreeTubeApp/FreeTube-Vue) - The repository for the upcoming FreeTube rewrite
-- [Chia-Network/chia-docs](https://github.com/Chia-Network/chia-docs) - 
+- [Chia-Network/chia-docs](https://github.com/Chia-Network/chia-docs) - Chia Docs - documentation on the Chia blockchain, protocol and client
 - [sebhildebrandt/systeminformation](https://github.com/sebhildebrandt/systeminformation) - System Information Library for Node.JS
 - [matthewhudson/current-device](https://github.com/matthewhudson/current-device) - The easiest way to write conditional CSS and/or JavaScript based on device operating system (iOS, Android, Blackberry, Windows, Firefox OS, MeeGo), orientation (Portrait vs. Landscape), and type (Tabl
 - [marlun78/arith](https://github.com/marlun78/arith) - Math stuff
@@ -1823,6 +1830,8 @@
 
 ## Python 
 
+- [volitank/volian](https://github.com/volitank/volian) - volian is an installer for Debian or Ubuntu.
+- [geerlingguy/pico-w-garage-door-sensor](https://github.com/geerlingguy/pico-w-garage-door-sensor) - Wireless garage door sensor for Home Assistant powered by Raspberry Pi Pico W
 - [jbuchermn/newm](https://github.com/jbuchermn/newm) - Wayland compositor
 - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 - [walkxhub/dashboard-icons](https://github.com/walkxhub/dashboard-icons) - 📂 Dashboard Icons for your selfhosted services.
@@ -2084,7 +2093,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-458-Stars](https://github.com/iBug/This-Repo-Has-458-Stars) - Yes, it's true :orange_heart: This repository has 458 stars.
+- [iBug/This-Repo-Has-463-Stars](https://github.com/iBug/This-Repo-Has-463-Stars) - Yes, it's true :purple_heart: This repository has 463 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -2332,6 +2341,7 @@
 
 ## Shell 
 
+- [rhasspy/rhasspy](https://github.com/rhasspy/rhasspy) - Offline private voice assistant for many human languages
 - [rauchg/wifi-password](https://github.com/rauchg/wifi-password) - Get the password of the wifi you're on (bash)
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) - This will run the new self-hosted github actions runners with docker-in-docker
 - [wimpysworld/ubuntu-pi-image](https://github.com/wimpysworld/ubuntu-pi-image) - 
@@ -2786,6 +2796,8 @@
 
 ## TypeScript 
 
+- [Unleash/unleash](https://github.com/Unleash/unleash) - Unleash is the open source feature toggle service.
+- [hieunc229/copilot-clone](https://github.com/hieunc229/copilot-clone) - VSCode extension for code suggestion
 - [app-clones/netflix-clone](https://github.com/app-clones/netflix-clone) - A Netflix clone made using React, Firebase, and Firestore
 - [cloudflare/wrangler2](https://github.com/cloudflare/wrangler2) - ⛅️ The CLI for Cloudflare Workers®
 - [airmessage/airmessage-web](https://github.com/airmessage/airmessage-web) - AirMessage for the web and Windows
