@@ -312,7 +312,7 @@
 - [Itai-Nelken/vm](https://github.com/Itai-Nelken/vm) - 
 - [alexfru/SmallerC](https://github.com/alexfru/SmallerC) - Simple C compiler
 - [theofficialgman/flappy](https://github.com/theofficialgman/flappy) - Flappy Birds - A rapid prototype implementation in SDL2-C
-- [xmrig/xmrig](https://github.com/xmrig/xmrig) - RandomX, KawPow, CryptoNight, AstroBWT and GhostRider unified CPU/GPU miner and RandomX benchmark
+- [xmrig/xmrig](https://github.com/xmrig/xmrig) - RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark
 - [deadpixi/mtm](https://github.com/deadpixi/mtm) - Perhaps the smallest useful terminal multiplexer in the world.
 - [mesa3d/mesa](https://github.com/mesa3d/mesa) - Mesa 3D graphics library (read-only mirror of https://gitlab.freedesktop.org/mesa/mesa/)
 - [Fredrum/hwdectogl](https://github.com/Fredrum/hwdectogl) - HW accellerated zero copy HEVC to OpenGL on Raspberry Pi 4
@@ -444,6 +444,7 @@
 
 ## C++ 
 
+- [Electronicks/JoyShockMapper](https://github.com/Electronicks/JoyShockMapper) - A tool for PC gamers to play games with DualShock 4s, JoyCons, and Pro Controllers. Gyro aiming, flick stick.
 - [hiyohiyo/CrystalDiskInfo](https://github.com/hiyohiyo/CrystalDiskInfo) - CrystalDiskInfo
 - [IonelPopJara/ascii-video-player](https://github.com/IonelPopJara/ascii-video-player) - A simple script that turns .mp4 files into ASCII characters
 - [riverar/mach2](https://github.com/riverar/mach2) - Windows Feature Control Multi-tool
@@ -1042,6 +1043,7 @@
 
 ## Java 
 
+- [LambdAurora/LambdaControls](https://github.com/LambdAurora/LambdaControls) - A minecraft mod which adds better controls and controller support.
 - [guardianproject/PanicKit](https://github.com/guardianproject/PanicKit) - a framework for providing trusted connections between panic button apps and other apps that should be triggered by them
 - [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
 - [osmandapp/OsmAnd](https://github.com/osmandapp/OsmAnd) - OsmAnd
@@ -2097,7 +2099,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-466-Stars](https://github.com/iBug/This-Repo-Has-466-Stars) - Yes, it's true :heart: This repository has 466 stars.
+- [iBug/This-Repo-Has-468-Stars](https://github.com/iBug/This-Repo-Has-468-Stars) - Yes, it's true :heartpulse: This repository has 468 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -2770,7 +2772,7 @@
 
 ## Swift 
 
-- [airmessage/airmessage-server-next](https://github.com/airmessage/airmessage-server-next) - AirMessage Server, implemented natively in Swift
+- [airmessage/airmessage-server](https://github.com/airmessage/airmessage-server) - AirMessage's native message relay server for Mac
 - [Sileo/Sileo](https://github.com/Sileo/Sileo) - A modern package manager for iOS 12 and higher.
 - [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 The Camera library that sees the vision.
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
