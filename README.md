@@ -101,6 +101,7 @@
 
 ## C 
 
+- [checkra1n/PongoOS](https://github.com/checkra1n/PongoOS) - pongoOS
 - [Ryu0118/TouchSimulator-iOS14](https://github.com/Ryu0118/TouchSimulator-iOS14) - simulate touch tool working on iOS14
 - [rA9stuff/LeetDown](https://github.com/rA9stuff/LeetDown) - an OTA Downgrade Tool for A6 and A7 Devices
 - [Samgisaninja/SuccessionRestore](https://github.com/Samgisaninja/SuccessionRestore) - Restore iOS devices without updating via rootfilesystem DMG
@@ -444,6 +445,7 @@
 
 ## C++ 
 
+- [Fenrirthviti/obs-virtual-cam](https://github.com/Fenrirthviti/obs-virtual-cam) - obs-studio plugin to simulate a directshow webcam
 - [Electronicks/JoyShockMapper](https://github.com/Electronicks/JoyShockMapper) - A tool for PC gamers to play games with DualShock 4s, JoyCons, and Pro Controllers. Gyro aiming, flick stick.
 - [hiyohiyo/CrystalDiskInfo](https://github.com/hiyohiyo/CrystalDiskInfo) - CrystalDiskInfo
 - [IonelPopJara/ascii-video-player](https://github.com/IonelPopJara/ascii-video-player) - A simple script that turns .mp4 files into ASCII characters
@@ -1415,7 +1417,7 @@
 
 ## Kotlin 
 
-- [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative YouTube front end, for Android. [WIP]
+- [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative YouTube front end, for Android.
 - [roozbehzarei/filester](https://github.com/roozbehzarei/filester) - A simple file uploader for android
 - [retrowars/retrowars](https://github.com/retrowars/retrowars) - Play retro games against each other in any combination in this open source Android multiplayer game.
 - [termux/termux-gui](https://github.com/termux/termux-gui) - A plugin for Termux to use native Android GUI components from CLI applications.
@@ -1678,7 +1680,6 @@
 - [ryanfortner/ryanfortner](https://github.com/ryanfortner/ryanfortner) - 
 - [ryanfortner/pi-apps-website](https://github.com/ryanfortner/pi-apps-website) - pi-apps website experiment
 - [ryanfortner/calculator-programs](https://github.com/ryanfortner/calculator-programs) - Various programs for Texas Instruments calculators
-- [chaotic-aur/packages](https://github.com/chaotic-aur/packages) - The packages Mason, what do they mean? (Package requests and bug reports here) 📑
 - [heysagnik/windows-ui-tweaks](https://github.com/heysagnik/windows-ui-tweaks) - 
 - [hmsjy2017/onedriver-arm64-builds](https://github.com/hmsjy2017/onedriver-arm64-builds) - 
 - [ZvonimirKucis/conky](https://github.com/ZvonimirKucis/conky) - Simple Conky configuration for my desktop PC
@@ -2100,7 +2101,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-469-Stars](https://github.com/iBug/This-Repo-Has-469-Stars) - Yes, it's true :revolving_hearts: This repository has 469 stars.
+- [iBug/This-Repo-Has-469-Stars](https://github.com/iBug/This-Repo-Has-469-Stars) - Yes, it's true :heart: This repository has 469 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -2591,6 +2592,7 @@
 - [ryanfortner/deb-builder](https://github.com/ryanfortner/deb-builder) - Super simple script to create Debian packages
 - [AlexProgrammerDE/balena-minecraft-server](https://github.com/AlexProgrammerDE/balena-minecraft-server) - Build a Minecraft Server using a Raspberry Pi 4! Supports common Servers, SCP, RCON and Wifi Connect.
 - [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB) - A Microsoft Windows® USB installation media preparer for GNU+Linux
+- [chaotic-aur/packages](https://github.com/chaotic-aur/packages) - The packages Mason, what do they mean? (Package requests and bug reports here) 📑
 - [pruje/deb-builder](https://github.com/pruje/deb-builder) - A build script to easely create deb packages from git sources
 - [rsm-gh/build-deb](https://github.com/rsm-gh/build-deb) - GNU/Linux Debian package builder.
 - [thoughtbot/laptop](https://github.com/thoughtbot/laptop) - A shell script to set up a macOS laptop for web and mobile development.
