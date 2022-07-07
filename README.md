@@ -968,6 +968,7 @@
 
 ## HTML 
 
+- [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) - This repository contains best profile readme's for your reference.
 - [bancika/diy-layout-creator](https://github.com/bancika/diy-layout-creator) - multi platform circuit layout and schematic drawing tool
 - [lordelph/pastebin](https://github.com/lordelph/pastebin) - The original pastebin source, available under an AGPL licence
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
@@ -1123,7 +1124,7 @@
 - [rishz/URL-Shortener](https://github.com/rishz/URL-Shortener) - A URL-Shortener created using Node-JS and synced with Firebase Database.
 - [AnandChowdhary/followers-tracker](https://github.com/AnandChowdhary/followers-tracker) - :octocat: Tracking my GitHub followers using Slack
 - [plibither8/gh-followers-tracker](https://github.com/plibither8/gh-followers-tracker) - :octocat: Tracking my GitHub following and un-following with notifications on Telegram (why not lol)
-- [tholman/cursor-effects](https://github.com/tholman/cursor-effects) - Only 90's kids remember... well not really, but these beloved effects that would follow your mouse around will always be classic reminders of the old, beloved internet.
+- [tholman/cursor-effects](https://github.com/tholman/cursor-effects) - Old-school cursor effects for your browser built with modern JavaScript
 - [xianfei/SysMocap](https://github.com/xianfei/SysMocap) - A real-time motion capture system for 3D virtual character animating.
 - [betaflight/betaflight-configurator](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware
 - [binary-person/rammerhead](https://github.com/binary-person/rammerhead) - User friendly web proxy powered by testcafe-hammerhead
@@ -2101,7 +2102,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-469-Stars](https://github.com/iBug/This-Repo-Has-469-Stars) - Yes, it's true :heart: This repository has 469 stars.
+- [iBug/This-Repo-Has-468-Stars](https://github.com/iBug/This-Repo-Has-468-Stars) - Yes, it's true :orange_heart: This repository has 468 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -2253,6 +2254,7 @@
 
 ## Rust 
 
+- [pacstall/pacstall-gui](https://github.com/pacstall/pacstall-gui) - GUI for pacstall
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [dteare/opbookmarks](https://github.com/dteare/opbookmarks) - Export 1Password item metadata to support 3rd party app integrations using the 1Password CLI
