@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [ASL](#asl)
 - [Assembly](#assembly)
 - [AutoIt](#autoit)
 - [Awk](#awk)
@@ -79,6 +80,10 @@
 - [Vim script](#vim-script)
 - [Vue](#vue)
 
+## ASL 
+
+- [jsassu20/Lenovo-T450-Catalina-OpenCore](https://github.com/jsassu20/Lenovo-T450-Catalina-OpenCore) - 
+
 ## Assembly 
 
 - [leachim6/hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!
@@ -102,6 +107,9 @@
 
 ## C 
 
+- [synackuk/checkm8-a5](https://github.com/synackuk/checkm8-a5) - checkm8 port for S5L8940X/S5L8942X/S5L8945X
+- [RehabMan/OS-X-ACPI-Backlight](https://github.com/RehabMan/OS-X-ACPI-Backlight) - Updated ACPIBacklight.kext for OS X.  Uses ACPI methods to control laptop backlight.
+- [acidanthera/OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) - OpenCore bootloader
 - [any1/wayvnc](https://github.com/any1/wayvnc) - A VNC server for wlroots based Wayland compositors
 - [checkra1n/PongoOS](https://github.com/checkra1n/PongoOS) - pongoOS
 - [Ryu0118/TouchSimulator-iOS14](https://github.com/Ryu0118/TouchSimulator-iOS14) - simulate touch tool working on iOS14
@@ -448,6 +456,8 @@
 
 ## C++ 
 
+- [gsly/OS-X-ACPI-Battery-Driver](https://github.com/gsly/OS-X-ACPI-Battery-Driver) - Implements an Advanced Configuration and Power Interface (ACPI) based battery manager kernel extension (kext/driver) for non-Apple laptops running OS X.
+- [RehabMan/OS-X-ACPI-Battery-Driver](https://github.com/RehabMan/OS-X-ACPI-Battery-Driver) - Implements an Advanced Configuration and Power Interface (ACPI) based battery manager kernel extension (kext/driver) for non-Apple laptops running OS X.
 - [Fenrirthviti/obs-virtual-cam](https://github.com/Fenrirthviti/obs-virtual-cam) - obs-studio plugin to simulate a directshow webcam
 - [Electronicks/JoyShockMapper](https://github.com/Electronicks/JoyShockMapper) - A tool for PC gamers to play games with DualShock 4s, JoyCons, and Pro Controllers. Gyro aiming, flick stick.
 - [hiyohiyo/CrystalDiskInfo](https://github.com/hiyohiyo/CrystalDiskInfo) - CrystalDiskInfo
@@ -624,7 +634,7 @@
 - [raspberrypi/piserver](https://github.com/raspberrypi/piserver) - Raspberry Pi Server wizard to serve Raspbian to network booting Pis
 - [apple/swift](https://github.com/apple/swift) - The Swift Programming Language
 - [jk-gan/ADM](https://github.com/jk-gan/ADM) - Aria2 Download Manager
-- [mobilegmYT/bongocat-osu](https://github.com/mobilegmYT/bongocat-osu) - Fork of https://github.com/kuroni/bongocat-osu for Raspberry Pi.
+- [NoozSBC/bongocat-osu](https://github.com/NoozSBC/bongocat-osu) - Fork of https://github.com/kuroni/bongocat-osu for Raspberry Pi.
 - [supertuxkart/stk-code](https://github.com/supertuxkart/stk-code) - The code base of supertuxkart
 - [viewizard/astromenace](https://github.com/viewizard/astromenace) - Hardcore 3D space scroll-shooter with spaceship upgrade possibilities.
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
@@ -1121,6 +1131,7 @@
 
 ## JavaScript 
 
+- [YuvrajMann/IMEI-Checker](https://github.com/YuvrajMann/IMEI-Checker) - 
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [maoschanz/emoji-selector-for-gnome](https://github.com/maoschanz/emoji-selector-for-gnome) - This extension provide a popup menu with some emojis ; clicking on an emoji copies it to the clipboard.
@@ -1533,6 +1544,8 @@
 
 ## Others 
 
+- [Lacedaemon/Thinkpad-L450-OpenCore](https://github.com/Lacedaemon/Thinkpad-L450-OpenCore) - Configuration files for an OpenCore Hackintosh setup on the Lenovo Thinkpad L450
+- [z0mBy91/Lenovo-L450-Opencore-Hackintosh](https://github.com/z0mBy91/Lenovo-L450-Opencore-Hackintosh) - Trying to finalize my Opencore Hackintosh and try to write a short guide on how to install it.
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [Discord-Client-Encyclopedia-Management/Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) - All 3rd party clients will update as needed
 - [emergy/iproxy](https://github.com/emergy/iproxy) - OS X iproxy LaunchAgent
@@ -1849,6 +1862,8 @@
 
 ## Python 
 
+- [xinzhizao/MagicCFG](https://github.com/xinzhizao/MagicCFG) - SysCFG R/W Utility written in Swift
+- [Shugabuga/Silica](https://github.com/Shugabuga/Silica) - A static site generator for MobileAPT repos.
 - [itsnebulalol/permasigner](https://github.com/itsnebulalol/permasigner) - 🖊 Permanently signs IPAs on jailbroken iDevices (persists on stock).
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on PyQt5.
 - [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 An easy to use tool to change the mapping of your input device buttons.
@@ -2117,7 +2132,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-468-Stars](https://github.com/iBug/This-Repo-Has-468-Stars) - Yes, it's true :heart: This repository has 468 stars.
+- [iBug/This-Repo-Has-469-Stars](https://github.com/iBug/This-Repo-Has-469-Stars) - Yes, it's true :revolving_hearts: This repository has 469 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -2135,7 +2150,7 @@
 - [arindas/mac-on-linux-with-qemu](https://github.com/arindas/mac-on-linux-with-qemu) - Runs macOS on linux with qemu.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [FreeCAD/FreeCAD-Bundle](https://github.com/FreeCAD/FreeCAD-Bundle) - Stand-alone repo to Build and Deploy the FreeCAD AppImage
-- [mobilegmYT/mcpi-sound](https://github.com/mobilegmYT/mcpi-sound) - Add sound to MCPI
+- [NoozSBC/mcpi-sound](https://github.com/NoozSBC/mcpi-sound) - Add sound to MCPI
 - [ecthros/uncaptcha2](https://github.com/ecthros/uncaptcha2) - defeating the latest version of ReCaptcha with 91% accuracy
 - [sunfounder/SunFounder_SensorKit_for_RPi2](https://github.com/sunfounder/SunFounder_SensorKit_for_RPi2) - SunFounder Sensor Kit V2.0 for Raspberry Pi 2
 - [gerardpuig/ubuntu-cleaner](https://github.com/gerardpuig/ubuntu-cleaner) - Ubuntu Cleaner is a tool that makes it easy to clean your ubuntu system.
@@ -2367,6 +2382,9 @@
 
 ## Shell 
 
+- [jsassu20/Lenovo-ThinkPad-T450-macOS-Catalina](https://github.com/jsassu20/Lenovo-ThinkPad-T450-macOS-Catalina) - Lenovo ThinkPad T450 || macOS Catalina || Hotpatched || Broadwell || *** iMessage: Jsassu20@gmail.com ***
+- [Piker-Alpha/ssdtPRGen.sh](https://github.com/Piker-Alpha/ssdtPRGen.sh) - Script to generate a SSDT for Power Management
+- [RehabMan/OS-X-Clover-Laptop-Config](https://github.com/RehabMan/OS-X-Clover-Laptop-Config) - Some Clover config.plist files for common Intel graphics configurations
 - [exions/undo-push](https://github.com/exions/undo-push) - ↪️ Undo a git push by removing the commit and going back to the commit before it.
 - [rhasspy/rhasspy](https://github.com/rhasspy/rhasspy) - Offline private voice assistant for many human languages
 - [rauchg/wifi-password](https://github.com/rauchg/wifi-password) - Get the password of the wifi you're on (bash)
@@ -2480,7 +2498,7 @@
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [x08d/lockdown.sh](https://github.com/x08d/lockdown.sh) - Lockdown your linux install. The simple zero config linux hardening script
-- [mobilegmYT/mcpi-reborn-extended](https://github.com/mobilegmYT/mcpi-reborn-extended) - The next generation of Minecraft: Pi Edition
+- [NoozSBC/mcpi-reborn-extended](https://github.com/NoozSBC/mcpi-reborn-extended) - The next generation of Minecraft: Pi Edition
 - [TheBananaStore/TheBananaStore](https://github.com/TheBananaStore/TheBananaStore) - 🍌🐧 Content repository for the Banana Store
 - [procount/pinn-os](https://github.com/procount/pinn-os) - os-images for PINN
 - [exe-thumbnailer/exe-thumbnailer](https://github.com/exe-thumbnailer/exe-thumbnailer) - Thumbnailer for .exe/.dll/.msi/.lnk files on Linux systems.
@@ -2731,7 +2749,7 @@
 - [kennyh7279/plank-themes](https://github.com/kennyh7279/plank-themes) - Putting my plank themes back on github
 - [adityashrm21/RaspberryPi-Packet-Sniffer](https://github.com/adityashrm21/RaspberryPi-Packet-Sniffer) - An HTTP and HTTPS sniffing tool created using a Raspberry Pi
 - [aikoncwd/rpi-benchmark](https://github.com/aikoncwd/rpi-benchmark) - Script to run some benchmark test for Raspberry Pi
-- [mobilegmYT/TwisterOS-imager](https://github.com/mobilegmYT/TwisterOS-imager) - Fork of Raspberry Pi patcher with TwisterOS inside
+- [NoozSBC/TwisterOS-imager](https://github.com/NoozSBC/TwisterOS-imager) - Fork of Raspberry Pi patcher with TwisterOS inside
 - [cliegargo/cfetch](https://github.com/cliegargo/cfetch) - A simple system information tool for Linux.
 - [keroserene/rickrollrc](https://github.com/keroserene/rickrollrc) - Rick Astley invades your terminal.
 - [Drewsif/PiShrink](https://github.com/Drewsif/PiShrink) - Make your pi images smaller!
