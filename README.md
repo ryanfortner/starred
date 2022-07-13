@@ -834,6 +834,7 @@
 
 ## Go 
 
+- [schollz/cowyo](https://github.com/schollz/cowyo) - A feature-rich wiki webserver for minimalists :cow: :speech_balloon:
 - [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [reujab/wallpaper](https://github.com/reujab/wallpaper) - A cross-platform Golang library for getting and setting desktop wallpapers
 - [packwiz/packwiz](https://github.com/packwiz/packwiz) - A command line tool for editing and distributing Minecraft modpacks, using a git-friendly TOML format. Supports CurseForge and Modrinth mods with automated updates!
@@ -1065,6 +1066,7 @@
 
 ## Java 
 
+- [jzyra/DecodeAndroidGesture](https://github.com/jzyra/DecodeAndroidGesture) - This tool decode Android's pattern lock screen with gesture.key file in Android device.
 - [LambdAurora/LambdaControls](https://github.com/LambdAurora/LambdaControls) - A minecraft mod which adds better controls and controller support.
 - [guardianproject/PanicKit](https://github.com/guardianproject/PanicKit) - a framework for providing trusted connections between panic button apps and other apps that should be triggered by them
 - [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
@@ -1131,6 +1133,8 @@
 
 ## JavaScript 
 
+- [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
+- [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [YuvrajMann/IMEI-Checker](https://github.com/YuvrajMann/IMEI-Checker) - 
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
@@ -1544,6 +1548,8 @@
 
 ## Others 
 
+- [matafokka/ExcelDarkThemeFix](https://github.com/matafokka/ExcelDarkThemeFix) - Fixes Microsoft Excel appearance when custom Windows theme is used
+- [matafokka/PowerPointDarkThemeFix](https://github.com/matafokka/PowerPointDarkThemeFix) - When a custom (especially dark) theme is applied, default PowerPoint's color picker messes grey colors for fill, borders, shadow and glow. PowerPointDarkThemeFix does this simple task right.
 - [Lacedaemon/Thinkpad-L450-OpenCore](https://github.com/Lacedaemon/Thinkpad-L450-OpenCore) - Configuration files for an OpenCore Hackintosh setup on the Lenovo Thinkpad L450
 - [z0mBy91/Lenovo-L450-Opencore-Hackintosh](https://github.com/z0mBy91/Lenovo-L450-Opencore-Hackintosh) - Trying to finalize my Opencore Hackintosh and try to write a short guide on how to install it.
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
@@ -2382,6 +2388,7 @@
 
 ## Shell 
 
+- [aaron-dev-git/Linux-Mint-Debloater](https://github.com/aaron-dev-git/Linux-Mint-Debloater) - Script to debloat Linux Mint
 - [jsassu20/Lenovo-ThinkPad-T450-macOS-Catalina](https://github.com/jsassu20/Lenovo-ThinkPad-T450-macOS-Catalina) - Lenovo ThinkPad T450 || macOS Catalina || Hotpatched || Broadwell || *** iMessage: Jsassu20@gmail.com ***
 - [Piker-Alpha/ssdtPRGen.sh](https://github.com/Piker-Alpha/ssdtPRGen.sh) - Script to generate a SSDT for Power Management
 - [RehabMan/OS-X-Clover-Laptop-Config](https://github.com/RehabMan/OS-X-Clover-Laptop-Config) - Some Clover config.plist files for common Intel graphics configurations
@@ -2810,6 +2817,7 @@
 
 ## Swift 
 
+- [smumriak/AppKid](https://github.com/smumriak/AppKid) - 
 - [rileytestut/Delta](https://github.com/rileytestut/Delta) - Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices.
 - [rileytestut/AltStore](https://github.com/rileytestut/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
 - [powenn/permasigneriOS](https://github.com/powenn/permasigneriOS) - permasigner on iOS
