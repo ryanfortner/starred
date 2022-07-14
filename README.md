@@ -185,7 +185,7 @@
 - [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression
 - [immortalwrt/luci](https://github.com/immortalwrt/luci) - LuCI - OpenWrt Configuration Interface
 - [apache/mynewt-nimble](https://github.com/apache/mynewt-nimble) - Apache mynewt
-- [lvgl/lvgl](https://github.com/lvgl/lvgl) - Powerful and easy-to-use embedded GUI library with many widgets, advanced visual effects (opacity, antialiasing, animations) and low memory requirements (16K RAM, 64K Flash).
+- [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.
 - [InfiniTimeOrg/pinetime-mcuboot-bootloader](https://github.com/InfiniTimeOrg/pinetime-mcuboot-bootloader) - An open source bootloader for the PineTime based on MyNEWT and MCUBoot.
 - [joaquimorg/PinetimeLite](https://github.com/joaquimorg/PinetimeLite) - Firmware for Pinetime smartwatch written in C/C++ and based on FreeRTOS
 - [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
@@ -1133,6 +1133,7 @@
 
 ## JavaScript 
 
+- [Nidrux/gravatar-discord](https://github.com/Nidrux/gravatar-discord) - Upload your gravatar image to discord automatically using selenium.
 - [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [YuvrajMann/IMEI-Checker](https://github.com/YuvrajMann/IMEI-Checker) - 
@@ -1443,6 +1444,7 @@
 
 ## Kotlin 
 
+- [lcarsde/lcarswm](https://github.com/lcarsde/lcarswm) - lcarswm (LCARS Window Manager) is a window manager that is supposed to look like an LCARS interface. It's written in Kotlin and utilizing XLib.
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative YouTube front end, for Android.
 - [roozbehzarei/filester](https://github.com/roozbehzarei/filester) - A simple file uploader for android
 - [retrowars/retrowars](https://github.com/retrowars/retrowars) - Play retro games against each other in any combination in this open source Android multiplayer game.
@@ -1856,6 +1858,7 @@
 
 ## PowerShell 
 
+- [huben1337/winpfp](https://github.com/huben1337/winpfp) - Custom Windows 10 account picture
 - [teeotsa/windows-11-debloat](https://github.com/teeotsa/windows-11-debloat) - Script to optimize your installation of Windows 11.
 - [teeotsa/windows-10-debloat](https://github.com/teeotsa/windows-10-debloat) - Windows 10 debloater! Makes your installation of Windows 10 faster
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
@@ -1868,6 +1871,7 @@
 
 ## Python 
 
+- [ful1e5/apple_cursor](https://github.com/ful1e5/apple_cursor) - Opensource macOS Cursors.
 - [xinzhizao/MagicCFG](https://github.com/xinzhizao/MagicCFG) - SysCFG R/W Utility written in Swift
 - [Shugabuga/Silica](https://github.com/Shugabuga/Silica) - A static site generator for MobileAPT repos.
 - [itsnebulalol/permasigner](https://github.com/itsnebulalol/permasigner) - 🖊 Permanently signs IPAs on jailbroken iDevices (persists on stock).
@@ -2138,7 +2142,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-469-Stars](https://github.com/iBug/This-Repo-Has-469-Stars) - Yes, it's true :revolving_hearts: This repository has 469 stars.
+- [iBug/This-Repo-Has-471-Stars](https://github.com/iBug/This-Repo-Has-471-Stars) - Yes, it's true :two_hearts: This repository has 471 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -2388,6 +2392,7 @@
 
 ## Shell 
 
+- [yeyushengfan258/Win11-icon-theme](https://github.com/yeyushengfan258/Win11-icon-theme) - A colorful design icon theme for linux desktops
 - [aaron-dev-git/Linux-Mint-Debloater](https://github.com/aaron-dev-git/Linux-Mint-Debloater) - Script to debloat Linux Mint
 - [jsassu20/Lenovo-ThinkPad-T450-macOS-Catalina](https://github.com/jsassu20/Lenovo-ThinkPad-T450-macOS-Catalina) - Lenovo ThinkPad T450 || macOS Catalina || Hotpatched || Broadwell || *** iMessage: Jsassu20@gmail.com ***
 - [Piker-Alpha/ssdtPRGen.sh](https://github.com/Piker-Alpha/ssdtPRGen.sh) - Script to generate a SSDT for Power Management
