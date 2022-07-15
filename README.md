@@ -1020,7 +1020,6 @@
 - [revoxhere/revoxhere.github.io](https://github.com/revoxhere/revoxhere.github.io) - My portfolio
 - [revoxhere/magi-webservices](https://github.com/revoxhere/magi-webservices) - Coin Magi 2021 Explorer & Web Wallet
 - [LAX1DUDE/eaglercraft](https://github.com/LAX1DUDE/eaglercraft) - Eaglercraft is real Minecraft 1.5.2 that you can play in any regular web browser. That includes school chromebooks, it works on all chromebooks. You can join real Minecraft 1.5.2 servers with it throu
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for self-hosting. Install on a Raspberry Pi 4 or Ubuntu/Debian.
 - [linuxmint/live-installer](https://github.com/linuxmint/live-installer) - A live installer for the Debian edition
 - [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
 - [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge) - Can you create something cool without modern tools?
@@ -1675,7 +1674,7 @@
 - [WorksOnArm/mininodes-arm-edge](https://github.com/WorksOnArm/mininodes-arm-edge) - Arm and miniNodes have partnered to make Arm-based edge devices and single board computers available for open source software developers to build, test and optimize for Arm.
 - [microsoft/Selawik](https://github.com/microsoft/Selawik) - This will provide a location for Selawik development to take place.
 - [shannpersand/comic-shanns](https://github.com/shannpersand/comic-shanns) - a classy font
-- [hashicorp/ghaction-import-gpg](https://github.com/hashicorp/ghaction-import-gpg) - GitHub action to import GPG private key
+- [hashicorp/ghaction-import-gpg](https://github.com/hashicorp/ghaction-import-gpg) - DEPRECATED - GitHub action to import GPG private key
 - [pragathoys/build_xmrig_for_armv7](https://github.com/pragathoys/build_xmrig_for_armv7) - 
 - [ryanfortner/unsplash-wallpapers-arm](https://github.com/ryanfortner/unsplash-wallpapers-arm) - 
 - [ryanfortner/broot-arm](https://github.com/ryanfortner/broot-arm) - arm packages of broot
@@ -2142,7 +2141,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-471-Stars](https://github.com/iBug/This-Repo-Has-471-Stars) - Yes, it's true :two_hearts: This repository has 471 stars.
+- [iBug/This-Repo-Has-472-Stars](https://github.com/iBug/This-Repo-Has-472-Stars) - Yes, it's true :orange_heart: This repository has 472 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -2392,6 +2391,7 @@
 
 ## Shell 
 
+- [framps/raspiBackup](https://github.com/framps/raspiBackup) - Backup and restore your running Raspberry
 - [yeyushengfan258/Win11-icon-theme](https://github.com/yeyushengfan258/Win11-icon-theme) - A colorful design icon theme for linux desktops
 - [aaron-dev-git/Linux-Mint-Debloater](https://github.com/aaron-dev-git/Linux-Mint-Debloater) - Script to debloat Linux Mint
 - [jsassu20/Lenovo-ThinkPad-T450-macOS-Catalina](https://github.com/jsassu20/Lenovo-ThinkPad-T450-macOS-Catalina) - Lenovo ThinkPad T450 || macOS Catalina || Hotpatched || Broadwell || *** iMessage: Jsassu20@gmail.com ***
@@ -2547,6 +2547,7 @@
 - [sickcodes/anbox-halium](https://github.com/sickcodes/anbox-halium) - 
 - [vinceliuice/McMojave-circle](https://github.com/vinceliuice/McMojave-circle) - McMojave-circle icon theme for linux desktops
 - [layquack/Twister-UI](https://github.com/layquack/Twister-UI) - Twister UI for Debian / Ubuntu aarch64
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for self-hosting. Install on a Raspberry Pi 4 or Ubuntu/Debian.
 - [specious/check-bitly](https://github.com/specious/check-bitly) - :ok_hand: Check domains to find out if they are bitly.com domains
 - [abhiTronix/raspberry-pi-cross-compilers](https://github.com/abhiTronix/raspberry-pi-cross-compilers) - Latest GCC Cross Compiler & Native (ARM & ARM64) CI generated precompiled standalone toolchains for all Raspberry Pis. 🍇
 - [P3TERX/warp.sh](https://github.com/P3TERX/warp.sh) - WARP 一键安装脚本 | Cloudflare WARP Installer | A Bash script that automatically installs and configures CloudFlare WARP in Linux, connects to WARP networks with WARP official client or WireGuard.
