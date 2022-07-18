@@ -984,6 +984,8 @@
 
 ## HTML 
 
+- [arm-university/Embedded-Linux-Education-Kit](https://github.com/arm-university/Embedded-Linux-Education-Kit) - Embedded Linux Education Kit
+- [arm-university/Introduction-to-Computer-Architecture-Education-Kit](https://github.com/arm-university/Introduction-to-Computer-Architecture-Education-Kit) - Introduction-to-Computer-Architecture-Education-Kit
 - [openspeedtest/Speed-Test](https://github.com/openspeedtest/Speed-Test) - Pure HTML5 Network Performance Estimation Tool. OpenSpeedTest use XMLHttpRequest (XHR), HTML, CSS, JS, & SVG For this network performance estimation tool. I started this project in 2011 and moved to O
 - [lichongjia/Cydia-Repo-Template](https://github.com/lichongjia/Cydia-Repo-Template) - This is a Cydia repo template.
 - [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) - This repository contains best profile readme's for your reference.
@@ -1719,7 +1721,6 @@
 - [raspbian-addons/docs](https://github.com/raspbian-addons/docs) - Raspbian Addons project documentation
 - [Amog-OS/AmogOS](https://github.com/Amog-OS/AmogOS) - ඞ Among-us themed OS. As seen on Reddit and Youtube.
 - [IAmStoxe/wirehole](https://github.com/IAmStoxe/wirehole) - WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGu
-- [zayronxio/Zafiro-icons](https://github.com/zayronxio/Zafiro-icons) - icon pack flat with light colors
 - [pystardust/automeet](https://github.com/pystardust/automeet) - Join online classes automatically
 - [pop-os/beta](https://github.com/pop-os/beta) - Pop!_OS Beta
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
@@ -2391,6 +2392,11 @@
 
 ## Shell 
 
+- [SoMainline/linux-apple-resources](https://github.com/SoMainline/linux-apple-resources) - 
+- [coolstar/Odyssey-bootstrap](https://github.com/coolstar/Odyssey-bootstrap) - Chimera bootstrap
+- [krisyanto80/checkn1x](https://github.com/krisyanto80/checkn1x) - Linux-based ISOs for jailbreaking iOS devices w/ checkra1n.
+- [raspberryenvoie/odysseyn1x](https://github.com/raspberryenvoie/odysseyn1x) - Linux-based distro that lets you install checkra1n, odysseyra1n and Project Sandcastle.
+- [Yisus7u7/termux-desktop-xfce](https://github.com/Yisus7u7/termux-desktop-xfce) - Set up a beautiful xfce desktop in termux
 - [framps/raspiBackup](https://github.com/framps/raspiBackup) - Backup and restore your running Raspberry
 - [yeyushengfan258/Win11-icon-theme](https://github.com/yeyushengfan258/Win11-icon-theme) - A colorful design icon theme for linux desktops
 - [aaron-dev-git/Linux-Mint-Debloater](https://github.com/aaron-dev-git/Linux-Mint-Debloater) - Script to debloat Linux Mint
@@ -2657,6 +2663,7 @@
 - [Alvarito050506/rpi-debs](https://github.com/Alvarito050506/rpi-debs) - Debian APT repo for misc packages not yet available in Raspberry Pi OS.
 - [hmsjy2017/n-debs](https://github.com/hmsjy2017/n-debs) - 
 - [CleanMachine1/Various-Scripts](https://github.com/CleanMachine1/Various-Scripts) - Different random scripts I use
+- [zayronxio/Zafiro-icons](https://github.com/zayronxio/Zafiro-icons) - icon pack flat with light colors
 - [linux-surface/linux-surface](https://github.com/linux-surface/linux-surface) - Linux Kernel for Surface Devices
 - [Botspot/Screensavers](https://github.com/Botspot/Screensavers) - Installers for windows screensavers on RPI4 / Twister OS
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
@@ -2823,6 +2830,9 @@
 
 ## Swift 
 
+- [Odyssey-Team/Taurine](https://github.com/Odyssey-Team/Taurine) - iOS 14 semi-untethered jailbreak
+- [Odyssey-Team/Odyssey](https://github.com/Odyssey-Team/Odyssey) - Odyssey Swift-based semi-untethered jailbreak
+- [coolstar/Chimera13](https://github.com/coolstar/Chimera13) - Chimera13 Swift-based semi-untethered jailbreak
 - [smumriak/AppKid](https://github.com/smumriak/AppKid) - 
 - [rileytestut/Delta](https://github.com/rileytestut/Delta) - Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices.
 - [rileytestut/AltStore](https://github.com/rileytestut/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
