@@ -106,6 +106,7 @@
 
 ## C 
 
+- [baskerville/bspwm](https://github.com/baskerville/bspwm) - A tiling window manager based on binary space partitioning
 - [tihmstar/tsschecker](https://github.com/tihmstar/tsschecker) - a powerfull tool to check tss signing status of various devices and firmwares
 - [synackuk/checkm8-a5](https://github.com/synackuk/checkm8-a5) - checkm8 port for S5L8940X/S5L8942X/S5L8945X
 - [RehabMan/OS-X-ACPI-Backlight](https://github.com/RehabMan/OS-X-ACPI-Backlight) - Updated ACPIBacklight.kext for OS X.  Uses ACPI methods to control laptop backlight.
@@ -2145,7 +2146,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-486-Stars](https://github.com/iBug/This-Repo-Has-486-Stars) - Yes, it's true :heartbeat: This repository has 486 stars.
+- [iBug/This-Repo-Has-487-Stars](https://github.com/iBug/This-Repo-Has-487-Stars) - Yes, it's true :heartbeat: This repository has 487 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
