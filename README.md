@@ -456,6 +456,7 @@
 
 ## C++ 
 
+- [ddnet/ddnet](https://github.com/ddnet/ddnet) - DDraceNetwork, a cooperative racing mod of Teeworlds
 - [tihmstar/futurerestore](https://github.com/tihmstar/futurerestore) - A hacked up idevicerestore wrapper, which allows specifying SEP and Baseband for restoring
 - [gsly/OS-X-ACPI-Battery-Driver](https://github.com/gsly/OS-X-ACPI-Battery-Driver) - Implements an Advanced Configuration and Power Interface (ACPI) based battery manager kernel extension (kext/driver) for non-Apple laptops running OS X.
 - [RehabMan/OS-X-ACPI-Battery-Driver](https://github.com/RehabMan/OS-X-ACPI-Battery-Driver) - Implements an Advanced Configuration and Power Interface (ACPI) based battery manager kernel extension (kext/driver) for non-Apple laptops running OS X.
@@ -2146,7 +2147,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-487-Stars](https://github.com/iBug/This-Repo-Has-487-Stars) - Yes, it's true :heartbeat: This repository has 487 stars.
+- [iBug/This-Repo-Has-488-Stars](https://github.com/iBug/This-Repo-Has-488-Stars) - Yes, it's true :two_hearts: This repository has 488 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -2834,6 +2835,7 @@
 
 ## Swift 
 
+- [ginsudev/Gradi](https://github.com/ginsudev/Gradi) - A Swift/SwiftUI media player for jailbroken iOS devices.
 - [Odyssey-Team/Taurine](https://github.com/Odyssey-Team/Taurine) - iOS 14 semi-untethered jailbreak
 - [Odyssey-Team/Odyssey](https://github.com/Odyssey-Team/Odyssey) - Odyssey Swift-based semi-untethered jailbreak
 - [coolstar/Chimera13](https://github.com/coolstar/Chimera13) - Chimera13 Swift-based semi-untethered jailbreak
