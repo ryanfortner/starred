@@ -456,6 +456,7 @@
 
 ## C++ 
 
+- [wxWidgets/wxWidgets](https://github.com/wxWidgets/wxWidgets) - Cross-Platform C++ GUI Library
 - [ddnet/ddnet](https://github.com/ddnet/ddnet) - DDraceNetwork, a cooperative racing mod of Teeworlds
 - [tihmstar/futurerestore](https://github.com/tihmstar/futurerestore) - A hacked up idevicerestore wrapper, which allows specifying SEP and Baseband for restoring
 - [gsly/OS-X-ACPI-Battery-Driver](https://github.com/gsly/OS-X-ACPI-Battery-Driver) - Implements an Advanced Configuration and Power Interface (ACPI) based battery manager kernel extension (kext/driver) for non-Apple laptops running OS X.
@@ -834,6 +835,7 @@
 
 ## Go 
 
+- [hakluke/hakrawler](https://github.com/hakluke/hakrawler) - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
 - [schollz/cowyo](https://github.com/schollz/cowyo) - A feature-rich wiki webserver for minimalists :cow: :speech_balloon:
 - [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [reujab/wallpaper](https://github.com/reujab/wallpaper) - A cross-platform Golang library for getting and setting desktop wallpapers
@@ -3007,6 +3009,7 @@
 
 ## Vala 
 
+- [BuddiesOfBudgie/budgie-desktop](https://github.com/BuddiesOfBudgie/budgie-desktop) - Budgie Desktop is a familiar, modern desktop environment.
 - [linuxmint/timeshift](https://github.com/linuxmint/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be resto
 - [lainsce/quilter](https://github.com/lainsce/quilter) - [DEPRECATED] Focus on your writing.
 - [lainsce/notejot](https://github.com/lainsce/notejot) - Stupidly-simple notes app.
