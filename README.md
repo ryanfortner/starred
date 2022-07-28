@@ -697,6 +697,7 @@
 
 ## CSS 
 
+- [jo-nike/clipplex](https://github.com/jo-nike/clipplex) - 
 - [seankross/the-unix-workbench](https://github.com/seankross/the-unix-workbench) - :house_with_garden: A Book for Anyone to Get Started with Unix
 - [connors/photon](https://github.com/connors/photon) - The fastest way to build beautiful Electron apps using simple HTML and CSS
 - [sighingnow/jekyll-gitbook](https://github.com/sighingnow/jekyll-gitbook) - Build Jekyll site with GitBook style!
@@ -1879,7 +1880,7 @@
 
 - [mcastorina/graph-cli](https://github.com/mcastorina/graph-cli) - Flexible command line tool to create graphs from CSV data
 - [ful1e5/apple_cursor](https://github.com/ful1e5/apple_cursor) - Opensource macOS Cursors.
-- [xinzhizao/MagicCFG](https://github.com/xinzhizao/MagicCFG) - SysCFG R/W Utility written in Swift
+- [j4nf4b3l/MagicCFG](https://github.com/j4nf4b3l/MagicCFG) - SysCFG R/W Utility written in Swift
 - [Shugabuga/Silica](https://github.com/Shugabuga/Silica) - A static site generator for MobileAPT repos.
 - [itsnebulalol/permasigner](https://github.com/itsnebulalol/permasigner) - 🖊 Permanently signs IPAs on jailbroken iDevices (persists on stock).
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on PyQt5.
@@ -2149,7 +2150,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-488-Stars](https://github.com/iBug/This-Repo-Has-488-Stars) - Yes, it's true :two_hearts: This repository has 488 stars.
+- [iBug/This-Repo-Has-489-Stars](https://github.com/iBug/This-Repo-Has-489-Stars) - Yes, it's true :two_hearts: This repository has 489 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
