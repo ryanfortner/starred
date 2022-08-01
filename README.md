@@ -127,7 +127,7 @@
 - [libdivecomputer/libdivecomputer](https://github.com/libdivecomputer/libdivecomputer) - Libdivecomputer is a cross-platform and open source library for communication with dive computers from various manufacturers.
 - [FASTSHIFT/X-TRACK](https://github.com/FASTSHIFT/X-TRACK) - A GPS bicycle speedometer that supports offline maps and track recording
 - [TeamWin/Team-Win-Recovery-Project](https://github.com/TeamWin/Team-Win-Recovery-Project) - Core recovery files for the Team Win Recovery Project (T.W.R.P) - this is not up to date, please see https://github.com/TeamWin/android_bootable_recovery/
-- [mt8163-dev/android_kernel_amazon_mt8163](https://github.com/mt8163-dev/android_kernel_amazon_mt8163) - Common Kernel Tree for the Amazon Fire HD8 2016 & 2017.
+- [mt8163-dev/android_kernel_amazon_mt8163](https://github.com/mt8163-dev/android_kernel_amazon_mt8163) - 
 - [opa334/sandbox_extension_generator](https://github.com/opa334/sandbox_extension_generator) - iOS 15.0 - 15.3.1 sandbox escape technique using kernel read/write primitives
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer designed for reading research papers and technical books.
@@ -310,7 +310,7 @@
 - [GNOME/mutter](https://github.com/GNOME/mutter) - Read-only mirror of https://gitlab.gnome.org/GNOME/mutter
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [douglas-development/android_kernel_amazon_douglas](https://github.com/douglas-development/android_kernel_amazon_douglas) - LineageOS Kernel Tree for the Amazon Fire HD8 2017 codenamed "douglas".
-- [mt8163-dev/android_device_amazon_mt8163-common](https://github.com/mt8163-dev/android_device_amazon_mt8163-common) - Common Device Tree for the Amazon Fire HD8 2016 & 2017.
+- [mt8163-dev/android_device_amazon_mt8163-common](https://github.com/mt8163-dev/android_device_amazon_mt8163-common) - 
 - [giuliomoro/checkinstall](https://github.com/giuliomoro/checkinstall) - 
 - [phillbush/shod](https://github.com/phillbush/shod) - mouse-based window manager that can tile windows inside floating containers
 - [cutiepi-io/cutiepi-drivers](https://github.com/cutiepi-io/cutiepi-drivers) - Drivers for the CutiePi tablet
@@ -701,6 +701,7 @@
 
 ## CSS 
 
+- [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 - [jo-nike/clipplex](https://github.com/jo-nike/clipplex) - 
 - [seankross/the-unix-workbench](https://github.com/seankross/the-unix-workbench) - :house_with_garden: A Book for Anyone to Get Started with Unix
 - [connors/photon](https://github.com/connors/photon) - The fastest way to build beautiful Electron apps using simple HTML and CSS
@@ -1456,6 +1457,7 @@
 
 ## Kotlin 
 
+- [simple-login/Simple-Login-Android](https://github.com/simple-login/Simple-Login-Android) - Android client for SimpleLogin
 - [lcarsde/lcarswm](https://github.com/lcarsde/lcarswm) - lcarswm (LCARS Window Manager) is a window manager that is supposed to look like an LCARS interface. It's written in Kotlin and utilizing XLib.
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative YouTube front end, for Android.
 - [roozbehzarei/filester](https://github.com/roozbehzarei/filester) - A simple file uploader for android
@@ -1492,7 +1494,7 @@
 
 ## Makefile 
 
-- [mt8163-dev/android_device_amazon_douglas](https://github.com/mt8163-dev/android_device_amazon_douglas) - LineageOS Device Tree for the Amazon Fire HD8 2017 codenamed "douglas".
+- [mt8163-dev/android_device_amazon_douglas](https://github.com/mt8163-dev/android_device_amazon_douglas) - 
 - [mate-desktop/mate-icon-theme](https://github.com/mate-desktop/mate-icon-theme) - MATE default icon theme
 - [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
 - [android-rpi/device_arpi_rpi4](https://github.com/android-rpi/device_arpi_rpi4) - Device build-config for Raspberry Pi 4
@@ -1562,6 +1564,7 @@
 
 ## Others 
 
+- [catppuccin/btop](https://github.com/catppuccin/btop) - 🧙‍♂️ Soothing pastel theme for btop
 - [matafokka/ExcelDarkThemeFix](https://github.com/matafokka/ExcelDarkThemeFix) - Fixes Microsoft Excel appearance when custom Windows theme is used
 - [matafokka/PowerPointDarkThemeFix](https://github.com/matafokka/PowerPointDarkThemeFix) - When a custom (especially dark) theme is applied, default PowerPoint's color picker messes grey colors for fill, borders, shadow and glow. PowerPointDarkThemeFix does this simple task right.
 - [Lacedaemon/Thinkpad-L450-OpenCore](https://github.com/Lacedaemon/Thinkpad-L450-OpenCore) - Configuration files for an OpenCore Hackintosh setup on the Lenovo Thinkpad L450
@@ -1883,6 +1886,7 @@
 
 ## Python 
 
+- [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end
 - [mcastorina/graph-cli](https://github.com/mcastorina/graph-cli) - Flexible command line tool to create graphs from CSV data
 - [ful1e5/apple_cursor](https://github.com/ful1e5/apple_cursor) - Opensource macOS Cursors.
 - [j4nf4b3l/MagicCFG](https://github.com/j4nf4b3l/MagicCFG) - SysCFG R/W Utility written in Swift
@@ -2154,7 +2158,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-489-Stars](https://github.com/iBug/This-Repo-Has-489-Stars) - Yes, it's true :two_hearts: This repository has 489 stars.
+- [iBug/This-Repo-Has-490-Stars](https://github.com/iBug/This-Repo-Has-490-Stars) - Yes, it's true :purple_heart: This repository has 490 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -2306,6 +2310,7 @@
 
 ## Rust 
 
+- [kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm) - Intercept any risky patterns (default or defined by you) and prompt you a small challenge for double verification
 - [lomirus/gtk-qq](https://github.com/lomirus/gtk-qq) - Unofficial Linux QQ client, based on GTK4 and libadwaita, developed with Rust and Relm4.
 - [weclaw1/image-roll](https://github.com/weclaw1/image-roll) - Image Roll - simple and fast GTK image viewer with basic image manipulation tools. Written in Rust.
 - [pacstall/pacstall-gui](https://github.com/pacstall/pacstall-gui) - GUI for pacstall
@@ -2404,6 +2409,7 @@
 
 ## Shell 
 
+- [rcaloras/bash-preexec](https://github.com/rcaloras/bash-preexec) - ⚡ preexec and precmd functions for Bash just like Zsh.
 - [SoMainline/linux-apple-resources](https://github.com/SoMainline/linux-apple-resources) - 
 - [coolstar/Odyssey-bootstrap](https://github.com/coolstar/Odyssey-bootstrap) - Chimera bootstrap
 - [krisyanto80/checkn1x](https://github.com/krisyanto80/checkn1x) - Linux-based ISOs for jailbreaking iOS devices w/ checkra1n.
@@ -2884,7 +2890,7 @@
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Unleash is the open source feature toggle service.
 - [hieunc229/copilot-clone](https://github.com/hieunc229/copilot-clone) - VSCode extension for code suggestion
 - [app-clones/netflix-clone](https://github.com/app-clones/netflix-clone) - A Netflix clone made using React, Firebase, and Firestore
-- [airmessage/airmessage-web](https://github.com/airmessage/airmessage-web) - AirMessage for the web and Windows
+- [airmessage/airmessage-web](https://github.com/airmessage/airmessage-web) - AirMessage for the web
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 - [pl4nty/spotify-public-likes](https://github.com/pl4nty/spotify-public-likes) - Sync your liked songs to a public Spotify playlist
 - [bytedance/bytemd](https://github.com/bytedance/bytemd) - Hackable Markdown Editor and Viewer
