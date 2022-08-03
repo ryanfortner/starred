@@ -1482,7 +1482,7 @@
 - [2439905184/oh-my-giraffe](https://github.com/2439905184/oh-my-giraffe) - a game made with love2d ,here is the code ,if you want to learn program
 - [ryanfortner/rpi_conky](https://github.com/ryanfortner/rpi_conky) - 
 - [ryanfortner/conky-configuration](https://github.com/ryanfortner/conky-configuration) - Conky configuration with graphs and more.
-- [frequential/conky-configuration](https://github.com/frequential/conky-configuration) - My personal approach to configure "conky", a tool for creating widgets that display information for Linux desktops.
+- [lutzseverino/conky-configuration](https://github.com/lutzseverino/conky-configuration) - My personal approach to configure "conky", a tool for creating widgets that display information for Linux desktops.
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [ChrisTitusTech/TitusPi](https://github.com/ChrisTitusTech/TitusPi) - Custom CTT Pi based linux distro
 - [ryanfortner/conky-rpi](https://github.com/ryanfortner/conky-rpi) - Collection of widgets for the Raspberry Pi desktop
