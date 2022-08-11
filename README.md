@@ -45,6 +45,7 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mathematica](#mathematica)
+- [Mercury](#mercury)
 - [NSIS](#nsis)
 - [Nim](#nim)
 - [Nix](#nix)
@@ -244,7 +245,7 @@
 - [sebbekarlsson/tac](https://github.com/sebbekarlsson/tac) - tac x86 compiler
 - [xeyownt/xseticon](https://github.com/xeyownt/xseticon) - xseticon from Paul Evans -- http://www.leonerd.org.uk/
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
-- [Schmutz-Industries/ledcontrol](https://github.com/Schmutz-Industries/ledcontrol) - A simple program to control the status LEDs of your Raspberry Pi!
+- [Strawberry-Software-Industries/ledcontrol](https://github.com/Strawberry-Software-Industries/ledcontrol) - A simple program to control the status LEDs of your Raspberry Pi!
 - [ncopa/xfce-polkit](https://github.com/ncopa/xfce-polkit) - A simple PolicyKit authentication agent for XFCE
 - [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) - Lean's OpenWrt source
 - [coreboot/seabios](https://github.com/coreboot/seabios) - mirror of seabios
@@ -1527,6 +1528,10 @@
 ## Mathematica 
 
 - [WebGLSamples/WebGLSamples.github.io](https://github.com/WebGLSamples/WebGLSamples.github.io) - WebGL Samples and Examples
+
+## Mercury 
+
+- [DanTheMan827/ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) - This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
 
 ## NSIS 
 
