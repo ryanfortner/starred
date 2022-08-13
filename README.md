@@ -1605,7 +1605,6 @@
 - [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
 - [bnb/awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
-- [LSPosed/MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSA) - Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android)
 - [wqihai/ssldocker](https://github.com/wqihai/ssldocker) - A minimalistic and flexible multiple host reverse proxy with automatic HTTPS
 - [fengxue-jrql/box86-and-box64-for-arm64](https://github.com/fengxue-jrql/box86-and-box64-for-arm64) - 在arm64上运行box86和box64，box86不需要armhf chroot，box86和box64共同工作。
 - [armbian/mirror](https://github.com/armbian/mirror) - Armbian Linux mirrors
@@ -2175,7 +2174,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-492-Stars](https://github.com/iBug/This-Repo-Has-492-Stars) - Yes, it's true :heartpulse: This repository has 492 stars.
+- [iBug/This-Repo-Has-492-Stars](https://github.com/iBug/This-Repo-Has-492-Stars) - Yes, it's true :yellow_heart: This repository has 492 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -2348,7 +2347,7 @@
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
-- [dmerejkowsky/rusync](https://github.com/dmerejkowsky/rusync) - Minimalist rsync implementation in Rust
+- [your-tools/rusync](https://github.com/your-tools/rusync) - Minimalist rsync implementation in Rust
 - [pop-os/upgrade](https://github.com/pop-os/upgrade) - Utility for upgrading Pop!_OS and its recovery partition to new releases.
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
@@ -2429,6 +2428,7 @@
 
 ## Shell 
 
+- [hykilpikonna/hyfetch](https://github.com/hykilpikonna/hyfetch) - 🖼️ 🏳️‍⚧️  Neofetch with LGBTQ pride flags!
 - [snapcrafters/obs-studio](https://github.com/snapcrafters/obs-studio) - This is a community-supported modified build of OBS Studio.
 - [wimpysworld/obs-fully-loaded](https://github.com/wimpysworld/obs-fully-loaded) - OBS Studio, fully-loaded, for Ubuntu
 - [pivpn/pivpn](https://github.com/pivpn/pivpn) - The Simplest VPN installer, designed for Raspberry Pi
