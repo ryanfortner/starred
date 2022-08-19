@@ -724,6 +724,7 @@
 - [radxa/apt](https://github.com/radxa/apt) - radxa debian packages repository
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 - [zayronxio/windows11-GTKtheme](https://github.com/zayronxio/windows11-GTKtheme) - windows11-GTKtheme
+- [KatsuteDev/GitHub-Red-Issues](https://github.com/KatsuteDev/GitHub-Red-Issues) - Revert closed GitHub issues from purple back to red.
 - [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard
 - [catppuccin/gtk](https://github.com/catppuccin/gtk) - 🪟 Soothing pastel theme for GTK3
 - [tusharnankani/ToDoList](https://github.com/tusharnankani/ToDoList) - A dynamic and aesthetic To-Do List Website built with HTML, CSS, Vanilla JavaScript.
@@ -1284,7 +1285,7 @@
 - [titaniumnetwork-dev/Ultraviolet-Node](https://github.com/titaniumnetwork-dev/Ultraviolet-Node) - Highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more! Easy deployment version (Node.js)
 - [denysdovhan/bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
 - [denysdovhan/learnyoubash](https://github.com/denysdovhan/learnyoubash) - Learn you how to write your first bash script
-- [LAX1DUDE/eaglercraft](https://github.com/LAX1DUDE/eaglercraft) - Eaglercraft is real Minecraft 1.5.2 that you can play in any regular web browser. That includes school chromebooks, it works on all chromebooks. You can join real Minecraft 1.5.2 servers with it throu
+- [lax1dude/eaglercraft](https://github.com/lax1dude/eaglercraft) - Eaglercraft is real Minecraft 1.5.2 that you can play in any regular web browser. That includes school chromebooks, it works on all chromebooks. You can join real Minecraft 1.5.2 servers with it throu
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [shivshankar9/Student-portal](https://github.com/shivshankar9/Student-portal) - Online tools for students to manage documents
 - [specious/bitly-client](https://github.com/specious/bitly-client) - :link: Create and manage your Bitly shortlinks from the command line
@@ -1903,6 +1904,7 @@
 
 ## Python 
 
+- [thiswillbeyourgithub/sleep_tracker_pinetime_wasp-os](https://github.com/thiswillbeyourgithub/sleep_tracker_pinetime_wasp-os) - SleepTk: sleep tracker with smart alarm for the pinetime on wasp-os
 - [flozz/calcleaner](https://github.com/flozz/calcleaner) - A simple graphical tool to purge old events from CalDAV calendars
 - [nat/twtrnotrack](https://github.com/nat/twtrnotrack) - Quick script to automatically remove tracking cookies from Twitter links in your macos clipboard
 - [kennyh7279/shortcut-generator-simple](https://github.com/kennyh7279/shortcut-generator-simple) - Small and simple application to generate .desktop files for use on linux desktop environments
@@ -2180,7 +2182,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-494-Stars](https://github.com/iBug/This-Repo-Has-494-Stars) - Yes, it's true :orange_heart: This repository has 494 stars.
+- [iBug/This-Repo-Has-495-Stars](https://github.com/iBug/This-Repo-Has-495-Stars) - Yes, it's true :two_hearts: This repository has 495 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -2979,7 +2981,6 @@
 - [AH-dark/UptimePage](https://github.com/AH-dark/UptimePage) - Static Page for UptimeRobot. Powered by Next.js
 - [ArmCord/ArmCord](https://github.com/ArmCord/ArmCord) - ArmCord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
-- [KatsuteDev/GitHub-Red-Issues](https://github.com/KatsuteDev/GitHub-Red-Issues) - Revert closed GitHub issues from purple back to red.
 - [shitcorp/discord-bot-dashboard](https://github.com/shitcorp/discord-bot-dashboard) - The npm package for using the Discord Bot Dashboard inside your own source code
 - [lowlighter/denolithic](https://github.com/lowlighter/denolithic) - 🦕 Transform any markdown file into presentation slides with extended markup and runnable code snippets
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
