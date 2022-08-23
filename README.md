@@ -1287,7 +1287,7 @@
 - [denysdovhan/learnyoubash](https://github.com/denysdovhan/learnyoubash) - Learn you how to write your first bash script
 - [lax1dude/eaglercraft](https://github.com/lax1dude/eaglercraft) - Eaglercraft is real Minecraft 1.5.2 that you can play in any regular web browser. That includes school chromebooks, it works on all chromebooks. You can join real Minecraft 1.5.2 servers with it throu
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
-- [shivshankar9/Student-portal](https://github.com/shivshankar9/Student-portal) - Online tools for students to manage documents
+- [shivshankar9/Student-portal](https://github.com/shivshankar9/Student-portal) - 
 - [specious/bitly-client](https://github.com/specious/bitly-client) - :link: Create and manage your Bitly shortlinks from the command line
 - [OdyseeTeam/odysee-frontend](https://github.com/OdyseeTeam/odysee-frontend) - The code that runs odysee.com
 - [revoxhere/duco-webservices](https://github.com/revoxhere/duco-webservices) - 🕸️ Source of Duino-Coin static Web Wallet & Web Miner
@@ -2034,7 +2034,7 @@
 - [revoxhere/magi-rest-api](https://github.com/revoxhere/magi-rest-api) - Coin Magi 2021 REST & RPC Python API
 - [BastelPichi/MineCryptoOnWifiRouter](https://github.com/BastelPichi/MineCryptoOnWifiRouter) - this is a project that mines duinocoin on your router
 - [BunkerInnovations/duco-3ds](https://github.com/BunkerInnovations/duco-3ds) - duino-coin-miner-3ds
-- [cdtso/Planet](https://github.com/cdtso/Planet) - 🌍🍓 A better MCPi Launcher
+- [cdtso/Planet](https://github.com/cdtso/Planet) - A better MCPi Launcher
 - [trentm/python-markdown2](https://github.com/trentm/python-markdown2) - markdown2: A fast and complete implementation of Markdown in Python
 - [redhat-performance/tuned](https://github.com/redhat-performance/tuned) - Tuning Profile Delivery Mechanism for Linux
 - [mbusb/multibootusb](https://github.com/mbusb/multibootusb) - Create multiboot live Linux on a USB disk...
