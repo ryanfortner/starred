@@ -108,6 +108,7 @@
 
 ## C 
 
+- [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 - [Wind4/vlmcsd](https://github.com/Wind4/vlmcsd) - KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)
 - [dora2-iOS/ipwnder_lite](https://github.com/dora2-iOS/ipwnder_lite) - lightweight ipwnder
 - [GeoSn0w/OpenJailbreak](https://github.com/GeoSn0w/OpenJailbreak) - GeoSn0w's OpenJailbreak Project, an open-source iOS 11 to iOS 13 Jailbreak project & vault.
@@ -462,6 +463,7 @@
 
 ## C++ 
 
+- [berthubert/googerteller](https://github.com/berthubert/googerteller) - audible feedback on just how much your browsing feeds into google
 - [KDE/kate](https://github.com/KDE/kate) - Modern text editor built on the KDE Frameworks and Qt
 - [google/angle](https://github.com/google/angle) - A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android.
 - [M2Team/NanaGet](https://github.com/M2Team/NanaGet) - Lightweight file transfer utility based on aria2 and XAML Islands
@@ -814,6 +816,7 @@
 - [hmsjy2017/debian-arm-build-env](https://github.com/hmsjy2017/debian-arm-build-env) - Build Linux arm software in Docker
 - [multiarch/crossbuild](https://github.com/multiarch/crossbuild) - :earth_africa: multiarch cross compiling environments
 - [vala-lang/docker-images](https://github.com/vala-lang/docker-images) - Official vala docker images
+- [chriscrowe/docker-pihole-unbound](https://github.com/chriscrowe/docker-pihole-unbound) - Run Pi-Hole + Unbound on Docker
 - [developeranaz/Ubuntu-Desktop-noVNC-Heroku-VPS](https://github.com/developeranaz/Ubuntu-Desktop-noVNC-Heroku-VPS) - Ubuntu-Desktop-noVNC-Heroku-VPS serves docker VPS via heroku web and noVNC
 - [linuxserver/docker-heimdall](https://github.com/linuxserver/docker-heimdall) - 
 - [bcurnow/atom-arm64-pi](https://github.com/bcurnow/atom-arm64-pi) - Atom build for ARM64 Raspberry Pi
@@ -1122,7 +1125,7 @@
 - [arduino/Arduino](https://github.com/arduino/Arduino) - Arduino IDE 1.x
 - [spocon/lovspotify](https://github.com/spocon/lovspotify) - Spotify GUI + Spotify Client for Raspberry PI , Ubuntu and Debian
 - [bithatch/snake](https://github.com/bithatch/snake) - A stylised graphical tool for configuring and controlling Razer devices on Linux
-- [openjdk/jdk](https://github.com/openjdk/jdk) - JDK main-line development
+- [openjdk/jdk](https://github.com/openjdk/jdk) - JDK main-line development https://openjdk.org/projects/jdk
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [azureblue/MindustryPi](https://github.com/azureblue/MindustryPi) - Mindustry for RaspberryPi!
 - [limboemu/limbo](https://github.com/limboemu/limbo) - Limbo is a QEMU-based emulator for Android. It currently supports x86, ARM, PowerPC, and Sparc emulation  for Intel x86 and ARM android devices. See wiki https://virtualmachinery.weebly.com for APK do
@@ -1152,6 +1155,7 @@
 
 ## JavaScript 
 
+- [koraycoding/paper-wallet](https://github.com/koraycoding/paper-wallet) - Lightweight, open-source, universal paper wallet generator
 - [mymonero/mymonero-web-js](https://github.com/mymonero/mymonero-web-js) - The JS codebase for the MyMonero web wallet app
 - [mymonero/mymonero-mobile](https://github.com/mymonero/mymonero-mobile) - MyMonero Android and iOS app codebase
 - [MinhasKamal/DownGit](https://github.com/MinhasKamal/DownGit) - Create GitHub Resource Download Link
@@ -1618,7 +1622,7 @@
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [wqihai/ssldocker](https://github.com/wqihai/ssldocker) - A minimalistic and flexible multiple host reverse proxy with automatic HTTPS
 - [fengxue-jrql/box86-and-box64-for-arm64](https://github.com/fengxue-jrql/box86-and-box64-for-arm64) - 在arm64上运行box86和box64，box86不需要armhf chroot，box86和box64共同工作。
-- [armbian/mirror](https://github.com/armbian/mirror) - Armbian Linux mirrors
+- [armbian/mirror](https://github.com/armbian/mirror) - Armbian Linux Mirrors Infrastructure
 - [saiarcot895/chromium-ubuntu-build](https://github.com/saiarcot895/chromium-ubuntu-build) - Packaging files for building Chromium on Ubuntu
 - [LukeZGD/iPhone4Down](https://github.com/LukeZGD/iPhone4Down) - Downgrade your iPhone 4 on Linux (using ch3rryflower)
 - [kingToolbox/WindEdit](https://github.com/kingToolbox/WindEdit) - A high performace text editor for huge file and long line.
@@ -2631,7 +2635,6 @@
 - [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
 - [gitbls/RPiVNCHowTo](https://github.com/gitbls/RPiVNCHowTo) - How to install efficient VNC on RasPiOS / Raspbian
 - [kaustubhhiware/NotiFyre](https://github.com/kaustubhhiware/NotiFyre) - Notify when a terminal task is done/ Terminal task notifier https://kaustubhhiware.github.io/NotiFyre/
-- [chriscrowe/docker-pihole-unbound](https://github.com/chriscrowe/docker-pihole-unbound) - Run Pi-Hole + Unbound on Docker
 - [beta-tester/RPi-PXE-Server](https://github.com/beta-tester/RPi-PXE-Server) - setup a Raspberry Pi as an PXE-Server
 - [sabotage-linux/sabotage](https://github.com/sabotage-linux/sabotage) - a radical and experimental distribution based on musl libc and busybox
 - [ryanfortner/pacman](https://github.com/ryanfortner/pacman) - Yet another pacman clone in C/C++ and SDL.
@@ -2752,7 +2755,7 @@
 - [Botspot/pi-apps](https://github.com/Botspot/pi-apps) - Raspberry Pi App Store for Open Source Projects
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) - A Steam Big Picture based couch gaming OS
 - [archlinuxarm/PKGBUILDs](https://github.com/archlinuxarm/PKGBUILDs) - PKGBUILDs modified to build on Arch Linux ARM
-- [ryanfortner/rpi-zoom](https://github.com/ryanfortner/rpi-zoom) - Install Zoom on Arm with just one simple step. 32 and 64 bit.
+- [ryanfortner/rpi-zoom](https://github.com/ryanfortner/rpi-zoom) - Install Zoom on Arm with a simple script. 32 and 64 bit.
 - [scheib/chromium-latest-linux](https://github.com/scheib/chromium-latest-linux) - Scripts to download and run the latest Linux build of Chromium.  A substitute for Chrome Canary on Linux.
 - [laomingOfficial/RaspberryPi-re3](https://github.com/laomingOfficial/RaspberryPi-re3) - Raspberry Pi - GTA III, Vice City
 - [Kron4ek/Wine-Builds](https://github.com/Kron4ek/Wine-Builds) - Wine builds (Vanilla, Staging, TkG and Proton)
@@ -2955,7 +2958,7 @@
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [danielyxie/bitburner](https://github.com/danielyxie/bitburner) - Bitburner Game
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
-- [jsonhero-io/jsonhero-web](https://github.com/jsonhero-io/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
+- [apihero-run/jsonhero-web](https://github.com/apihero-run/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
 - [google/wireit](https://github.com/google/wireit) - Wireit upgrades your npm scripts to make them smarter and more efficient.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [rejetto/hfs](https://github.com/rejetto/hfs) - HFS is a web file server to run on your computer. Share folders or even a single file thanks to the virtual file system.
