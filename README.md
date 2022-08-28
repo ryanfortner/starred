@@ -711,6 +711,7 @@
 
 ## CSS 
 
+- [vinceliuice/Nephrite-gtk-theme](https://github.com/vinceliuice/Nephrite-gtk-theme) - Nephrite gtk theme for linux
 - [YvanTT/arTIfiCE](https://github.com/YvanTT/arTIfiCE) - arTIfiCE is a jailbreak for TI CE calculators with OS 5.5 and 5.6. It brings back ASM programs and games.
 - [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 - [jo-nike/clipplex](https://github.com/jo-nike/clipplex) - 
@@ -852,6 +853,7 @@
 
 ## Go 
 
+- [tsdgeos/nopullrequests](https://github.com/tsdgeos/nopullrequests) - GitHub Pull Request Rejection Bot
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [zyedidia/crypt](https://github.com/zyedidia/crypt) - A tool for making password-protected files
 - [hakluke/hakrawler](https://github.com/hakluke/hakrawler) - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
@@ -2417,6 +2419,7 @@
 
 ## SCSS 
 
+- [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [Mojang/web-theme-bootstrap](https://github.com/Mojang/web-theme-bootstrap) - Contains the theme used on minecraft.net based on Boostrap 4
 - [lassekongo83/adw-gtk3](https://github.com/lassekongo83/adw-gtk3) - The theme from libadwaita ported to GTK-3
 - [DiscordStyles/SoftX](https://github.com/DiscordStyles/SoftX) - A soft and comfy feel for Discord.
