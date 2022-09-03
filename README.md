@@ -1597,7 +1597,7 @@
 - [Lacedaemon/Thinkpad-L450-OpenCore](https://github.com/Lacedaemon/Thinkpad-L450-OpenCore) - Configuration files for an OpenCore Hackintosh setup on the Lenovo Thinkpad L450
 - [z0mBy91/Lenovo-L450-Opencore-Hackintosh](https://github.com/z0mBy91/Lenovo-L450-Opencore-Hackintosh) - Trying to finalize my Opencore Hackintosh and try to write a short guide on how to install it.
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
-- [Discord-Client-Encyclopedia-Management/Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) - All 3rd party clients will update as needed
+- [Discord-Client-Encyclopedia-Management/Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) - A non-exhaustive collection of third-party clients and mods for Discord.
 - [emergy/iproxy](https://github.com/emergy/iproxy) - OS X iproxy LaunchAgent
 - [auctors/free-lunch](https://github.com/auctors/free-lunch) - A curated list of free Windows software, online services and resources. Feel free to contribute!
 - [ryanfortner/cherryflowerJB](https://github.com/ryanfortner/cherryflowerJB) - 
@@ -1910,7 +1910,7 @@
 
 ## Python 
 
-- [redicculus/arch2appimage](https://github.com/redicculus/arch2appimage) - This is a python script that downloads AUR source code, compiles and converts to an AppImage executable
+- [hanzala123/arch2appimage](https://github.com/hanzala123/arch2appimage) - This is a python script that downloads Arch Linux packages (Official/Chaotic AUR) and converts to an AppImage executable
 - [porkbundomains/porkbun-dynamic-dns-python](https://github.com/porkbundomains/porkbun-dynamic-dns-python) - Our minimalist dynamic DNS client written in Python
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [thiswillbeyourgithub/sleep_tracker_pinetime_wasp-os](https://github.com/thiswillbeyourgithub/sleep_tracker_pinetime_wasp-os) - SleepTk: sleep tracker with smart alarm for the pinetime on wasp-os
