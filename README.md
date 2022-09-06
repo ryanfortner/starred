@@ -871,7 +871,7 @@
 - [go-debos/debos](https://github.com/go-debos/debos) - Debian OS builder
 - [benjojo/mcod](https://github.com/benjojo/mcod) - Minecraft servers that only run when people are playing on them
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
-- [sealerio/sealer](https://github.com/sealerio/sealer) - A tool to seal application's all dependencies and Kubernetes into ClusterImage, distribute this application anywhere via ClusterImage, and run it within any cluster in one command.
+- [sealerio/sealer](https://github.com/sealerio/sealer) - Define and deliver your kube-cluster in a standard and easy way (Project under CNCF)
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [DagAgren/toot-relay](https://github.com/DagAgren/toot-relay) - Relay that forwards web push notifications to APNs, built for Toot!.app but usable for anyone.
 - [r7wx/easy-gate](https://github.com/r7wx/easy-gate) - A gate to your self hosted infrastructure
@@ -2157,7 +2157,7 @@
 - [techcoder20/PiAppsTerminalAdvanced](https://github.com/techcoder20/PiAppsTerminalAdvanced) - This is a prototype of PiAppsPackageManager terminal commands
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [cycool29/COVID-shoot](https://github.com/cycool29/COVID-shoot) - 
-- [workhorsy/py-cpuinfo](https://github.com/workhorsy/py-cpuinfo) - A module for getting CPU info with Python 2 & 3
+- [workhorsy/py-cpuinfo](https://github.com/workhorsy/py-cpuinfo) - A module for getting CPU info with Python
 - [ryanfortner/mirrors](https://github.com/ryanfortner/mirrors) - The AlmaLinux project mirrors configuration and tools.
 - [ryanfortner/github-stats](https://github.com/ryanfortner/github-stats) - github statistics generator
 - [Ultimaker/Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
