@@ -974,7 +974,7 @@
 - [profclems/glab](https://github.com/profclems/glab) - A GitLab CLI tool bringing GitLab to your command line
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) - Build Caddy with plugins
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform web server with automatic HTTPS
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 - [zu1k/nali](https://github.com/zu1k/nali) - 一个查询IP地理信息和CDN服务提供商的离线终端工具.An offline tool for querying IP geographic information and CDN provider.
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
@@ -1093,6 +1093,7 @@
 
 ## Java 
 
+- [open-keychain/open-keychain](https://github.com/open-keychain/open-keychain) - OpenKeychain is an OpenPGP implementation for Android.
 - [jzyra/DecodeAndroidGesture](https://github.com/jzyra/DecodeAndroidGesture) - This tool decode Android's pattern lock screen with gesture.key file in Android device.
 - [LambdAurora/LambdaControls](https://github.com/LambdAurora/LambdaControls) - A minecraft mod which adds better controls and controller support.
 - [guardianproject/PanicKit](https://github.com/guardianproject/PanicKit) - a framework for providing trusted connections between panic button apps and other apps that should be triggered by them
@@ -1580,6 +1581,7 @@
 
 ## Objective-C++ 
 
+- [julioverne/LowerInstall](https://github.com/julioverne/LowerInstall) - Install Apps In Lower iOS Version
 - [autopear/Cydia](https://github.com/autopear/Cydia) - Cydia Installer
 
 ## OpenSCAD 
@@ -2448,6 +2450,7 @@
 
 ## Shell 
 
+- [theofficialgman/piston-meta-arm64](https://github.com/theofficialgman/piston-meta-arm64) - replacement Minecraft Java Manifest for ARM64 Linux
 - [teddysun/across](https://github.com/teddysun/across) - Across the Great Wall we can reach every corner in the world
 - [hykilpikonna/hyfetch](https://github.com/hykilpikonna/hyfetch) - 🖼️ 🏳️‍⚧️  Neofetch with LGBTQ pride flags!
 - [snapcrafters/obs-studio](https://github.com/snapcrafters/obs-studio) - This is a community-supported modified build of OBS Studio.
