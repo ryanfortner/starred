@@ -725,7 +725,6 @@
 - [seankross/the-unix-workbench](https://github.com/seankross/the-unix-workbench) - :house_with_garden: A Book for Anyone to Get Started with Unix
 - [connors/photon](https://github.com/connors/photon) - The fastest way to build beautiful Electron apps using simple HTML and CSS
 - [sighingnow/jekyll-gitbook](https://github.com/sighingnow/jekyll-gitbook) - Build Jekyll site with GitBook style!
-- [discord-extensions/compact-userarea](https://github.com/discord-extensions/compact-userarea) - A compact, better looking, top-left user area.
 - [Godiesc/Chameleons-Beauty](https://github.com/Godiesc/Chameleons-Beauty) - Adapted "Beautiful" Themes
 - [broeker/spacebook](https://github.com/broeker/spacebook) - 💥 Create fast and simple documentation to explain almost anything. Uses Eleventy, Tailwind 2.0, and Alpine JS with an optional Netlify CMS.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -2428,6 +2427,7 @@
 
 - [vinceliuice/Jasper-gtk-theme](https://github.com/vinceliuice/Jasper-gtk-theme) - Jasper gtk theme for linux
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
+- [discord-extensions/compact-userarea](https://github.com/discord-extensions/compact-userarea) - A compact, better looking, top-left user area.
 - [Mojang/web-theme-bootstrap](https://github.com/Mojang/web-theme-bootstrap) - Contains the theme used on minecraft.net based on Boostrap 4
 - [lassekongo83/adw-gtk3](https://github.com/lassekongo83/adw-gtk3) - The theme from libadwaita ported to GTK-3
 - [DiscordStyles/SoftX](https://github.com/DiscordStyles/SoftX) - A soft and comfy feel for Discord.
@@ -2627,7 +2627,7 @@
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for self-hosting. Install on a Raspberry Pi 4 or Ubuntu/Debian.
 - [specious/check-bitly](https://github.com/specious/check-bitly) - :ok_hand: Check domains to find out if they are bitly.com domains
 - [abhiTronix/raspberry-pi-cross-compilers](https://github.com/abhiTronix/raspberry-pi-cross-compilers) - Latest GCC Cross Compiler & Native (ARM & ARM64) CI generated precompiled standalone toolchains for all Raspberry Pis. 🍇
-- [P3TERX/warp.sh](https://github.com/P3TERX/warp.sh) - WARP 一键安装脚本 | Cloudflare WARP Installer | A Bash script that automatically installs and configures CloudFlare WARP in Linux, connects to WARP networks with WARP official client or WireGuard.
+- [P3TERX/warp.sh](https://github.com/P3TERX/warp.sh) - WARP 一键安装脚本 | Cloudflare WARP Installer
 - [lyderic/piutils](https://github.com/lyderic/piutils) - Utilities for Raspberry Pi (and GL-Inet) micro machines
 - [AFK-OS/una](https://github.com/AFK-OS/una) - Una (Una's Not APT) - A complete MPR helper
 - [vinceliuice/Colloid-icon-theme](https://github.com/vinceliuice/Colloid-icon-theme) - Colloid icon theme for linux desktops
