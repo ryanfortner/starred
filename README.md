@@ -1573,6 +1573,7 @@
 
 ## Objective-C 
 
+- [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
 - [shiftcmdk/PermaFlex](https://github.com/shiftcmdk/PermaFlex) - Permanently hide elements with FLEXible on iOS.
 - [reddit-archive/iReddit](https://github.com/reddit-archive/iReddit) - The iReddit iPhone app
 - [zachary7829/openpwnage](https://github.com/zachary7829/openpwnage) - iOS 8.4b4-9.3.6 Semi-Untethered jailbreak
@@ -2457,6 +2458,7 @@
 
 ## Shell 
 
+- [joshuah345/deverser](https://github.com/joshuah345/deverser) - Simple script to dump onboard SHSH with a valid Generator for iOS devices (now with linux support!)
 - [theofficialgman/piston-meta-arm64](https://github.com/theofficialgman/piston-meta-arm64) - replacement Minecraft Java Manifest for ARM64 Linux
 - [teddysun/across](https://github.com/teddysun/across) - Across the Great Wall we can reach every corner in the world
 - [hykilpikonna/hyfetch](https://github.com/hykilpikonna/hyfetch) - 🖼️ 🏳️‍⚧️  Neofetch with LGBTQ pride flags!
