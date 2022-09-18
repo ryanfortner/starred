@@ -961,7 +961,7 @@
 - [jorgelbg/pinentry-touchid](https://github.com/jorgelbg/pinentry-touchid) - Custom GPG pinentry program for macOS that allows using Touch ID for fetching the password from the macOS keychain.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
-- [shoobyban/sshman](https://github.com/shoobyban/sshman) - SSH Manager - manage authorized_keys file on remote servers
+- [shoobyban/sshman](https://github.com/shoobyban/sshman) - SSH Manager - manage users through authorized_keys files
 - [qvl/ghbackup](https://github.com/qvl/ghbackup) - Embarrassingly simple GitHub backup tool
 - [CleanMachine1/tldr-page-creator](https://github.com/CleanMachine1/tldr-page-creator) - Generate tldr-pages using Go
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
@@ -1288,7 +1288,7 @@
 - [niklasvh/WebGL-GTA](https://github.com/niklasvh/WebGL-GTA) - JavaScript implementation of GTA
 - [Kajakklubben/gta2-webgl](https://github.com/Kajakklubben/gta2-webgl) - Why not port GTA2 to webgl? That's a great idea....
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-- [gr2m/twitter-together](https://github.com/gr2m/twitter-together) - :bird: A GitHub action to tweet from a repository
+- [twitter-together/action](https://github.com/twitter-together/action) - :bird: A GitHub action to tweet from a repository
 - [Mcorial/DuinoCoin-Wallet-extension](https://github.com/Mcorial/DuinoCoin-Wallet-extension) - 
 - [meetfranz/franz](https://github.com/meetfranz/franz) - Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -2947,6 +2947,7 @@
 
 ## TypeScript 
 
+- [dangeredwolf/FixTweet](https://github.com/dangeredwolf/FixTweet) - Embed Twitter videos, polls, and more on Discord and Telegram
 - [whatk233/ddg-email-panel](https://github.com/whatk233/ddg-email-panel) - DDG Email Panel is the open source unofficial DuckDuckGo Email Protection panel.
 - [stream-labs/desktop](https://github.com/stream-labs/desktop) - Free and open source streaming software built on OBS and Electron.
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Unleash is the open source feature toggle service.
