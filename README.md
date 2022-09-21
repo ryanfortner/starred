@@ -1375,7 +1375,6 @@
 - [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) - All-in-one browser extension for Scratch.
 - [actions/create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API
 - [musicpro/temps](https://github.com/musicpro/temps) - Simple menubar application based on Electron with actual weather information and forecast.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more.
 - [NeverDecaf/discord-PWA](https://github.com/NeverDecaf/discord-PWA) - A wrapper for the Discord web client as a PWA, made for Chromium browsers on desktop.
@@ -1922,6 +1921,7 @@
 
 ## Python 
 
+- [munki/macadmin-scripts](https://github.com/munki/macadmin-scripts) - Scripts of possible interest to macOS admins
 - [hanzala123/arch2appimage](https://github.com/hanzala123/arch2appimage) - This is a python script that downloads Arch Linux packages (Official/Chaotic AUR) and converts to an AppImage executable
 - [porkbundomains/porkbun-dynamic-dns-python](https://github.com/porkbundomains/porkbun-dynamic-dns-python) - Our minimalist dynamic DNS client written in Python
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
@@ -2027,6 +2027,7 @@
 - [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
 - [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) - Collection of Testflight public app link（iOS/iPad OS/macOS）。
 - [yktoo/indicator-sound-switcher](https://github.com/yktoo/indicator-sound-switcher) - Sound input/output selector indicator for Linux
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [asottile/all-repos](https://github.com/asottile/all-repos) - Clone all your repositories and apply sweeping changes.
 - [balta2ar/brotab](https://github.com/balta2ar/brotab) - Control your browser's tabs from the command line
 - [craigevil/brotab](https://github.com/craigevil/brotab) - Control your browser's tabs from the command line
@@ -2200,7 +2201,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-499-Stars](https://github.com/iBug/This-Repo-Has-499-Stars) - Yes, it's true :gift_heart: This repository has 499 stars.
+- [iBug/This-Repo-Has-498-Stars](https://github.com/iBug/This-Repo-Has-498-Stars) - Yes, it's true :revolving_hearts: This repository has 498 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -2375,7 +2376,6 @@
 - [pop-os/upgrade](https://github.com/pop-os/upgrade) - Utility for upgrading Pop!_OS and its recovery partition to new releases.
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary in your terminal
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [cloudhead/rx](https://github.com/cloudhead/rx) - 👾 Modern and minimalist pixel editor
 - [lupyuen/pinetime-watchface](https://github.com/lupyuen/pinetime-watchface) - Watch Face Framework for Rust + Mynewt on PineTime Smart Watch
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
@@ -2457,6 +2457,7 @@
 
 ## Shell 
 
+- [stevenshiau/clonezilla](https://github.com/stevenshiau/clonezilla) - Clonezilla is a partition or disk clone tool similar to Norton Ghost®. It saves and restores only used blocks in hard drive. Two types of Clonezilla are available, Clonezilla live and Clonezilla SE (S
 - [onnarayman/DebFounder](https://github.com/onnarayman/DebFounder) - A very simple shell script to download iOS/iPadOS .deb files with iSH app with no need to jailbreak your device.
 - [G2-Games/welcome.sh](https://github.com/G2-Games/welcome.sh) - A nice welcome script for Bash and Zsh
 - [joshuah345/deverser](https://github.com/joshuah345/deverser) - Simple script to dump onboard SHSH with a valid Generator for iOS devices (now with linux support!)
@@ -3044,6 +3045,7 @@
 - [vector-im/element-desktop](https://github.com/vector-im/element-desktop) - A glossy Matrix collaboration client for desktop.
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [ruslang02/discord-qt](https://github.com/ruslang02/discord-qt) - Discord client powered by Node.JS and Qt Widgets.
 - [revoltchat/revite](https://github.com/revoltchat/revite) - Revolt client built with Preact.
