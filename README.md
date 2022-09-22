@@ -309,7 +309,7 @@
 - [tcsh-org/tcsh](https://github.com/tcsh-org/tcsh) - This is a read-only mirror of the tcsh code repository.
 - [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
 - [mateoconlechuga/oiram](https://github.com/mateoconlechuga/oiram) - Oiram is a Mario platformer clone
-- [neg2led/cm4io-fan](https://github.com/neg2led/cm4io-fan) - CM4 IO board PWM fan controller driver
+- [neggles/cm4io-fan](https://github.com/neggles/cm4io-fan) - CM4 IO board PWM fan controller driver
 - [termux/termux-x11](https://github.com/termux/termux-x11) - Termux X11 add-on application. Still in early development.
 - [nakst/luigi](https://github.com/nakst/luigi) - A barebones single-header GUI library for Win32, X11 and Essence.
 - [pikvm/packages](https://github.com/pikvm/packages) - PiKVM Packages
@@ -430,7 +430,7 @@
 - [unoplatform/calculator](https://github.com/unoplatform/calculator) - Uno Calculator: A simple yet powerful iOS/Android/WebAssembly/Linux C# port of the calculator that ships with Windows
 - [HarshalKudale/NoMoreEdge](https://github.com/HarshalKudale/NoMoreEdge) - 
 - [Xeroday/Spotify-Ad-Blocker](https://github.com/Xeroday/Spotify-Ad-Blocker) - EZBlocker - A Spotify Ad Blocker for Windows
-- [DigitalRuby/IPBan](https://github.com/DigitalRuby/IPBan) - For over 11 years, IPBan is the worlds most trusted security software to block hackers and botnets. With both Windows and Linux support, IPBan has your dedicated or cloud server protected. Upgrade to 
+- [DigitalRuby/IPBan](https://github.com/DigitalRuby/IPBan) - ***** [2022-09-21] Critical memleak fix, please re-download v. 1.8.0. ***** ----- For over 11 years, IPBan is the worlds most trusted security software to block hackers and botnets. With both Windows 
 - [iH8sn0w/iFaith](https://github.com/iH8sn0w/iFaith) - A SHSH Dumper for Windows.
 - [microsoft/Oryx](https://github.com/microsoft/Oryx) - Build your repo automatically.
 - [ALIILAPRO/warp-plus-cloudflare](https://github.com/ALIILAPRO/warp-plus-cloudflare) - Script for getting unlimited GB on Warp+ ( https://1.1.1.1/ )
@@ -980,7 +980,7 @@
 - [profclems/glab](https://github.com/profclems/glab) - A GitLab CLI tool bringing GitLab to your command line
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) - Build Caddy with plugins
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform web server with automatic HTTPS
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 - [zu1k/nali](https://github.com/zu1k/nali) - 一个查询IP地理信息和CDN服务提供商的离线终端工具.An offline tool for querying IP geographic information and CDN provider.
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
@@ -1968,7 +1968,7 @@
 - [Textualize/textual](https://github.com/Textualize/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
 - [rsm-gh/akbl](https://github.com/rsm-gh/akbl) - Control the lights of Alienware computers under GNU/Linux systems.
 - [Rafficer/linux-cli-community](https://github.com/Rafficer/linux-cli-community) - Linux command-line client for ProtonVPN. Written in Python.
-- [cdtso/FallBlock](https://github.com/cdtso/FallBlock) - A game for Minecraft Pi! Can you escape the falling blocks?
+- [leha-code/FallBlock](https://github.com/leha-code/FallBlock) - A game for Minecraft Pi! Can you escape the falling blocks?
 - [axi0mX/ipwndfu](https://github.com/axi0mX/ipwndfu) - open-source jailbreaking tool for many iOS devices
 - [MatthiasSchinzel/sysmon](https://github.com/MatthiasSchinzel/sysmon) - Graphical system monitor for linux, including information about CPU, GPU, Memory, HDD/SDD and your network connections. Similar to windows task manager.
 - [arcmags/geany-text](https://github.com/arcmags/geany-text) - Print formatted text directly in Geany with a single key-binding.
@@ -2057,7 +2057,7 @@
 - [revoxhere/magi-rest-api](https://github.com/revoxhere/magi-rest-api) - Coin Magi 2021 REST & RPC Python API
 - [BastelPichi/MineCryptoOnWifiRouter](https://github.com/BastelPichi/MineCryptoOnWifiRouter) - this is a project that mines duinocoin on your router
 - [BunkerInnovations/duco-3ds](https://github.com/BunkerInnovations/duco-3ds) - duino-coin-miner-3ds
-- [cdtso/Planet](https://github.com/cdtso/Planet) - Planet launcher mirror from OSDN. Pull requests are accepted.
+- [leha-code/Planet](https://github.com/leha-code/Planet) - Planet launcher mirror from OSDN. Pull requests are accepted.
 - [trentm/python-markdown2](https://github.com/trentm/python-markdown2) - markdown2: A fast and complete implementation of Markdown in Python
 - [redhat-performance/tuned](https://github.com/redhat-performance/tuned) - Tuning Profile Delivery Mechanism for Linux
 - [mbusb/multibootusb](https://github.com/mbusb/multibootusb) - Create multiboot live Linux on a USB disk...
@@ -2154,7 +2154,7 @@
 - [quay/quay](https://github.com/quay/quay) - Build, Store, and Distribute your Applications and Containers
 - [weldr/lorax](https://github.com/weldr/lorax) - Tools for creating images, including the Anaconda boot.iso, live disk images, iso's, and filesystem images.
 - [baseblack/ReproWeb](https://github.com/baseblack/ReproWeb) - Reproweb is designed to provide insight into your self hosted apt repository. It is built on top of the standard debian dpkg toolchain and the repository builder/mirroror reprepro.
-- [polychromatic/polychromatic](https://github.com/polychromatic/polychromatic) - RGB lighting management software for GNU/Linux. Powered by OpenRazer (working to be vendor agnostic)
+- [polychromatic/polychromatic](https://github.com/polychromatic/polychromatic) - RGB lighting management software for GNU/Linux. Powered by OpenRazer. Aims to be vendor agnostic some day.
 - [GabMus/razerCommander](https://github.com/GabMus/razerCommander) - GTK contol center for managing razer peripherals on Linux
 - [henryruhs/chroma-feedback](https://github.com/henryruhs/chroma-feedback) - Turn your RGB powered hardware into a status indicator for continuous integration, continuous deployment and infrastructure monitoring
 - [JezerM/web-greeter](https://github.com/JezerM/web-greeter) - A modern, visually appealing greeter for LightDM.
@@ -2457,6 +2457,8 @@
 
 ## Shell 
 
+- [thias/glim](https://github.com/thias/glim) - GRUB Live ISO Multiboot
+- [Gazler/githug](https://github.com/Gazler/githug) - Git your game on!
 - [stevenshiau/clonezilla](https://github.com/stevenshiau/clonezilla) - Clonezilla is a partition or disk clone tool similar to Norton Ghost®. It saves and restores only used blocks in hard drive. Two types of Clonezilla are available, Clonezilla live and Clonezilla SE (S
 - [onnarayman/DebFounder](https://github.com/onnarayman/DebFounder) - A very simple shell script to download iOS/iPadOS .deb files with iSH app with no need to jailbreak your device.
 - [G2-Games/welcome.sh](https://github.com/G2-Games/welcome.sh) - A nice welcome script for Bash and Zsh
