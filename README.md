@@ -1099,6 +1099,7 @@
 
 ## Java 
 
+- [adolfintel/OpenPods](https://github.com/adolfintel/OpenPods) - The Free and Open Source app for monitoring your AirPods on Android
 - [open-keychain/open-keychain](https://github.com/open-keychain/open-keychain) - OpenKeychain is an OpenPGP implementation for Android.
 - [jzyra/DecodeAndroidGesture](https://github.com/jzyra/DecodeAndroidGesture) - This tool decode Android's pattern lock screen with gesture.key file in Android device.
 - [LambdAurora/LambdaControls](https://github.com/LambdAurora/LambdaControls) - A minecraft mod which adds better controls and controller support.
@@ -1594,6 +1595,7 @@
 
 ## Others 
 
+- [ONLYOFFICE/DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) - An office suite that combines text, spreadsheet and presentation editors allowing to create, view and edit local documents
 - [itsnebulalol/deb-to-ipa](https://github.com/itsnebulalol/deb-to-ipa) - ▶️ Convert an application from a deb to an IPA with a GitHub workflow.
 - [zearp/OptiHack](https://github.com/zearp/OptiHack) - Dell OptiPlex 7020/9020 hackintosh stuff
 - [novaspirit/amdgpu-rocm-ubu22](https://github.com/novaspirit/amdgpu-rocm-ubu22) - Installing amdgpu drivers for ubuntu to work with davinci resolve and blender
@@ -1921,6 +1923,7 @@
 
 ## Python 
 
+- [rdbende/Brainfuck-IDE](https://github.com/rdbende/Brainfuck-IDE) - A Brainfuck editor written in Tkinter
 - [munki/macadmin-scripts](https://github.com/munki/macadmin-scripts) - Scripts of possible interest to macOS admins
 - [hanzala123/arch2appimage](https://github.com/hanzala123/arch2appimage) - This is a python script that downloads Arch Linux packages (Official/Chaotic AUR) and converts to an AppImage executable
 - [porkbundomains/porkbun-dynamic-dns-python](https://github.com/porkbundomains/porkbun-dynamic-dns-python) - Our minimalist dynamic DNS client written in Python
@@ -2630,7 +2633,7 @@
 - [sickcodes/anbox-halium](https://github.com/sickcodes/anbox-halium) - 
 - [vinceliuice/McMojave-circle](https://github.com/vinceliuice/McMojave-circle) - McMojave-circle icon theme for linux desktops
 - [layquack/Twister-UI](https://github.com/layquack/Twister-UI) - Twister UI for Debian / Ubuntu aarch64
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for self-hosting. Install on a Raspberry Pi 4 or Ubuntu/Debian.
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for self-hosting. Install on a Raspberry Pi 4, Ubuntu/Debian homeserver, or a VPS.
 - [specious/check-bitly](https://github.com/specious/check-bitly) - :ok_hand: Check domains to find out if they are bitly.com domains
 - [abhiTronix/raspberry-pi-cross-compilers](https://github.com/abhiTronix/raspberry-pi-cross-compilers) - Latest GCC Cross Compiler & Native (ARM & ARM64) CI generated precompiled standalone toolchains for all Raspberry Pis. 🍇
 - [P3TERX/warp.sh](https://github.com/P3TERX/warp.sh) - Cloudflare WARP Installer | WARP 一键安装脚本
