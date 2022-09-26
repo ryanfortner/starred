@@ -114,6 +114,7 @@
 
 ## C 
 
+- [stolk/energygraph](https://github.com/stolk/energygraph) - Graphs the energy use of a host inside a text terminal, using intel-rapl data from the /sys filesystem.
 - [dora2-iOS/ra1npoc](https://github.com/dora2-iOS/ra1npoc) - A tool for re-jailbreak devices jailbroken by checkra1n/odysseyra1n on iOS/iPadOS/macOS platforms. (opensource pongo loader)
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 - [Wind4/vlmcsd](https://github.com/Wind4/vlmcsd) - KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)
@@ -470,6 +471,7 @@
 
 ## C++ 
 
+- [psifidotos/applet-window-appmenu](https://github.com/psifidotos/applet-window-appmenu) - Plasma 5 applet in order to show the window appmenu
 - [berthubert/googerteller](https://github.com/berthubert/googerteller) - audible feedback on just how much your browsing feeds into google
 - [KDE/kate](https://github.com/KDE/kate) - Modern text editor built on the KDE Frameworks and Qt
 - [google/angle](https://github.com/google/angle) - A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android.
@@ -1031,7 +1033,6 @@
 - [mrcrypster/screenapi](https://github.com/mrcrypster/screenapi) - API to take screenshots of webpages
 - [xfirefly/Airplay-SDK](https://github.com/xfirefly/Airplay-SDK) - Airplay Receiver SDK supports Airplay Mirroring and AirPlay Casting to a receiver device.
 - [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
-- [rollingrhinoremix/rollingrhinoremix.github.io](https://github.com/rollingrhinoremix/rollingrhinoremix.github.io) - This is the official repository for the Rolling Rhino Remix. Rolling Rhino Remix is an un-official Ubuntu flavour which converts the Ubuntu operating system into a rolling release Linux distribution b
 - [nelsontky/gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
 - [arcmags/archlinux-usb](https://github.com/arcmags/archlinux-usb) - Arch Linux on USB helper scripts.
 - [HermanFassett/youtube-scrape](https://github.com/HermanFassett/youtube-scrape) - Scrape YouTube searches (API)
@@ -1200,6 +1201,7 @@
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [tchx84/Flatseal](https://github.com/tchx84/Flatseal) - Manage Flatpak permissions
+- [rollingrhinoremix/rollingrhinoremix.github.io](https://github.com/rollingrhinoremix/rollingrhinoremix.github.io) - This is the official repository for the Rolling Rhino Remix. Rolling Rhino Remix is an un-official Ubuntu flavour which converts the Ubuntu operating system into a rolling release Linux distribution b
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
@@ -1537,7 +1539,7 @@
 - [morrolinux/ChimeraDesk](https://github.com/morrolinux/ChimeraDesk) - Simple, fast and flexible DIY Remote Desktop software
 - [raspberrypi/noobs](https://github.com/raspberrypi/noobs) - NOOBS (New Out Of Box Software) - An easy Operating System install manager for the Raspberry Pi
 - [varlesh/VLC-Arc-Dark](https://github.com/varlesh/VLC-Arc-Dark) - Arc Dark skin for VLC
-- [pikvm/os](https://github.com/pikvm/os) - OS for Pi-KVM based on Arch Linux ARM
+- [pikvm/os](https://github.com/pikvm/os) - OS for PiKVM based on Arch Linux ARM
 - [coslyk/debianopt-repo](https://github.com/coslyk/debianopt-repo) - Additional debian repository for awesome open-source projects.
 - [maxnet/berryboot](https://github.com/maxnet/berryboot) - Berryboot -- Boot menu / OS installer
 - [procount/pinn](https://github.com/procount/pinn) - An enhanced Operating System installer for the Raspberry Pi
@@ -2183,7 +2185,7 @@
 - [n0bel/PiClock](https://github.com/n0bel/PiClock) - A Fancy Clock built around a monitor and a Raspberry Pi
 - [nschloe/tiptop](https://github.com/nschloe/tiptop) - :desktop_computer: Command-line system monitoring
 - [JaquerEspeis/apt-transport-ipfs](https://github.com/JaquerEspeis/apt-transport-ipfs) - IPFS transport for apt
-- [pikvm/kvmd](https://github.com/pikvm/kvmd) - The main Pi-KVM daemon
+- [pikvm/kvmd](https://github.com/pikvm/kvmd) - The main PiKVM daemon
 - [SimonDaNinja/youtube_rss](https://github.com/SimonDaNinja/youtube_rss) - A YouTube-client for managing subscriptions and watching videos anonymously over Tor without a Google account.
 - [friday/ulauncher-clipboard](https://github.com/friday/ulauncher-clipboard) - Ulauncher clipboard management with Clipman, Clipster, CopyQ or GPaste
 - [deepjyoti30/downloader-cli](https://github.com/deepjyoti30/downloader-cli) - A simple downloader written in Python with an awesome customizable progressbar.
@@ -2985,7 +2987,7 @@
 - [Muhammed-Rahif/Notepad](https://github.com/Muhammed-Rahif/Notepad) - Windows notepad in web with additional features! Made with typescript and react.
 - [AH-dark/website-screenshot](https://github.com/AH-dark/website-screenshot) - Take screenshot for websites
 - [shlinkio/shlink-web-client](https://github.com/shlinkio/shlink-web-client) - A React-based client application for Shlink
-- [badrap/valita](https://github.com/badrap/valita) - A typesafe validation & parsing library for TypeScript. It's pretty fast!
+- [badrap/valita](https://github.com/badrap/valita) - A typesafe validation & parsing library for TypeScript.
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [danielyxie/bitburner](https://github.com/danielyxie/bitburner) - Bitburner Game
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
