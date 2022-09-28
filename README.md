@@ -2670,7 +2670,7 @@
 - [pi-hole/PADD](https://github.com/pi-hole/PADD) - PADD (formerly Chronometer2) is a more expansive version of the original chronometer.sh that is included with Pi-Hole. PADD provides in-depth information about your Pi-hole.
 - [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web
 - [ebuc99/pacman](https://github.com/ebuc99/pacman) - Yet another pacman clone in C/C++ and SDL.
-- [notprash/manga-cli](https://github.com/notprash/manga-cli) - Script to read manga from cli
+- [prsh11/manga-cli](https://github.com/prsh11/manga-cli) - Script to read manga from cli
 - [cytopia/linux-timemachine](https://github.com/cytopia/linux-timemachine) - Rsync-based OSX-like time machine for Linux, MacOS and BSD for atomic and resumable local and remote backups
 - [proprietary/chromium-widevine](https://github.com/proprietary/chromium-widevine) - How to install Widevine on Chromium on Linux; how to watch Netflix on Chromium Ubuntu or Debian
 - [faf0/macos-qemu-rpi](https://github.com/faf0/macos-qemu-rpi) - Bash scripts to run Raspbian (ARM architecture) on macOS Catalina using QEMU
@@ -3082,7 +3082,7 @@
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Opensource, compact, and material designed cursor set.
 - [Figma-Linux/figma-linux](https://github.com/Figma-Linux/figma-linux) - Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us in https://t.me/figma_linux and https://spectrum.chat/figma-linux
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Community effort to create roadmaps, guides and other educational content to help the developers get an idea about the software development landscape, learn and grow in their career.
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [SpacingBat3/electron-forge-maker-appimage](https://github.com/SpacingBat3/electron-forge-maker-appimage) - 
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
