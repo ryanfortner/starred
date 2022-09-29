@@ -257,7 +257,7 @@
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [Strawberry-Software-Industries/ledcontrol](https://github.com/Strawberry-Software-Industries/ledcontrol) - A simple program to control the status LEDs of your Raspberry Pi!
 - [ncopa/xfce-polkit](https://github.com/ncopa/xfce-polkit) - A simple PolicyKit authentication agent for XFCE
-- [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) - Lean's OpenWrt source
+- [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) - Lean's LEDE source
 - [coreboot/seabios](https://github.com/coreboot/seabios) - mirror of seabios
 - [RPi-Distro/firmware](https://github.com/RPi-Distro/firmware) - 
 - [choff/anbox-modules](https://github.com/choff/anbox-modules) - Anbox kernel modules
