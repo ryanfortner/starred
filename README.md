@@ -721,6 +721,7 @@
 
 ## CSS 
 
+- [christianselig/OpenInApolloExtension](https://github.com/christianselig/OpenInApolloExtension) - Safari extension bundled with iOS 15 that helps in opening Reddit URLs in Apollo
 - [aadilayub/firefox-i3wm-theme](https://github.com/aadilayub/firefox-i3wm-theme) - i3 and qutebrowser inspired theme for firefox
 - [sysce/chrome100](https://github.com/sysce/chrome100) - Collection of ChromeOS recovery images.
 - [YvanTT/arTIfiCE](https://github.com/YvanTT/arTIfiCE) - arTIfiCE is a jailbreak for TI CE calculators with OS 5.5 and 5.6. It brings back ASM programs and games.
@@ -1079,6 +1080,7 @@
 - [remarkableapp/remarkableapp.github.io](https://github.com/remarkableapp/remarkableapp.github.io) - The homepage for Remarkable - Markdown Editor
 - [ryanfortner/blog-archived](https://github.com/ryanfortner/blog-archived) - Technology & programming blog.
 - [raspbian-addons/raspbian-addons](https://github.com/raspbian-addons/raspbian-addons) - Install automatically-updated extra open-source software on your Raspberry Pi, using Debian APT
+- [raspbian-addons/docs](https://github.com/raspbian-addons/docs) - Raspbian Addons project documentation
 - [jamesjohnson280/hello-pwa](https://github.com/jamesjohnson280/hello-pwa) - The classic Hello World program as a Progressive Web App
 - [titaniumnetwork-dev/Incognito-old](https://github.com/titaniumnetwork-dev/Incognito-old) - Access the world wide web with Incognito, a fast and rather fancy proxy service. Enjoy a more private internet session without ads.
 - [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
@@ -1551,6 +1553,8 @@
 
 - [ethereum/ethereum-org-website](https://github.com/ethereum/ethereum-org-website) - Ethereum.org is a primary online resource for the Ethereum community.
 - [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
+- [raspbian-addons/status](https://github.com/raspbian-addons/status) - raspbian-addons uptime monitoring
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## Mathematica 
@@ -1754,8 +1758,6 @@
 - [apple/swift-community-hosted-continuous-integration](https://github.com/apple/swift-community-hosted-continuous-integration) - Swift Community-Hosted Continuous Integration
 - [theofficialgman/meta-multimc](https://github.com/theofficialgman/meta-multimc) - Auto Updating (cross-fingers) for MultiMC Minecraft package metadata for ARM64 and ARMhf Linux. Use the master-clean branch for ARM64 and master-clean-arm32 for ARMhf. A full project description and R
 - [hmsjy2017/debs](https://github.com/hmsjy2017/debs) - 
-- [raspbian-addons/status](https://github.com/raspbian-addons/status) - raspbian-addons uptime monitoring
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
 - [Wallux-0/Wallpapers](https://github.com/Wallux-0/Wallpapers) - Wallpapers for Wallux
 - [Amog-OS/AmogOS-Wallpapers](https://github.com/Amog-OS/AmogOS-Wallpapers) - Central repository for all AmogOS wallpapers
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
@@ -1781,7 +1783,6 @@
 - [ZvonimirKucis/conky](https://github.com/ZvonimirKucis/conky) - Simple Conky configuration for my desktop PC
 - [cycool29/emoji-switcher-linux](https://github.com/cycool29/emoji-switcher-linux) - Easily switch emoji themes in Linux machines. (WIP)
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
-- [raspbian-addons/docs](https://github.com/raspbian-addons/docs) - Raspbian Addons project documentation
 - [Amog-OS/AmogOS](https://github.com/Amog-OS/AmogOS) - ඞ Among-us themed OS. As seen on Reddit and Youtube.
 - [IAmStoxe/wirehole](https://github.com/IAmStoxe/wirehole) - WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGu
 - [pystardust/automeet](https://github.com/pystardust/automeet) - Join online classes automatically
@@ -2922,6 +2923,7 @@
 
 ## Swift 
 
+- [christianselig/Markdownosaur](https://github.com/christianselig/Markdownosaur) - Leverages Apple's Swift-based Markdown parser to output NSAttributedString.
 - [s8ngyu/Mugunghwa](https://github.com/s8ngyu/Mugunghwa) - 
 - [cormiertyshawn895/Retroactive](https://github.com/cormiertyshawn895/Retroactive) - Run Aperture, iPhoto, and iTunes on macOS Ventura, macOS Monterey, macOS Big Sur, and macOS Catalina. Xcode 11.7 on macOS Mojave. Final Cut Pro 7, Logic Pro 9, and iWork ’09 on macOS Mojave or macOS H
 - [sourcelocation/pinanim](https://github.com/sourcelocation/pinanim) - Jailbreak iOS tweak: Animations for Pin Dots on Lock Screen
