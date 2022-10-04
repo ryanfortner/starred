@@ -114,6 +114,7 @@
 
 ## C 
 
+- [Rockbox/rockbox](https://github.com/Rockbox/rockbox) - Read-only mirror of rockbox' main repository
 - [stolk/energygraph](https://github.com/stolk/energygraph) - Graphs the energy use of a host inside a text terminal, using intel-rapl data from the /sys filesystem.
 - [dora2-iOS/ra1npoc](https://github.com/dora2-iOS/ra1npoc) - A tool for re-jailbreak devices jailbroken by checkra1n/odysseyra1n on iOS/iPadOS/macOS platforms. (opensource pongo loader)
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
@@ -1172,6 +1173,7 @@
 
 ## JavaScript 
 
+- [xfanatical/linux-client-for-icloud-notes](https://github.com/xfanatical/linux-client-for-icloud-notes) - A Linux client for your iCloud Notes service
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [koraycoding/paper-wallet](https://github.com/koraycoding/paper-wallet) - Lightweight, open-source, universal paper wallet generator
 - [mymonero/mymonero-web-js](https://github.com/mymonero/mymonero-web-js) - The JS codebase for the MyMonero web wallet app
@@ -1528,6 +1530,7 @@
 
 ## Makefile 
 
+- [itsnebulalol/ios15-tweaks](https://github.com/itsnebulalol/ios15-tweaks) - List of supported, partially supported, and unsupported *non-rootless* tweaks for iOS 15.
 - [mt8163-dev/android_device_amazon_douglas](https://github.com/mt8163-dev/android_device_amazon_douglas) - 
 - [mate-desktop/mate-icon-theme](https://github.com/mate-desktop/mate-icon-theme) - MATE default icon theme
 - [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
@@ -1647,6 +1650,7 @@
 - [fengxue-jrql/box86-and-box64-for-arm64](https://github.com/fengxue-jrql/box86-and-box64-for-arm64) - 在arm64上运行box86和box64，box86不需要armhf chroot，box86和box64共同工作。
 - [armbian/mirror](https://github.com/armbian/mirror) - Armbian Linux Mirrors Infrastructure
 - [saiarcot895/chromium-ubuntu-build](https://github.com/saiarcot895/chromium-ubuntu-build) - Packaging files for building Chromium on Ubuntu
+- [WOA-Project/SurfaceDuo-Guides](https://github.com/WOA-Project/SurfaceDuo-Guides) - Guides for the Surface Duo
 - [LukeZGD/iPhone4Down](https://github.com/LukeZGD/iPhone4Down) - Downgrade your iPhone 4 on Linux (using ch3rryflower)
 - [kingToolbox/WindEdit](https://github.com/kingToolbox/WindEdit) - A high performace text editor for huge file and long line.
 - [CleanMachine1/workflows](https://github.com/CleanMachine1/workflows) - Utilising github actions for running commands not on my local machine
@@ -2200,7 +2204,7 @@
 - [pi-top/pi-topd](https://github.com/pi-top/pi-topd) - pi-top System Daemon (formerly pt-device-manager)
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [mailpile/Mailpile](https://github.com/mailpile/Mailpile) - A free & open modern, fast email client with user-friendly encryption and privacy features
-- [themix-project/oomox](https://github.com/themix-project/oomox) - Graphical application for generating different color variations of a  Materia and Oomox themes (GTK2, GTK3 and others), Archdroid, Gnome-Colors, Numix, Papirus, Suru++ icons, and terminal palette.
+- [themix-project/oomox](https://github.com/themix-project/oomox) - Graphical application for generating different color variations of Oomox (Numix-based) and Materia (ex-Flat-Plat) themes (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Pa
 - [LinuxCNC/linuxcnc](https://github.com/LinuxCNC/linuxcnc) - LinuxCNC controls CNC machines. It can drive milling machines, lathes, 3d printers, laser cutters, plasma cutters, robot arms, hexapods, and more.
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
@@ -2471,6 +2475,7 @@
 
 ## Shell 
 
+- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-15.7 semi-tethered checkm8 "jailbreak" | tweaks: iOS 15.0-15.3.1 tethered
 - [anbuchelva/Pi-hole-and-Wireguard-on-Oracle-Cloud-always-free-tier](https://github.com/anbuchelva/Pi-hole-and-Wireguard-on-Oracle-Cloud-always-free-tier) - Block advertisements and trackers using pi-hole in Oracle Always Free tier
 - [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi) - 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, Docker, curl installer...
 - [thias/glim](https://github.com/thias/glim) - GRUB Live ISO Multiboot
@@ -2531,7 +2536,6 @@
 - [koenvervloesem/bazel-on-arm](https://github.com/koenvervloesem/bazel-on-arm) - Build the open source build tool Bazel for ARM on the Raspberry Pi
 - [cycool29/whatsapp-for-linux](https://github.com/cycool29/whatsapp-for-linux) - Install WhatsApp on all Linux devices
 - [lowspecman420/armhf-proot-for-aarch64-android](https://github.com/lowspecman420/armhf-proot-for-aarch64-android) - Anlinux armhf proot for aarch64 android using Termux.
-- [WOA-Project/SurfaceDuo-Guides](https://github.com/WOA-Project/SurfaceDuo-Guides) - Guides for the Surface Duo
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [Crilum/apttools](https://github.com/Crilum/apttools) - make apt easier to use
 - [ProjectAfterBurner/update-scripts](https://github.com/ProjectAfterBurner/update-scripts) - package update scripts for our apt repository
@@ -3148,6 +3152,7 @@
 
 ## Vue 
 
+- [ViewTube/viewtube-vue](https://github.com/ViewTube/viewtube-vue) - ▶️ ViewTube is an alternative YouTube frontend.
 - [Electron-Store/electron-app-store](https://github.com/Electron-Store/electron-app-store) - A Cross-Platform App Store for Electron.js Apps
 - [zzetao/awesome-github-profile](https://github.com/zzetao/awesome-github-profile) - 🌐  A website of awesome Github Profile READMEs
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
