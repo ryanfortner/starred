@@ -114,6 +114,9 @@
 
 ## C 
 
+- [iPodLinux/iPodLinux-SVN](https://github.com/iPodLinux/iPodLinux-SVN) - GitHub mirror of the original SourceForge SVN code
+- [iPodLinux/podzilla2](https://github.com/iPodLinux/podzilla2) - Updated user interface for iPodLinux, featuring themes and modules support
+- [iPodLinux/ipodloader2](https://github.com/iPodLinux/ipodloader2) - Updated bootloader for iPodLinux with more features
 - [Rockbox/rockbox](https://github.com/Rockbox/rockbox) - Read-only mirror of rockbox' main repository
 - [stolk/energygraph](https://github.com/stolk/energygraph) - Graphs the energy use of a host inside a text terminal, using intel-rapl data from the /sys filesystem.
 - [dora2-iOS/ra1npoc](https://github.com/dora2-iOS/ra1npoc) - A tool for re-jailbreak devices jailbroken by checkra1n/odysseyra1n on iOS/iPadOS/macOS platforms. (opensource pongo loader)
@@ -427,6 +430,7 @@
 
 ## C# # 
 
+- [WereDev/Wu10Man](https://github.com/WereDev/Wu10Man) - Enable/Disable Windows 10 Automatic Updates
 - [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
 - [stnkl/EverythingToolbar](https://github.com/stnkl/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [unoplatform/calculator](https://github.com/unoplatform/calculator) - Uno Calculator: A simple yet powerful iOS/Android/WebAssembly/Linux C# port of the calculator that ships with Windows
@@ -1936,6 +1940,8 @@
 
 ## Python 
 
+- [Macleykun/OLED_Stats_Docker](https://github.com/Macleykun/OLED_Stats_Docker) - OLED Stats display script and settings for Docker implementation
+- [Macleykun/pixel-server](https://github.com/Macleykun/pixel-server) - Network control of pixelstrips (NeoPixels) using a simple web server IoT interface.
 - [benbarth/hacktoberfest-swag](https://github.com/benbarth/hacktoberfest-swag) - Looking for hacktoberfest swag? You've come to the right place.
 - [TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) - Script that organizes the Google Takeout archive into one big chronological folder
 - [rdbende/Brainfuck-IDE](https://github.com/rdbende/Brainfuck-IDE) - A Brainfuck editor written in Tkinter
@@ -2475,7 +2481,8 @@
 
 ## Shell 
 
-- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-15.7 semi-tethered checkm8 "jailbreak" | tweaks: iOS 15.0-15.3.1 tethered
+- [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
+- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-15.3.1 tethered checkm8 "jailbreak" (rootless is 15.0-15.7 semi-tethered, no tweaks)
 - [anbuchelva/Pi-hole-and-Wireguard-on-Oracle-Cloud-always-free-tier](https://github.com/anbuchelva/Pi-hole-and-Wireguard-on-Oracle-Cloud-always-free-tier) - Block advertisements and trackers using pi-hole in Oracle Always Free tier
 - [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi) - 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, Docker, curl installer...
 - [thias/glim](https://github.com/thias/glim) - GRUB Live ISO Multiboot
