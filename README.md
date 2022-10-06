@@ -1442,7 +1442,7 @@
 - [Cat5TV/pinecraft](https://github.com/Cat5TV/pinecraft) - Minecraft Server Installer for Raspberry Pi and Other SBCs
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - A simple and modern GTK eBook reader
 - [alienzhangyw/BlockPi](https://github.com/alienzhangyw/BlockPi) - A visual programming editor app for Raspberry Pi
-- [TurboWarp/desktop](https://github.com/TurboWarp/desktop) - TurboWarp as a desktop app
+- [TurboWarp/desktop](https://github.com/TurboWarp/desktop) - TurboWarp as a desktop app, a better offline editor for Scratch 3
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [dutchcoders/transfer.sh-web](https://github.com/dutchcoders/transfer.sh-web) - 
