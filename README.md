@@ -2395,6 +2395,7 @@
 - [gorilla-devs/ferium](https://github.com/gorilla-devs/ferium) - Fast and multi-source CLI program for managing Minecraft mods and modpacks from Modrinth, CurseForge, and GitHub Releases
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [your-tools/rusync](https://github.com/your-tools/rusync) - Minimalist rsync implementation in Rust
 - [pop-os/upgrade](https://github.com/pop-os/upgrade) - Utility for upgrading Pop!_OS and its recovery partition to new releases.
@@ -2481,6 +2482,7 @@
 
 ## Shell 
 
+- [fractalnetworksco/selfhosted-gateway](https://github.com/fractalnetworksco/selfhosted-gateway) - A self-hosted alternative to proprietary connectivity solutions.
 - [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
 - [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-15.3.1 tethered checkm8 "jailbreak" (rootless is 15.0-15.7 semi-tethered, no tweaks)
 - [anbuchelva/Pi-hole-and-Wireguard-on-Oracle-Cloud-always-free-tier](https://github.com/anbuchelva/Pi-hole-and-Wireguard-on-Oracle-Cloud-always-free-tier) - Block advertisements and trackers using pi-hole in Oracle Always Free tier
@@ -3014,7 +3016,6 @@
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
 - [apihero-run/jsonhero-web](https://github.com/apihero-run/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
 - [google/wireit](https://github.com/google/wireit) - Wireit upgrades your npm scripts to make them smarter and more efficient.
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [rejetto/hfs](https://github.com/rejetto/hfs) - HFS is a web file server to run on your computer. Share folders or even a single file thanks to the virtual file system.
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
