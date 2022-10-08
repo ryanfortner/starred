@@ -476,6 +476,7 @@
 
 ## C++ 
 
+- [tihmstar/usbmuxd2](https://github.com/tihmstar/usbmuxd2) - A socket daemon written in C++ to multiplex connections from and to iOS devices over USB and WIFI
 - [psifidotos/applet-window-appmenu](https://github.com/psifidotos/applet-window-appmenu) - Plasma 5 applet in order to show the window appmenu
 - [berthubert/googerteller](https://github.com/berthubert/googerteller) - audible feedback on just how much your browsing feeds into google
 - [KDE/kate](https://github.com/KDE/kate) - Modern text editor built on the KDE Frameworks and Qt
@@ -880,7 +881,7 @@
 - [packwiz/packwiz](https://github.com/packwiz/packwiz) - A command line tool for editing and distributing Minecraft modpacks, using a git-friendly TOML format. Supports CurseForge and Modrinth mods with automated updates!
 - [alexballas/go2tv](https://github.com/alexballas/go2tv) - Cast media files to UPnP/DLNA Media Renderers and Smart TVs.
 - [thatvegandev/gh-eco](https://github.com/thatvegandev/gh-eco) - 🦎 gh cli extension to explore the ecosystem
-- [HyNetwork/hysteria](https://github.com/HyNetwork/hysteria) - Hysteria is a feature-packed proxy & relay utility optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting from China to servers abroad)
+- [HyNetwork/hysteria](https://github.com/HyNetwork/hysteria) - Hysteria is a feature-packed proxy & relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)
 - [CleanMachine1/Clone-repo-tool](https://github.com/CleanMachine1/Clone-repo-tool) - A short Go script to help clone lots of Git repositories at once
 - [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [aarzilli/gdlv](https://github.com/aarzilli/gdlv) - GUI frontend for Delve
@@ -2019,7 +2020,6 @@
 - [codespell-project/codespell](https://github.com/codespell-project/codespell) - check code for common misspellings
 - [mandarons/icloudpy](https://github.com/mandarons/icloudpy) - iCloud web service interface library in Python
 - [mandarons/icloud-drive-docker](https://github.com/mandarons/icloud-drive-docker) - Dockerized iCloud (drive and photos)
-- [oxmc/itunes-rpi](https://github.com/oxmc/itunes-rpi) - 
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [UN-GCPDS/qt-material](https://github.com/UN-GCPDS/qt-material) - Material inspired stylesheet for PySide2, PySide6, PyQt5 and PyQt6
 - [CrealityOfficial/OctoPrint-CrealityCloud-With-Video](https://github.com/CrealityOfficial/OctoPrint-CrealityCloud-With-Video) - A plugin to connect the CrealityCloud and OctoPrint with camera
@@ -2224,7 +2224,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-498-Stars](https://github.com/iBug/This-Repo-Has-498-Stars) - Yes, it's true :revolving_hearts: This repository has 498 stars.
+- [iBug/This-Repo-Has-498-Stars](https://github.com/iBug/This-Repo-Has-498-Stars) - Yes, it's true :gift_heart: This repository has 498 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -2337,6 +2337,7 @@
 
 ## QML 
 
+- [Prayag2/kde_controlcentre](https://github.com/Prayag2/kde_controlcentre) - A control centre for KDE inspired by MacOS!
 - [varlesh/plasma-deck](https://github.com/varlesh/plasma-deck) - Steam Deck UI on Plasma
 - [PapirusDevelopmentTeam/materia-kde](https://github.com/PapirusDevelopmentTeam/materia-kde) - Materia KDE customization
 - [vinceliuice/WhiteSur-kde](https://github.com/vinceliuice/WhiteSur-kde) - MacOS big sur theme for kde plasma
