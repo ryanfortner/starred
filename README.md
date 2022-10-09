@@ -402,6 +402,7 @@
 - [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
+- [MCPI-Revival/minecraft-pi-reborn](https://github.com/MCPI-Revival/minecraft-pi-reborn) - Official Mirror Of @TheBrokenRail's Minecraft: Pi Edition: Reborn.
 - [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.c
 - [incbee/Unarchiver](https://github.com/incbee/Unarchiver) - Git mirror of The Unarchiver
 - [GNOME/dia](https://github.com/GNOME/dia) - Read-only mirror of https://gitlab.gnome.org/GNOME/dia
@@ -691,7 +692,6 @@
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [CytopiaTeam/Cytopia](https://github.com/CytopiaTeam/Cytopia) - :deciduous_tree::house_with_garden::office::evergreen_tree: A city building simulation game
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
-- [MCPI-Revival/minecraft-pi-reborn](https://github.com/MCPI-Revival/minecraft-pi-reborn) - Official Mirror Of @TheBrokenRail's Minecraft: Pi Edition: Reborn.
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin) - very currency
 - [basvodde/filezilla](https://github.com/basvodde/filezilla) - Clone from https://svn.filezilla-project.org/svn/FileZilla3/trunk
@@ -1178,6 +1178,7 @@
 
 ## JavaScript 
 
+- [powercord-org/powercord](https://github.com/powercord-org/powercord) - A lightweight @discord client mod focused on simplicity and performance.
 - [xfanatical/linux-client-for-icloud-notes](https://github.com/xfanatical/linux-client-for-icloud-notes) - A Linux client for your iCloud Notes service
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [koraycoding/paper-wallet](https://github.com/koraycoding/paper-wallet) - Lightweight, open-source, universal paper wallet generator
