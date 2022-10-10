@@ -1096,7 +1096,6 @@
 - [Lightcord/Lightcord](https://github.com/Lightcord/Lightcord) - A simple - customizable - Discord Client
 - [phoenixbyrd/TwisterWebApps](https://github.com/phoenixbyrd/TwisterWebApps) - 
 - [phoenixbyrd/webapps](https://github.com/phoenixbyrd/webapps) - Web Apps for Twister OS
-- [MCPI-Revival/mcpi-revival.github.io](https://github.com/MCPI-Revival/mcpi-revival.github.io) - MCPI-Devs web page.
 - [phoenixbyrd/TwisterOS](https://github.com/phoenixbyrd/TwisterOS) - Twister OS Website
 
 ## Hack 
@@ -1841,6 +1840,7 @@
 - [ryanfortner/duckstation-rpi](https://github.com/ryanfortner/duckstation-rpi) - Fast PlayStation 1 emulator for PC and Android
 - [ryanfortner/pi-bashscripts-files](https://github.com/ryanfortner/pi-bashscripts-files) - A collection of Bash scripts and files useful for the Raspberry Pi 4 and other models.
 - [novaspirit/rpi_ubu64_desktop](https://github.com/novaspirit/rpi_ubu64_desktop) - 
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [SpacingBat3/box86-releases](https://github.com/SpacingBat3/box86-releases) - A repository containing a packaged version of the BOX86.
 - [MultiMC/meta-multimc](https://github.com/MultiMC/meta-multimc) - Repository for MultiMC Minecraft package metadata
 - [rdeioris/UnrealOnRPI4](https://github.com/rdeioris/UnrealOnRPI4) - Running Unreal Engine 4 on RaspberryPI 4
@@ -2225,7 +2225,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-498-Stars](https://github.com/iBug/This-Repo-Has-498-Stars) - Yes, it's true :gift_heart: This repository has 498 stars.
+- [iBug/This-Repo-Has-498-Stars](https://github.com/iBug/This-Repo-Has-498-Stars) - Yes, it's true :heartbeat: This repository has 498 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -2374,6 +2374,7 @@
 - [jiahaog/gitcloud](https://github.com/jiahaog/gitcloud) - Use GitHub for file hosting and indexing
 - [jordansissel/fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
 - [celluloid/celluloid](https://github.com/celluloid/celluloid) - Actor-based concurrent object framework for Ruby
+- [MCPI-Revival/mcpi-revival.github.io](https://github.com/MCPI-Revival/mcpi-revival.github.io) - MCPI-Devs web page.
 
 ## Rust 
 
@@ -2984,7 +2985,7 @@
 ## TypeScript 
 
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
-- [dangeredwolf/FixTweet](https://github.com/dangeredwolf/FixTweet) - Embed Twitter videos, polls, and more on Discord and Telegram
+- [FixTweet/FixTweet](https://github.com/FixTweet/FixTweet) - Embed Twitter videos, polls, and more on Discord and Telegram
 - [whatk233/ddg-email-panel](https://github.com/whatk233/ddg-email-panel) - DDG Email Panel is the open source unofficial DuckDuckGo Email Protection panel.
 - [stream-labs/desktop](https://github.com/stream-labs/desktop) - Free and open source streaming software built on OBS and Electron.
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Unleash is the open source feature toggle service.
@@ -3178,7 +3179,6 @@
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
-- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 
 ## Wren 
 
