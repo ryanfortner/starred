@@ -437,7 +437,7 @@
 - [unoplatform/calculator](https://github.com/unoplatform/calculator) - Uno Calculator: A simple yet powerful iOS/Android/WebAssembly/Linux C# port of the calculator that ships with Windows
 - [HarshalKudale/NoMoreEdge](https://github.com/HarshalKudale/NoMoreEdge) - 
 - [Xeroday/Spotify-Ad-Blocker](https://github.com/Xeroday/Spotify-Ad-Blocker) - EZBlocker - A Spotify Ad Blocker for Windows
-- [DigitalRuby/IPBan](https://github.com/DigitalRuby/IPBan) - ***** [2022-09-21] Critical memleak fix, please re-download v. 1.8.0. ***** ----- For over 11 years, IPBan is the worlds most trusted security software to block hackers and botnets. With both Windows 
+- [DigitalRuby/IPBan](https://github.com/DigitalRuby/IPBan) - Since 2011, IPBan is the worlds most trusted security software to block hackers and botnets. With both Windows and Linux support, IPBan has your dedicated or cloud server protected. Upgrade to IPBan P
 - [iH8sn0w/iFaith](https://github.com/iH8sn0w/iFaith) - A SHSH Dumper for Windows.
 - [microsoft/Oryx](https://github.com/microsoft/Oryx) - Build your repo automatically.
 - [ALIILAPRO/warp-plus-cloudflare](https://github.com/ALIILAPRO/warp-plus-cloudflare) - Script for getting unlimited GB on Warp+ ( https://1.1.1.1/ )
@@ -1443,7 +1443,7 @@
 - [Cat5TV/pinecraft](https://github.com/Cat5TV/pinecraft) - Minecraft Server Installer for Raspberry Pi and Other SBCs
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - A simple and modern GTK eBook reader
 - [alienzhangyw/BlockPi](https://github.com/alienzhangyw/BlockPi) - A visual programming editor app for Raspberry Pi
-- [TurboWarp/desktop](https://github.com/TurboWarp/desktop) - TurboWarp as a desktop app, a better offline editor for Scratch 3
+- [TurboWarp/desktop](https://github.com/TurboWarp/desktop) - A better offline editor for Scratch 3
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [dutchcoders/transfer.sh-web](https://github.com/dutchcoders/transfer.sh-web) - 
@@ -2825,6 +2825,7 @@
 - [TerraGitHuB/gnomeforpi](https://github.com/TerraGitHuB/gnomeforpi) - A script to install gnome on the Raspberry Pi
 - [f1linux/pi-ap](https://github.com/f1linux/pi-ap) - Raspberry Pi wireless Access Point: This repo automates the config of hostapd, dnsmasq, dhcpcd & wpa_supplicant to transform a Pi into an AP.  Requires: a Pi, Ethernet cable & DHCP-enabled port on a b
 - [Itai-Nelken/youtubuddy-Arch](https://github.com/Itai-Nelken/youtubuddy-Arch) - Search/Watch/Download YouTube videos with a lightweight, interactive tool
+- [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Opensource, compact, and material designed cursor set.
 - [piware14/pi-ware](https://github.com/piware14/pi-ware) - Pi-Ware is an app store inspired by Botspots pi-apps for the Raspberry Pi that allows you to install apps that you generally can't get from the official repos and/or without an extra amount of work.
 - [ossiozac/Raspberry-Pi-Zero-Rubber-Ducky-Duckberry-Pi](https://github.com/ossiozac/Raspberry-Pi-Zero-Rubber-Ducky-Duckberry-Pi) - A £10 Rubber Ducky USB HID! A USB device which emulates a keyboard and automates key entry.
 - [rosehgal/tortipi](https://github.com/rosehgal/tortipi) - Tor based Raspberry π hotspot
@@ -3104,7 +3105,6 @@
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [HaveIBeenPwned/PwnedPasswordsCloudflareWorker](https://github.com/HaveIBeenPwned/PwnedPasswordsCloudflareWorker) - 
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
-- [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Opensource, compact, and material designed cursor set.
 - [Figma-Linux/figma-linux](https://github.com/Figma-Linux/figma-linux) - Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us in https://t.me/figma_linux and https://spectrum.chat/figma-linux
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
