@@ -1958,7 +1958,6 @@
 - [nicotine-plus/nicotine-plus](https://github.com/nicotine-plus/nicotine-plus) - Graphical client for the Soulseek peer-to-peer network
 - [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end
 - [mcastorina/graph-cli](https://github.com/mcastorina/graph-cli) - Flexible command line tool to create graphs from CSV data
-- [ful1e5/apple_cursor](https://github.com/ful1e5/apple_cursor) - Opensource macOS Cursors.
 - [Shugabuga/Silica](https://github.com/Shugabuga/Silica) - A static site generator for MobileAPT repos.
 - [permasigner/permasigner](https://github.com/permasigner/permasigner) - 🖊 Permanently signs IPAs on jailbroken iDevices (persists on stock).
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
@@ -2509,6 +2508,7 @@
 - [raspberryenvoie/odysseyn1x](https://github.com/raspberryenvoie/odysseyn1x) - Linux-based distro that lets you install checkra1n, odysseyra1n and Project Sandcastle.
 - [Yisus7u7/termux-desktop-xfce](https://github.com/Yisus7u7/termux-desktop-xfce) - Set up a beautiful xfce desktop in termux
 - [framps/raspiBackup](https://github.com/framps/raspiBackup) - Backup and restore your running Raspberry
+- [ful1e5/apple_cursor](https://github.com/ful1e5/apple_cursor) - Open source macOS Cursors.
 - [yeyushengfan258/Win11-icon-theme](https://github.com/yeyushengfan258/Win11-icon-theme) - A colorful design icon theme for linux desktops
 - [aaron-dev-git/Linux-Mint-Debloater](https://github.com/aaron-dev-git/Linux-Mint-Debloater) - Script to debloat Linux Mint
 - [jsassu20/Lenovo-ThinkPad-T450-macOS-Catalina](https://github.com/jsassu20/Lenovo-ThinkPad-T450-macOS-Catalina) - Lenovo ThinkPad T450 || macOS Catalina || Hotpatched || Broadwell || *** iMessage: Jsassu20@gmail.com ***
@@ -3101,7 +3101,7 @@
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
-- [desktop/desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
+- [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [HaveIBeenPwned/PwnedPasswordsCloudflareWorker](https://github.com/HaveIBeenPwned/PwnedPasswordsCloudflareWorker) - 
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
