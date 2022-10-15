@@ -865,6 +865,7 @@
 
 ## GLSL 
 
+- [PalaceInteractive/PalaceResourcePack](https://github.com/PalaceInteractive/PalaceResourcePack) - Palace Network Resource Pack - Main
 - [gicrisf/elegoo-cura-dots](https://github.com/gicrisf/elegoo-cura-dots) - Install Elegoo Cura default configuration on linux too
 
 ## Go 
@@ -1943,6 +1944,7 @@
 
 ## Python 
 
+- [thonny/thonny](https://github.com/thonny/thonny) - Python IDE for beginners
 - [Macleykun/pixel-server](https://github.com/Macleykun/pixel-server) - Network control of pixelstrips (NeoPixels) using a simple web server IoT interface.
 - [benbarth/hacktoberfest-swag](https://github.com/benbarth/hacktoberfest-swag) - Looking for hacktoberfest swag? You've come to the right place.
 - [TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) - Script that organizes the Google Takeout archive into one big chronological folder
