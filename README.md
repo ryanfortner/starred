@@ -177,7 +177,7 @@
 - [Tix3Dev/KnutOS](https://github.com/Tix3Dev/KnutOS) - An x86_64 hobbyist OS written in C and Assembly
 - [xkbcommon/libxkbcommon](https://github.com/xkbcommon/libxkbcommon) - keymap handling library for toolkits and window systems
 - [Itai-Nelken/itai-lang](https://github.com/Itai-Nelken/itai-lang) - 
-- [Syllo/nvtop](https://github.com/Syllo/nvtop) - AMD and NVIDIA GPUs htop like monitoring tool
+- [Syllo/nvtop](https://github.com/Syllo/nvtop) - AMD, Intel and NVIDIA GPUs process monitoring
 - [tsoding/flag.h](https://github.com/tsoding/flag.h) - Command-line flag parsing in C
 - [rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) - Desktop customization tool for Windows
 - [sarah-walker-pcem/pcem](https://github.com/sarah-walker-pcem/pcem) - PCem
@@ -2328,7 +2328,6 @@
 - [Kingo71/BerryConverter](https://github.com/Kingo71/BerryConverter) - Berryboot image conversion script
 - [FlameKat53/Twister-OS-Patcher](https://github.com/FlameKat53/Twister-OS-Patcher) - An automated patcher for Twister OS
 - [artyshko/smd](https://github.com/artyshko/smd) - Spotify Music Downloader
-- [dtcooper/raspotify](https://github.com/dtcooper/raspotify) - A Spotify Connect client that mostly Just Works™
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [MCPI-Revival/proxy](https://github.com/MCPI-Revival/proxy) - A Minecraft Pi Proxy to allow players to connect to remote servers.
 - [MCPI-Revival/MCPIL-Legacy](https://github.com/MCPI-Revival/MCPIL-Legacy) - Minecraft Pi Launcher (deprecated, use MCPIL-R under our same organization).
@@ -2404,7 +2403,7 @@
 - [your-tools/rusync](https://github.com/your-tools/rusync) - Minimalist rsync implementation in Rust
 - [pop-os/upgrade](https://github.com/pop-os/upgrade) - Utility for upgrading Pop!_OS and its recovery partition to new releases.
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
-- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary in your terminal
+- [o2sh/onefetch](https://github.com/o2sh/onefetch) - A command-line Git information tool
 - [cloudhead/rx](https://github.com/cloudhead/rx) - 👾 Modern and minimalist pixel editor
 - [lupyuen/pinetime-watchface](https://github.com/lupyuen/pinetime-watchface) - Watch Face Framework for Rust + Mynewt on PineTime Smart Watch
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
@@ -2827,7 +2826,7 @@
 - [TerraGitHuB/gnomeforpi](https://github.com/TerraGitHuB/gnomeforpi) - A script to install gnome on the Raspberry Pi
 - [f1linux/pi-ap](https://github.com/f1linux/pi-ap) - Raspberry Pi wireless Access Point: This repo automates the config of hostapd, dnsmasq, dhcpcd & wpa_supplicant to transform a Pi into an AP.  Requires: a Pi, Ethernet cable & DHCP-enabled port on a b
 - [Itai-Nelken/youtubuddy-Arch](https://github.com/Itai-Nelken/youtubuddy-Arch) - Search/Watch/Download YouTube videos with a lightweight, interactive tool
-- [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Opensource, compact, and material designed cursor set.
+- [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Open source, compact, and material designed cursor set.
 - [piware14/pi-ware](https://github.com/piware14/pi-ware) - Pi-Ware is an app store inspired by Botspots pi-apps for the Raspberry Pi that allows you to install apps that you generally can't get from the official repos and/or without an extra amount of work.
 - [ossiozac/Raspberry-Pi-Zero-Rubber-Ducky-Duckberry-Pi](https://github.com/ossiozac/Raspberry-Pi-Zero-Rubber-Ducky-Duckberry-Pi) - A £10 Rubber Ducky USB HID! A USB device which emulates a keyboard and automates key entry.
 - [rosehgal/tortipi](https://github.com/rosehgal/tortipi) - Tor based Raspberry π hotspot
@@ -2906,6 +2905,7 @@
 - [Botspot/Pi-Power-Tools](https://github.com/Botspot/Pi-Power-Tools) - General Purpose Raspbian Image & SD Card Manager
 - [Botspot/Boxy-SVG-RPi](https://github.com/Botspot/Boxy-SVG-RPi) - 
 - [Botspot/box86-updater](https://github.com/Botspot/box86-updater) - Keeps box86 updated on a weekly basis, without ever compiling it thanks to Pale's weekly builds.
+- [dtcooper/raspotify](https://github.com/dtcooper/raspotify) - A Spotify Connect client that mostly Just Works™
 - [XPi3032/XPiWhite](https://github.com/XPi3032/XPiWhite) - Whitelisting for the Raspberry Pi's Pi-hole
 - [RetroPie/RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup) - Shell script to set up a Raspberry Pi/Odroid/PC with RetroArch emulator and various cores
 - [Botspot/TwistUP](https://github.com/Botspot/TwistUP) - The new, simple Twister OS patcher
