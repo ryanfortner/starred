@@ -1341,7 +1341,6 @@
 - [cappig/MC-status-bot](https://github.com/cappig/MC-status-bot) - A Discord bot that makes it easy to display, log and graph the status and statistics of a Minecraft server. 📈
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop's app.asar
-- [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [antonmedv/spark](https://github.com/antonmedv/spark) - GitHub Stars Sparklines ⚡️
 - [soroushchehresa/unsplash-wallpapers](https://github.com/soroushchehresa/unsplash-wallpapers) - 🖼️ A cross-platform desktop application to set wallpapers from Unsplash built with Electron, React, and Redux
 - [bootstrap-vue/bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - BootstrapVue provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
@@ -1945,6 +1944,7 @@
 
 ## Python 
 
+- [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 - [thonny/thonny](https://github.com/thonny/thonny) - Python IDE for beginners
 - [Macleykun/pixel-server](https://github.com/Macleykun/pixel-server) - Network control of pixelstrips (NeoPixels) using a simple web server IoT interface.
 - [benbarth/hacktoberfest-swag](https://github.com/benbarth/hacktoberfest-swag) - Looking for hacktoberfest swag? You've come to the right place.
@@ -2771,7 +2771,7 @@
 - [pystardust/ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
 - [GreenRaccoon23/archdroid-icon-theme](https://github.com/GreenRaccoon23/archdroid-icon-theme) - Port of Google's material design icons for Android Lollipop+ to Linux (and influenced by Ubuntu Mono, Mint-X, and Numix).
 - [vinceliuice/vimix-icon-theme](https://github.com/vinceliuice/vimix-icon-theme) - vimix-icon-theme
-- [P3rf/rofi-network-manager](https://github.com/P3rf/rofi-network-manager) - A manager for network connections using bash, rofi, nmcli,qrencode and Dunst.
+- [P3rf/rofi-network-manager](https://github.com/P3rf/rofi-network-manager) - A manager for network connections using bash, rofi, nmcli,qrencode.
 - [Alvarito050506/rpi-debs](https://github.com/Alvarito050506/rpi-debs) - Debian APT repo for misc packages not yet available in Raspberry Pi OS.
 - [hmsjy2017/n-debs](https://github.com/hmsjy2017/n-debs) - 
 - [CleanMachine1/Various-Scripts](https://github.com/CleanMachine1/Various-Scripts) - Different random scripts I use
@@ -2944,6 +2944,7 @@
 
 ## Swift 
 
+- [dgraham/Ka-Block](https://github.com/dgraham/Ka-Block) - A Safari extension that blocks an artisanal selection of advertising domains.
 - [christianselig/Markdownosaur](https://github.com/christianselig/Markdownosaur) - Leverages Apple's Swift-based Markdown parser to output NSAttributedString.
 - [s8ngyu/Mugunghwa](https://github.com/s8ngyu/Mugunghwa) - 
 - [cormiertyshawn895/Retroactive](https://github.com/cormiertyshawn895/Retroactive) - Run Aperture, iPhoto, and iTunes on macOS Ventura, macOS Monterey, macOS Big Sur, and macOS Catalina. Xcode 11.7 on macOS Mojave. Final Cut Pro 7, Logic Pro 9, and iWork ’09 on macOS Mojave or macOS H
@@ -3064,6 +3065,7 @@
 - [pwa-builder/pwa-starter](https://github.com/pwa-builder/pwa-starter) - Welcome to the PWABuilder pwa-starter! Looking to build a new Progressive Web App and not sure where to get started? This is what you are looking for!
 - [codebytere/electron-build-tools-autocomplete](https://github.com/codebytere/electron-build-tools-autocomplete) - Fig autocomplete extension for https://github.com/electron/build-tools
 - [divriots/browser-vite](https://github.com/divriots/browser-vite) - Vite in the browser.
+- [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
