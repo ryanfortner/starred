@@ -94,7 +94,6 @@
 ## Assembly 
 
 - [leachim6/hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!
-- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [0xJonas/TIQuest](https://github.com/0xJonas/TIQuest) - Game for the TI-83 plus/TI-84 plus calculators
 - [calc84maniac/tiboyce](https://github.com/calc84maniac/tiboyce) - A Game Boy emulator for the TI-84 Plus CE and TI-83 Premium CE.
 
@@ -250,6 +249,7 @@
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
 - [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
+- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [likecoin-pro/likecoin](https://github.com/likecoin-pro/likecoin) - Likecoin core
 - [stefansundin/altdrag](https://github.com/stefansundin/altdrag) - :file_folder: Easily drag windows when pressing the alt key. (Windows)
 - [librerpi/rpi-open-firmware](https://github.com/librerpi/rpi-open-firmware) - Open source VPU side bootloader for Raspberry Pi.
@@ -700,7 +700,7 @@
 - [musescore/MuseScore](https://github.com/musescore/MuseScore) - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
 - [Conky-for-macOS/conky-for-macOS](https://github.com/Conky-for-macOS/conky-for-macOS) - macOS port of the Light-weight system monitor for X.
 - [Fushko/gammy](https://github.com/Fushko/gammy) - Adaptive screen brightness/temperature for Windows, Linux, FreeBSD
-- [textbrowser/dooble](https://github.com/textbrowser/dooble) - Dooble, the scientific browser. Minimal, cute, and unusually stable. Completed.
+- [textbrowser/dooble](https://github.com/textbrowser/dooble) - Dooble is a scientific browser. Minimal, cute, and unusually stable. Completed.
 - [MaartenBaert/ssr](https://github.com/MaartenBaert/ssr) - SimpleScreenRecorder, a screen recorder for Linux
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
 - [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the for
@@ -2486,6 +2486,7 @@
 
 ## Shell 
 
+- [Dunedan/mbp-2016-linux](https://github.com/Dunedan/mbp-2016-linux) - State of Linux on the MacBook Pro 2016 & 2017
 - [marcusfrdk/linux-magic-mouse](https://github.com/marcusfrdk/linux-magic-mouse) - Ubuntu 18.04 support for the Magic Mouse 1 and 2 scroll and scroll acceleration.
 - [fractalnetworksco/selfhosted-gateway](https://github.com/fractalnetworksco/selfhosted-gateway) - A self-hosted alternative to proprietary connectivity solutions.
 - [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
