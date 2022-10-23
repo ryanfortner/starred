@@ -70,7 +70,6 @@
 - [Sass](#sass)
 - [Scala](#scala)
 - [Shell](#shell)
-- [Smali](#smali)
 - [Smarty](#smarty)
 - [Solidity](#solidity)
 - [Stylus](#stylus)
@@ -113,6 +112,7 @@
 
 ## C 
 
+- [suchmememanyskill/TegraExplorer](https://github.com/suchmememanyskill/TegraExplorer) - A payload-based file manager for your switch!
 - [entrope/linux-magicmouse](https://github.com/entrope/linux-magicmouse) - Interface software/kernel module for the Apple Wireless "Magic" Mouse
 - [iPodLinux/iPodLinux-SVN](https://github.com/iPodLinux/iPodLinux-SVN) - GitHub mirror of the original SourceForge SVN code
 - [iPodLinux/podzilla2](https://github.com/iPodLinux/podzilla2) - Updated user interface for iPodLinux, featuring themes and modules support
@@ -685,7 +685,7 @@
 - [bingmann/sound-of-sorting](https://github.com/bingmann/sound-of-sorting) - The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms
 - [BlitterStudio/amiberry](https://github.com/BlitterStudio/amiberry) - Optimized Amiga emulator for the Raspberry Pi and other ARM boards
 - [vkmark/vkmark](https://github.com/vkmark/vkmark) - Vulkan benchmark
-- [stuntrally/stuntrally](https://github.com/stuntrally/stuntrally) - The main repository containing Stunt Rally sources and game data. A 3D racing game based on VDrift and OGRE with own Track Editor.
+- [stuntrally/stuntrally](https://github.com/stuntrally/stuntrally) - 3D racing game based on VDrift and OGRE with own Track Editor. The main repository with Stunt Rally sources and data.
 - [anbox/anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
@@ -733,7 +733,6 @@
 - [aadilayub/firefox-i3wm-theme](https://github.com/aadilayub/firefox-i3wm-theme) - i3 and qutebrowser inspired theme for firefox
 - [sysce/chrome100](https://github.com/sysce/chrome100) - Collection of ChromeOS recovery images.
 - [YvanTT/arTIfiCE](https://github.com/YvanTT/arTIfiCE) - arTIfiCE is a jailbreak for TI CE calculators with OS 5.5 and 5.6. It brings back ASM programs and games.
-- [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 - [jo-nike/clipplex](https://github.com/jo-nike/clipplex) - 
 - [seankross/the-unix-workbench](https://github.com/seankross/the-unix-workbench) - :house_with_garden: A Book for Anyone to Get Started with Unix
 - [connors/photon](https://github.com/connors/photon) - The fastest way to build beautiful Electron apps using simple HTML and CSS
@@ -1806,6 +1805,7 @@
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [bromite/bromite](https://github.com/bromite/bromite) - Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
 - [SelfhostedPro/selfhosted_templates](https://github.com/SelfhostedPro/selfhosted_templates) - Portainer templates for selfhosted services
+- [D3VL/L3MON](https://github.com/D3VL/L3MON) - THIS PROJECT HAS BEEN DELETED
 - [ryanfortner/minbrowser-arm-builds](https://github.com/ryanfortner/minbrowser-arm-builds) - Builds of Min Browser for arm devices
 - [ryanfortner/gitea-debs](https://github.com/ryanfortner/gitea-debs) - debian repository for Gitea releases
 - [raspberrypi/Raspberry-Pi-OS-64bit](https://github.com/raspberrypi/Raspberry-Pi-OS-64bit) - Repository for containing issues on the 64 bit operating system (as distinct from the 32 bit one)
@@ -1965,7 +1965,7 @@
 - [Shugabuga/Silica](https://github.com/Shugabuga/Silica) - A static site generator for MobileAPT repos.
 - [permasigner/permasigner](https://github.com/permasigner/permasigner) - 🖊 Permanently signs IPAs on jailbroken iDevices (persists on stock).
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
-- [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 An easy to use tool to change the mapping of your input device buttons.
+- [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 ⌨ An easy to use tool to change the behaviour of your input devices.
 - [ilstam/FF-Multi-Converter](https://github.com/ilstam/FF-Multi-Converter) - GUI File Format Converter
 - [volitank/volian](https://github.com/volitank/volian) - volian is an installer for Debian or Ubuntu.
 - [geerlingguy/pico-w-garage-door-sensor](https://github.com/geerlingguy/pico-w-garage-door-sensor) - Wireless garage door sensor for Home Assistant powered by Raspberry Pi Pico W
@@ -2458,6 +2458,7 @@
 
 - [vinceliuice/Jasper-gtk-theme](https://github.com/vinceliuice/Jasper-gtk-theme) - Jasper gtk theme for linux
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
+- [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 - [discord-extensions/compact-userarea](https://github.com/discord-extensions/compact-userarea) - A compact, better looking, top-left user area.
 - [Mojang/web-theme-bootstrap](https://github.com/Mojang/web-theme-bootstrap) - Contains the theme used on minecraft.net based on Boostrap 4
 - [lassekongo83/adw-gtk3](https://github.com/lassekongo83/adw-gtk3) - The theme from libadwaita ported to GTK-3
@@ -2920,10 +2921,6 @@
 - [wimpysworld/desktopify](https://github.com/wimpysworld/desktopify) - Convert Ubuntu Server for Raspberry Pi into a Desktop
 - [jmcerrejon/PiKISS](https://github.com/jmcerrejon/PiKISS) - PiKISS for Raspberry Pi: A bunch of scripts with menu to make your life easier.
 
-## Smali 
-
-- [D3VL/L3MON](https://github.com/D3VL/L3MON) - L3MON - Remote Android Managment Suite
-
 ## Smarty 
 
 - [genofire/caddy-browse-template](https://github.com/genofire/caddy-browse-template) - Minimalist Caddy browse template
@@ -2982,7 +2979,7 @@
 - [fahimrahmanbooom/Duino-Coin_iOS_App](https://github.com/fahimrahmanbooom/Duino-Coin_iOS_App) - Duino-Coin iOS App. Features: Dashboard, Statistics, Transactions, Profile.
 - [ming900518/macOS-Virtual-Machine](https://github.com/ming900518/macOS-Virtual-Machine) - A ARM macOS Virtual Machine.
 - [vashpan/xcode-dev-cleaner](https://github.com/vashpan/xcode-dev-cleaner) - If you want to reclaim tens of gigabytes of your storage used for various Xcode caches - this tool is for you!
-- [dotWee/macOS-PiholeShortcuts](https://github.com/dotWee/macOS-PiholeShortcuts) - Manage and monitor your Pi-hole® instance through your status bar
+- [dotWee/macOS-PiholeShortcuts](https://github.com/dotWee/macOS-PiholeShortcuts) - **DISCONTINUED** Manage and monitor your Pi-hole® instance through your status bar
 - [iglance/iGlance](https://github.com/iglance/iGlance) - Free system monitor for OSX and macOS. See all system information at a glance in the menu bar.
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 - [pock/pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
