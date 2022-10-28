@@ -478,6 +478,7 @@
 
 ## C++ 
 
+- [rikyoz/MrHash](https://github.com/rikyoz/MrHash) - A cross-platform tool for calculating the hashes of files and plain texts.
 - [leozide/leocad](https://github.com/leozide/leocad) - A CAD application for creating virtual LEGO models
 - [tihmstar/usbmuxd2](https://github.com/tihmstar/usbmuxd2) - A socket daemon written in C++ to multiplex connections from and to iOS devices over USB and WIFI
 - [psifidotos/applet-window-appmenu](https://github.com/psifidotos/applet-window-appmenu) - Plasma 5 applet in order to show the window appmenu
@@ -731,7 +732,6 @@
 
 - [christianselig/OpenInApolloExtension](https://github.com/christianselig/OpenInApolloExtension) - Safari extension bundled with iOS 15 that helps in opening Reddit URLs in Apollo
 - [aadilayub/firefox-i3wm-theme](https://github.com/aadilayub/firefox-i3wm-theme) - i3 and qutebrowser inspired theme for firefox
-- [sysce/chrome100](https://github.com/sysce/chrome100) - Collection of ChromeOS recovery images.
 - [YvanTT/arTIfiCE](https://github.com/YvanTT/arTIfiCE) - arTIfiCE is a jailbreak for TI CE calculators with OS 5.5 and 5.6. It brings back ASM programs and games.
 - [jo-nike/clipplex](https://github.com/jo-nike/clipplex) - 
 - [seankross/the-unix-workbench](https://github.com/seankross/the-unix-workbench) - :house_with_garden: A Book for Anyone to Get Started with Unix
@@ -1292,7 +1292,7 @@
 - [mymonero/mymonero-utils](https://github.com/mymonero/mymonero-utils) - A collection of npm packages providing the core functionality to the web, desktop, and android apps
 - [mymonero/mymonero-core-js](https://github.com/mymonero/mymonero-core-js) - The JS library containing the Monero crypto plus lightwallet functions behind the official MyMonero apps
 - [mymonero/mymonero-app-js](https://github.com/mymonero/mymonero-app-js) - The JS codebase for the MyMonero desktop apps
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI that implement Google's Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [simpleicons/simpleicons.now.sh](https://github.com/simpleicons/simpleicons.now.sh) - Serve simpleicons with options (and CDN).
 - [doctolib/windows-binary-architecture](https://github.com/doctolib/windows-binary-architecture) - Find the target CPU architecture of Windows binaries (DLLs, EXEs and others).
@@ -2796,7 +2796,6 @@
 - [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
 - [pyavitz/rpi-img-builder](https://github.com/pyavitz/rpi-img-builder) - Image Builder for the Raspberry Pi
 - [cobalt2727/L4T-Megascript](https://github.com/cobalt2727/L4T-Megascript) - All-in-one installer and updater for popular programs on L4T Ubuntu with no prior knowledge of Linux needed
-- [gacts/upload-to-release](https://github.com/gacts/upload-to-release) - A GitHub Action that uploads a file to a new release
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [Botspot/wor-flasher](https://github.com/Botspot/wor-flasher) - Legal utility that runs on RPiOS to flash another SD card with Windows 10/11
 - [Pi-Apps-Recreates/pi-apps-x86](https://github.com/Pi-Apps-Recreates/pi-apps-x86) - Pi-Apps For X86
@@ -2997,6 +2996,7 @@
 - [electron/notarize](https://github.com/electron/notarize) - Notarize your macOS Electron Apps
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [FixTweet/FixTweet](https://github.com/FixTweet/FixTweet) - Embed Twitter videos, polls, and more on Discord and Telegram
+- [sysce/chrome100](https://github.com/sysce/chrome100) - Collection of ChromeOS recovery images.
 - [whatk233/ddg-email-panel](https://github.com/whatk233/ddg-email-panel) - DDG Email Panel is the open source unofficial DuckDuckGo Email Protection panel.
 - [stream-labs/desktop](https://github.com/stream-labs/desktop) - Free and open source streaming software built on OBS and Electron.
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Unleash is the open source feature toggle service.
