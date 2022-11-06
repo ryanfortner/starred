@@ -567,7 +567,7 @@
 - [helio-fm/helio-workstation](https://github.com/helio-fm/helio-workstation) - One music sequencer for all major platforms, desktop and mobile
 - [zeldaret/botw](https://github.com/zeldaret/botw) - Decompilation of The Legend of Zelda: Breath of the Wild (Switch 1.5.0)
 - [linuxdeepin/dde-launcher](https://github.com/linuxdeepin/dde-launcher) - DDE Launcher Application
-- [dosbox-staging/dosbox-staging](https://github.com/dosbox-staging/dosbox-staging) - DOSBox Staging is a fork of the DOSBox project that focuses on ease of use, modern technology and best practices.
+- [dosbox-staging/dosbox-staging](https://github.com/dosbox-staging/dosbox-staging) - DOSBox Staging is a modern continuation of DOSBox with advanced features and current development practices.
 - [nanocurrency/nano-node](https://github.com/nanocurrency/nano-node) - Nano is digital money
 - [Grima04/recompiler](https://github.com/Grima04/recompiler) - Xbox360 -&gt; Windows executable converter
 - [rexdex/recompiler](https://github.com/rexdex/recompiler) - Xbox360 -&gt; Windows executable converter
@@ -1034,7 +1034,6 @@
 ## HTML 
 
 - [chadbaldwin/simple-blog-bootstrap](https://github.com/chadbaldwin/simple-blog-bootstrap) - This is a template repo you can use to set up a simple blog using GitHub Pages with SSMS Style T-SQL highlighting. Refer to the blog post below for more instructions.
-- [e9x/chrome100](https://github.com/e9x/chrome100) - Collection of ChromeOS recovery images.
 - [OnionBrowser/OnionBrowser](https://github.com/OnionBrowser/OnionBrowser) - An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network
 - [arm-university/Embedded-Linux-Education-Kit](https://github.com/arm-university/Embedded-Linux-Education-Kit) - Embedded Linux Education Kit
 - [arm-university/Introduction-to-Computer-Architecture-Education-Kit](https://github.com/arm-university/Introduction-to-Computer-Architecture-Education-Kit) - Introduction-to-Computer-Architecture-Education-Kit
@@ -3004,6 +3003,7 @@
 - [electron/notarize](https://github.com/electron/notarize) - Notarize your macOS Electron Apps
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [FixTweet/FixTweet](https://github.com/FixTweet/FixTweet) - Embed Twitter videos, polls, and more on Discord and Telegram
+- [e9x/chrome100](https://github.com/e9x/chrome100) - Collection of ChromeOS recovery images.
 - [whatk233/ddg-email-panel](https://github.com/whatk233/ddg-email-panel) - DDG Email Panel is the open source unofficial DuckDuckGo Email Protection panel.
 - [stream-labs/desktop](https://github.com/stream-labs/desktop) - Free and open source streaming software built on OBS and Electron.
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Unleash is the open source feature toggle service.
