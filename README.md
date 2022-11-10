@@ -394,7 +394,7 @@
 - [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see http://wiki.qemu.org/Contribute/SubmitAPatch for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
 - [Open-Smartwatch/open-smartwatch-os](https://github.com/Open-Smartwatch/open-smartwatch-os) - The Open-Smartwatch Operating System.
 - [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb
-- [FWGS/xash3d-fwgs](https://github.com/FWGS/xash3d-fwgs) - Xash3D FWGS engine. Rebooted fork since big Xash3D 0.99(1.0 is not yet) update.
+- [FWGS/xash3d-fwgs](https://github.com/FWGS/xash3d-fwgs) - Xash3D FWGS engine.
 - [bluez/bluez](https://github.com/bluez/bluez) - Main BlueZ tree
 - [86Box/86Box](https://github.com/86Box/86Box) - Emulator of x86-based machines based on PCem.
 - [lgblgblgb/xemu](https://github.com/lgblgblgb/xemu) - Emulations (running on Linux/Unix/Windows/macOS, utilizing SDL2) of some - mainly - 8 bit machines, including the Commodore LCD, Commodore 65, and the MEGA65 as well.
@@ -1148,7 +1148,6 @@
 - [stream-pi/server](https://github.com/stream-pi/server) - Stream-Pi Server
 - [stream-pi/client](https://github.com/stream-pi/client) - Stream-Pi Client
 - [konsoletyper/teavm](https://github.com/konsoletyper/teavm) - Compiler of Java bytecode to JavaScript
-- [lax1dude/eaglercraft](https://github.com/lax1dude/eaglercraft) - Eaglercraft is real Minecraft 1.5.2 that you can play in any regular web browser. That includes school chromebooks, it works on all chromebooks. You can join real Minecraft 1.5.2 servers with it throu
 - [niumoo/bing-wallpaper](https://github.com/niumoo/bing-wallpaper) - 必应每日超清壁纸（4K）
 - [oshi/oshi](https://github.com/oshi/oshi) - Native Operating System and Hardware Information
 - [Neamar/KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, &lt; 200kb Android launcher
@@ -2239,7 +2238,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-503-Stars](https://github.com/iBug/This-Repo-Has-503-Stars) - Yes, it's true :purple_heart: This repository has 503 stars.
+- [iBug/This-Repo-Has-502-Stars](https://github.com/iBug/This-Repo-Has-502-Stars) - Yes, it's true :two_hearts: This repository has 502 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
