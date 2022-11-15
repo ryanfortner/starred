@@ -2375,6 +2375,7 @@
 
 ## Ruby 
 
+- [sidneys/homebrew-homebrew](https://github.com/sidneys/homebrew-homebrew) - sidneys.github.io Homebrew Tap
 - [solidusio/solidus](https://github.com/solidusio/solidus) - Solidus, the open-source eCommerce framework for industry trailblazers.
 - [philnash/bitly](https://github.com/philnash/bitly) - 🗜 A Ruby wrapper for the bit.ly API
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
@@ -2901,7 +2902,7 @@
 - [adityashrm21/RaspberryPi-Packet-Sniffer](https://github.com/adityashrm21/RaspberryPi-Packet-Sniffer) - An HTTP and HTTPS sniffing tool created using a Raspberry Pi
 - [aikoncwd/rpi-benchmark](https://github.com/aikoncwd/rpi-benchmark) - Script to run some benchmark test for Raspberry Pi
 - [NoozSBC/TwisterOS-imager](https://github.com/NoozSBC/TwisterOS-imager) - Fork of Raspberry Pi patcher with TwisterOS inside
-- [cliegargo/cfetch](https://github.com/cliegargo/cfetch) - A simple system information tool for Linux.
+- [cegargo/cfetch](https://github.com/cegargo/cfetch) - A simple system information tool for Linux.
 - [keroserene/rickrollrc](https://github.com/keroserene/rickrollrc) - Rick Astley invades your terminal.
 - [Drewsif/PiShrink](https://github.com/Drewsif/PiShrink) - Make your pi images smaller!
 - [Itai-Nelken/Ubuntu-on-rpi-fixes](https://github.com/Itai-Nelken/Ubuntu-on-rpi-fixes) - apps, fixes, and optimizations for the RaspberryPi running Ubuntu desktop
