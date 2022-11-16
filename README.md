@@ -1324,8 +1324,8 @@
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [virae/we-stand-with-ukraine](https://github.com/virae/we-stand-with-ukraine) - Ukraine flag badge for your website
 - [mrcrypster/notide](https://github.com/mrcrypster/notide) - Edit local code from desktop/server online with syntax highlighting and files explorer
-- [titaniumnetwork-dev/Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet) - Highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more!
-- [titaniumnetwork-dev/Ultraviolet-Node](https://github.com/titaniumnetwork-dev/Ultraviolet-Node) - Highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more! Easy deployment version (Node.js)
+- [titaniumnetwork-dev/Ultraviolet-Original](https://github.com/titaniumnetwork-dev/Ultraviolet-Original) - Highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more!
+- [titaniumnetwork-dev/Ultraviolet-Node-Archive](https://github.com/titaniumnetwork-dev/Ultraviolet-Node-Archive) - Highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more! Easy deployment version (Node.js)
 - [denysdovhan/bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
 - [denysdovhan/learnyoubash](https://github.com/denysdovhan/learnyoubash) - Learn you how to write your first bash script
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
@@ -2241,7 +2241,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-505-Stars](https://github.com/iBug/This-Repo-Has-505-Stars) - Yes, it's true :heartpulse: This repository has 505 stars.
+- [iBug/This-Repo-Has-506-Stars](https://github.com/iBug/This-Repo-Has-506-Stars) - Yes, it's true :yellow_heart: This repository has 506 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -2376,7 +2376,7 @@
 ## Ruby 
 
 - [sidneys/homebrew-homebrew](https://github.com/sidneys/homebrew-homebrew) - sidneys.github.io Homebrew Tap
-- [solidusio/solidus](https://github.com/solidusio/solidus) - Solidus, the open-source eCommerce framework for industry trailblazers.
+- [solidusio/solidus](https://github.com/solidusio/solidus) - 🛒 Solidus, the open-source eCommerce framework for industry trailblazers.
 - [philnash/bitly](https://github.com/philnash/bitly) - 🗜 A Ruby wrapper for the bit.ly API
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [DaCuteRaccoon/img2ascii](https://github.com/DaCuteRaccoon/img2ascii) - A Ruby gem to convert images to ASCII
