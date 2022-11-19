@@ -1528,7 +1528,7 @@
 ## Lua 
 
 - [HTV04/funkin-rewritten](https://github.com/HTV04/funkin-rewritten) - Optimized rewrite of Friday Night Funkin' built on LÖVE
-- [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for vim and neovim
+- [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
 - [ChrisTitusTech/titus-awesome](https://github.com/ChrisTitusTech/titus-awesome) - Custom AwesomeWM Theme
 - [2439905184/oh-my-giraffe](https://github.com/2439905184/oh-my-giraffe) - a game made with love2d ,here is the code ,if you want to learn program
 - [ryanfortner/rpi_conky](https://github.com/ryanfortner/rpi_conky) - 
@@ -2242,7 +2242,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-506-Stars](https://github.com/iBug/This-Repo-Has-506-Stars) - Yes, it's true :gift_heart: This repository has 506 stars.
+- [iBug/This-Repo-Has-507-Stars](https://github.com/iBug/This-Repo-Has-507-Stars) - Yes, it's true :heartbeat: This repository has 507 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
