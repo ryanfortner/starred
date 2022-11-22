@@ -856,6 +856,7 @@
 - [zhaoo/hexo-theme-zhaoo](https://github.com/zhaoo/hexo-theme-zhaoo) - 🐳    A simple theme for Hexo
 - [fengkx/hexo-theme-purer](https://github.com/fengkx/hexo-theme-purer) - Remake version of hexo-theme-pure powered by TailWind
 - [ThemeSaverApp/themesaver-website](https://github.com/ThemeSaverApp/themesaver-website) - The Official Website for the themesaver app
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 
 ## Elixir 
 
@@ -1377,7 +1378,6 @@
 - [AlynxZhou/gnome-shell-extension-inotch](https://github.com/AlynxZhou/gnome-shell-extension-inotch) - Add a useless notch to your screen.
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain
 - [rpsthecoder/square-loading-favicon](https://github.com/rpsthecoder/square-loading-favicon) - Square loading favicon.
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [micheleg/dash-to-dock](https://github.com/micheleg/dash-to-dock) - A dock for the Gnome Shell. This extension   moves the dash out of the overview transforming it in a dock for an easier   launching of applications and a faster switching between windows and desktops.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [rpardini/adoptium-deb-installer](https://github.com/rpardini/adoptium-deb-installer) - Creates Ubuntu/Debian installer packages for Eclipse Adoptium using their API. Important: these are NOT official packages. JDK 8, 11, 17 and 18, all multiarch.
