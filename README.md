@@ -1188,6 +1188,7 @@
 
 ## JavaScript 
 
+- [SpecifiesDev/snapchat-electron](https://github.com/SpecifiesDev/snapchat-electron) - A desktop application for snapchat's web portal.
 - [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - The best free email forwarding for custom domains (Web Server)
 - [dbader/large-type.com](https://github.com/dbader/large-type.com) - Display & share text in a large font, directly from your browser
 - [vercel/hyperpower](https://github.com/vercel/hyperpower) - Hyper particle effects extension
