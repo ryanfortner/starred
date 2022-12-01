@@ -7,6 +7,7 @@
 
 - [ASL](#asl)
 - [Adblock Filter List](#adblock-filter-list)
+- [AppleScript](#applescript)
 - [Assembly](#assembly)
 - [AutoIt](#autoit)
 - [Awk](#awk)
@@ -88,6 +89,10 @@
 ## Adblock Filter List 
 
 - [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
+
+## AppleScript 
+
+- [SammyGuichelaar/OSX-Toolbox](https://github.com/SammyGuichelaar/OSX-Toolbox) - 
 
 ## Assembly 
 
@@ -202,7 +207,6 @@
 - [Kitware/CMake](https://github.com/Kitware/CMake) - Mirror of CMake upstream repository
 - [Interrupt/systemshock](https://github.com/Interrupt/systemshock) - Shockolate - Same great System Shock, new great taste.
 - [php/php-src](https://github.com/php/php-src) - The PHP Interpreter
-- [pulkomandy/grafx2](https://github.com/pulkomandy/grafx2) - Mirror of GrafX2. Official repo is on gitlab.
 - [pbatard/libwdi](https://github.com/pbatard/libwdi) - Windows Driver Installer library for USB devices
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [WireGuard/wireguard-linux](https://github.com/WireGuard/wireguard-linux) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-linux
@@ -300,7 +304,6 @@
 - [raspberrypi-ui/lxplug-updater](https://github.com/raspberrypi-ui/lxplug-updater) - 
 - [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) - Firmware for Pinetime smartwatch written in C/C++ and based on FreeRTOS
 - [tboox/tbox](https://github.com/tboox/tbox) - 🎁 A glib-like multi-platform c library
-- [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [icholy/ttygif](https://github.com/icholy/ttygif) - Convert terminal recordings to animated gifs
 - [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
 - [nitlang/nit](https://github.com/nitlang/nit) - Nit language
@@ -1533,6 +1536,7 @@
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
 - [ChrisTitusTech/titus-awesome](https://github.com/ChrisTitusTech/titus-awesome) - Custom AwesomeWM Theme
 - [2439905184/oh-my-giraffe](https://github.com/2439905184/oh-my-giraffe) - a game made with love2d ,here is the code ,if you want to learn program
+- [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [ryanfortner/rpi_conky](https://github.com/ryanfortner/rpi_conky) - 
 - [ryanfortner/conky-configuration](https://github.com/ryanfortner/conky-configuration) - Conky configuration with graphs and more.
 - [lutzseverino/conky-configuration](https://github.com/lutzseverino/conky-configuration) - My personal approach to configure "conky", a tool for creating widgets that display information for Linux desktops.
@@ -1958,6 +1962,8 @@
 
 ## Python 
 
+- [modoboa/modoboa-webmail](https://github.com/modoboa/modoboa-webmail) - The webmail of Modoboa
+- [modoboa/modoboa](https://github.com/modoboa/modoboa) - Mail hosting made simple
 - [mrmoein/warp-cloudflare-gui](https://github.com/mrmoein/warp-cloudflare-gui) - a GUI app base on warp-cli for linux
 - [malwaredllc/byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers.
 - [Syncplay/syncplay](https://github.com/Syncplay/syncplay) - Client/server to synchronize media playback on mpv/VLC/MPC-HC/MPC-BE on many computers
