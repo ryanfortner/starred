@@ -1922,7 +1922,7 @@
 - [aonez/Keka](https://github.com/aonez/Keka) - The macOS file archiver
 - [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 Y̲our O̲wn U̲R̲L̲ S̲hortener - the 𝑑𝑒 𝑓𝑎𝑐𝑡𝑜 standard self hosted URL shortener in PHP
 - [WaLLy3K/Pi-hole-Block-Page](https://github.com/WaLLy3K/Pi-hole-Block-Page) - A "Website Blocked" page to go with https://pi-hole.net
-- [prasathmani/tinyfilemanager](https://github.com/prasathmani/tinyfilemanager) - The best web based PHP File Manager in single file, Manage your files efficiently and easily with tinyfilemanager
+- [prasathmani/tinyfilemanager](https://github.com/prasathmani/tinyfilemanager) - Single-file PHP file manager, browser and manage your files efficiently and easily with tinyfilemanager
 - [RaspAP/raspap-webgui](https://github.com/RaspAP/raspap-webgui) - Simple wireless AP setup & management for Debian-based devices
 - [PHProxy/phproxy](https://github.com/PHProxy/phproxy) - PHP based web proxy. Initially developed by whitefyre
 - [d5a/ds2pp](https://github.com/d5a/ds2pp) - 
