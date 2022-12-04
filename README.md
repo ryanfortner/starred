@@ -1979,7 +1979,6 @@
 - [thiswillbeyourgithub/sleep_tracker_pinetime_wasp-os](https://github.com/thiswillbeyourgithub/sleep_tracker_pinetime_wasp-os) - SleepTk: sleep tracker with smart alarm for the pinetime on wasp-os
 - [flozz/calcleaner](https://github.com/flozz/calcleaner) - A simple graphical tool to purge old events from CalDAV calendars
 - [nat/twtrnotrack](https://github.com/nat/twtrnotrack) - Quick script to automatically remove tracking cookies from Twitter links in your macos clipboard
-- [kennyh7279/shortcut-generator-simple](https://github.com/kennyh7279/shortcut-generator-simple) - Small and simple application to generate .desktop files for use on linux desktop environments
 - [nicotine-plus/nicotine-plus](https://github.com/nicotine-plus/nicotine-plus) - Graphical client for the Soulseek peer-to-peer network
 - [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end
 - [mcastorina/graph-cli](https://github.com/mcastorina/graph-cli) - Flexible command line tool to create graphs from CSV data
@@ -2907,7 +2906,6 @@
 - [mcrapet/plowshare](https://github.com/mcrapet/plowshare) - Command-line tool and engine for managing sharing websites
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [techcoder20/RPI-Kivy-Installer](https://github.com/techcoder20/RPI-Kivy-Installer) - It is generally hard to install kivy on Raspberry Pi. To Make Your Life Easier I have Made A Bash Script That Will Install Kivy On Your Raspberry Pi And Run A demo Script
-- [kennyh7279/plank-themes](https://github.com/kennyh7279/plank-themes) - Putting my plank themes back on github
 - [adityashrm21/RaspberryPi-Packet-Sniffer](https://github.com/adityashrm21/RaspberryPi-Packet-Sniffer) - An HTTP and HTTPS sniffing tool created using a Raspberry Pi
 - [aikoncwd/rpi-benchmark](https://github.com/aikoncwd/rpi-benchmark) - Script to run some benchmark test for Raspberry Pi
 - [NoozSBC/TwisterOS-imager](https://github.com/NoozSBC/TwisterOS-imager) - Fork of Raspberry Pi patcher with TwisterOS inside
