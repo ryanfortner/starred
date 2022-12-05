@@ -1385,7 +1385,6 @@
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [micheleg/dash-to-dock](https://github.com/micheleg/dash-to-dock) - A dock for the Gnome Shell. This extension   moves the dash out of the overview transforming it in a dock for an easier   launching of applications and a faster switching between windows and desktops.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [rpardini/adoptium-deb-installer](https://github.com/rpardini/adoptium-deb-installer) - Creates Ubuntu/Debian installer packages for Eclipse Adoptium using their API. Important: these are NOT official packages. JDK 8, 11, 17 and 18, all multiarch.
 - [tengbao/vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
 - [Wallux-0/Wallux](https://github.com/Wallux-0/Wallux) - A collection of cool wallpapers
 - [binary-person/womginx](https://github.com/binary-person/womginx) - Proxy using wombat + nginx
@@ -2759,6 +2758,7 @@
 - [ryanfortner/box64-debs](https://github.com/ryanfortner/box64-debs) - box64 debian/apt repository
 - [geerlingguy/my-backup-plan](https://github.com/geerlingguy/my-backup-plan) - How I back up all my data.
 - [azlux/dpkg-deb](https://github.com/azlux/dpkg-deb) - 📦 Debian/Ubuntu package scripts for my repository
+- [rpardini/adoptium-deb-installer](https://github.com/rpardini/adoptium-deb-installer) - Creates Ubuntu/Debian installer packages for Eclipse Adoptium using their API. Important: these are NOT official packages. JDK 8, 11, 17 and 18, all multiarch.
 - [tolstoyevsky/pieman](https://github.com/tolstoyevsky/pieman) - A script for creating custom OS images for single-board computers
 - [open-sorcerer64/Droid-Cam-RPi](https://github.com/open-sorcerer64/Droid-Cam-RPi) - Droidcam install for Pi-Apps
 - [rpardini/armbian-release](https://github.com/rpardini/armbian-release) - to package and release armbian-build
