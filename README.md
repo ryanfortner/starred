@@ -1330,7 +1330,7 @@
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [virae/we-stand-with-ukraine](https://github.com/virae/we-stand-with-ukraine) - Ukraine flag badge for your website
 - [mrcrypster/notide](https://github.com/mrcrypster/notide) - Edit local code from desktop/server online with syntax highlighting and files explorer
-- [titaniumnetwork-dev/Ultraviolet-Old](https://github.com/titaniumnetwork-dev/Ultraviolet-Old) - [OLD] Highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more!
+- [titaniumnetwork-dev/UV-OLD](https://github.com/titaniumnetwork-dev/UV-OLD) - [MOVED] The old repo for Ultraviolet, a sophisticated proxy used for evading internet censorship.
 - [titaniumnetwork-dev/Ultraviolet-Node-Archive](https://github.com/titaniumnetwork-dev/Ultraviolet-Node-Archive) - Highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more! Easy deployment version (Node.js)
 - [denysdovhan/bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
 - [denysdovhan/learnyoubash](https://github.com/denysdovhan/learnyoubash) - Learn you how to write your first bash script
