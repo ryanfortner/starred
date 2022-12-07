@@ -471,7 +471,7 @@
 - [ProjectCeleste/Celeste.Launcher](https://github.com/ProjectCeleste/Celeste.Launcher) - 
 - [jealouscloud/linerider-advanced](https://github.com/jealouscloud/linerider-advanced) - An open source spiritual successor to the flash game Line Rider 6.2
 - [Tran-Foxxo/LRTran](https://github.com/Tran-Foxxo/LRTran) - A fork of an open source spiritual successor to the flash game Line Rider 6.2
-- [maximmax42/Discord-CustomRP](https://github.com/maximmax42/Discord-CustomRP) - Simple custom Rich Presence manager (Playing status) for Discord. Windows only. Features run on startup and minimizing to tray. Translated to multiple languages.
+- [maximmax42/Discord-CustomRP](https://github.com/maximmax42/Discord-CustomRP) - Simple custom Rich Presence manager (Playing status) for Discord. Windows 8+ only. Features run on startup and minimizing to tray. Translated to multiple languages.
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
 - [OpenHogwarts/hogwarts](https://github.com/OpenHogwarts/hogwarts) - Hogwarts (Harry Potter) open sandbox game made in Unity
@@ -792,7 +792,7 @@
 - [EliverLara/Sweet](https://github.com/EliverLara/Sweet) - Light and dark colorful Gtk3.20+ theme
 - [horst3180/arc-theme](https://github.com/horst3180/arc-theme) - A flat theme with transparent elements
 - [dracula/gtk](https://github.com/dracula/gtk) - 🧛🏻‍♂️ Dark theme for GTK
-- [Screenly/screenly-ose](https://github.com/Screenly/screenly-ose) - The most popular digital signage project on GitHub!
+- [Screenly/Anthias](https://github.com/Screenly/Anthias) - The world's most popular open source digital signage project.
 - [Botspot/Windows-10](https://github.com/Botspot/Windows-10) - 
 - [AllToMP3/alltomp3-app](https://github.com/AllToMP3/alltomp3-app) - Download and Convert YouTube, SoundCloud & Spotify in MP3 with full tags (title, artist, genre, cover, lyrics 🔥)
 - [t0xic0der/sysmon](https://github.com/t0xic0der/sysmon) - An intuitive remotely-accessible system performance monitoring and task management tool for servers and headless Raspberry Pi setups.
@@ -939,6 +939,7 @@
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated service health dashboard
 - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [yippiez/go-miner](https://github.com/yippiez/go-miner) - a miner made in golang.
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
 - [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - An open source, general-purpose policy engine.
 - [rsc/web](https://github.com/rsc/web) - basic web site serving framework
@@ -1120,6 +1121,7 @@
 
 ## Haskell 
 
+- [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
 - [tfausak/github-release](https://github.com/tfausak/github-release) - :octocat: Upload files to GitHub releases.
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
@@ -2515,7 +2517,7 @@
 - [marcusfrdk/linux-magic-mouse](https://github.com/marcusfrdk/linux-magic-mouse) - Ubuntu 18.04/20.04/22.04 support for the Magic Mouse 1 and 2 scroll and scroll acceleration.
 - [fractalnetworksco/selfhosted-gateway](https://github.com/fractalnetworksco/selfhosted-gateway) - A self-hosted alternative to proprietary connectivity solutions.
 - [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
-- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-15.7.1 (semi-)tethered checkm8 "jailbreak"
+- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-15.7.1 (semi-)tethered checkm8 jailbreak
 - [anbuchelva/Pi-hole-and-Wireguard-on-Oracle-Cloud-always-free-tier](https://github.com/anbuchelva/Pi-hole-and-Wireguard-on-Oracle-Cloud-always-free-tier) - Block advertisements and trackers using pi-hole in Oracle Always Free tier
 - [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi) - 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, Docker, curl installer...
 - [thias/glim](https://github.com/thias/glim) - GRUB Live ISO Multiboot
@@ -3066,7 +3068,6 @@
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more
 - [timche/gmail-desktop](https://github.com/timche/gmail-desktop) - :postbox: Nifty Gmail desktop app for macOS, Linux & Windows
 - [teuteuf/worldle](https://github.com/teuteuf/worldle) - 
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [arduino/arduino-ide](https://github.com/arduino/arduino-ide) - Arduino IDE 2.x
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
 - [oznu/node-pty-prebuilt-multiarch](https://github.com/oznu/node-pty-prebuilt-multiarch) - A parallel fork of node-pty providing ia32, amd64, arm, and aarch64 prebuilt packages for macOS, Windows and Linux (glibc and musl libc).
