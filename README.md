@@ -117,6 +117,7 @@
 
 ## C 
 
+- [magkopian/keepassxc-debian](https://github.com/magkopian/keepassxc-debian) - Debian source package for the KeePassXC password manager.
 - [libimobiledevice/idevicerestore](https://github.com/libimobiledevice/idevicerestore) - Restore/upgrade firmware of iOS devices
 - [akemin-dayo/AppSync](https://github.com/akemin-dayo/AppSync) - Unified AppSync dynamic library for iOS 5 and above.
 - [kjaz89/cherryflowerJB](https://github.com/kjaz89/cherryflowerJB) - 
@@ -160,7 +161,7 @@
 - [mt8163-dev/android_kernel_amazon_mt8163](https://github.com/mt8163-dev/android_kernel_amazon_mt8163) - 
 - [opa334/sandbox_extension_generator](https://github.com/opa334/sandbox_extension_generator) - iOS 15.0 - 15.3.1 sandbox escape technique using kernel read/write primitives
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
-- [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer designed for reading research papers and technical books.
+- [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
 - [pwmt/zathura](https://github.com/pwmt/zathura) - a document viewer
 - [coolstar/RecordMyScreen](https://github.com/coolstar/RecordMyScreen) - Record the display even on non-jailbroken iPhones.
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
@@ -759,7 +760,6 @@
 - [zayronxio/windows11-GTKtheme](https://github.com/zayronxio/windows11-GTKtheme) - windows11-GTKtheme
 - [KatsuteDev/GitHub-Red-Issues](https://github.com/KatsuteDev/GitHub-Red-Issues) - Revert closed GitHub issues from purple back to red.
 - [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard
-- [catppuccin/gtk](https://github.com/catppuccin/gtk) - 🪟 Soothing pastel theme for GTK3
 - [tusharnankani/ToDoList](https://github.com/tusharnankani/ToDoList) - A dynamic and aesthetic To-Do List Website built with HTML, CSS, Vanilla JavaScript.
 - [andreasgrafen/cascade](https://github.com/andreasgrafen/cascade) - A responsive One-Line CSS Theme for Firefox.
 - [ayushhroyy/elegantfox](https://github.com/ayushhroyy/elegantfox) - firefox themed context and bookmark menus
@@ -1268,7 +1268,7 @@
 - [FreeTubeApp/freetube-redirect](https://github.com/FreeTubeApp/freetube-redirect) - Browser extension to open YouTube links into FreeTube
 - [khlam/discord-sandboxed](https://github.com/khlam/discord-sandboxed) - Alternative electron-based Discord client with custom telemetry blocker and privacy-focused push-to-talk.
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
-- [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp client(linux, mac, win)
+- [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/telnet/serialport/sftp client(linux, mac, win)
 - [Wexagonal/Wexagonal](https://github.com/Wexagonal/Wexagonal) - A Lightweight \ Multi Platform \ Out of The Box hexo backend Manager | 轻量级\多平台\开箱即用的hexo后端管理器
 - [zhaojh329/oui](https://github.com/zhaojh329/oui) - 🐛  A framework used to develop Web interface for OpenWrt. Use Nginx + Vue3 + Lua.
 - [shaack/cookie-consent-js](https://github.com/shaack/cookie-consent-js) - A simple dialog and framework to handle the German and EU law about cookies in a website (December 2021)
@@ -1609,6 +1609,7 @@
 
 ## Objective-C 
 
+- [a2/TrollDropKit](https://github.com/a2/TrollDropKit) - :trollface: Send trollfaces via AirDrop to nearby devices.
 - [dora2-iOS/ayakurume](https://github.com/dora2-iOS/ayakurume) - for checkm8 devices
 - [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
 - [shiftcmdk/PermaFlex](https://github.com/shiftcmdk/PermaFlex) - Permanently hide elements with FLEXible on iOS.
@@ -1632,6 +1633,8 @@
 
 ## Others 
 
+- [zhuxinlang/xinaA12](https://github.com/zhuxinlang/xinaA12) - 
+- [jacksight/xina520_official_jailbreak](https://github.com/jacksight/xina520_official_jailbreak) - This is the official download website for xina520's jailbreak (temporary)
 - [github/mona-sans](https://github.com/github/mona-sans) - Mona Sans, a variable font from GitHub
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [nikp123/ntfs-rootfs](https://github.com/nikp123/ntfs-rootfs) - A guide on how to use NTFS as the root filesystem on Linux or possibly any other UNIX OS.
@@ -1962,6 +1965,7 @@
 
 ## Python 
 
+- [Vanilla-OS/vanilla-installer](https://github.com/Vanilla-OS/vanilla-installer) - A frontend in GTK 4 and Libadwaita for distinst.
 - [modoboa/modoboa-webmail](https://github.com/modoboa/modoboa-webmail) - The webmail of Modoboa
 - [modoboa/modoboa](https://github.com/modoboa/modoboa) - Mail hosting made simple
 - [mrmoein/warp-cloudflare-gui](https://github.com/mrmoein/warp-cloudflare-gui) - a GUI app base on warp-cli for linux
@@ -2160,6 +2164,7 @@
 - [splitbrain/pimenu](https://github.com/splitbrain/pimenu) - Simple fullscreen menu system for Raspberry Pi Touchscreen
 - [lovesegfault/beautysh](https://github.com/lovesegfault/beautysh) - A Bash beautifier for the masses.
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
+- [catppuccin/gtk](https://github.com/catppuccin/gtk) - 🪟 Soothing pastel theme for GTK3
 - [LiterallyLarry/USPS-Tracking-Python](https://github.com/LiterallyLarry/USPS-Tracking-Python) - Command line utility to track your packages using the USPS Track Request API.
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [RedHeadphone/sudoku-solver](https://github.com/RedHeadphone/sudoku-solver) - Solves a sudoku using back tracking algorithm
@@ -2963,6 +2968,8 @@
 
 ## Swift 
 
+- [XMB5/trolldrop](https://github.com/XMB5/trolldrop) - AirDrop flooder
+- [sourcelocation/AirTroller](https://github.com/sourcelocation/AirTroller) - AirDrop spammer / flooder to troll friends
 - [sourcelocation/TrollTools](https://github.com/sourcelocation/TrollTools) - TrollTools - Revolutionizing iOS 15 customisation
 - [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) - Native Jellyfin Client for iOS and tvOS
 - [dgraham/Ka-Block](https://github.com/dgraham/Ka-Block) - A Safari extension that blocks an artisanal selection of advertising domains.
