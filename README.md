@@ -117,6 +117,7 @@
 
 ## C 
 
+- [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
 - [magkopian/keepassxc-debian](https://github.com/magkopian/keepassxc-debian) - Debian source package for the KeePassXC password manager.
 - [libimobiledevice/idevicerestore](https://github.com/libimobiledevice/idevicerestore) - Restore/upgrade firmware of iOS devices
 - [akemin-dayo/AppSync](https://github.com/akemin-dayo/AppSync) - Unified AppSync dynamic library for iOS 5 and above.
@@ -894,7 +895,7 @@
 - [reujab/wallpaper](https://github.com/reujab/wallpaper) - A cross-platform Golang library for getting and setting desktop wallpapers
 - [packwiz/packwiz](https://github.com/packwiz/packwiz) - A command line tool for editing and distributing Minecraft modpacks, using a git-friendly TOML format. Supports CurseForge and Modrinth mods with automated updates!
 - [alexballas/go2tv](https://github.com/alexballas/go2tv) - Cast media files to UPnP/DLNA Media Renderers and Smart TVs.
-- [thatvegandev/gh-eco](https://github.com/thatvegandev/gh-eco) - 🦎 gh cli extension to explore the ecosystem
+- [jrnxf/gh-eco](https://github.com/jrnxf/gh-eco) - 🦎 gh cli extension to explore the ecosystem
 - [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a feature-packed proxy & relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)
 - [CleanMachine1/Clone-repo-tool](https://github.com/CleanMachine1/Clone-repo-tool) - A short Go script to help clone lots of Git repositories at once
 - [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
