@@ -1196,6 +1196,7 @@
 
 ## JavaScript 
 
+- [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
 - [SpecifiesDev/snapchat-electron](https://github.com/SpecifiesDev/snapchat-electron) - A desktop application for snapchat's web portal.
 - [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - The best free email forwarding for custom domains (Web Server)
 - [dbader/large-type.com](https://github.com/dbader/large-type.com) - Display & share text in a large font, directly from your browser
@@ -1634,6 +1635,7 @@
 
 ## Others 
 
+- [sjhgvr/oisd](https://github.com/sjhgvr/oisd) - oisd - domain blocklist
 - [zhuxinlang/xinaA12](https://github.com/zhuxinlang/xinaA12) - 
 - [jacksight/xina520_official_jailbreak](https://github.com/jacksight/xina520_official_jailbreak) - This is the official download website for xina520's jailbreak (temporary)
 - [github/mona-sans](https://github.com/github/mona-sans) - Mona Sans, a variable font from GitHub
@@ -2534,7 +2536,7 @@
 - [joshuah345/deverser](https://github.com/joshuah345/deverser) - Simple script to dump onboard SHSH with a valid Generator for iOS devices (now with linux support!)
 - [theofficialgman/piston-meta-arm64](https://github.com/theofficialgman/piston-meta-arm64) - replacement Minecraft Java Manifest for ARM64 Linux
 - [teddysun/across](https://github.com/teddysun/across) - Across the Great Wall we can reach every corner in the world
-- [hykilpikonna/hyfetch](https://github.com/hykilpikonna/hyfetch) - 🖼️ 🏳️‍⚧️  Neofetch with LGBTQ pride flags!
+- [hykilpikonna/hyfetch](https://github.com/hykilpikonna/hyfetch) - 🏳️‍🌈 🏳️‍⚧️ Neofetch with LGBTQ+ pride flags!
 - [snapcrafters/obs-studio](https://github.com/snapcrafters/obs-studio) - This is a community-supported modified build of OBS Studio.
 - [wimpysworld/obs-fully-loaded](https://github.com/wimpysworld/obs-fully-loaded) - OBS Studio, fully-loaded, for Ubuntu
 - [pivpn/pivpn](https://github.com/pivpn/pivpn) - The Simplest VPN installer, designed for Raspberry Pi
