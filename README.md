@@ -1196,6 +1196,7 @@
 
 ## JavaScript 
 
+- [imreyesjorge/root-startpage](https://github.com/imreyesjorge/root-startpage) - A simple and clean startpage 🌟
 - [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
 - [SpecifiesDev/snapchat-electron](https://github.com/SpecifiesDev/snapchat-electron) - A desktop application for snapchat's web portal.
 - [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - The best free email forwarding for custom domains (Web Server)
@@ -1204,7 +1205,7 @@
 - [powercord-org/powercord](https://github.com/powercord-org/powercord) - A lightweight @discord client mod focused on simplicity and performance.
 - [xfanatical/linux-client-for-icloud-notes](https://github.com/xfanatical/linux-client-for-icloud-notes) - A Linux client for your iCloud Notes service
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
-- [koraycoding/paper-wallet](https://github.com/koraycoding/paper-wallet) - Lightweight, open-source, universal paper wallet generator
+- [expatjedi/paper-wallet](https://github.com/expatjedi/paper-wallet) - Lightweight, open-source, universal paper wallet generator
 - [mymonero/mymonero-web-js](https://github.com/mymonero/mymonero-web-js) - The JS codebase for the MyMonero web wallet app
 - [mymonero/mymonero-mobile](https://github.com/mymonero/mymonero-mobile) - MyMonero Android and iOS app codebase
 - [MinhasKamal/DownGit](https://github.com/MinhasKamal/DownGit) - Create GitHub Resource Download Link
@@ -2518,6 +2519,7 @@
 
 ## Shell 
 
+- [palera1n/ramdisk](https://github.com/palera1n/ramdisk) - SSHRD_Script adapted for palera1n
 - [butterfly-garden/ubuntu-butterfly-settings](https://github.com/butterfly-garden/ubuntu-butterfly-settings) - Ubuntu Butterfly default settings 🎛
 - [DesktopContainers/base-debian](https://github.com/DesktopContainers/base-debian) - base image for Desktop / X11 Applications (ssh X11, vnc, http/https novnc) on debian [x86 + arm]
 - [mrbvrz/segoe-ui-linux](https://github.com/mrbvrz/segoe-ui-linux) - :monkey: Install segoe-ui font on linux (ubuntu)
@@ -2525,7 +2527,7 @@
 - [marcusfrdk/linux-magic-mouse](https://github.com/marcusfrdk/linux-magic-mouse) - Ubuntu 18.04/20.04/22.04 support for the Magic Mouse 1 and 2 scroll and scroll acceleration.
 - [fractalnetworksco/selfhosted-gateway](https://github.com/fractalnetworksco/selfhosted-gateway) - A self-hosted alternative to proprietary connectivity solutions.
 - [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
-- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-15.7.1 (semi-)tethered checkm8 jailbreak
+- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-16.2 (semi-)tethered checkm8 jailbreak
 - [anbuchelva/Pi-hole-and-Wireguard-on-Oracle-Cloud-always-free-tier](https://github.com/anbuchelva/Pi-hole-and-Wireguard-on-Oracle-Cloud-always-free-tier) - Block advertisements and trackers using pi-hole in Oracle Always Free tier
 - [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi) - 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, Docker, curl installer...
 - [thias/glim](https://github.com/thias/glim) - GRUB Live ISO Multiboot
