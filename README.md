@@ -2053,7 +2053,7 @@
 - [fedora-infra/fedora-messaging](https://github.com/fedora-infra/fedora-messaging) - A library for sending AMQP messages with JSON schema in Fedora infrastructure
 - [codespell-project/codespell](https://github.com/codespell-project/codespell) - check code for common misspellings
 - [mandarons/icloudpy](https://github.com/mandarons/icloudpy) - iCloud web service interface library in Python
-- [mandarons/icloud-drive-docker](https://github.com/mandarons/icloud-drive-docker) - Dockerized iCloud (drive and photos)
+- [mandarons/icloud-drive-docker](https://github.com/mandarons/icloud-drive-docker) - Dockerized iCloud Client - make a local copy of your iCloud documents and photos, and keep it up to date.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [UN-GCPDS/qt-material](https://github.com/UN-GCPDS/qt-material) - Material inspired stylesheet for PySide2, PySide6, PyQt5 and PyQt6
 - [CrealityOfficial/OctoPrint-CrealityCloud-With-Video](https://github.com/CrealityOfficial/OctoPrint-CrealityCloud-With-Video) - A plugin to connect the CrealityCloud and OctoPrint with camera
