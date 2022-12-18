@@ -827,6 +827,7 @@
 
 ## Dart 
 
+- [TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) - Script that organizes the Google Takeout archive into one big chronological folder
 - [flutter/pinball](https://github.com/flutter/pinball) - Google I/O 2022 Pinball game built with Flutter and Firebase
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) - A Flutter frontend for quickget and quickemu.
 - [proninyaroslav/libretrack](https://github.com/proninyaroslav/libretrack) - Private, cross-platform package tracking app
@@ -1969,6 +1970,7 @@
 
 ## Python 
 
+- [parrotgeek1/Pluvia](https://github.com/parrotgeek1/Pluvia) - Untethered downgrade your GSM iPhone 4 without SHSH blobs. Only for Mac. No longer supported.
 - [openai/gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [Vanilla-OS/vanilla-installer](https://github.com/Vanilla-OS/vanilla-installer) - A frontend in GTK 4 and Libadwaita for distinst.
 - [modoboa/modoboa-webmail](https://github.com/modoboa/modoboa-webmail) - The webmail of Modoboa
@@ -1980,7 +1982,6 @@
 - [thonny/thonny](https://github.com/thonny/thonny) - Python IDE for beginners
 - [Macleykun/pixel-server](https://github.com/Macleykun/pixel-server) - Network control of pixelstrips (NeoPixels) using a simple web server IoT interface.
 - [benbarth/hacktoberfest-swag](https://github.com/benbarth/hacktoberfest-swag) - Looking for hacktoberfest swag? You've come to the right place.
-- [TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) - Script that organizes the Google Takeout archive into one big chronological folder
 - [rdbende/Brainfuck-IDE](https://github.com/rdbende/Brainfuck-IDE) - A Brainfuck editor written in Tkinter
 - [munki/macadmin-scripts](https://github.com/munki/macadmin-scripts) - Scripts of possible interest to macOS admins
 - [hanzala123/arch2appimage](https://github.com/hanzala123/arch2appimage) - This is a python script that downloads Arch Linux packages (Official/Chaotic AUR) and converts to an AppImage executable
@@ -2771,7 +2772,7 @@
 - [ryanfortner/box64-debs](https://github.com/ryanfortner/box64-debs) - box64 debian/apt repository
 - [geerlingguy/my-backup-plan](https://github.com/geerlingguy/my-backup-plan) - How I back up all my data.
 - [azlux/dpkg-deb](https://github.com/azlux/dpkg-deb) - 📦 Debian/Ubuntu package scripts for my repository
-- [rpardini/adoptium-deb-installer](https://github.com/rpardini/adoptium-deb-installer) - Creates Ubuntu/Debian installer packages for Eclipse Adoptium using their API. Important: these are NOT official packages. JDK 8, 11, 17 and 18, all multiarch.
+- [rpardini/adoptium-deb-installer](https://github.com/rpardini/adoptium-deb-installer) - Creates Ubuntu/Debian installer packages for Eclipse Adoptium using their API. Important: these are NOT official packages. JDK 8, 11, 17, 18 and 19, all multiarch, in both JRE and JDK flavors.
 - [tolstoyevsky/pieman](https://github.com/tolstoyevsky/pieman) - A script for creating custom OS images for single-board computers
 - [open-sorcerer64/Droid-Cam-RPi](https://github.com/open-sorcerer64/Droid-Cam-RPi) - Droidcam install for Pi-Apps
 - [rpardini/armbian-release](https://github.com/rpardini/armbian-release) - to package and release armbian-build
