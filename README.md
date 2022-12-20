@@ -973,7 +973,7 @@
 - [natesales/aarch64-client-go](https://github.com/natesales/aarch64-client-go) - Go API client for aarch64.com
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
-- [splash-cli/splash-cli](https://github.com/splash-cli/splash-cli) - A simple, command line tool to download Unsplash wallpapers. It’s not intended to be anything particularly fancy — it just works.
+- [splash-cli/splash-cli](https://github.com/splash-cli/splash-cli) - A simple, CLI to download Unsplash wallpapers. Nothing fancy — it just works.
 - [portapps/brave-portable](https://github.com/portapps/brave-portable) - 🚀 Brave web browser portable for Windows
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [moul/sshportal](https://github.com/moul/sshportal) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
@@ -1642,6 +1642,7 @@
 
 ## Others 
 
+- [catdogmat/tweak-up](https://github.com/catdogmat/tweak-up) - A list of IOS Jailbreak Tweaks that will help you get the latest features on older IOS versions.
 - [fifonik/FFMetrics](https://github.com/fifonik/FFMetrics) - Visualizes Video Quality Metrics (PSNR, SSIM & VMAF) calculated by ffmpeg.exe
 - [sjhgvr/oisd](https://github.com/sjhgvr/oisd) - oisd - domain blocklist
 - [zhuxinlang/xinaA12](https://github.com/zhuxinlang/xinaA12) - 
