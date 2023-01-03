@@ -3234,7 +3234,7 @@
 ## Vue 
 
 - [fluidd-core/fluidd](https://github.com/fluidd-core/fluidd) - Fluidd, the klipper UI.
-- [ViewTube/viewtube-vue](https://github.com/ViewTube/viewtube-vue) - ▶️ ViewTube is an alternative YouTube frontend.
+- [ViewTube/viewtube](https://github.com/ViewTube/viewtube) - ▶️ ViewTube is an alternative YouTube frontend.
 - [Electron-Store/electron-app-store](https://github.com/Electron-Store/electron-app-store) - A Cross-Platform App Store for Electron.js Apps
 - [zzetao/awesome-github-profile](https://github.com/zzetao/awesome-github-profile) - 🌐  A website of awesome Github Profile READMEs
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
