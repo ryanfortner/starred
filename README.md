@@ -908,7 +908,7 @@
 - [go-debos/debos](https://github.com/go-debos/debos) - Debian OS builder
 - [benjojo/mcod](https://github.com/benjojo/mcod) - Minecraft servers that only run when people are playing on them
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
-- [sealerio/sealer](https://github.com/sealerio/sealer) - Define and deliver your kube-cluster in a standard and easy way (Project under CNCF)
+- [sealerio/sealer](https://github.com/sealerio/sealer) - Build, Share and Run Both Your Kubernetes Cluster and Distributed Applications  (Project under CNCF)
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [DagAgren/toot-relay](https://github.com/DagAgren/toot-relay) - Relay that forwards web push notifications to APNs, built for Toot!.app but usable for anyone.
 - [r7wx/easy-gate](https://github.com/r7wx/easy-gate) - A gate to your self hosted infrastructure
@@ -1936,7 +1936,7 @@
 - [henrywhitaker3/Speedtest-Tracker](https://github.com/henrywhitaker3/Speedtest-Tracker) - Continuously track your internet speed
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [aonez/Keka](https://github.com/aonez/Keka) - The macOS file archiver
-- [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 Y̲our O̲wn U̲R̲L̲ S̲hortener - the 𝑑𝑒 𝑓𝑎𝑐𝑡𝑜 standard self hosted URL shortener in PHP
+- [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The de facto standard self hosted URL shortener in PHP
 - [WaLLy3K/Pi-hole-Block-Page](https://github.com/WaLLy3K/Pi-hole-Block-Page) - A "Website Blocked" page to go with https://pi-hole.net
 - [prasathmani/tinyfilemanager](https://github.com/prasathmani/tinyfilemanager) - Single-file PHP file manager, browser and manage your files efficiently and easily with tinyfilemanager
 - [RaspAP/raspap-webgui](https://github.com/RaspAP/raspap-webgui) - Simple wireless AP setup & management for Debian-based devices
@@ -2268,7 +2268,7 @@
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-512-Stars](https://github.com/iBug/This-Repo-Has-512-Stars) - Yes, it's true :heartbeat: This repository has 512 stars.
+- [iBug/This-Repo-Has-512-Stars](https://github.com/iBug/This-Repo-Has-512-Stars) - Yes, it's true :yellow_heart: This repository has 512 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -2988,6 +2988,7 @@
 
 ## Swift 
 
+- [sourcelocation/Evyrest](https://github.com/sourcelocation/Evyrest) - Automatic wallpaper changer
 - [rileytestut/Clip](https://github.com/rileytestut/Clip) - Clip is a clipboard manager for iOS that can monitor your clipboard indefinitely in the background — no jailbreak required.
 - [uetchy/Polyglot](https://github.com/uetchy/Polyglot) - 🌏 The missing Safari extension that translates selected text into your native language.
 - [XMB5/trolldrop](https://github.com/XMB5/trolldrop) - AirDrop flooder
