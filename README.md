@@ -9,6 +9,7 @@
 - [Adblock Filter List](#adblock-filter-list)
 - [AppleScript](#applescript)
 - [Assembly](#assembly)
+- [Astro](#astro)
 - [AutoIt](#autoit)
 - [Awk](#awk)
 - [Batchfile](#batchfile)
@@ -101,6 +102,10 @@
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [0xJonas/TIQuest](https://github.com/0xJonas/TIQuest) - Game for the TI-83 plus/TI-84 plus calculators
 - [calc84maniac/tiboyce](https://github.com/calc84maniac/tiboyce) - A Game Boy emulator for the TI-84 Plus CE and TI-83 Premium CE.
+
+## Astro 
+
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## AutoIt 
 
@@ -487,7 +492,7 @@
 - [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor, home of the fork of Open Hardware Monitor
 - [leezer3/OpenBVE](https://github.com/leezer3/OpenBVE) - OpenBVE- A free train simulator
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
-- [files-community/Files](https://github.com/files-community/Files) - Building the best File Manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 - [WOA-Project/WOA-Deployer](https://github.com/WOA-Project/WOA-Deployer) - WOA Deployer
 
 ## C++ 
@@ -544,7 +549,6 @@
 - [mcmilk/7-Zip](https://github.com/mcmilk/7-Zip) - 7-Zip source code repository
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [rexim/aids](https://github.com/rexim/aids) - std replacement for C++
-- [linuxdeepin/deepin-music](https://github.com/linuxdeepin/deepin-music) - Music player for deepin desktop environment.
 - [webcamoid/webcamoid](https://github.com/webcamoid/webcamoid) - Webcamoid is a full featured and multiplatform webcam suite.
 - [merryhime/dynarmic](https://github.com/merryhime/dynarmic) - An ARM dynamic recompiler.
 - [CrealityOfficial/Ender-3V2](https://github.com/CrealityOfficial/Ender-3V2) - 
@@ -2268,7 +2272,7 @@
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-512-Stars](https://github.com/iBug/This-Repo-Has-512-Stars) - Yes, it's true :yellow_heart: This repository has 512 stars.
+- [iBug/This-Repo-Has-512-Stars](https://github.com/iBug/This-Repo-Has-512-Stars) - Yes, it's true :purple_heart: This repository has 512 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -2384,6 +2388,7 @@
 - [varlesh/plasma-deck](https://github.com/varlesh/plasma-deck) - Steam Deck UI on Plasma
 - [PapirusDevelopmentTeam/materia-kde](https://github.com/PapirusDevelopmentTeam/materia-kde) - Materia KDE customization
 - [vinceliuice/WhiteSur-kde](https://github.com/vinceliuice/WhiteSur-kde) - MacOS big sur theme for kde plasma
+- [linuxdeepin/deepin-music](https://github.com/linuxdeepin/deepin-music) - Music player for deepin desktop environment.
 - [adhec/dittoMenuKDE](https://github.com/adhec/dittoMenuKDE) - Menu launcher for plasma KDE
 - [nymea/nymea-app](https://github.com/nymea/nymea-app) - A nymea frontend app
 - [PapirusDevelopmentTeam/arc-kde](https://github.com/PapirusDevelopmentTeam/arc-kde) - Arc KDE customization
@@ -2714,7 +2719,7 @@
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
 - [shyiko/commacd](https://github.com/shyiko/commacd) - A faster way to move around (Bash 3+/Zsh)
 - [yeyushengfan258/We10X-icon-theme](https://github.com/yeyushengfan258/We10X-icon-theme) - A colorful design icon theme for linux desktops
-- [IceWhaleTech/CasaOS-AppStore](https://github.com/IceWhaleTech/CasaOS-AppStore) - 
+- [IceWhaleTech/CasaOS-AppStore](https://github.com/IceWhaleTech/CasaOS-AppStore) - Manifest files for CasaOS Apps
 - [sickcodes/anbox-halium](https://github.com/sickcodes/anbox-halium) - 
 - [vinceliuice/McMojave-circle](https://github.com/vinceliuice/McMojave-circle) - McMojave-circle icon theme for linux desktops
 - [layquack/Twister-UI](https://github.com/layquack/Twister-UI) - Twister UI for Debian / Ubuntu aarch64
@@ -3172,7 +3177,6 @@
 - [HaveIBeenPwned/PwnedPasswordsCloudflareWorker](https://github.com/HaveIBeenPwned/PwnedPasswordsCloudflareWorker) - 
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [Figma-Linux/figma-linux](https://github.com/Figma-Linux/figma-linux) - Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us in https://t.me/figma_linux and https://spectrum.chat/figma-linux
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [SpacingBat3/electron-forge-maker-appimage](https://github.com/SpacingBat3/electron-forge-maker-appimage) - 
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
@@ -3230,6 +3234,7 @@
 
 ## Visual Basic .NET 
 
+- [DsSoft-Byte/iCu](https://github.com/DsSoft-Byte/iCu) - The ultimate iCloud tool
 - [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI) - Transparently compress active games and programs using Windows 10/11 APIs
 
 ## Vue 
