@@ -635,7 +635,6 @@
 - [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2) - PCSX2 - The Playstation 2 Emulator
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [linuxdeepin/dde-control-center](https://github.com/linuxdeepin/dde-control-center) - Control panel of Deepin Desktop Environment.
-- [zerotier/libzt](https://github.com/zerotier/libzt) - Encrypted P2P sockets over ZeroTier
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
 - [MinecraftMachina/ManyMC](https://github.com/MinecraftMachina/ManyMC) - 📦 A familiar Minecraft Launcher with native support for macOS arm64 (M1)
 - [l3ib/nitrogen](https://github.com/l3ib/nitrogen) - Background browser and setter for X windows.
@@ -2016,7 +2015,6 @@
 - [geerlingguy/pico-w-garage-door-sensor](https://github.com/geerlingguy/pico-w-garage-door-sensor) - Wireless garage door sensor for Home Assistant powered by Raspberry Pi Pico W
 - [jbuchermn/newm](https://github.com/jbuchermn/newm) - Wayland compositor
 - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
-- [walkxhub/dashboard-icons](https://github.com/walkxhub/dashboard-icons) - 🚚 Dashboard Icons has moved to another home!
 - [hugsy/cemu](https://github.com/hugsy/cemu) - Cheap EMUlator: lightweight multi-architecture assembly playground
 - [pyston/pyston](https://github.com/pyston/pyston) - A faster and highly-compatible implementation of the Python programming language.
 - [ryanfortner/FireHD8-2017](https://github.com/ryanfortner/FireHD8-2017) - How I converted my Amazon bloatware to an Android tablet
@@ -2154,7 +2152,7 @@
 - [FormerLurker/Octolapse](https://github.com/FormerLurker/Octolapse) - Stabilized timelapses for Octoprint
 - [TheBananaStore/TheBananaClient](https://github.com/TheBananaStore/TheBananaClient) - [WIP]🍌🐧 Client for the Banana Store
 - [nat/ghtop](https://github.com/nat/ghtop) - See what's happening on GitHub in real time (also helpful if you need to use up your API quota as quickly as possible)
-- [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Launched in 2018. It's 2022 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with 
+- [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Launched in 2018. It's 2023 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with 
 - [jlu5/icoextract](https://github.com/jlu5/icoextract) - Extract icons from Windows PE files (.exe/.dll)
 - [PlayOnLinux/POL-POM-4](https://github.com/PlayOnLinux/POL-POM-4) - PlayOnLinux 4 repository
 - [natorsc/gui-python-pygobject-gtk4](https://github.com/natorsc/gui-python-pygobject-gtk4) - Repositório criado para documentar e centralizar conteúdos, dicas, tutoriais e exemplos de código sobre a construção de interfaces com a linguagem de programação Python (PyGObject) e o toolkit gráfico
