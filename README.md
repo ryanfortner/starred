@@ -123,6 +123,7 @@
 
 ## C 
 
+- [dora2-iOS/kok3shi16-rootless](https://github.com/dora2-iOS/kok3shi16-rootless) - 
 - [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
 - [magkopian/keepassxc-debian](https://github.com/magkopian/keepassxc-debian) - Debian source package for the KeePassXC password manager.
 - [libimobiledevice/idevicerestore](https://github.com/libimobiledevice/idevicerestore) - Restore/upgrade firmware of iOS devices
@@ -319,7 +320,7 @@
 - [raspberrypi/rpi-firmware](https://github.com/raspberrypi/rpi-firmware) - Firmware files for the Raspberry Pi
 - [raspberrypi-ui/lxpanel-bullseye](https://github.com/raspberrypi-ui/lxpanel-bullseye) - 
 - [smontanaro/python-0.9.1](https://github.com/smontanaro/python-0.9.1) - Upload and changes to Python 0.9.1 release (from 1991!) so that it would compile
-- [CorsairOfficial/cue-sdk](https://github.com/CorsairOfficial/cue-sdk) - Corsair CUE SDK
+- [CorsairOfficial/cue-sdk](https://github.com/CorsairOfficial/cue-sdk) - Corsair iCUE SDK
 - [landley/toybox](https://github.com/landley/toybox) - toybox
 - [GPGTools/pinentry-mac](https://github.com/GPGTools/pinentry-mac) - pinentry for GPG on Mac
 - [bartobri/bmenu](https://github.com/bartobri/bmenu) - A general purpose terminal menu that focuses on ease of configuration and use.
@@ -1136,6 +1137,7 @@
 
 ## Java 
 
+- [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
 - [adolfintel/OpenPods](https://github.com/adolfintel/OpenPods) - The Free and Open Source app for monitoring your AirPods on Android
 - [open-keychain/open-keychain](https://github.com/open-keychain/open-keychain) - OpenKeychain is an OpenPGP implementation for Android.
 - [jzyra/DecodeAndroidGesture](https://github.com/jzyra/DecodeAndroidGesture) - This tool decode Android's pattern lock screen with gesture.key file in Android device.
@@ -2104,7 +2106,7 @@
 - [wine-compholio/wine-packaging](https://github.com/wine-compholio/wine-packaging) - Packaging files for Wine. Report bugs at https://bugs.winehq.org/.
 - [ZephyrLabs/PinetimeFlasher](https://github.com/ZephyrLabs/PinetimeFlasher) - GUI based app to help flash the pinetime with xpack-openOCD on windows,
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
-- [daniel-thompson/wasp-os](https://github.com/daniel-thompson/wasp-os) - A MicroPython based development environment for smart watches (including Pine64 PineTime)
+- [wasp-os/wasp-os](https://github.com/wasp-os/wasp-os) - A MicroPython based development environment for smart watches (including Pine64 PineTime)
 - [jleclanche/tan](https://github.com/jleclanche/tan) - The uncompromising Python code formatter
 - [NFadhlurrahman/package-manager-gui](https://github.com/NFadhlurrahman/package-manager-gui) - A tool for managing Python packages
 - [Chia-Network/clvm](https://github.com/Chia-Network/clvm) - [Contract Language|Chia Lisp] Virtual Machine
@@ -2212,7 +2214,7 @@
 - [ledesmablt/spotify-cli](https://github.com/ledesmablt/spotify-cli) - Control Spotify playback on any device through the command line.
 - [linuxmint/mint-y-icons](https://github.com/linuxmint/mint-y-icons) - The Mint-Y icon theme
 - [sparkfun/RPi_PanTilt_Camera_Kit](https://github.com/sparkfun/RPi_PanTilt_Camera_Kit) - Example code for the the SparkFun Raspberry Pi Zero Pan Tilt Camera Kit.
-- [CorsairOfficial/cue-sdk-python](https://github.com/CorsairOfficial/cue-sdk-python) - Ctypes-based CUE SDK binding for Python
+- [CorsairOfficial/cue-sdk-python](https://github.com/CorsairOfficial/cue-sdk-python) - Ctypes-based iCUE SDK binding for Python
 - [nuno-faria/tiler](https://github.com/nuno-faria/tiler) - 👷 Build images with images
 - [motioneye-project/motioneye](https://github.com/motioneye-project/motioneye) - A web frontend for the motion daemon.
 - [ksharindam/quartz-browser-qt5](https://github.com/ksharindam/quartz-browser-qt5) - Light-weight fast web Browser based of PyQt5 QtWebkit
@@ -3053,7 +3055,7 @@
 - [whatk233/ddg-email-panel](https://github.com/whatk233/ddg-email-panel) - DDG Email Panel is the open source unofficial DuckDuckGo Email Protection panel.
 - [stream-labs/desktop](https://github.com/stream-labs/desktop) - Free and open source streaming software built on OBS and Electron.
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo
-- [Unleash/unleash](https://github.com/Unleash/unleash) - Unleash is the open source feature toggle service.
+- [Unleash/unleash](https://github.com/Unleash/unleash) - Simplify your code production through the world’s largest open-source feature management platform.
 - [hieunc229/copilot-clone](https://github.com/hieunc229/copilot-clone) - VSCode extension for code suggestion
 - [app-clones/netflix-clone](https://github.com/app-clones/netflix-clone) - A Netflix clone made using React, Firebase, and Firestore
 - [cloudflare/wrangler2](https://github.com/cloudflare/wrangler2) - ⛅️ The CLI for Cloudflare Workers®
