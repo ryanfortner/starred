@@ -123,7 +123,9 @@
 
 ## C 
 
-- [dora2-iOS/kok3shi16-rootless](https://github.com/dora2-iOS/kok3shi16-rootless) - 
+- [stacksmashing/tamarin-firmware](https://github.com/stacksmashing/tamarin-firmware) - 
+- [haoerloveyou/MagicCFG-Reloaded](https://github.com/haoerloveyou/MagicCFG-Reloaded) - Same MagicCFG but updated! SysCFG R/W Utility written in Swift.
+- [dora2-iOS/bakera1n](https://github.com/dora2-iOS/bakera1n) - 
 - [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
 - [magkopian/keepassxc-debian](https://github.com/magkopian/keepassxc-debian) - Debian source package for the KeePassXC password manager.
 - [libimobiledevice/idevicerestore](https://github.com/libimobiledevice/idevicerestore) - Restore/upgrade firmware of iOS devices
@@ -498,6 +500,7 @@
 
 ## C++ 
 
+- [nezza/SDQAnalyzer](https://github.com/nezza/SDQAnalyzer) - A Saleae analyzer plugin for the SDQ (Apple Lightning, MagSafe, Battery) protocol.
 - [rikyoz/MrHash](https://github.com/rikyoz/MrHash) - A cross-platform tool for calculating the hashes of files and plain texts.
 - [leozide/leocad](https://github.com/leozide/leocad) - A CAD application for creating virtual LEGO models
 - [tihmstar/usbmuxd2](https://github.com/tihmstar/usbmuxd2) - A socket daemon written in C++ to multiplex connections from and to iOS devices over USB and WIFI
@@ -832,6 +835,7 @@
 
 ## Dart 
 
+- [sterrenburg/flutterhole](https://github.com/sterrenburg/flutterhole) - A third party Android application for the Pi-Hole® dashboard.
 - [TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) - Script that organizes the Google Takeout archive into one big chronological folder
 - [flutter/pinball](https://github.com/flutter/pinball) - Google I/O 2022 Pinball game built with Flutter and Firebase
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) - A Flutter frontend for quickget and quickemu.
@@ -1622,6 +1626,8 @@
 
 ## Objective-C 
 
+- [NyanSatan/kanzitools](https://github.com/NyanSatan/kanzitools) - Set of tools to interact with various aspects of Kanzi probe and its derivatives
+- [haiyuidesu/serialsh](https://github.com/haiyuidesu/serialsh) - safety net against bootloop
 - [adblockplus/adblockplussafariios](https://github.com/adblockplus/adblockplussafariios) - Adblock Plus Safari iOS source code
 - [a2/TrollDropKit](https://github.com/a2/TrollDropKit) - :trollface: Send trollfaces via AirDrop to nearby devices.
 - [dora2-iOS/ayakurume](https://github.com/dora2-iOS/ayakurume) - for checkm8 devices
@@ -1982,6 +1988,7 @@
 
 ## Python 
 
+- [actionschnitzel/chatgpt-python-gui](https://github.com/actionschnitzel/chatgpt-python-gui) - Super simple Chat-GPT-GUI
 - [fishbigger/TapoP100](https://github.com/fishbigger/TapoP100) - A module for controlling the TP-Link Tapo P100 Plugs
 - [Gadgetoid/Pinout.xyz](https://github.com/Gadgetoid/Pinout.xyz) - Source files for the Raspberry Pi Pinout documentation website.
 - [parrotgeek1/Pluvia](https://github.com/parrotgeek1/Pluvia) - Untethered downgrade your GSM iPhone 4 without SHSH blobs. Only for Mac. No longer supported.
@@ -2066,7 +2073,7 @@
 - [fedora-infra/fedora-messaging](https://github.com/fedora-infra/fedora-messaging) - A library for sending AMQP messages with JSON schema in Fedora infrastructure
 - [codespell-project/codespell](https://github.com/codespell-project/codespell) - check code for common misspellings
 - [mandarons/icloudpy](https://github.com/mandarons/icloudpy) - iCloud web service interface library in Python
-- [mandarons/icloud-drive-docker](https://github.com/mandarons/icloud-drive-docker) - Dockerized iCloud Client - make a local copy of your iCloud documents and photos, and keep it up to date.
+- [mandarons/icloud-drive-docker](https://github.com/mandarons/icloud-drive-docker) - Dockerized iCloud Client - make a local copy of your iCloud documents and photos, and keep it automatically up-to-date.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [UN-GCPDS/qt-material](https://github.com/UN-GCPDS/qt-material) - Material inspired stylesheet for PySide2, PySide6, PyQt5 and PyQt6
 - [CrealityOfficial/OctoPrint-CrealityCloud-With-Video](https://github.com/CrealityOfficial/OctoPrint-CrealityCloud-With-Video) - A plugin to connect the CrealityCloud and OctoPrint with camera
