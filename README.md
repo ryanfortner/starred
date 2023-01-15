@@ -892,6 +892,7 @@
 
 ## Go 
 
+- [freemyipod/wInd3x](https://github.com/freemyipod/wInd3x) - iPod Classic and Nano 3/4/5G bootrom exploit
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
@@ -1754,6 +1755,7 @@
 - [raspbian-addons/.github](https://github.com/raspbian-addons/.github) - 
 - [justjavac/github-dark-light-theme](https://github.com/justjavac/github-dark-light-theme) - GitHub markdown 显示深色模式或者浅色模式
 - [flathub/io.freetubeapp.FreeTube](https://github.com/flathub/io.freetubeapp.FreeTube) - 
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [hmsjy2017/yn-arm](https://github.com/hmsjy2017/yn-arm) - 
 - [fliptheweb/bash-shortcuts-cheat-sheet](https://github.com/fliptheweb/bash-shortcuts-cheat-sheet) - Useful shortcuts for bash/zsh
 - [Augmentedjs/balena-io-etcher-builds](https://github.com/Augmentedjs/balena-io-etcher-builds) - A place to host my community builds of Ethcher
@@ -2689,7 +2691,6 @@
 - [radxa/armbian-build](https://github.com/radxa/armbian-build) - Armbian Linux build tools
 - [pguyot/arm-runner-action](https://github.com/pguyot/arm-runner-action) - Run tests natively and build images directly from GitHub Actions using a chroot-based virtualized Raspberry Pi (raspios/raspbian) environment
 - [Homebrew/install](https://github.com/Homebrew/install) - 📥 Homebrew (un)installer
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [dolegi/lockdown.sh](https://github.com/dolegi/lockdown.sh) - Lockdown your linux install. The simple zero config linux hardening script
 - [NoozSBC/mcpi-reborn-extended](https://github.com/NoozSBC/mcpi-reborn-extended) - The enthusiast's MCPI mod.
@@ -2760,7 +2761,7 @@
 - [pi-hole/PADD](https://github.com/pi-hole/PADD) - PADD (formerly Chronometer2) is a more expansive version of the original chronometer.sh that is included with Pi-Hole. PADD provides in-depth information about your Pi-hole.
 - [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web
 - [ebuc99/pacman](https://github.com/ebuc99/pacman) - Yet another pacman clone in C/C++ and SDL.
-- [prsh11/manga-cli](https://github.com/prsh11/manga-cli) - Script to read manga from cli
+- [prsh11/manga-cli](https://github.com/prsh11/manga-cli) - 📖 Script to read manga from cli
 - [cytopia/linux-timemachine](https://github.com/cytopia/linux-timemachine) - Rsync-based OSX-like time machine for Linux, MacOS and BSD for atomic and resumable local and remote backups
 - [proprietary/chromium-widevine](https://github.com/proprietary/chromium-widevine) - How to install Widevine on Chromium on Linux; how to watch Netflix on Chromium Ubuntu or Debian
 - [faf0/macos-qemu-rpi](https://github.com/faf0/macos-qemu-rpi) - Bash scripts to run Raspbian (ARM architecture) on macOS Catalina using QEMU
@@ -2999,6 +3000,7 @@
 
 ## Swift 
 
+- [j4nf4b3l/MagicCFG-Reloaded-OSV](https://github.com/j4nf4b3l/MagicCFG-Reloaded-OSV) - A fully fledged syscfg editor. Just the editor. Written in pure swift.
 - [sourcelocation/Evyrest](https://github.com/sourcelocation/Evyrest) - Automatic wallpaper changer
 - [rileytestut/Clip](https://github.com/rileytestut/Clip) - Clip is a clipboard manager for iOS that can monitor your clipboard indefinitely in the background — no jailbreak required.
 - [uetchy/Polyglot](https://github.com/uetchy/Polyglot) - 🌏 The missing Safari extension that translates selected text into your native language.
