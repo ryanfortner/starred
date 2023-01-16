@@ -410,6 +410,7 @@
 - [nodogsplash/nodogsplash](https://github.com/nodogsplash/nodogsplash) - Nodogsplash offers a simple way to provide restricted access to an Internet connection using a captive portal. Pull requests are welcome!
 - [skyjake/lagrange](https://github.com/skyjake/lagrange) - A Beautiful Gemini Client
 - [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see http://wiki.qemu.org/Contribute/SubmitAPatch for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
+- [openrazer/openrazer](https://github.com/openrazer/openrazer) - Open source driver and user-space daemon to control Razer lighting and other features on GNU/Linux
 - [Open-Smartwatch/open-smartwatch-os](https://github.com/Open-Smartwatch/open-smartwatch-os) - The Open-Smartwatch Operating System.
 - [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb
 - [FWGS/xash3d-fwgs](https://github.com/FWGS/xash3d-fwgs) - Xash3D FWGS engine.
@@ -761,7 +762,6 @@
 - [sighingnow/jekyll-gitbook](https://github.com/sighingnow/jekyll-gitbook) - Build Jekyll site with GitBook style!
 - [Godiesc/Chameleons-Beauty](https://github.com/Godiesc/Chameleons-Beauty) - Adapted "Beautiful" Themes
 - [broeker/spacebook](https://github.com/broeker/spacebook) - 💥 Create fast and simple documentation to explain almost anything. Uses Eleventy, Tailwind 2.0, and Alpine JS with an optional Netlify CMS.
-- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [revoxhere/duco-statistics](https://github.com/revoxhere/duco-statistics) - 📃 Duino-Coin (DUCO) network statistics & explorer website
 - [swcool/landing-page-theme](https://github.com/swcool/landing-page-theme) - Jekyll Bootstrap theme
 - [EliverLara/Kripton](https://github.com/EliverLara/Kripton) - A dark theme with flat style for GNOME
@@ -1091,7 +1091,7 @@
 - [Chia-Network/chiapos](https://github.com/Chia-Network/chiapos) - Chia Proof of Space library
 - [TheBananaStore/web-store](https://github.com/TheBananaStore/web-store) - 🌐🍌This is the Banana Web Store online page repo, built with raw HTML, CSS, and JS.
 - [KumaTea/pytorch-aarch64](https://github.com/KumaTea/pytorch-aarch64) - PyTorch wheels (whl) & conda for aarch64 / ARMv8 / ARM64
-- [revoxhere/revoxhere.github.io](https://github.com/revoxhere/revoxhere.github.io) - My portfolio!
+- [revoxhere/revoxhere.github.io](https://github.com/revoxhere/revoxhere.github.io) - Moje portfolio / my portfolio!
 - [revoxhere/magi-webservices](https://github.com/revoxhere/magi-webservices) - Coin Magi 2021 Explorer & Web Wallet
 - [linuxmint/live-installer](https://github.com/linuxmint/live-installer) - A live installer for the Debian edition
 - [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
@@ -1649,7 +1649,7 @@
 
 ## OpenSCAD 
 
-- [hominoids/SBC_Case_Builder](https://github.com/hominoids/SBC_Case_Builder) - Autonomous SBC case generation from data in SBC Model Framework written in OpenSCAD
+- [hominoids/SBC_Case_Builder](https://github.com/hominoids/SBC_Case_Builder) - Autonomous SBC case generation using data in SBC Model Framework written in OpenSCAD
 - [koendv/openscad-raspberrypi](https://github.com/koendv/openscad-raspberrypi) - OpenSCAD with 3D glasses
 
 ## Others 
@@ -2330,7 +2330,6 @@
 - [openmv/openmv-ide](https://github.com/openmv/openmv-ide) - QtCreator based OpenMV IDE
 - [revoxhere/duino-coin](https://github.com/revoxhere/duino-coin) - ᕲ Duino-Coin is a coin that can be mined with almost everything, including Arduino boards.
 - [michael-lazar/rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
-- [openrazer/openrazer](https://github.com/openrazer/openrazer) - Open source driver and user-space daemon to control Razer lighting and other features on GNU/Linux
 - [MBRO95/PortableCellNetwork](https://github.com/MBRO95/PortableCellNetwork) - Utilize a Raspberry Pi and a Nuand BladeRF to generate your own portable local cell network
 - [ecriminal/Exploit-Discord-Cache-System-PoC](https://github.com/ecriminal/Exploit-Discord-Cache-System-PoC) - 🗄️ Exploit Discord's cache system to remote upload payloads to Discord users machines (possible malware dropper for e.g. targeting specific victims)
 - [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client in Python / PyGObject
@@ -2621,7 +2620,7 @@
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [Crilum/apttools](https://github.com/Crilum/apttools) - make apt easier to use
 - [ProjectAfterBurner/update-scripts](https://github.com/ProjectAfterBurner/update-scripts) - package update scripts for our apt repository
-- [LukeZGD/iOS-OTA-Downgrader](https://github.com/LukeZGD/iOS-OTA-Downgrader) - Downgrade/restore and jailbreak legacy iOS devices to signed OTA firmwares
+- [LukeZGD/iOS-OTA-Downgrader](https://github.com/LukeZGD/iOS-OTA-Downgrader) - A multi-purpose script to downgrade/restore and jailbreak supported legacy iOS devices
 - [missuo/MTProxy](https://github.com/missuo/MTProxy) - MTProxy(MTPROTO) v2 One-Click Installation
 - [NicoD-SBC/armbian-gaming](https://github.com/NicoD-SBC/armbian-gaming) - Tool to install gaming apps on Armbian Linux/Ubuntu/Debian arm64
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
@@ -2668,6 +2667,7 @@
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including
 - [RPi-Distro/pi-bluetooth](https://github.com/RPi-Distro/pi-bluetooth) - Loads BCM43430A1 firmware on boot
 - [AppImage/appimage.github.io](https://github.com/AppImage/appimage.github.io) - Given an URL to an AppImage, the GitHub action in this project inspects the AppImage and puts it into a community-maintained catalog
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [zerojay/RetroPie-Extra](https://github.com/zerojay/RetroPie-Extra) - A collection of unofficial scripts for adding more emulators/ports/games to RetroPie.
 - [nmilosev/anyfed](https://github.com/nmilosev/anyfed) - Universal Fedora chroot tool
 - [getlynx/LynxCI](https://github.com/getlynx/LynxCI) - Lynx Cryptocurrency Installer (LynxCI) creates a Lynx cryptocurrency node that confirms and relays transactions, provides wallet functions and runs an eco-friendly, built-in solo miner.
