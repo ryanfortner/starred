@@ -978,7 +978,7 @@
 - [aliyun/ossutil](https://github.com/aliyun/ossutil) - A user friendly command line tool to access AliCloud OSS.
 - [appleboy/gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang).
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
-- [pluveto/upgit](https://github.com/pluveto/upgit) - Another Upload Hub, support clipboard, good with Typora, Snipaste, VSCode
+- [pluveto/upgit](https://github.com/pluveto/upgit) - Another upload hub that supports clipboard. It works well with Typora, Snipaste, VSCode.
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [lensrentals/trackr](https://github.com/lensrentals/trackr) - Pull FedEx/UPS/USPS tracking numbers out of unstructured text
 - [mysteriumnetwork/node](https://github.com/mysteriumnetwork/node) - Mysterium Network Node -  official implementation of distributed VPN network (dVPN) protocol
@@ -2159,7 +2159,7 @@
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
 - [Axel-Erfurt/QTerminal](https://github.com/Axel-Erfurt/QTerminal) - Terminal (PyQt5)
 - [termux/termux-apt-repo](https://github.com/termux/termux-apt-repo) - Script to create Termux apt repositories.
-- [hakandundar34coding/system-monitoring-center](https://github.com/hakandundar34coding/system-monitoring-center) - Multi-featured system monitor.
+- [hakandundar34coding/system-monitoring-center](https://github.com/hakandundar34coding/system-monitoring-center) - Multi-featured system monitor
 - [RMPR/atbswp](https://github.com/RMPR/atbswp) - A minimalist macro recorder
 - [robtech21/chromiumos](https://github.com/robtech21/chromiumos) - 
 - [FormerLurker/Octolapse](https://github.com/FormerLurker/Octolapse) - Stabilized timelapses for Octoprint
@@ -2283,7 +2283,7 @@
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-513-Stars](https://github.com/iBug/This-Repo-Has-513-Stars) - Yes, it's true :orange_heart: This repository has 513 stars.
+- [iBug/This-Repo-Has-514-Stars](https://github.com/iBug/This-Repo-Has-514-Stars) - Yes, it's true :gift_heart: This repository has 514 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
