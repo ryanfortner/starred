@@ -465,7 +465,6 @@
 - [DigitalRuby/IPBan](https://github.com/DigitalRuby/IPBan) - Since 2011, IPBan is the worlds most trusted, free security software to block hackers and botnets. With both Windows and Linux support, IPBan has your dedicated or cloud server protected. Upgrade to I
 - [iH8sn0w/iFaith](https://github.com/iH8sn0w/iFaith) - A SHSH Dumper for Windows.
 - [microsoft/Oryx](https://github.com/microsoft/Oryx) - Build your repo automatically.
-- [ALIILAPRO/warp-plus-cloudflare](https://github.com/ALIILAPRO/warp-plus-cloudflare) - Script for getting unlimited GB on Warp+ ( https://1.1.1.1/ )
 - [emoacht/Monitorian](https://github.com/emoacht/Monitorian) - A Windows desktop tool to adjust the brightness of multiple monitors with ease
 - [revenz/FileFlows](https://github.com/revenz/FileFlows) - FileFlows is a file processing application that can execute actions against a file in a tree flow structure.
 - [dotnet/msbuild](https://github.com/dotnet/msbuild) - The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio.
@@ -2198,7 +2197,7 @@
 - [catppuccin/gtk](https://github.com/catppuccin/gtk) - 🪟 Soothing pastel theme for GTK3
 - [LiterallyLarry/USPS-Tracking-Python](https://github.com/LiterallyLarry/USPS-Tracking-Python) - Command line utility to track your packages using the USPS Track Request API.
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
-- [RedHeadphone/sudoku-solver](https://github.com/RedHeadphone/sudoku-solver) - Solves a sudoku using back tracking algorithm
+- [RedHeadphone/sudoku-solver](https://github.com/RedHeadphone/sudoku-solver) - Solves given sudoku puzzle using back tracking algorithm
 - [azlux/nft-stats](https://github.com/azlux/nft-stats) - 🐾 Get the nftables counters easier to read
 - [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [crypto101/book](https://github.com/crypto101/book) - Crypto 101, the introductory book on cryptography.
