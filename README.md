@@ -42,7 +42,6 @@
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
-- [Less](#less)
 - [Lua](#lua)
 - [M4](#m4)
 - [Makefile](#makefile)
@@ -1143,6 +1142,8 @@
 
 ## Java 
 
+- [airsquared/blobsaver](https://github.com/airsquared/blobsaver) - A cross-platform GUI and CLI app for automatically saving SHSH blobs
+- [CoocooFroggy/FutureRestore-GUI](https://github.com/CoocooFroggy/FutureRestore-GUI) - A modern GUI for FutureRestore, with added features to make the process easier.
 - [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
 - [adolfintel/OpenPods](https://github.com/adolfintel/OpenPods) - The Free and Open Source app for monitoring your AirPods on Android
 - [open-keychain/open-keychain](https://github.com/open-keychain/open-keychain) - OpenKeychain is an OpenPGP implementation for Android.
@@ -1545,10 +1546,6 @@
 - [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) - All in one emulator on Android!
 - [thundernest/k-9](https://github.com/thundernest/k-9) - K-9 Mail – Open Source Email App for Android
 - [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix) - Firefox for Android
-
-## Less 
-
-- [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
 
 ## Lua 
 
@@ -2283,7 +2280,7 @@
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-514-Stars](https://github.com/iBug/This-Repo-Has-514-Stars) - Yes, it's true :gift_heart: This repository has 514 stars.
+- [iBug/This-Repo-Has-515-Stars](https://github.com/iBug/This-Repo-Has-515-Stars) - Yes, it's true :gift_heart: This repository has 515 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -2791,7 +2788,7 @@
 - [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
 - [rvm/rvm](https://github.com/rvm/rvm) - Ruby enVironment Manager (RVM)
 - [aditya24raj/darth_waydr](https://github.com/aditya24raj/darth_waydr) - automates waydroid installation steps on debian-based distributions
-- [paulirish/dotfiles](https://github.com/paulirish/dotfiles) - paul's shell, git, etc config files. also homebrew, migration setup. good stuff.
+- [paulirish/dotfiles](https://github.com/paulirish/dotfiles) - paul's fish, bash, git, etc config files. good stuff.
 - [jenkinsci/packaging](https://github.com/jenkinsci/packaging) - Native packaging for Jenkins
 - [koendv/arduino-ide-raspberrypi](https://github.com/koendv/arduino-ide-raspberrypi) - arduino IDE v2 for raspberry pi
 - [CleanMachine1/AdlistTXTS](https://github.com/CleanMachine1/AdlistTXTS) - A repository dedicated to mirroring some block-lists into 1 file for ease of use
@@ -3162,6 +3159,7 @@
 - [cokemine/nodestatus](https://github.com/cokemine/nodestatus) - Yet another servers monitor written in TypeScript
 - [bernhardfritz/pitunes](https://github.com/bernhardfritz/pitunes) - 🎵 A Raspberry Pi compatible tool to manage and stream your personal music collection remotely
 - [vector-im/element-desktop](https://github.com/vector-im/element-desktop) - A glossy Matrix collaboration client for desktop.
+- [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
