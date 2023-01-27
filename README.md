@@ -1991,6 +1991,7 @@
 
 ## Python 
 
+- [denogio/pop-launcher-bitwarden](https://github.com/denogio/pop-launcher-bitwarden) - Bitwarden plugin for Pop_OS! pop-launcher - your bitwarden vault always at your hand.
 - [actionschnitzel/chatgpt-python-gui](https://github.com/actionschnitzel/chatgpt-python-gui) - Super simple Chat-GPT-GUI
 - [fishbigger/TapoP100](https://github.com/fishbigger/TapoP100) - A module for controlling the TP-Link Tapo P100 Plugs
 - [Gadgetoid/Pinout.xyz](https://github.com/Gadgetoid/Pinout.xyz) - Source files for the Raspberry Pi Pinout documentation website.
@@ -2092,7 +2093,7 @@
 - [vaultah/replicat](https://github.com/vaultah/replicat) - Configurable and lightweight backup utility with deduplication and encryption
 - [actionschnitzel/sudo_passer](https://github.com/actionschnitzel/sudo_passer) - Sudo Password GUI to CLI
 - [Red-exe-Engineer/CPP-GUI-Compiler](https://github.com/Red-exe-Engineer/CPP-GUI-Compiler) - A simple GUI for compiling C++ programs
-- [novialriptide/Gravity](https://github.com/novialriptide/Gravity) - A puzzle game where you can control the gravity in the room you're in.
+- [novialriptide/gravity](https://github.com/novialriptide/gravity) - A puzzle game where you can control the gravity in the room you're in.
 - [xirixiz/adguard-home-filters](https://github.com/xirixiz/adguard-home-filters) - Custom filter files for AdGuard Home
 - [bluesabre/mugshot](https://github.com/bluesabre/mugshot) - Mugshot - User Management Utility for Linux
 - [tuna/oh-my-tuna](https://github.com/tuna/oh-my-tuna) - Keep calm and use TUNA mirrors.
@@ -2435,6 +2436,7 @@
 
 ## Rust 
 
+- [doy/rbw](https://github.com/doy/rbw) - unofficial bitwarden cli
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [max-niederman/ttyper](https://github.com/max-niederman/ttyper) - Terminal-based typing test.
