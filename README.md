@@ -858,6 +858,7 @@
 - [multiarch/crossbuild](https://github.com/multiarch/crossbuild) - :earth_africa: multiarch cross compiling environments
 - [vala-lang/docker-images](https://github.com/vala-lang/docker-images) - Official vala docker images
 - [developeranaz/Ubuntu-Desktop-noVNC-Heroku-VPS](https://github.com/developeranaz/Ubuntu-Desktop-noVNC-Heroku-VPS) - Ubuntu-Desktop-noVNC-Heroku-VPS serves docker VPS via heroku web and noVNC
+- [linuxserver/docker-heimdall](https://github.com/linuxserver/docker-heimdall) - 
 - [bcurnow/atom-arm64-pi](https://github.com/bcurnow/atom-arm64-pi) - Atom build for ARM64 Raspberry Pi
 - [linuxserver/docker-jellyfin](https://github.com/linuxserver/docker-jellyfin) - 
 - [linuxserver/docker-radarr](https://github.com/linuxserver/docker-radarr) - 
@@ -1109,7 +1110,6 @@
 - [hmsjy2017/7-zip-debs](https://github.com/hmsjy2017/7-zip-debs) - 
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [FreeCAD/FreeCAD-library](https://github.com/FreeCAD/FreeCAD-library) - A library of Parts for FreeCAD. WARNING - This library is huge. It might take a long time to download and make the addons manager unresponsive for many minutes.
-- [linuxserver/docker-heimdall](https://github.com/linuxserver/docker-heimdall) - 
 - [raspbian-addons/apt.raspbian-addons.org](https://github.com/raspbian-addons/apt.raspbian-addons.org) - about page for raspbian-addons' main mirror
 - [piware14/piware14.github.io](https://github.com/piware14/piware14.github.io) - 
 - [hmsjy2017/apt.raspbian-addons.org](https://github.com/hmsjy2017/apt.raspbian-addons.org) - 
@@ -1235,7 +1235,7 @@
 - [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [YuvrajMann/IMEI-Checker](https://github.com/YuvrajMann/IMEI-Checker) - 
-- [openspeedtest/Speed-Test](https://github.com/openspeedtest/Speed-Test) - Speed Test by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS,
+- [openspeedtest/Speed-Test](https://github.com/openspeedtest/Speed-Test) - SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS, 
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [maoschanz/emoji-selector-for-gnome](https://github.com/maoschanz/emoji-selector-for-gnome) - This extension provide a popup menu with some emojis ; clicking on an emoji copies it to the clipboard.
@@ -2555,7 +2555,7 @@
 - [mrbvrz/segoe-ui-linux](https://github.com/mrbvrz/segoe-ui-linux) - :monkey: Install segoe-ui font on linux (ubuntu)
 - [Dunedan/mbp-2016-linux](https://github.com/Dunedan/mbp-2016-linux) - State of Linux on the MacBook Pro 2016 & 2017
 - [marcusfrdk/linux-magic-mouse](https://github.com/marcusfrdk/linux-magic-mouse) - Ubuntu 18.04/20.04/22.04 support for the Magic Mouse 1 and 2 scroll and scroll acceleration.
-- [fractalnetworksco/selfhosted-gateway](https://github.com/fractalnetworksco/selfhosted-gateway) - Route encrypted traffic to your local Docker containers through a cloud VPS with SNI via WireGuard. Ideal for self-hosting / self-hosted setups.
+- [fractalnetworksco/selfhosted-gateway](https://github.com/fractalnetworksco/selfhosted-gateway) - Securely route traffic to your local Docker containers through a cloud VPS with SNI over WireGuard. Ideal for self-hosting / self-hosted setups.
 - [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
 - [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-16.3 (semi-)tethered checkm8 jailbreak
 - [anbuchelva/Pi-hole-and-Wireguard-on-Oracle-Cloud-always-free-tier](https://github.com/anbuchelva/Pi-hole-and-Wireguard-on-Oracle-Cloud-always-free-tier) - Block advertisements and trackers using pi-hole in Oracle Always Free tier
