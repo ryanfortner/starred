@@ -3003,6 +3003,8 @@
 
 ## Swift 
 
+- [SerenaKit/Santander](https://github.com/SerenaKit/Santander) - A new, enhanced File Manager for iOS devices
+- [haxi0/SantanderEscaped](https://github.com/haxi0/SantanderEscaped) - A new, enhanced File Manager for iOS devices
 - [SideStore/SideStore](https://github.com/SideStore/SideStore) - SideStore is a fork of AltStore that doesn't require an AltServer.
 - [j4nf4b3l/MagicCFG-Reloaded-OSV](https://github.com/j4nf4b3l/MagicCFG-Reloaded-OSV) - A fully fledged syscfg editor. Just the editor. Written in pure swift.
 - [sourcelocation/Evyrest](https://github.com/sourcelocation/Evyrest) - Automatic wallpaper changer
