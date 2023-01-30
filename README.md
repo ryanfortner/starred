@@ -1757,7 +1757,6 @@
 - [raspbian-addons/.github](https://github.com/raspbian-addons/.github) - 
 - [justjavac/github-dark-light-theme](https://github.com/justjavac/github-dark-light-theme) - GitHub markdown 显示深色模式或者浅色模式
 - [flathub/io.freetubeapp.FreeTube](https://github.com/flathub/io.freetubeapp.FreeTube) - 
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [hmsjy2017/yn-arm](https://github.com/hmsjy2017/yn-arm) - 
 - [fliptheweb/bash-shortcuts-cheat-sheet](https://github.com/fliptheweb/bash-shortcuts-cheat-sheet) - Useful shortcuts for bash/zsh
 - [Augmentedjs/balena-io-etcher-builds](https://github.com/Augmentedjs/balena-io-etcher-builds) - A place to host my community builds of Ethcher
@@ -1994,7 +1993,7 @@
 - [denogio/pop-launcher-bitwarden](https://github.com/denogio/pop-launcher-bitwarden) - Bitwarden plugin for Pop_OS! pop-launcher - your bitwarden vault always at your hand.
 - [actionschnitzel/chatgpt-python-gui](https://github.com/actionschnitzel/chatgpt-python-gui) - Super simple Chat-GPT-GUI
 - [fishbigger/TapoP100](https://github.com/fishbigger/TapoP100) - A module for controlling the TP-Link Tapo P100 Plugs
-- [Gadgetoid/Pinout.xyz](https://github.com/Gadgetoid/Pinout.xyz) - Source files for the Raspberry Pi Pinout documentation website.
+- [pinout-xyz/Pinout.xyz](https://github.com/pinout-xyz/Pinout.xyz) - Source files for the Raspberry Pi Pinout documentation website.
 - [parrotgeek1/Pluvia](https://github.com/parrotgeek1/Pluvia) - Untethered downgrade your GSM iPhone 4 without SHSH blobs. Only for Mac. No longer supported.
 - [openai/gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [Vanilla-OS/vanilla-installer](https://github.com/Vanilla-OS/vanilla-installer) - A frontend in GTK 4 and Libadwaita for distinst.
@@ -2951,7 +2950,7 @@
 - [adityashrm21/RaspberryPi-Packet-Sniffer](https://github.com/adityashrm21/RaspberryPi-Packet-Sniffer) - An HTTP and HTTPS sniffing tool created using a Raspberry Pi
 - [aikoncwd/rpi-benchmark](https://github.com/aikoncwd/rpi-benchmark) - Script to run some benchmark test for Raspberry Pi
 - [NoozSBC/TwisterOS-imager](https://github.com/NoozSBC/TwisterOS-imager) - Fork of Raspberry Pi patcher with TwisterOS inside
-- [cegargo/sfetch](https://github.com/cegargo/sfetch) - A simple system information tool for Linux.
+- [egargoc/sfetch](https://github.com/egargoc/sfetch) - A simple system information tool for Linux.
 - [keroserene/rickrollrc](https://github.com/keroserene/rickrollrc) - Rick Astley invades your terminal.
 - [Drewsif/PiShrink](https://github.com/Drewsif/PiShrink) - Make your pi images smaller!
 - [Itai-Nelken/Ubuntu-on-rpi-fixes](https://github.com/Itai-Nelken/Ubuntu-on-rpi-fixes) - apps, fixes, and optimizations for the RaspberryPi running Ubuntu desktop
@@ -3003,6 +3002,7 @@
 
 ## Swift 
 
+- [c22dev/TrollBox](https://github.com/c22dev/TrollBox) - A TrollStore app that embed all TrollStore tools
 - [SerenaKit/Santander](https://github.com/SerenaKit/Santander) - A new, enhanced File Manager for iOS devices
 - [haxi0/SantanderEscaped](https://github.com/haxi0/SantanderEscaped) - A new, enhanced File Manager for iOS devices
 - [SideStore/SideStore](https://github.com/SideStore/SideStore) - SideStore is a fork of AltStore that doesn't require an AltServer.
@@ -3124,6 +3124,7 @@
 - [oznu/node-pty-prebuilt-multiarch](https://github.com/oznu/node-pty-prebuilt-multiarch) - A parallel fork of node-pty providing ia32, amd64, arm, and aarch64 prebuilt packages for macOS, Windows and Linux (glibc and musl libc).
 - [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [Chia-Network/chia-blockchain-gui](https://github.com/Chia-Network/chia-blockchain-gui) - Chia blockchain GUI in electron/react
 - [izolate/millify](https://github.com/izolate/millify) - Convert long numbers to pretty, human-readable strings
 - [itchio/itch](https://github.com/itchio/itch) - 🎮 The best way to play your itch.io games
