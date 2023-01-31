@@ -708,7 +708,7 @@
 - [bingmann/sound-of-sorting](https://github.com/bingmann/sound-of-sorting) - The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms
 - [BlitterStudio/amiberry](https://github.com/BlitterStudio/amiberry) - Optimized Amiga emulator for the Raspberry Pi and other ARM boards
 - [vkmark/vkmark](https://github.com/vkmark/vkmark) - Vulkan benchmark
-- [stuntrally/stuntrally](https://github.com/stuntrally/stuntrally) - 3D racing game based on VDrift and OGRE with own Track Editor. The main repository with Stunt Rally sources and data.
+- [stuntrally/stuntrally](https://github.com/stuntrally/stuntrally) - Note: development continues in stuntrally3. 3D racing game based on VDrift and OGRE with own Track Editor. The main repository with Stunt Rally sources and data.
 - [anbox/anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
@@ -2281,7 +2281,7 @@
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-515-Stars](https://github.com/iBug/This-Repo-Has-515-Stars) - Yes, it's true :gift_heart: This repository has 515 stars.
+- [iBug/This-Repo-Has-515-Stars](https://github.com/iBug/This-Repo-Has-515-Stars) - Yes, it's true :yellow_heart: This repository has 515 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
