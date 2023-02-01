@@ -523,7 +523,7 @@
 - [riverar/mach2](https://github.com/riverar/mach2) - Windows Feature Control Multi-tool
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [LMMS/lmms](https://github.com/LMMS/lmms) - Cross-platform music production software
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your 
 - [love2d/love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
 - [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
@@ -1013,6 +1013,7 @@
 - [long2ice/longurl](https://github.com/long2ice/longurl) - A self-hosted short url service
 - [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more.
+- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [nakabonne/ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
@@ -1285,7 +1286,6 @@
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
 - [Aguga2201/PloudOsBot](https://github.com/Aguga2201/PloudOsBot) - 
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [jvalen/pixel-art-react](https://github.com/jvalen/pixel-art-react) - Pixel art animation and drawing web app powered by React
 - [FreeTubeApp/freetube-redirect](https://github.com/FreeTubeApp/freetube-redirect) - Browser extension to open YouTube links into FreeTube
@@ -1577,6 +1577,7 @@
 - [android-rpi/device_arpi_rpi4](https://github.com/android-rpi/device_arpi_rpi4) - Device build-config for Raspberry Pi 4
 - [dmlls/whatsapp-emoji-linux](https://github.com/dmlls/whatsapp-emoji-linux) - WhatsApp Emoji for GNU/Linux 🐧
 - [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) - [WIP] This repository will hold machine-readable data for awesome-selfhosted
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [ipxe/pipxe](https://github.com/ipxe/pipxe) - iPXE for the Raspberry Pi
 - [turquoise-hexagon/fonts](https://github.com/turquoise-hexagon/fonts) - another bitmap fonts repo
 - [lineage-rpi/proprietary_vendor_brcm](https://github.com/lineage-rpi/proprietary_vendor_brcm) - 
@@ -1651,7 +1652,7 @@
 
 ## OpenSCAD 
 
-- [hominoids/SBC_Case_Builder](https://github.com/hominoids/SBC_Case_Builder) - Autonomous SBC case generation using data in SBC Model Framework written in OpenSCAD
+- [hominoids/SBC_Case_Builder](https://github.com/hominoids/SBC_Case_Builder) - Autonomous SBC case generation using SBC Model Framework written in OpenSCAD
 - [koendv/openscad-raspberrypi](https://github.com/koendv/openscad-raspberrypi) - OpenSCAD with 3D glasses
 
 ## Others 
@@ -2546,6 +2547,7 @@
 
 ## Shell 
 
+- [lzkelley/bkup_rpimage](https://github.com/lzkelley/bkup_rpimage) - Script to backup a Raspberry Pi disk image
 - [kramred/ungoogled-chromium-macos](https://github.com/kramred/ungoogled-chromium-macos) - macOS packaging for ungoogled-chromium
 - [jarun/advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars
 - [palera1n/ramdisk](https://github.com/palera1n/ramdisk) - SSHRD_Script adapted for palera1n
@@ -3268,7 +3270,6 @@
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [bocchilorenzo/invuedious](https://github.com/bocchilorenzo/invuedious) - An alternative frontend for invidious built with vue.js
 - [ryanfortner/invuedious](https://github.com/ryanfortner/invuedious) - An alternative frontend for invidious built with vue.js
-- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
