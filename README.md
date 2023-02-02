@@ -500,6 +500,7 @@
 
 ## C++ 
 
+- [msftguy/ssh-rd](https://github.com/msftguy/ssh-rd) - 
 - [nezza/SDQAnalyzer](https://github.com/nezza/SDQAnalyzer) - A Saleae analyzer plugin for the SDQ (Apple Lightning, MagSafe, Battery) protocol.
 - [rikyoz/MrHash](https://github.com/rikyoz/MrHash) - A cross-platform tool for calculating the hashes of files and plain texts.
 - [leozide/leocad](https://github.com/leozide/leocad) - A CAD application for creating virtual LEGO models
@@ -1657,6 +1658,7 @@
 
 ## Others 
 
+- [FaultlineHC/TLSonXP](https://github.com/FaultlineHC/TLSonXP) - How to enable TLS 1.1 and 1.2 on Windows XP.
 - [catdogmat/tweak-up](https://github.com/catdogmat/tweak-up) - A list of IOS Jailbreak Tweaks that will help you get the latest features on older IOS versions.
 - [fifonik/FFMetrics](https://github.com/fifonik/FFMetrics) - Visualizes Video Quality Metrics (PSNR, SSIM & VMAF) calculated by ffmpeg.exe
 - [sjhgvr/oisd](https://github.com/sjhgvr/oisd) - oisd - domain blocklist
@@ -2436,6 +2438,7 @@
 
 ## Rust 
 
+- [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [doy/rbw](https://github.com/doy/rbw) - unofficial bitwarden cli
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
@@ -2515,6 +2518,7 @@
 
 ## SCSS 
 
+- [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
 - [vinceliuice/Jasper-gtk-theme](https://github.com/vinceliuice/Jasper-gtk-theme) - Jasper gtk theme for linux
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
