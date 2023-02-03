@@ -1423,7 +1423,6 @@
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
 - [cthacker-udel/Raspberry-Pi-Scripts](https://github.com/cthacker-udel/Raspberry-Pi-Scripts) - Raspberry Pi Scripts in the following languages : Python, C++, C, Makefile, Bash Shell/Script, and Java!
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
-- [fosscord/fosscord-client](https://github.com/fosscord/fosscord-client) - Open source, themeable and extendable discord-compatible native fosscord client
 - [ethanaobrien/youtube-downloader](https://github.com/ethanaobrien/youtube-downloader) - Simple javascript youtube downloader, plain and easy. No ads!
 - [pgamerx/yt-dislikes-viewer](https://github.com/pgamerx/yt-dislikes-viewer) - A browser extension that allows you to see dislikes on a youtube video after the youtube update
 - [pucherot/Pi.Alert](https://github.com/pucherot/Pi.Alert) - WIFI / LAN intruder detector. Check the devices connected and alert you with unknown devices. It also warns of the disconnection of "always connected" devices
@@ -1468,7 +1467,7 @@
 - [tjvr/tosh2](https://github.com/tjvr/tosh2) - text-based Scratch project editor, Take Two.
 - [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
 - [jitsi/jitsi-meet-electron](https://github.com/jitsi/jitsi-meet-electron) - Jitsi Meet desktop application powered by :electron:
-- [EliverLara/terminator-themes](https://github.com/EliverLara/terminator-themes) - :metal: The biggest collection of Terminator themes.
+- [EliverLara/terminator-themes](https://github.com/EliverLara/terminator-themes) - :metal: The biggest collection of themes for Terminator terminal.
 - [felixrieseberg/macintosh.js](https://github.com/felixrieseberg/macintosh.js) - 🖥 A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
 - [JoseExposito/touche](https://github.com/JoseExposito/touche) - The desktop application to configure Touchégg
 - [ricehiroko/atom-armv7l](https://github.com/ricehiroko/atom-armv7l) - Several patched files and instructions, that allow you to build and run Atom 1.23.2 on armv7l machine.
@@ -1658,6 +1657,8 @@
 
 ## Others 
 
+- [mr-bt/raspberrypi-timemachine](https://github.com/mr-bt/raspberrypi-timemachine) - Apple Time Machine with raspberry Pi
+- [iH8sn0w/sn0wbreezedl](https://github.com/iH8sn0w/sn0wbreezedl) - 
 - [FaultlineHC/TLSonXP](https://github.com/FaultlineHC/TLSonXP) - How to enable TLS 1.1 and 1.2 on Windows XP.
 - [catdogmat/tweak-up](https://github.com/catdogmat/tweak-up) - A list of IOS Jailbreak Tweaks that will help you get the latest features on older IOS versions.
 - [fifonik/FFMetrics](https://github.com/fifonik/FFMetrics) - Visualizes Video Quality Metrics (PSNR, SSIM & VMAF) calculated by ffmpeg.exe
@@ -2284,7 +2285,7 @@
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-515-Stars](https://github.com/iBug/This-Repo-Has-515-Stars) - Yes, it's true :yellow_heart: This repository has 515 stars.
+- [iBug/This-Repo-Has-514-Stars](https://github.com/iBug/This-Repo-Has-514-Stars) - Yes, it's true :orange_heart: This repository has 514 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -3167,6 +3168,7 @@
 - [krypt0nn/warp-gui](https://github.com/krypt0nn/warp-gui) - Unofficial Cloudflare WARP GUI client for Linux written on Neutralino
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [app-outlet/app-outlet](https://github.com/app-outlet/app-outlet) - A Universal linux app store
+- [fosscord/fosscord-client](https://github.com/fosscord/fosscord-client) - Open source, themeable and extendable discord-compatible native fosscord client
 - [pacstall/website](https://github.com/pacstall/website) - Website for the Pacstall organization
 - [cokemine/nodestatus](https://github.com/cokemine/nodestatus) - Yet another servers monitor written in TypeScript
 - [bernhardfritz/pitunes](https://github.com/bernhardfritz/pitunes) - 🎵 A Raspberry Pi compatible tool to manage and stream your personal music collection remotely
@@ -3252,6 +3254,7 @@
 
 ## Visual Basic 
 
+- [iH8sn0w/sn0wbreeze](https://github.com/iH8sn0w/sn0wbreeze) - A Windows .NET GUI Wrapper for xpwn.
 - [BlackGeekTutorial/Beehind](https://github.com/BlackGeekTutorial/Beehind) - A simple XPWN & kloader wrapper written in VB.NET
 
 ## Visual Basic .NET 
