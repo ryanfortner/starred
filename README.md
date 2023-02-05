@@ -3090,7 +3090,7 @@
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 - [pl4nty/spotify-public-likes](https://github.com/pl4nty/spotify-public-likes) - Sync your liked songs to a public Spotify playlist
 - [bytedance/bytemd](https://github.com/bytedance/bytemd) - Hackable Markdown Editor and Viewer
-- [SpacingBat3/ReForged](https://github.com/SpacingBat3/ReForged) - A set of Electron Forge tools, makers and publishers.
+- [SpacingBat3/ReForged](https://github.com/SpacingBat3/ReForged) - A set of :electron: Electron Forge tools, makers and publishers.
 - [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
 - [plibither8/gh-followers-tracker](https://github.com/plibither8/gh-followers-tracker) - :octocat: Tracking my GitHub following and un-following with notifications on Telegram (why not lol)
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
