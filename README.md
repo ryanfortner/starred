@@ -122,6 +122,8 @@
 
 ## C 
 
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
+- [synackuk/n1ghtshade](https://github.com/synackuk/n1ghtshade) - A bootchain jailbreak/downgrade utility for 32 bit iOS devices.
 - [zhovner/OneFileLinux](https://github.com/zhovner/OneFileLinux) - Live linux distro combined in one ~20MB file. Runs on any UEFI computer.
 - [stacksmashing/tamarin-firmware](https://github.com/stacksmashing/tamarin-firmware) - 
 - [haoerloveyou/MagicCFG-Reloaded](https://github.com/haoerloveyou/MagicCFG-Reloaded) - Same MagicCFG but updated! SysCFG R/W Utility written in Swift.
@@ -1629,6 +1631,7 @@
 
 ## Objective-C 
 
+- [tihmstar/otachecker](https://github.com/tihmstar/otachecker) - quick and dirty tool to check what ota blobs are being signed by apple
 - [haxi0/TrollLock-Reborn](https://github.com/haxi0/TrollLock-Reborn) - found the funny
 - [NyanSatan/kanzitools](https://github.com/NyanSatan/kanzitools) - Set of tools to interact with various aspects of Kanzi probe and its derivatives
 - [haiyuidesu/serialsh](https://github.com/haiyuidesu/serialsh) - safety net against bootloop
@@ -1658,6 +1661,7 @@
 
 ## Others 
 
+- [Simizfo/WSATools](https://github.com/Simizfo/WSATools) - Easy-to-use APK installer and more for Windows Subsystem for Android
 - [xybp888/iOS-SDKs](https://github.com/xybp888/iOS-SDKs) - iOS 9 - iOS 16 SDK including symbols for private frameworks.
 - [mr-bt/raspberrypi-timemachine](https://github.com/mr-bt/raspberrypi-timemachine) - Apple Time Machine with raspberry Pi
 - [iH8sn0w/sn0wbreezedl](https://github.com/iH8sn0w/sn0wbreezedl) - 
@@ -2443,6 +2447,7 @@
 
 ## Rust 
 
+- [azymohliad/watchmate](https://github.com/azymohliad/watchmate) - PineTime smart watch companion app for Linux phone and desktop
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [doy/rbw](https://github.com/doy/rbw) - unofficial bitwarden cli
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
@@ -2501,7 +2506,7 @@
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust.
-- [cloudflare/wrangler](https://github.com/cloudflare/wrangler) - 🤠   wrangle your Cloudflare Workers
+- [cloudflare/wrangler-legacy](https://github.com/cloudflare/wrangler-legacy) - 🤠   wrangle your Cloudflare Workers
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -3014,6 +3019,8 @@
 
 ## Swift 
 
+- [zzanehip/Deca5](https://github.com/zzanehip/Deca5) - Tethered Downgrade Your A5 Device Today. By @zzanehip.
+- [haxi0/TrollApps](https://github.com/haxi0/TrollApps) - App Store, but for TrollStore
 - [c22dev/TrollBox](https://github.com/c22dev/TrollBox) - A TrollStore app that embed all TrollStore tools
 - [SerenaKit/Santander](https://github.com/SerenaKit/Santander) - A new, enhanced File Manager for iOS devices
 - [haxi0/SantanderEscaped](https://github.com/haxi0/SantanderEscaped) - A new, enhanced File Manager for iOS devices
@@ -3086,7 +3093,7 @@
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Simplify your code production through the world’s largest open-source feature management platform.
 - [hieunc229/copilot-clone](https://github.com/hieunc229/copilot-clone) - VSCode extension for code suggestion
 - [app-clones/netflix-clone](https://github.com/app-clones/netflix-clone) - A Netflix clone made using React, Firebase, and Firestore
-- [cloudflare/wrangler2](https://github.com/cloudflare/wrangler2) - ⛅️ The CLI for Cloudflare Workers®
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ The CLI for Cloudflare Workers®
 - [airmessage/airmessage-web](https://github.com/airmessage/airmessage-web) - AirMessage for the web
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 - [pl4nty/spotify-public-likes](https://github.com/pl4nty/spotify-public-likes) - Sync your liked songs to a public Spotify playlist
