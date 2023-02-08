@@ -1860,7 +1860,7 @@
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [bromite/bromite](https://github.com/bromite/bromite) - Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
 - [SelfhostedPro/selfhosted_templates](https://github.com/SelfhostedPro/selfhosted_templates) - Portainer templates for selfhosted services
-- [D3VL/L3MON](https://github.com/D3VL/L3MON) - THIS PROJECT HAS BEEN DELETED
+- [ShadowCorpIndustries/SpotLight](https://github.com/ShadowCorpIndustries/SpotLight) - THIS PROJECT HAS BEEN DELETED
 - [ryanfortner/minbrowser-arm-builds](https://github.com/ryanfortner/minbrowser-arm-builds) - Builds of Min Browser for arm devices
 - [ryanfortner/gitea-debs](https://github.com/ryanfortner/gitea-debs) - debian repository for Gitea releases
 - [raspberrypi/Raspberry-Pi-OS-64bit](https://github.com/raspberrypi/Raspberry-Pi-OS-64bit) - Repository for containing issues on the 64 bit operating system (as distinct from the 32 bit one)
@@ -3019,6 +3019,7 @@
 
 ## Swift 
 
+- [palera1n/loader](https://github.com/palera1n/loader) - 
 - [zzanehip/Deca5](https://github.com/zzanehip/Deca5) - Tethered Downgrade Your A5 Device Today. By @zzanehip.
 - [haxi0/TrollApps](https://github.com/haxi0/TrollApps) - App Store, but for TrollStore
 - [c22dev/TrollBox](https://github.com/c22dev/TrollBox) - A TrollStore app that embed all TrollStore tools
