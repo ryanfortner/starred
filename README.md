@@ -3080,6 +3080,7 @@
 
 ## TypeScript 
 
+- [felixrieseberg/slack-archive](https://github.com/felixrieseberg/slack-archive) - Generate static HTML archives of Slack workspaces
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the unofficial ChatGPT API. 🔥
 - [skiff-org/skiff-mail](https://github.com/skiff-org/skiff-mail) - Private, end-to-end encrypted, wallet native mail.
 - [cschleiden/vscode-github-actions](https://github.com/cschleiden/vscode-github-actions) - Simple, unofficial extension to view GitHub Actions workflows and runs in VS Code
