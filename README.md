@@ -1631,6 +1631,7 @@
 
 ## Objective-C 
 
+- [toy/blueutil](https://github.com/toy/blueutil) - CLI for bluetooth on OSX: power, discoverable state, list, inquire devices, connect, info, …
 - [tihmstar/otachecker](https://github.com/tihmstar/otachecker) - quick and dirty tool to check what ota blobs are being signed by apple
 - [haxi0/TrollLock-Reborn](https://github.com/haxi0/TrollLock-Reborn) - found the funny
 - [NyanSatan/kanzitools](https://github.com/NyanSatan/kanzitools) - Set of tools to interact with various aspects of Kanzi probe and its derivatives
@@ -2967,7 +2968,6 @@
 - [adityashrm21/RaspberryPi-Packet-Sniffer](https://github.com/adityashrm21/RaspberryPi-Packet-Sniffer) - An HTTP and HTTPS sniffing tool created using a Raspberry Pi
 - [aikoncwd/rpi-benchmark](https://github.com/aikoncwd/rpi-benchmark) - Script to run some benchmark test for Raspberry Pi
 - [NoozSBC/TwisterOS-imager](https://github.com/NoozSBC/TwisterOS-imager) - Fork of Raspberry Pi patcher with TwisterOS inside
-- [egargocl/sfetch](https://github.com/egargocl/sfetch) - A simple system information tool for Linux.
 - [keroserene/rickrollrc](https://github.com/keroserene/rickrollrc) - Rick Astley invades your terminal.
 - [Drewsif/PiShrink](https://github.com/Drewsif/PiShrink) - Make your pi images smaller!
 - [Itai-Nelken/Ubuntu-on-rpi-fixes](https://github.com/Itai-Nelken/Ubuntu-on-rpi-fixes) - apps, fixes, and optimizations for the RaspberryPi running Ubuntu desktop
