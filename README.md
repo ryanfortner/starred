@@ -1247,6 +1247,7 @@
 - [hiql/mytools-desktop](https://github.com/hiql/mytools-desktop) - A desktop application based on Electron and React for daily application development.
 - [commonshost/bulldohzer](https://github.com/commonshost/bulldohzer) - 🚜 Bulldohzer is a performance measurement tool for DNS. It supports DNS-over-HTTPS (DoH) and DNS-over-UDP (Do53).
 - [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
+- [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
 - [ZorinOS/zorin-taskbar](https://github.com/ZorinOS/zorin-taskbar) - The official taskbar for Zorin OS.
 - [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
 - [rishz/URL-Shortener](https://github.com/rishz/URL-Shortener) - A URL-Shortener created using Node-JS and synced with Firebase Database.
@@ -1828,6 +1829,7 @@
 - [hmsjy2017/debs](https://github.com/hmsjy2017/debs) - 
 - [Wallux-0/Wallpapers](https://github.com/Wallux-0/Wallpapers) - Wallpapers for Wallux
 - [Amog-OS/AmogOS-Wallpapers](https://github.com/Amog-OS/AmogOS-Wallpapers) - Central repository for all AmogOS wallpapers
+- [rpardini/armbian-release](https://github.com/rpardini/armbian-release) - to package and release armbian-build
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [actionschnitzel/Make-Me-Xfce](https://github.com/actionschnitzel/Make-Me-Xfce) - 
 - [pepers/vim-adventures](https://github.com/pepers/vim-adventures) - solutions to puzzles in Vim Adventures
@@ -2163,7 +2165,7 @@
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [dougbrion/OctoRest](https://github.com/dougbrion/OctoRest) - Python client library for OctoPrint REST API
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
-- [infinitepower18/WSA-Sideloader](https://github.com/infinitepower18/WSA-Sideloader) - Easily sideload Android apps on Windows Subsystem for Android on Windows 11
+- [infinitepower18/WSA-Sideloader](https://github.com/infinitepower18/WSA-Sideloader) - Easily sideload Android apps on Windows Subsystem for Android
 - [AppImageCrafters/appimage-builder](https://github.com/AppImageCrafters/appimage-builder) - GNU/Linux packaging solution using the AppImage format
 - [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
@@ -2463,7 +2465,6 @@
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [dteare/opbookmarks](https://github.com/dteare/opbookmarks) - Export 1Password item metadata to support 3rd party app integrations using the 1Password CLI
-- [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
 - [kyoheiu/felix](https://github.com/kyoheiu/felix) - tui file manager with vim-like key mapping
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
@@ -2819,7 +2820,6 @@
 - [rpardini/adoptium-deb-installer](https://github.com/rpardini/adoptium-deb-installer) - Creates Ubuntu/Debian installer packages for Eclipse Adoptium using their API. Important: these are NOT official packages. JDK 8, 11, 17, 18 and 19, all multiarch, in both JRE and JDK flavors.
 - [tolstoyevsky/pieman](https://github.com/tolstoyevsky/pieman) - A script for creating custom OS images for single-board computers
 - [open-sorcerer64/Droid-Cam-RPi](https://github.com/open-sorcerer64/Droid-Cam-RPi) - Droidcam install for Pi-Apps
-- [rpardini/armbian-release](https://github.com/rpardini/armbian-release) - to package and release armbian-build
 - [Jai-JAP/TwisteRPi-Imager](https://github.com/Jai-JAP/TwisteRPi-Imager) - RPi-Imager with Twister OS inside alongside all other OSes in RPi-Imager
 - [m4xx101/kali_parrot_terminal](https://github.com/m4xx101/kali_parrot_terminal) - Parrot OS Terminal For Kali linux
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
