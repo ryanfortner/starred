@@ -458,7 +458,7 @@
 
 - [WereDev/Wu10Man](https://github.com/WereDev/Wu10Man) - Enable/Disable Windows 10 Automatic Updates
 - [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
-- [stnkl/EverythingToolbar](https://github.com/stnkl/EverythingToolbar) - Everything integration for the Windows taskbar.
+- [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [unoplatform/calculator](https://github.com/unoplatform/calculator) - Uno Calculator: A simple yet powerful iOS/Android/WebAssembly/Linux C# port of the calculator that ships with Windows
 - [HarshalKudale/NoMoreEdge](https://github.com/HarshalKudale/NoMoreEdge) - 
 - [Xeroday/Spotify-Ad-Blocker](https://github.com/Xeroday/Spotify-Ad-Blocker) - EZBlocker - A Spotify Ad Blocker for Windows
@@ -2003,6 +2003,7 @@
 
 ## Python 
 
+- [kbwbe/A2plus](https://github.com/kbwbe/A2plus) - Another assembly workbench for FreeCAD, following and extending Hamish's Assembly 2 workbench
 - [riskeco/Samsung-FRP-Bypass](https://github.com/riskeco/Samsung-FRP-Bypass) - Samsung FRP Bypass
 - [denogio/pop-launcher-bitwarden](https://github.com/denogio/pop-launcher-bitwarden) - Bitwarden plugin for Pop_OS! pop-launcher - your bitwarden vault always at your hand.
 - [actionschnitzel/chatgpt-python-gui](https://github.com/actionschnitzel/chatgpt-python-gui) - Super simple Chat-GPT-GUI
