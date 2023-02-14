@@ -1632,6 +1632,7 @@
 
 ## Objective-C 
 
+- [haxi0/TrollBoard](https://github.com/haxi0/TrollBoard) - Icon changer for iOS 15.0 - 16.1.2
 - [toy/blueutil](https://github.com/toy/blueutil) - CLI for bluetooth on OSX: power, discoverable state, list, inquire devices, connect, info, …
 - [tihmstar/otachecker](https://github.com/tihmstar/otachecker) - quick and dirty tool to check what ota blobs are being signed by apple
 - [haxi0/TrollLock-Reborn](https://github.com/haxi0/TrollLock-Reborn) - found the funny
