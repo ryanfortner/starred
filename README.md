@@ -749,7 +749,7 @@
 - [Ravbug/AppImage.cmake](https://github.com/Ravbug/AppImage.cmake) - Generate AppImages automatically from your CMake build process
 - [cutefishos/icons](https://github.com/cutefishos/icons) - System default icon theme
 - [ryanfortner/c-alculator](https://github.com/ryanfortner/c-alculator) - c-calculator: a simple calculator written in c
-- [stuntrally/tracks](https://github.com/stuntrally/tracks) - Tracks of Stunt Rally. Meant to be inside data/tracks/.
+- [stuntrally/tracks](https://github.com/stuntrally/tracks) - Tracks of Stunt Rally. Meant to be inside data/tracks/. Note: development continues in tracks3.
 
 ## CSS 
 
@@ -1631,6 +1631,7 @@
 
 ## Objective-C 
 
+- [EmokidxD/BootSound](https://github.com/EmokidxD/BootSound) - source code of my tweak
 - [haxi0/TrollBoard](https://github.com/haxi0/TrollBoard) - Icon changer for iOS 15.0 - 16.1.2
 - [toy/blueutil](https://github.com/toy/blueutil) - CLI for bluetooth on OSX: power, discoverable state, list, inquire devices, connect, info, …
 - [tihmstar/otachecker](https://github.com/tihmstar/otachecker) - quick and dirty tool to check what ota blobs are being signed by apple
@@ -2564,6 +2565,7 @@
 
 ## Shell 
 
+- [kitty915/palera1n-mod](https://github.com/kitty915/palera1n-mod) - iOS 15.0-15.7.1 (semi-)tethered checkm8 jailbreak with some mods
 - [FICS/atcmd](https://github.com/FICS/atcmd) - Android AT command scripts and firmware extraction
 - [lzkelley/bkup_rpimage](https://github.com/lzkelley/bkup_rpimage) - Script to backup a Raspberry Pi disk image
 - [kramred/ungoogled-chromium-macos](https://github.com/kramred/ungoogled-chromium-macos) - macOS packaging for ungoogled-chromium
