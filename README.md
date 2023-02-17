@@ -424,7 +424,6 @@
 - [xemu-project/xemu](https://github.com/xemu-project/xemu) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
 - [petzval/btferret](https://github.com/petzval/btferret) - Bluetooth Interface for Raspberry Pi
 - [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/
-- [AndreRH/hangover](https://github.com/AndreRH/hangover) - Hangover runs simple Win64/Win32 applications on arm64/ppc64le/x86_64 Linux and x86_64 Mac
 - [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [MCPI-Revival/minecraft-pi-reborn](https://github.com/MCPI-Revival/minecraft-pi-reborn) - Official Mirror Of @TheBrokenRail's Minecraft: Pi Edition: Reborn.
@@ -1218,7 +1217,7 @@
 - [tympanix/electron-regedit](https://github.com/tympanix/electron-regedit) - File associations, file icons & open with... for electron apps
 - [verlok/vanilla-lazyload](https://github.com/verlok/vanilla-lazyload) - LazyLoad is a lightweight, flexible script that speeds up your website by deferring the loading of your below-the-fold images, backgrounds, videos, iframes and scripts to when they will enter the view
 - [AdguardTeam/AdGuardForSafari](https://github.com/AdguardTeam/AdGuardForSafari) - AdGuard for Safari app extension
-- [SnailKM/SnailKM](https://github.com/SnailKM/SnailKM) - Official keyboard/macropad management software.
+- [SnailKM/SnailKM-Software](https://github.com/SnailKM/SnailKM-Software) - Official keyboard/macropad management software.
 - [imreyesjorge/root-startpage](https://github.com/imreyesjorge/root-startpage) - A simple and clean startpage 🌟
 - [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
 - [SpecifiesDev/snapchat-electron](https://github.com/SpecifiesDev/snapchat-electron) - A desktop application for snapchat's web portal.
@@ -1246,7 +1245,6 @@
 - [hiql/mytools-desktop](https://github.com/hiql/mytools-desktop) - A desktop application based on Electron and React for daily application development.
 - [commonshost/bulldohzer](https://github.com/commonshost/bulldohzer) - 🚜 Bulldohzer is a performance measurement tool for DNS. It supports DNS-over-HTTPS (DoH) and DNS-over-UDP (Do53).
 - [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
-- [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
 - [ZorinOS/zorin-taskbar](https://github.com/ZorinOS/zorin-taskbar) - The official taskbar for Zorin OS.
 - [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
 - [rishz/URL-Shortener](https://github.com/rishz/URL-Shortener) - A URL-Shortener created using Node-JS and synced with Firebase Database.
@@ -1902,6 +1900,7 @@
 - [ryanfortner/duckstation-rpi](https://github.com/ryanfortner/duckstation-rpi) - Fast PlayStation 1 emulator for PC and Android
 - [ryanfortner/pi-bashscripts-files](https://github.com/ryanfortner/pi-bashscripts-files) - A collection of Bash scripts and files useful for the Raspberry Pi 4 and other models.
 - [novaspirit/rpi_ubu64_desktop](https://github.com/novaspirit/rpi_ubu64_desktop) - 
+- [AndreRH/hangover](https://github.com/AndreRH/hangover) - Hangover runs simple (Win64/)Win32 applications on arm64/(ppc64le)/x86_64 Linux and x86_64 Mac
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [SpacingBat3/box86-releases](https://github.com/SpacingBat3/box86-releases) - A repository containing a packaged version of the BOX86.
 - [MultiMC/meta-multimc](https://github.com/MultiMC/meta-multimc) - Repository for MultiMC Minecraft package metadata
@@ -2370,7 +2369,7 @@
 - [MCPI-Revival/MCPI-World-Edit](https://github.com/MCPI-Revival/MCPI-World-Edit) - An extremely simple version of world edit for MCPI.
 - [Unrud/video-downloader](https://github.com/Unrud/video-downloader) - Download videos from websites like YouTube and many others (based on yt-dlp)
 - [axcore/tartube](https://github.com/axcore/tartube) - A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
-- [jeanslack/Videomass](https://github.com/jeanslack/Videomass) - Videomass is a free, open source and cross-platform GUI for FFmpeg and youtube-dl / yt-dlp
+- [jeanslack/Videomass](https://github.com/jeanslack/Videomass) - Videomass is a free, open source and cross-platform GUI for FFmpeg
 - [LionSec/katoolin](https://github.com/LionSec/katoolin) - Automatically install all Kali linux tools
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
 - [dupontgu/retro-ipod-spotify-client](https://github.com/dupontgu/retro-ipod-spotify-client) - The software that powers the sPot: a 4th generation "Click Wheel" iPod with a full Spotify client.
@@ -2467,6 +2466,7 @@
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [dteare/opbookmarks](https://github.com/dteare/opbookmarks) - Export 1Password item metadata to support 3rd party app integrations using the 1Password CLI
+- [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
 - [kyoheiu/felix](https://github.com/kyoheiu/felix) - tui file manager with vim-like key mapping
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
@@ -2510,7 +2510,7 @@
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust.
-- [cloudflare/wrangler-legacy](https://github.com/cloudflare/wrangler-legacy) - 🤠   wrangle your Cloudflare Workers
+- [cloudflare/wrangler-legacy](https://github.com/cloudflare/wrangler-legacy) - 🤠  Home to Wrangler v1 (deprecated)
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -3022,6 +3022,7 @@
 
 ## Swift 
 
+- [SerenaKit/Antoine](https://github.com/SerenaKit/Antoine) - A System Log UI for iOS
 - [palera1n/loader](https://github.com/palera1n/loader) - 
 - [zzanehip/Deca5](https://github.com/zzanehip/Deca5) - Tethered Downgrade Your A5 Device Today. By @zzanehip.
 - [haxi0/TrollApps](https://github.com/haxi0/TrollApps) - App Store, but for TrollStore
@@ -3098,7 +3099,7 @@
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Simplify your code production through the world’s largest open-source feature management platform.
 - [hieunc229/copilot-clone](https://github.com/hieunc229/copilot-clone) - VSCode extension for code suggestion
 - [app-clones/netflix-clone](https://github.com/app-clones/netflix-clone) - A Netflix clone made using React, Firebase, and Firestore
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ The CLI for Cloudflare Workers®
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [airmessage/airmessage-web](https://github.com/airmessage/airmessage-web) - AirMessage for the web
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 - [pl4nty/spotify-public-likes](https://github.com/pl4nty/spotify-public-likes) - Sync your liked songs to a public Spotify playlist
@@ -3281,7 +3282,7 @@
 ## Vue 
 
 - [fluidd-core/fluidd](https://github.com/fluidd-core/fluidd) - Fluidd, the klipper UI.
-- [ViewTube/viewtube](https://github.com/ViewTube/viewtube) - ▶️ ViewTube is an alternative YouTube frontend.
+- [ViewTube/viewtube](https://github.com/ViewTube/viewtube) - ▶️ ViewTube: The open source, privacy-conscious way to enjoy your favorite YouTube content.
 - [Electron-Store/electron-app-store](https://github.com/Electron-Store/electron-app-store) - A Cross-Platform App Store for Electron.js Apps
 - [zzetao/awesome-github-profile](https://github.com/zzetao/awesome-github-profile) - 🌐  A website of awesome Github Profile READMEs
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
