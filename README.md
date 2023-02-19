@@ -1630,6 +1630,7 @@
 
 ## Objective-C 
 
+- [Zibri/ZiPhone](https://github.com/Zibri/ZiPhone) - The best iPhone unlocker.
 - [EmokidxD/BootSound](https://github.com/EmokidxD/BootSound) - source code of my tweak
 - [haxi0/TrollBoard](https://github.com/haxi0/TrollBoard) - Icon changer for iOS 15.0 - 16.1.2
 - [toy/blueutil](https://github.com/toy/blueutil) - CLI for bluetooth on OSX: power, discoverable state, list, inquire devices, connect, info, …
@@ -1926,7 +1927,7 @@
 
 ## PHP 
 
-- [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted internet performance tracking application that runs speedtest checks against Ookla's Speedtest service. Build using Laravel and the Speedtest CLI.
+- [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted internet performance tracking application that runs speedtest checks against Ookla's Speedtest service.
 - [TSSSaver/TSSSaver](https://github.com/TSSSaver/TSSSaver) - An online interface for TSSChecker.
 - [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE) - Paste is a project that started from the files pastebin.com used before it was bought.
 - [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
