@@ -76,6 +76,7 @@
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TypeScript](#typescript)
+- [VBA](#vba)
 - [Vala](#vala)
 - [Vim Script](#vim-script)
 - [Visual Basic](#visual-basic)
@@ -122,6 +123,7 @@
 
 ## C 
 
+- [Ralim/IronOS](https://github.com/Ralim/IronOS) - Open Source Soldering Iron firmware for Miniware and Pinecil
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [synackuk/n1ghtshade](https://github.com/synackuk/n1ghtshade) - A bootchain jailbreak/downgrade utility for 32 bit iOS devices.
 - [zhovner/OneFileLinux](https://github.com/zhovner/OneFileLinux) - Live linux distro combined in one ~20MB file. Runs on any UEFI computer.
@@ -1570,6 +1572,7 @@
 
 ## Makefile 
 
+- [theos/theos](https://github.com/theos/theos) - A cross-platform suite of tools for building and deploying software for iOS and other platforms.
 - [verygenericname/TrollLock](https://github.com/verygenericname/TrollLock) - Change the faceID glyph into a TrollFace
 - [mt8163-dev/android_device_amazon_douglas](https://github.com/mt8163-dev/android_device_amazon_douglas) - 
 - [mate-desktop/mate-icon-theme](https://github.com/mate-desktop/mate-icon-theme) - MATE default icon theme
@@ -1629,6 +1632,7 @@
 
 ## Objective-C 
 
+- [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - A simple way to make your mouse better.
 - [Zibri/ZiPhone](https://github.com/Zibri/ZiPhone) - The best iPhone unlocker.
 - [EmokidxD/BootSound](https://github.com/EmokidxD/BootSound) - source code of my tweak
 - [haxi0/TrollBoard](https://github.com/haxi0/TrollBoard) - Icon changer for iOS 15.0 - 16.1.2
@@ -2004,6 +2008,7 @@
 
 ## Python 
 
+- [FreeCAD/FreeCAD-icons](https://github.com/FreeCAD/FreeCAD-icons) - FreeCAD icon themes repository
 - [kbwbe/A2plus](https://github.com/kbwbe/A2plus) - Another assembly workbench for FreeCAD, following and extending Hamish's Assembly 2 workbench
 - [riskeco/Samsung-FRP-Bypass](https://github.com/riskeco/Samsung-FRP-Bypass) - Samsung FRP Bypass
 - [denogio/pop-launcher-bitwarden](https://github.com/denogio/pop-launcher-bitwarden) - Bitwarden plugin for Pop_OS! pop-launcher - your bitwarden vault always at your hand.
@@ -3235,6 +3240,10 @@
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and Fosscord :electron:-based client implemented without Discord API.
 - [shiftkey/desktop](https://github.com/shiftkey/desktop) - Fork of GitHub Desktop to support various Linux distributions
+
+## VBA 
+
+- [AndyGlx/FullControl-GCode-Designer](https://github.com/AndyGlx/FullControl-GCode-Designer) - Software for designing GCODE for 3D printing
 
 ## Vala 
 
