@@ -123,6 +123,7 @@
 
 ## C 
 
+- [j4nf4b3l/MDMPatcher-Universal](https://github.com/j4nf4b3l/MDMPatcher-Universal) - MDM patch *should* working on iOS 15+...
 - [Ralim/IronOS](https://github.com/Ralim/IronOS) - Open Source Soldering Iron firmware for Miniware and Pinecil
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [synackuk/n1ghtshade](https://github.com/synackuk/n1ghtshade) - A bootchain jailbreak/downgrade utility for 32 bit iOS devices.
@@ -1216,6 +1217,7 @@
 
 ## JavaScript 
 
+- [Erdos1729/protected-pdf-file-downloader](https://github.com/Erdos1729/protected-pdf-file-downloader) - This repository will help you to download protected PDF files from Google Drive and other websites with simple steps.
 - [tympanix/electron-regedit](https://github.com/tympanix/electron-regedit) - File associations, file icons & open with... for electron apps
 - [verlok/vanilla-lazyload](https://github.com/verlok/vanilla-lazyload) - LazyLoad is a lightweight, flexible script that speeds up your website by deferring the loading of your below-the-fold images, backgrounds, videos, iframes and scripts to when they will enter the view
 - [AdguardTeam/AdGuardForSafari](https://github.com/AdguardTeam/AdGuardForSafari) - AdGuard for Safari app extension
@@ -1667,6 +1669,7 @@
 
 ## Others 
 
+- [xinzhizao/MagicClock](https://github.com/xinzhizao/MagicClock) -  Watch sysCFG utility
 - [Simizfo/WSATools](https://github.com/Simizfo/WSATools) - Easy-to-use APK installer and more for Windows Subsystem for Android
 - [xybp888/iOS-SDKs](https://github.com/xybp888/iOS-SDKs) - iOS 9 - iOS 16 SDK including symbols for private frameworks.
 - [mr-bt/raspberrypi-timemachine](https://github.com/mr-bt/raspberrypi-timemachine) - Apple Time Machine with raspberry Pi
