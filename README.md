@@ -343,7 +343,6 @@
 - [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
 - [mateoconlechuga/oiram](https://github.com/mateoconlechuga/oiram) - Oiram is a Mario platformer clone
 - [neggles/cm4io-fan](https://github.com/neggles/cm4io-fan) - CM4 IO board PWM fan controller driver
-- [termux/termux-x11](https://github.com/termux/termux-x11) - Termux X11 add-on application. Still in early development.
 - [nakst/luigi](https://github.com/nakst/luigi) - A barebones single-header GUI library for Win32, X11 and Essence.
 - [pikvm/packages](https://github.com/pikvm/packages) - PiKVM Packages
 - [tldr-pages/tldr-c-client](https://github.com/tldr-pages/tldr-c-client) - C command-line client for tldr pages
@@ -1189,6 +1188,7 @@
 - [bithatch/snake](https://github.com/bithatch/snake) - A stylised graphical tool for configuring and controlling Razer devices on Linux
 - [openjdk/jdk](https://github.com/openjdk/jdk) - JDK main-line development https://openjdk.org/projects/jdk
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
+- [termux/termux-x11](https://github.com/termux/termux-x11) - Termux X11 add-on application. Still in early development.
 - [azureblue/MindustryPi](https://github.com/azureblue/MindustryPi) - Mindustry for RaspberryPi!
 - [limboemu/limbo](https://github.com/limboemu/limbo) - Limbo is a QEMU-based emulator for Android. It currently supports x86, ARM, PowerPC, and Sparc emulation  for Intel x86 and ARM android devices. See wiki https://virtualmachinery.weebly.com for APK do
 - [Captain-Chaos/WorldPainter](https://github.com/Captain-Chaos/WorldPainter) - WorldPainter is an interactive graphical map generator for the indie game Minecraft.
@@ -2305,7 +2305,7 @@
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-518-Stars](https://github.com/iBug/This-Repo-Has-518-Stars) - Yes, it's true :two_hearts: This repository has 518 stars.
+- [iBug/This-Repo-Has-518-Stars](https://github.com/iBug/This-Repo-Has-518-Stars) - Yes, it's true :orange_heart: This repository has 518 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -3129,7 +3129,7 @@
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
 - [Sn8z/Poddr](https://github.com/Sn8z/Poddr) - Podcatcher made with Electron and Angular
 - [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist & lightweight startpage inspired by iOS
-- [Muhammed-Rahif/Notepad](https://github.com/Muhammed-Rahif/Notepad) - Windows notepad in web with additional features! Made with typescript and react.
+- [Muhammed-Rahif/Notepad](https://github.com/Muhammed-Rahif/Notepad) - Windows notepad in web with additional features! Made with typescript and nextjs.
 - [AH-dark/website-screenshot](https://github.com/AH-dark/website-screenshot) - Take screenshot for websites
 - [shlinkio/shlink-web-client](https://github.com/shlinkio/shlink-web-client) - A React-based client application for Shlink
 - [badrap/valita](https://github.com/badrap/valita) - A typesafe validation & parsing library for TypeScript.
