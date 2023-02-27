@@ -2576,6 +2576,7 @@
 
 ## Shell 
 
+- [verygenericname/SSHRD_Script](https://github.com/verygenericname/SSHRD_Script) - Shell script that creates a ssh ramdisk
 - [kitty915/palera1n-mod](https://github.com/kitty915/palera1n-mod) - iOS 15.0-15.7.1 (semi-)tethered checkm8 jailbreak with some mods
 - [FICS/atcmd](https://github.com/FICS/atcmd) - Android AT command scripts and firmware extraction
 - [lzkelley/bkup_rpimage](https://github.com/lzkelley/bkup_rpimage) - Script to backup a Raspberry Pi disk image
