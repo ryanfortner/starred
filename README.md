@@ -123,6 +123,7 @@
 
 ## C 
 
+- [staturnzz/socket](https://github.com/staturnzz/socket) - 
 - [j4nf4b3l/MDMPatcher-Universal](https://github.com/j4nf4b3l/MDMPatcher-Universal) - MDM patch *should* working on iOS 15+...
 - [Ralim/IronOS](https://github.com/Ralim/IronOS) - Open Source Soldering Iron firmware for Miniware and Pinecil
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
@@ -1099,7 +1100,6 @@
 - [revoxhere/magi-webservices](https://github.com/revoxhere/magi-webservices) - Coin Magi 2021 Explorer & Web Wallet
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [linuxmint/live-installer](https://github.com/linuxmint/live-installer) - A live installer for the Debian edition
-- [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
 - [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge) - Can you create something cool without modern tools?
 - [ryanfortner/ryanfortner.github.io](https://github.com/ryanfortner/ryanfortner.github.io) - My website and portfolio.
 - [fosshostorg/public-docs](https://github.com/fosshostorg/public-docs) - The repository for the new Fosshost documentation.
@@ -2012,6 +2012,7 @@
 
 ## Python 
 
+- [ranaroussi/pywallet](https://github.com/ranaroussi/pywallet) - Dead-simple BIP32 (HD) wallet creation for BTC, BTG, BCH, LTC, DASH, USDT, QTUM and DOGE
 - [FreeCAD/FreeCAD-icons](https://github.com/FreeCAD/FreeCAD-icons) - FreeCAD icon themes repository
 - [kbwbe/A2plus](https://github.com/kbwbe/A2plus) - Another assembly workbench for FreeCAD, following and extending Hamish's Assembly 2 workbench
 - [riskeco/Samsung-FRP-Bypass](https://github.com/riskeco/Samsung-FRP-Bypass) - Samsung FRP Bypass
@@ -2210,6 +2211,7 @@
 - [Gamper98/Sudoku-Solver](https://github.com/Gamper98/Sudoku-Solver) - Sudoku solver written in python
 - [raspberrypi/picamera2](https://github.com/raspberrypi/picamera2) - New libcamera based python library
 - [casualsnek/cassowary](https://github.com/casualsnek/cassowary) - Run Windows Applications on Linux as if they are native, Use linux applications to launch files files located in windows vm without needing to install applications on vm. With easy to use configuratio
+- [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [Jahaja/psdash](https://github.com/Jahaja/psdash) - A linux system information web dashboard using psutils and flask
 - [holoviz/panel](https://github.com/holoviz/panel) - A high-level app and dashboarding solution for Python
@@ -2323,7 +2325,7 @@
 - [pyload/pyload](https://github.com/pyload/pyload) - The free and open-source Download Manager written in pure Python
 - [arindas/mac-on-linux-with-qemu](https://github.com/arindas/mac-on-linux-with-qemu) - Runs macOS on linux with qemu.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [FreeCAD/FreeCAD-Bundle](https://github.com/FreeCAD/FreeCAD-Bundle) - Stand-alone repo to Build and Deploy the FreeCAD AppImage
+- [FreeCAD/FreeCAD-Bundle](https://github.com/FreeCAD/FreeCAD-Bundle) - Stand-alone repo to Build and Deploy installable FreeCAD images
 - [NoozSBC/mcpi-sound](https://github.com/NoozSBC/mcpi-sound) - Add sound to MCPI
 - [ecthros/uncaptcha2](https://github.com/ecthros/uncaptcha2) - defeating the latest version of ReCaptcha with 91% accuracy
 - [sunfounder/SunFounder_SensorKit_for_RPi2](https://github.com/sunfounder/SunFounder_SensorKit_for_RPi2) - SunFounder Sensor Kit V2.0 for Raspberry Pi 2
