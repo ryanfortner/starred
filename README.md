@@ -2012,6 +2012,7 @@
 
 ## Python 
 
+- [EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox) - An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.
 - [ranaroussi/pywallet](https://github.com/ranaroussi/pywallet) - Dead-simple BIP32 (HD) wallet creation for BTC, BTG, BCH, LTC, DASH, USDT, QTUM and DOGE
 - [FreeCAD/FreeCAD-icons](https://github.com/FreeCAD/FreeCAD-icons) - FreeCAD icon themes repository
 - [kbwbe/A2plus](https://github.com/kbwbe/A2plus) - Another assembly workbench for FreeCAD, following and extending Hamish's Assembly 2 workbench
@@ -2803,7 +2804,6 @@
 - [cytopia/linux-timemachine](https://github.com/cytopia/linux-timemachine) - Rsync-based OSX-like time machine for Linux, MacOS and BSD for atomic and resumable local and remote backups
 - [proprietary/chromium-widevine](https://github.com/proprietary/chromium-widevine) - How to install Widevine on Chromium on Linux; how to watch Netflix on Chromium Ubuntu or Debian
 - [faf0/macos-qemu-rpi](https://github.com/faf0/macos-qemu-rpi) - Bash scripts to run Raspbian (ARM architecture) on macOS Catalina using QEMU
-- [MilesGG/Pi-Hole-Summary](https://github.com/MilesGG/Pi-Hole-Summary) - Email pi hole statistics
 - [raspbian-addons/autoupdate](https://github.com/raspbian-addons/autoupdate) - 
 - [alvatip/Nordzy-icon](https://github.com/alvatip/Nordzy-icon) - Nordzy is a free and open source icon theme for Linux desktops using the Nord color palette from Arctic Ice Studio and based on WhiteSur and Numix Icon Theme.
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
