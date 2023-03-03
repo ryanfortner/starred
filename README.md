@@ -157,7 +157,6 @@
 - [GeoSn0w/OpenJailbreak](https://github.com/GeoSn0w/OpenJailbreak) - GeoSn0w's OpenJailbreak Project, an open-source iOS 11 to iOS 13 Jailbreak project & vault.
 - [GeoSn0w/Blizzard-Jailbreak-9](https://github.com/GeoSn0w/Blizzard-Jailbreak-9) - Blizzard Jailbreak for iOS 9.0 - 9.3.6, 32-Bit
 - [baskerville/bspwm](https://github.com/baskerville/bspwm) - A tiling window manager based on binary space partitioning
-- [tihmstar/tsschecker](https://github.com/tihmstar/tsschecker) - a powerfull tool to check tss signing status of various devices and firmwares
 - [synackuk/checkm8-a5](https://github.com/synackuk/checkm8-a5) - checkm8 port for S5L8940X/S5L8942X/S5L8945X
 - [RehabMan/OS-X-ACPI-Backlight](https://github.com/RehabMan/OS-X-ACPI-Backlight) - Updated ACPIBacklight.kext for OS X.  Uses ACPI methods to control laptop backlight.
 - [acidanthera/OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) - OpenCore bootloader
@@ -519,6 +518,7 @@
 - [wxWidgets/wxWidgets](https://github.com/wxWidgets/wxWidgets) - Cross-Platform C++ GUI Library
 - [ddnet/ddnet](https://github.com/ddnet/ddnet) - DDraceNetwork, a free cooperative platformer game
 - [tihmstar/futurerestore](https://github.com/tihmstar/futurerestore) - A hacked up idevicerestore wrapper, which allows specifying SEP and Baseband for restoring
+- [tihmstar/tsschecker](https://github.com/tihmstar/tsschecker) - a powerfull tool to check tss signing status of various devices and firmwares
 - [gsly/OS-X-ACPI-Battery-Driver](https://github.com/gsly/OS-X-ACPI-Battery-Driver) - Implements an Advanced Configuration and Power Interface (ACPI) based battery manager kernel extension (kext/driver) for non-Apple laptops running OS X.
 - [RehabMan/OS-X-ACPI-Battery-Driver](https://github.com/RehabMan/OS-X-ACPI-Battery-Driver) - Implements an Advanced Configuration and Power Interface (ACPI) based battery manager kernel extension (kext/driver) for non-Apple laptops running OS X.
 - [Fenrirthviti/obs-virtual-cam](https://github.com/Fenrirthviti/obs-virtual-cam) - obs-studio plugin to simulate a directshow webcam
@@ -1670,6 +1670,7 @@
 
 ## Others 
 
+- [kelyvin/Google-Messages-For-Desktop](https://github.com/kelyvin/Google-Messages-For-Desktop) - A "native-like" OS X, Windows, & Linux desktop app for Google Messages
 - [xinzhizao/MagicClock](https://github.com/xinzhizao/MagicClock) -  Watch sysCFG utility
 - [Simizfo/WSATools](https://github.com/Simizfo/WSATools) - Easy-to-use APK installer and more for Windows Subsystem for Android
 - [xybp888/iOS-SDKs](https://github.com/xybp888/iOS-SDKs) - iOS 9 - iOS 16 SDK including symbols for private frameworks.
@@ -3100,7 +3101,7 @@
 ## TypeScript 
 
 - [felixrieseberg/slack-archive](https://github.com/felixrieseberg/slack-archive) - Generate static HTML archives of Slack workspaces
-- [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the unofficial ChatGPT API. 🔥
+- [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
 - [skiff-org/skiff-mail](https://github.com/skiff-org/skiff-mail) - Private, end-to-end encrypted, wallet native mail.
 - [cschleiden/vscode-github-actions](https://github.com/cschleiden/vscode-github-actions) - Simple, unofficial extension to view GitHub Actions workflows and runs in VS Code
 - [electron/notarize](https://github.com/electron/notarize) - Notarize your macOS Electron Apps
