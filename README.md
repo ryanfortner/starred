@@ -484,7 +484,7 @@
 - [ProjectCeleste/Celeste.Launcher](https://github.com/ProjectCeleste/Celeste.Launcher) - 
 - [jealouscloud/linerider-advanced](https://github.com/jealouscloud/linerider-advanced) - An open source spiritual successor to the flash game Line Rider 6.2
 - [Tran-Foxxo/LRTran](https://github.com/Tran-Foxxo/LRTran) - A fork of an open source spiritual successor to the flash game Line Rider 6.2
-- [maximmax42/Discord-CustomRP](https://github.com/maximmax42/Discord-CustomRP) - Simple custom Rich Presence manager (Playing status) for Discord. Windows 7+ only. Features run on startup and minimizing to tray. Translated to multiple languages.
+- [maximmax42/Discord-CustomRP](https://github.com/maximmax42/Discord-CustomRP) - Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
 - [OpenHogwarts/hogwarts](https://github.com/OpenHogwarts/hogwarts) - Hogwarts (Harry Potter) open sandbox game made in Unity
@@ -581,7 +581,7 @@
 - [linuxdeepin/dtkgui](https://github.com/linuxdeepin/dtkgui) - Deepin Toolkit, gui module for DDE look and feel
 - [xmrig/xmrig-proxy](https://github.com/xmrig/xmrig-proxy) - Monero (XMR) Stratum protocol proxy
 - [feather-wallet/feather](https://github.com/feather-wallet/feather) - A free and open-source Monero desktop wallet.
-- [beyondcoin-project/beyondcoin](https://github.com/beyondcoin-project/beyondcoin) - Beyondcoin Core integration/staging tree.
+- [beyondcoin/beyondcoin](https://github.com/beyondcoin/beyondcoin) - Beyondcoin Core integration/staging tree.
 - [fragmede/schroot](https://github.com/fragmede/schroot) - Securely enter a chroot and run a command or login shell
 - [tevador/RandomX](https://github.com/tevador/RandomX) - Proof of work algorithm based on random code execution
 - [linuxdeepin/dtkwidget](https://github.com/linuxdeepin/dtkwidget) - Deepin Toolkit, widget module for DDE look and feel
@@ -1532,6 +1532,7 @@
 
 ## Jupyter Notebook 
 
+- [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [Azure/MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks) - Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft
 - [dapperfu/TI-89](https://github.com/dapperfu/TI-89) - A collection of the programs and functions I wrote for my TI-89.
 
