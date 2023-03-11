@@ -1217,6 +1217,8 @@
 
 ## JavaScript 
 
+- [rhysmorgan134/node-CarPlay](https://github.com/rhysmorgan134/node-CarPlay) - 
+- [rhysmorgan134/react-carplay](https://github.com/rhysmorgan134/react-carplay) - 
 - [Erdos1729/protected-pdf-file-downloader](https://github.com/Erdos1729/protected-pdf-file-downloader) - This repository will help you to download protected PDF files from Google Drive and other websites with simple steps.
 - [tympanix/electron-regedit](https://github.com/tympanix/electron-regedit) - File associations, file icons & open with... for electron apps
 - [verlok/vanilla-lazyload](https://github.com/verlok/vanilla-lazyload) - LazyLoad is a lightweight, flexible script that speeds up your website by deferring the loading of your below-the-fold images, backgrounds, videos, iframes and scripts to when they will enter the view
@@ -1298,7 +1300,7 @@
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/telnet/serialport/sftp client(linux, mac, win)
 - [Wexagonal/Wexagonal](https://github.com/Wexagonal/Wexagonal) - A Lightweight \ Multi Platform \ Out of The Box hexo backend Manager | 轻量级\多平台\开箱即用的hexo后端管理器
-- [zhaojh329/oui](https://github.com/zhaojh329/oui) - 🐛  A framework used to develop Web interface for OpenWrt. Use Nginx + Vue3 + Lua.
+- [zhaojh329/oui](https://github.com/zhaojh329/oui) - 🐛  A framework used to develop Web interface for OpenWrt. Use Lua-eco + Vue3 + Vite + Naive-ui.
 - [shaack/cookie-consent-js](https://github.com/shaack/cookie-consent-js) - A simple dialog and framework to handle the German and EU law about cookies in a website (December 2021)
 - [emailjs/emailjs-imap-client](https://github.com/emailjs/emailjs-imap-client) - Low-level JS IMAP client for all your IMAP needs.
 - [Oxygem/Kanmail](https://github.com/Oxygem/Kanmail) - :inbox_tray: An email client that functions like a kanban board.
@@ -1673,6 +1675,7 @@
 
 ## Others 
 
+- [openai/gpt-3](https://github.com/openai/gpt-3) - GPT-3: Language Models are Few-Shot Learners
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 - [kelyvin/Google-Messages-For-Desktop](https://github.com/kelyvin/Google-Messages-For-Desktop) - A "native-like" OS X, Windows, & Linux desktop app for Google Messages
 - [xinzhizao/MagicClock](https://github.com/xinzhizao/MagicClock) -  Watch sysCFG utility
@@ -2201,7 +2204,7 @@
 - [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Launched in 2018. It's 2023 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with 
 - [jlu5/icoextract](https://github.com/jlu5/icoextract) - Extract icons from Windows PE files (.exe/.dll)
 - [PlayOnLinux/POL-POM-4](https://github.com/PlayOnLinux/POL-POM-4) - PlayOnLinux 4 repository
-- [natorsc/gui-python-pygobject-gtk4](https://github.com/natorsc/gui-python-pygobject-gtk4) - Repositório criado para documentar e centralizar conteúdos, dicas, tutoriais e exemplos de código sobre a construção de interfaces com a linguagem de programação Python (PyGObject) e o toolkit gráfico
+- [natorsc/gui-python-pygobject-gtk4](https://github.com/natorsc/gui-python-pygobject-gtk4) - Repositório criado para documentar dicas, tutoriais e exemplos de código sobre a construção de interfaces gráficas com a linguagem de programação Python (PyGObject) e o toolkit gráfico GTK.
 - [simons-public/protonfixes](https://github.com/simons-public/protonfixes) - A module for applying fixes at runtime to unsupported games with Steam Proton without changing game installation files
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
@@ -2493,7 +2496,7 @@
 - [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [leftwm/leftwm](https://github.com/leftwm/leftwm) - A tiling window manager for Adventurers
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
 - [gorilla-devs/ferium](https://github.com/gorilla-devs/ferium) - Fast and multi-source CLI program for managing Minecraft mods and modpacks from Modrinth, CurseForge, and GitHub Releases
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter
@@ -2641,7 +2644,7 @@
 - [phyver/GameShell](https://github.com/phyver/GameShell) - a game to learn (or teach) how to use standard commands in a Unix shell
 - [TheRemote/MinecraftBedrockServer](https://github.com/TheRemote/MinecraftBedrockServer) - Sets up a Minecraft Bedrock dedicated server on Ubuntu with options for automatic updates and running at startup
 - [koendv/Arduino_Tools](https://github.com/koendv/Arduino_Tools) - Contains upload tools for STM32 based boards
-- [YurinDoctrine/ubuntu-base-setup](https://github.com/YurinDoctrine/ubuntu-base-setup) - A fine rice bootstrapping script for Ubuntu & Pop!_OS
+- [YurinDoctrine/ubuntu-base-setup](https://github.com/YurinDoctrine/ubuntu-base-setup) - A fine rice script for Ubuntu & Pop!_OS
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [grokbeer/wifi-to-ethernet](https://github.com/grokbeer/wifi-to-ethernet) - WiFi-to-Ethernet: Use a Raspberry Pi to easily connect an Ethernet-only device to your WiFi network.
 - [mapi68/raspi-info](https://github.com/mapi68/raspi-info) - RASPI-INFO is a tool to get a lot of infomations about your Raspberry Pi
@@ -3045,6 +3048,7 @@
 
 ## Swift 
 
+- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI
 - [SerenaKit/Antoine](https://github.com/SerenaKit/Antoine) - A System Log UI for iOS
 - [palera1n/loader](https://github.com/palera1n/loader) - 
 - [zzanehip/Deca5](https://github.com/zzanehip/Deca5) - Tethered Downgrade Your A5 Device Today. By @zzanehip.
