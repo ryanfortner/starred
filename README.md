@@ -560,7 +560,7 @@
 - [webcamoid/webcamoid](https://github.com/webcamoid/webcamoid) - Webcamoid is a full featured and multiplatform webcam suite.
 - [merryhime/dynarmic](https://github.com/merryhime/dynarmic) - An ARM dynamic recompiler.
 - [CrealityOfficial/Ender-3V2](https://github.com/CrealityOfficial/Ender-3V2) - 
-- [chromiumembedded/cef](https://github.com/chromiumembedded/cef) - Chromium Embedded Framework (CEF) official mirror. A simple framework for embedding Chromium-based browsers in other applications.
+- [chromiumembedded/cef](https://github.com/chromiumembedded/cef) - Chromium Embedded Framework (CEF). A simple framework for embedding Chromium-based browsers in other applications.
 - [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
 - [0vercl0k/wtf](https://github.com/0vercl0k/wtf) - wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows.
 - [mholtkamp/octave](https://github.com/mholtkamp/octave) - A simple 3D game engine for GameCube, Wii, 3DS, Windows, and Linux.
@@ -1686,7 +1686,6 @@
 - [FaultlineHC/TLSonXP](https://github.com/FaultlineHC/TLSonXP) - How to enable TLS 1.1 and 1.2 on Windows XP.
 - [catdogmat/tweak-up](https://github.com/catdogmat/tweak-up) - A list of IOS Jailbreak Tweaks that will help you get the latest features on older IOS versions.
 - [fifonik/FFMetrics](https://github.com/fifonik/FFMetrics) - Visualizes Video Quality Metrics (PSNR, SSIM & VMAF) calculated by ffmpeg.exe
-- [sjhgvr/oisd](https://github.com/sjhgvr/oisd) - oisd - domain blocklist
 - [zhuxinlang/xinaA12](https://github.com/zhuxinlang/xinaA12) - 
 - [jacksight/xina520_official_jailbreak](https://github.com/jacksight/xina520_official_jailbreak) - This is the official download website for xina520's jailbreak
 - [github/mona-sans](https://github.com/github/mona-sans) - Mona Sans, a variable font from GitHub
