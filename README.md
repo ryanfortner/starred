@@ -344,7 +344,6 @@
 - [mateoconlechuga/oiram](https://github.com/mateoconlechuga/oiram) - Oiram is a Mario platformer clone
 - [neggles/cm4io-fan](https://github.com/neggles/cm4io-fan) - CM4 IO board PWM fan controller driver
 - [nakst/luigi](https://github.com/nakst/luigi) - A barebones single-header GUI library for Win32, X11 and Essence.
-- [pikvm/packages](https://github.com/pikvm/packages) - PiKVM Packages
 - [tldr-pages/tldr-c-client](https://github.com/tldr-pages/tldr-c-client) - C command-line client for tldr pages
 - [amengol/MinGL](https://github.com/amengol/MinGL) - Minimal Graphics Library
 - [borisfaure/terminology](https://github.com/borisfaure/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries
@@ -1536,7 +1535,6 @@
 
 ## Jupyter Notebook 
 
-- [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [Azure/MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks) - Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft
 - [dapperfu/TI-89](https://github.com/dapperfu/TI-89) - A collection of the programs and functions I wrote for my TI-89.
 
@@ -2023,6 +2021,7 @@
 
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
+- [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox) - An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.
 - [ranaroussi/pywallet](https://github.com/ranaroussi/pywallet) - Dead-simple BIP32 (HD) wallet creation for BTC, BTG, BCH, LTC, DASH, USDT, QTUM and DOGE
 - [FreeCAD/FreeCAD-icons](https://github.com/FreeCAD/FreeCAD-icons) - FreeCAD icon themes repository
@@ -2878,6 +2877,7 @@
 - [rsm-gh/build-deb](https://github.com/rsm-gh/build-deb) - GNU/Linux Debian package builder.
 - [thoughtbot/laptop](https://github.com/thoughtbot/laptop) - A shell script to set up a macOS laptop for web and mobile development.
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
+- [pikvm/packages](https://github.com/pikvm/packages) - PiKVM Packages
 - [angela-d/simple-motd-for-debian-desktop](https://github.com/angela-d/simple-motd-for-debian-desktop) - Pretty up your terminal window with ascii art and informational snippets about your system.
 - [qad114/simple-conky-clock](https://github.com/qad114/simple-conky-clock) - A simple clock and CPU usage / storage monitor for Conky
 - [junaidrahim/conky-clock](https://github.com/junaidrahim/conky-clock) - Just a simple conky clock
