@@ -606,6 +606,7 @@
 - [fritzing/fritzing-app](https://github.com/fritzing/fritzing-app) - Fritzing desktop application
 - [gemrb/gemrb](https://github.com/gemrb/gemrb) - GemRB is a portable open-source implementation of Bioware’s Infinity Engine.
 - [sass/node-sass](https://github.com/sass/node-sass) - :rainbow: Node.js bindings to libsass
+- [KDE/audiotube](https://github.com/KDE/audiotube) - Client for YouTube Music
 - [libretro/citra](https://github.com/libretro/citra) - A Nintendo 3DS Emulator, running on libretro
 - [endlessm/libanimation](https://github.com/endlessm/libanimation) - Wobbly windows logic split out from Compiz
 - [smspillaz/libanimation](https://github.com/smspillaz/libanimation) - Wobbly windows and animations logic split out from Compiz
@@ -2436,7 +2437,6 @@
 - [vinceliuice/WhiteSur-kde](https://github.com/vinceliuice/WhiteSur-kde) - MacOS big sur theme for kde plasma
 - [linuxdeepin/deepin-music](https://github.com/linuxdeepin/deepin-music) - Music player for deepin desktop environment.
 - [adhec/dittoMenuKDE](https://github.com/adhec/dittoMenuKDE) - Menu launcher for plasma KDE
-- [KDE/audiotube](https://github.com/KDE/audiotube) - Client for YouTube Music
 - [nymea/nymea-app](https://github.com/nymea/nymea-app) - A nymea frontend app
 - [PapirusDevelopmentTeam/arc-kde](https://github.com/PapirusDevelopmentTeam/arc-kde) - Arc KDE customization
 - [mirukana/mirage](https://github.com/mirukana/mirage) - A fancy, customizable, keyboard-operable Qt/QML & Python Matrix chat client for encrypted and decentralized communication.
@@ -2642,7 +2642,7 @@
 - [phyver/GameShell](https://github.com/phyver/GameShell) - a game to learn (or teach) how to use standard commands in a Unix shell
 - [TheRemote/MinecraftBedrockServer](https://github.com/TheRemote/MinecraftBedrockServer) - Sets up a Minecraft Bedrock dedicated server on Ubuntu with options for automatic updates and running at startup
 - [koendv/Arduino_Tools](https://github.com/koendv/Arduino_Tools) - Contains upload tools for STM32 based boards
-- [YurinDoctrine/ubuntu-base-setup](https://github.com/YurinDoctrine/ubuntu-base-setup) - A fine rice script works on Ubuntu & Pop!_OS
+- [YurinDoctrine/ubuntu-base-setup](https://github.com/YurinDoctrine/ubuntu-base-setup) - A rice script works on Ubuntu & Pop!_OS
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [grokbeer/wifi-to-ethernet](https://github.com/grokbeer/wifi-to-ethernet) - WiFi-to-Ethernet: Use a Raspberry Pi to easily connect an Ethernet-only device to your WiFi network.
 - [mapi68/raspi-info](https://github.com/mapi68/raspi-info) - RASPI-INFO is a tool to get a lot of infomations about your Raspberry Pi
