@@ -1404,7 +1404,7 @@
 - [klaudiosinani/ao](https://github.com/klaudiosinani/ao) - Elegant Microsoft To-Do desktop app
 - [dscalzi/HeliosLauncher](https://github.com/dscalzi/HeliosLauncher) - ☀ Custom launcher for modded minecraft written in Electron and Node.js
 - [railken/mc](https://github.com/railken/mc) - A Minecraft Launcher in electron
-- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 - [Mailtrain-org/mailtrain](https://github.com/Mailtrain-org/mailtrain) - Self hosted newsletter app
 - [gl91306/launcherpi](https://github.com/gl91306/launcherpi) - bascicly a mc launcher for the pi.
 - [linuxmint/cinnamon-spices-desklets](https://github.com/linuxmint/cinnamon-spices-desklets) - Desklets for the Cinnamon desktop
