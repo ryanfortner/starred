@@ -1347,7 +1347,7 @@
 - [FreeTubeApp/FreeTube-Vue](https://github.com/FreeTubeApp/FreeTube-Vue) - The repository for the upcoming FreeTube rewrite
 - [Chia-Network/chia-docs](https://github.com/Chia-Network/chia-docs) - Chia Docs - documentation on the Chia blockchain, protocol and client
 - [sebhildebrandt/systeminformation](https://github.com/sebhildebrandt/systeminformation) - System Information Library for Node.JS
-- [matthewhudson/current-device](https://github.com/matthewhudson/current-device) - The easiest way to write conditional CSS and/or JavaScript based on device operating system (iOS, Android, Blackberry, Windows, Firefox OS, MeeGo), orientation (Portrait vs. Landscape), and type (Tabl
+- [matthewhudson/current-device](https://github.com/matthewhudson/current-device) - 📱 The easiest way to write conditional CSS and/or JavaScript based on device operating system (iOS, Android, Blackberry, Windows, Firefox OS, MeeGo), orientation (Portrait vs. Landscape), and type (Ta
 - [marlun78/arith](https://github.com/marlun78/arith) - Math stuff
 - [marlun78/number-to-words](https://github.com/marlun78/number-to-words) - Converts a number to words
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
@@ -3046,6 +3046,7 @@
 - [christmas-countdown/website](https://github.com/christmas-countdown/website) - Christmas countdown website
 - [fosshostorg/fosshost.org](https://github.com/fosshostorg/fosshost.org) - All the code for Fosshost's new website.
 - [fosshostorg/aarch64](https://github.com/fosshostorg/aarch64) - Dashboard and API for https://console.aarch64.com
+- [Figma-Linux/figma-linux](https://github.com/Figma-Linux/figma-linux) - Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us in https://t.me/figma_linux
 
 ## Swift 
 
@@ -3245,7 +3246,6 @@
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [HaveIBeenPwned/PwnedPasswordsCloudflareWorker](https://github.com/HaveIBeenPwned/PwnedPasswordsCloudflareWorker) - 
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
-- [Figma-Linux/figma-linux](https://github.com/Figma-Linux/figma-linux) - Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us in https://t.me/figma_linux
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [SpacingBat3/electron-forge-maker-appimage](https://github.com/SpacingBat3/electron-forge-maker-appimage) - 
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
