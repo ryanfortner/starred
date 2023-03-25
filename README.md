@@ -1679,6 +1679,7 @@
 
 ## Others 
 
+- [rtanderson2/quadra-octoprint](https://github.com/rtanderson2/quadra-octoprint) - Instructions for manually installing OctoPrint on an Inovato Quadra.
 - [openai/gpt-3](https://github.com/openai/gpt-3) - GPT-3: Language Models are Few-Shot Learners
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 - [kelyvin/Google-Messages-For-Desktop](https://github.com/kelyvin/Google-Messages-For-Desktop) - A "native-like" OS X, Windows, & Linux desktop app for Google Messages
@@ -2596,6 +2597,7 @@
 
 ## Shell 
 
+- [tiny-pilot/pi-expand](https://github.com/tiny-pilot/pi-expand) - Expands a Raspberry Pi microSD image to match the disk size, the inverse of PiShrink
 - [dualra1n/dualra1n](https://github.com/dualra1n/dualra1n) - this is a script to dualboot your iphone on ios 15 with 14
 - [verygenericname/SSHRD_Script](https://github.com/verygenericname/SSHRD_Script) - Shell script that creates a ssh ramdisk
 - [kitty915/palera1n-mod](https://github.com/kitty915/palera1n-mod) - iOS 15.0-15.7.1 (semi-)tethered checkm8 jailbreak with some mods
