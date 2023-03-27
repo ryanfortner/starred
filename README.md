@@ -1488,7 +1488,6 @@
 - [mani-barathi/Octave](https://github.com/mani-barathi/Octave) - Music🎵  streaming web-app
 - [klaudiosinani/tusk](https://github.com/klaudiosinani/tusk) - Refined Evernote desktop app
 - [hmlendea/gfn-electron](https://github.com/hmlendea/gfn-electron) - Linux Desktop client for Nvidia's GeForce NOW game streaming service
-- [Cat5TV/pinecraft](https://github.com/Cat5TV/pinecraft) - Minecraft Server Installer for Raspberry Pi and Other SBCs
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - A simple and modern GTK e-book reader
 - [alienzhangyw/BlockPi](https://github.com/alienzhangyw/BlockPi) - A visual programming editor app for Raspberry Pi
 - [TurboWarp/desktop](https://github.com/TurboWarp/desktop) - A better offline editor for Scratch 3.
@@ -1718,7 +1717,7 @@
 - [foxlet/bootra1n](https://github.com/foxlet/bootra1n) - Just enough Linux for checkra1n.
 - [ryanfortner/pfp-collection](https://github.com/ryanfortner/pfp-collection) - my profile picture collection for different seasons
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
-- [worproject/WoR-Translations](https://github.com/worproject/WoR-Translations) - Language files for the Windows on Raspberry imager.
+- [worproject/WoR-Imager-Translations](https://github.com/worproject/WoR-Imager-Translations) - Language files for the Windows on Raspberry imager.
 - [merocle/scalable-Mac-mini-stand](https://github.com/merocle/scalable-Mac-mini-stand) - Rack-mount stand for Apple Mac mini
 - [raspbian-addons/mirrors](https://github.com/raspbian-addons/mirrors) - repository mirrors for the Raspbian Addons repository
 - [AppImageCommunity/awesome-appimage](https://github.com/AppImageCommunity/awesome-appimage) - Lovingly crafted AppImage tools and resources
@@ -1934,7 +1933,6 @@
 - [Botspot/FreeCAD-precompiled](https://github.com/Botspot/FreeCAD-precompiled) - 
 - [Botspot/pi-apps-announcements](https://github.com/Botspot/pi-apps-announcements) - 
 - [worproject/RPi-Windows-Drivers](https://github.com/worproject/RPi-Windows-Drivers) - Windows on ARM device drivers for the Raspberry Pi single-board computer.
-- [worproject/RPi-Bluetooth-Testing](https://github.com/worproject/RPi-Bluetooth-Testing) - Experimental Bluetooth support for Windows 10 running on the Raspberry Pi 3/4.
 - [PiSugar/PiSugar](https://github.com/PiSugar/PiSugar) - PiSugar is a battery module for Raspberry Pi zero / zero W / zero WH
 - [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Papirus icon theme for Linux
 - [geerlingguy/pi-webcam](https://github.com/geerlingguy/pi-webcam) - Automation to configure a Raspberry Pi as a USB OTG webcam
@@ -2970,6 +2968,7 @@
 - [alexadam/repo-backup](https://github.com/alexadam/repo-backup) - Backup all Github & Gitlab repositories as .zip files
 - [koendv/openmv-ide-raspberrypi](https://github.com/koendv/openmv-ide-raspberrypi) - openmv-ide for raspberry pi
 - [phoenixbyrd/Screensavers](https://github.com/phoenixbyrd/Screensavers) - Installers for windows screensavers on RPI4 / Twister OS
+- [Cat5TV/pinecraft](https://github.com/Cat5TV/pinecraft) - Minecraft Server Installer for Raspberry Pi and Other SBCs
 - [cyysky/OpenCV-Raspberry-Pi-4-Package-for-Python](https://github.com/cyysky/OpenCV-Raspberry-Pi-4-Package-for-Python) - Raspberry PI 3/4 Raspbian Buster 10 Pre built OpenCV 4.5.0 Turned on compile flags TBB NEON VFPV3
 - [sakaki-/raspbian-nspawn-64](https://github.com/sakaki-/raspbian-nspawn-64) - Bootable RPi4 / RPi3 image with 64-bit kernel, 32-bit Raspbian Buster host OS, 64-bit Debian Buster guest OS in nspawn container
 - [CleanMachine1/Linux-DNS-Set](https://github.com/CleanMachine1/Linux-DNS-Set) - A small script to change the DNS server you use to resolve websites
@@ -3162,7 +3161,7 @@
 - [badrap/valita](https://github.com/badrap/valita) - A typesafe validation & parsing library for TypeScript.
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [danielyxie/bitburner](https://github.com/danielyxie/bitburner) - Bitburner Game
-- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [google/wireit](https://github.com/google/wireit) - Wireit upgrades your npm/pnpm/yarn scripts to make them smarter and more efficient.
 - [rejetto/hfs](https://github.com/rejetto/hfs) - HFS is a web file server to run on your computer. Share folders or even a single file thanks to the virtual file system.
