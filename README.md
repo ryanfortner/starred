@@ -2479,6 +2479,7 @@
 
 ## Rust 
 
+- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [azymohliad/watchmate](https://github.com/azymohliad/watchmate) - PineTime smart watch companion app for Linux phone and desktop
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
@@ -2513,7 +2514,6 @@
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [cloudhead/rx](https://github.com/cloudhead/rx) - 👾 Modern and minimalist pixel editor
 - [lupyuen/pinetime-watchface](https://github.com/lupyuen/pinetime-watchface) - Watch Face Framework for Rust + Mynewt on PineTime Smart Watch
-- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [naaive/orange](https://github.com/naaive/orange) - Cross-platform local file search engine.
 - [Brooooooklyn/simple-git](https://github.com/Brooooooklyn/simple-git) - Simple and fast git helper functions.
@@ -2649,7 +2649,7 @@
 - [phyver/GameShell](https://github.com/phyver/GameShell) - a game to learn (or teach) how to use standard commands in a Unix shell
 - [TheRemote/MinecraftBedrockServer](https://github.com/TheRemote/MinecraftBedrockServer) - Sets up a Minecraft Bedrock dedicated server on Ubuntu with options for automatic updates and running at startup
 - [koendv/Arduino_Tools](https://github.com/koendv/Arduino_Tools) - Contains upload tools for STM32 based boards
-- [YurinDoctrine/ubuntu-base-setup](https://github.com/YurinDoctrine/ubuntu-base-setup) - A rice script works on Ubuntu & Pop!_OS
+- [YurinDoctrine/ubuntu-base-setup](https://github.com/YurinDoctrine/ubuntu-base-setup) - A tweaker script works on Ubuntu & Pop!_OS
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [grokbeer/wifi-to-ethernet](https://github.com/grokbeer/wifi-to-ethernet) - WiFi-to-Ethernet: Use a Raspberry Pi to easily connect an Ethernet-only device to your WiFi network.
 - [mapi68/raspi-info](https://github.com/mapi68/raspi-info) - RASPI-INFO is a tool to get a lot of infomations about your Raspberry Pi
@@ -2676,7 +2676,7 @@
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [Crilum/apttools](https://github.com/Crilum/apttools) - make apt easier to use
 - [ProjectAfterBurner/update-scripts](https://github.com/ProjectAfterBurner/update-scripts) - package update scripts for our apt repository
-- [LukeZGD/iOS-OTA-Downgrader](https://github.com/LukeZGD/iOS-OTA-Downgrader) - A multi-purpose script to downgrade/restore and jailbreak supported legacy iOS devices
+- [LukeZGD/iOS-OTA-Downgrader](https://github.com/LukeZGD/iOS-OTA-Downgrader) - A multi-purpose script to save blobs, restore, and jailbreak supported legacy iOS devices
 - [missuo/MTProxy](https://github.com/missuo/MTProxy) - MTProxy(MTPROTO) v2 One-Click Installation
 - [NicoD-SBC/armbian-gaming](https://github.com/NicoD-SBC/armbian-gaming) - Tool to install gaming apps on Armbian Linux/Ubuntu/Debian arm64
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
