@@ -225,7 +225,7 @@
 - [eteran/c-vector](https://github.com/eteran/c-vector) - A dynamic array implementation in C similar to the one found in standard C++
 - [Klipper3d/klipper](https://github.com/Klipper3d/klipper) - Klipper is a 3d-printer firmware
 - [Kitware/CMake](https://github.com/Kitware/CMake) - Mirror of CMake upstream repository
-- [Interrupt/systemshock](https://github.com/Interrupt/systemshock) - Shockolate - Same great System Shock, new great taste.
+- [Interrupt/systemshock](https://github.com/Interrupt/systemshock) - Shockolate - A minimalist and cross platform System Shock source port.
 - [php/php-src](https://github.com/php/php-src) - The PHP Interpreter
 - [pbatard/libwdi](https://github.com/pbatard/libwdi) - Windows Driver Installer library for USB devices
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
