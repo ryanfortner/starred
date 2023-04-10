@@ -1988,7 +1988,7 @@
 - [prasathmani/tinyfilemanager](https://github.com/prasathmani/tinyfilemanager) - Single-file PHP file manager, browser and manage your files efficiently and easily with tinyfilemanager
 - [RaspAP/raspap-webgui](https://github.com/RaspAP/raspap-webgui) - Simple wireless AP setup & management for Debian-based devices
 - [PHProxy/phproxy](https://github.com/PHProxy/phproxy) - PHP based web proxy. Initially developed by whitefyre
-- [d5a/ds2pp](https://github.com/d5a/ds2pp) - 
+- [zuluj/ds2pp](https://github.com/zuluj/ds2pp) - 
 
 ## Pascal 
 
