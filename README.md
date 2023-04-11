@@ -590,7 +590,7 @@
 - [m-pays/m-cpuminer-qt](https://github.com/m-pays/m-cpuminer-qt) - Qt version (GUI) of Magi CPU Miner
 - [jmanc3/winbar](https://github.com/jmanc3/winbar) - A familiar X11 panel/dock to ease new linux users transition
 - [m-pays/magi](https://github.com/m-pays/magi) - Official Source of Coin MAGI (XMG)
-- [Smittyvb/ms-electron](https://github.com/Smittyvb/ms-electron) - Microsoft's open source Electron fork
+- [syvb/ms-electron](https://github.com/syvb/ms-electron) - Microsoft's open source Electron fork
 - [helio-fm/helio-workstation](https://github.com/helio-fm/helio-workstation) - One music sequencer for all major platforms, desktop and mobile
 - [zeldaret/botw](https://github.com/zeldaret/botw) - Decompilation of The Legend of Zelda: Breath of the Wild (Switch 1.5.0)
 - [linuxdeepin/dde-launcher](https://github.com/linuxdeepin/dde-launcher) - DDE Launcher Application
@@ -1988,7 +1988,6 @@
 - [prasathmani/tinyfilemanager](https://github.com/prasathmani/tinyfilemanager) - Single-file PHP file manager, browser and manage your files efficiently and easily with tinyfilemanager
 - [RaspAP/raspap-webgui](https://github.com/RaspAP/raspap-webgui) - Simple wireless AP setup & management for Debian-based devices
 - [PHProxy/phproxy](https://github.com/PHProxy/phproxy) - PHP based web proxy. Initially developed by whitefyre
-- [zuluj/ds2pp](https://github.com/zuluj/ds2pp) - 
 
 ## Pascal 
 
@@ -2024,6 +2023,7 @@
 
 ## Python 
 
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
 - [nsarrazin/serge](https://github.com/nsarrazin/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -2260,7 +2260,7 @@
 - [JeremyGrosser/repoman](https://github.com/JeremyGrosser/repoman) - A reprepro and pbuilder management API with a RESTful interface
 - [Debian/dak](https://github.com/Debian/dak) - [MIRROR] - send patches to https://salsa.debian.org/ftp-team/dak
 - [raspberrypi/usbboot](https://github.com/raspberrypi/usbboot) - Raspberry Pi USB booting code, moved from tools repository
-- [debreate/debreate](https://github.com/debreate/debreate) - A utility for creating Debian packages.
+- [debreate/debreate](https://github.com/debreate/debreate) - A utility for creating Debian packages (.deb)
 - [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
 - [keeferrourke/capitaine-cursors](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to pair well with my icon pack, La Capitaine.
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
