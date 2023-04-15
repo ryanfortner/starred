@@ -1069,8 +1069,8 @@
 
 - [chadbaldwin/simple-blog-bootstrap](https://github.com/chadbaldwin/simple-blog-bootstrap) - This is a template repo you can use to set up a simple blog using GitHub Pages with SSMS Style T-SQL highlighting. Refer to the blog post below for more instructions.
 - [OnionBrowser/OnionBrowser](https://github.com/OnionBrowser/OnionBrowser) - An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network
-- [arm-university/Embedded-Linux-Education-Kit](https://github.com/arm-university/Embedded-Linux-Education-Kit) - Embedded Linux Education Kit
-- [arm-university/Introduction-to-Computer-Architecture-Education-Kit](https://github.com/arm-university/Introduction-to-Computer-Architecture-Education-Kit) - Introduction-to-Computer-Architecture-Education-Kit
+- [arm-university/Embedded-Linux-Education-Kit](https://github.com/arm-university/Embedded-Linux-Education-Kit) - develop an embedded Linux system on low-cost Arm based platforms
+- [arm-university/Introduction-to-Computer-Architecture-Education-Kit](https://github.com/arm-university/Introduction-to-Computer-Architecture-Education-Kit) - know the fundamental topics and concepts of computer architecture including the application of these with modern Arm processors
 - [lichongjia/Cydia-Repo-Template](https://github.com/lichongjia/Cydia-Repo-Template) - This is a Cydia repo template.
 - [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) - This repository contains best profile readme's for your reference.
 - [bancika/diy-layout-creator](https://github.com/bancika/diy-layout-creator) - multi platform circuit layout and schematic drawing tool
@@ -2378,7 +2378,6 @@
 - [revoxhere/duino-coin](https://github.com/revoxhere/duino-coin) - ᕲ Duino-Coin is a coin that can be mined with almost everything, including Arduino boards.
 - [michael-lazar/rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
 - [MBRO95/PortableCellNetwork](https://github.com/MBRO95/PortableCellNetwork) - Utilize a Raspberry Pi and a Nuand BladeRF to generate your own portable local cell network
-- [ecriminal/Exploit-Discord-Cache-System-PoC](https://github.com/ecriminal/Exploit-Discord-Cache-System-PoC) - 🗄️ Exploit Discord's cache system to remote upload payloads to Discord users machines (possible malware dropper for e.g. targeting specific victims)
 - [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client in Python / PyGObject
 - [maoschanz/drawing](https://github.com/maoschanz/drawing) - Simple image editor for Linux
 - [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Linux Application Launcher 🇺🇦
@@ -3057,6 +3056,7 @@
 
 ## Swift 
 
+- [leminlimez/Cowabunga](https://github.com/leminlimez/Cowabunga) - iOS 14.0-15.7.1 & 16.0-16.1.2 MacDirtyCow ToolBox
 - [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI
 - [SerenaKit/Antoine](https://github.com/SerenaKit/Antoine) - A System Log UI for iOS
 - [palera1n/loader](https://github.com/palera1n/loader) - 
