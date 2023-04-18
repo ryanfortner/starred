@@ -980,7 +980,7 @@
 - [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
 - [mtlynch/picoshare](https://github.com/mtlynch/picoshare) - A minimalist, easy-to-host service for sharing images and other files
 - [minio/mc](https://github.com/minio/mc) - Simple | Fast tool to manage MinIO clusters :cloud:
-- [minio/minio](https://github.com/minio/minio) - Multi-Cloud :cloud: Object Storage
+- [minio/minio](https://github.com/minio/minio) - High Performance Object Storage for AI
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [aliyun/ossutil](https://github.com/aliyun/ossutil) - A user friendly command line tool to access AliCloud OSS.
 - [appleboy/gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang).
@@ -1069,8 +1069,8 @@
 
 - [chadbaldwin/simple-blog-bootstrap](https://github.com/chadbaldwin/simple-blog-bootstrap) - This is a template repo you can use to set up a simple blog using GitHub Pages with SSMS Style T-SQL highlighting. Refer to the blog post below for more instructions.
 - [OnionBrowser/OnionBrowser](https://github.com/OnionBrowser/OnionBrowser) - An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network
-- [arm-university/Embedded-Linux-Education-Kit](https://github.com/arm-university/Embedded-Linux-Education-Kit) - develop an embedded Linux system on low-cost Arm based platforms
-- [arm-university/Introduction-to-Computer-Architecture-Education-Kit](https://github.com/arm-university/Introduction-to-Computer-Architecture-Education-Kit) - know the fundamental topics and concepts of computer architecture including the application of these with modern Arm processors
+- [arm-university/Embedded-Linux-Education-Kit](https://github.com/arm-university/Embedded-Linux-Education-Kit) - Develop an embedded Linux system on low-cost Arm based platforms
+- [arm-university/Introduction-to-Computer-Architecture-Education-Kit](https://github.com/arm-university/Introduction-to-Computer-Architecture-Education-Kit) - Gain an understanding of the fundamental topics and concepts of computer architecture including the application of these with modern Arm processors
 - [lichongjia/Cydia-Repo-Template](https://github.com/lichongjia/Cydia-Repo-Template) - This is a Cydia repo template.
 - [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) - This repository contains best profile readme's for your reference.
 - [bancika/diy-layout-creator](https://github.com/bancika/diy-layout-creator) - multi platform circuit layout and schematic drawing tool
@@ -2327,7 +2327,7 @@
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-525-Stars](https://github.com/iBug/This-Repo-Has-525-Stars) - Yes, it's true :heartbeat: This repository has 525 stars.
+- [iBug/This-Repo-Has-526-Stars](https://github.com/iBug/This-Repo-Has-526-Stars) - Yes, it's true :orange_heart: This repository has 526 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
