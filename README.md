@@ -416,7 +416,7 @@
 - [CleanMachine1/C-Code](https://github.com/CleanMachine1/C-Code) - 
 - [nodogsplash/nodogsplash](https://github.com/nodogsplash/nodogsplash) - Nodogsplash offers a simple way to provide restricted access to an Internet connection using a captive portal. Pull requests are welcome!
 - [skyjake/lagrange](https://github.com/skyjake/lagrange) - A Beautiful Gemini Client
-- [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see http://wiki.qemu.org/Contribute/SubmitAPatch for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
+- [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
 - [openrazer/openrazer](https://github.com/openrazer/openrazer) - Open source driver and user-space daemon to control Razer lighting and other features on GNU/Linux
 - [Open-Smartwatch/open-smartwatch-os](https://github.com/Open-Smartwatch/open-smartwatch-os) - The Open-Smartwatch Operating System.
 - [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb
@@ -1108,6 +1108,7 @@
 - [linuxmint/live-installer](https://github.com/linuxmint/live-installer) - A live installer for the Debian edition
 - [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge) - Can you create something cool without modern tools?
 - [ryanfortner/ryanfortner.github.io](https://github.com/ryanfortner/ryanfortner.github.io) - My website and portfolio.
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [fosshostorg/public-docs](https://github.com/fosshostorg/public-docs) - The repository for the new Fosshost documentation.
 - [cs91chris/caddy-browse-template](https://github.com/cs91chris/caddy-browse-template) - Template file server for caddy web server
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
@@ -2601,7 +2602,7 @@
 - [tiny-pilot/pi-expand](https://github.com/tiny-pilot/pi-expand) - Expands a Raspberry Pi microSD image to match the disk size, the inverse of PiShrink
 - [dualra1n/dualra1n](https://github.com/dualra1n/dualra1n) - this is a script to dualboot your iphone on ios 15 with 14
 - [verygenericname/SSHRD_Script](https://github.com/verygenericname/SSHRD_Script) - Shell script that creates a ssh ramdisk
-- [kitty915/palera1n-mod](https://github.com/kitty915/palera1n-mod) - iOS 15.0-15.7.1 (semi-)tethered checkm8 jailbreak with some mods
+- [kitty915/palera1n-mod](https://github.com/kitty915/palera1n-mod) - iOS 15-16 (semi-)tethered checkm8 jailbreak with some mods
 - [FICS/atcmd](https://github.com/FICS/atcmd) - Android AT command scripts and firmware extraction
 - [lzkelley/bkup_rpimage](https://github.com/lzkelley/bkup_rpimage) - Script to backup a Raspberry Pi disk image
 - [kramred/ungoogled-chromium-macos](https://github.com/kramred/ungoogled-chromium-macos) - macOS packaging for ungoogled-chromium
@@ -3204,7 +3205,6 @@
 - [shitcorp/discord-bot-dashboard](https://github.com/shitcorp/discord-bot-dashboard) - The npm package for using the Discord Bot Dashboard inside your own source code
 - [lowlighter/denolithic](https://github.com/lowlighter/denolithic) - 🦕 Transform any markdown file into presentation slides with extended markup and runnable code snippets
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
 - [pwa-builder/pwa-starter](https://github.com/pwa-builder/pwa-starter) - Welcome to the PWABuilder pwa-starter! Looking to build a new Progressive Web App and not sure where to get started? This is what you are looking for!
 - [codebytere/electron-build-tools-autocomplete](https://github.com/codebytere/electron-build-tools-autocomplete) - Fig autocomplete extension for https://github.com/electron/build-tools
