@@ -940,7 +940,7 @@
 - [winfsp/hubfs](https://github.com/winfsp/hubfs) - File system for GitHub & GitLab
 - [srevinsaju/zap](https://github.com/srevinsaju/zap) - :zap: Delightful AppImage package manager
 - [jaksi/sshesame](https://github.com/jaksi/sshesame) - An easy to set up and use SSH honeypot, a fake SSH server that lets anyone in and logs their activity
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
@@ -1329,7 +1329,7 @@
 - [Snipa22/nodejs-pool](https://github.com/Snipa22/nodejs-pool) - 
 - [patrickkunka/mixitup](https://github.com/patrickkunka/mixitup) - A high-performance, dependency-free library for animated filtering, sorting, insertion, removal and more
 - [retspen/webvirtmgr](https://github.com/retspen/webvirtmgr) - WebVirtMgr panel for manage virtual machine
-- [Bilaboz/duino-coin-pools](https://github.com/Bilaboz/duino-coin-pools) - 
+- [Bilaboz/duino-coin-pools](https://github.com/Bilaboz/duino-coin-pools) - Mining nodes for Duino-Coin written in node.js
 - [carlsednaoui/ouibounce](https://github.com/carlsednaoui/ouibounce) - Increase your landing page conversion rates.
 - [Esri/esri.github.io](https://github.com/Esri/esri.github.io) - Esri GitHub landing page
 - [nordicgiant2/cool-landing](https://github.com/nordicgiant2/cool-landing) - A personalized material-ui landingpage template
