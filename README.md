@@ -42,6 +42,7 @@
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [Logos](#logos)
 - [Lua](#lua)
 - [M4](#m4)
 - [Makefile](#makefile)
@@ -563,7 +564,7 @@
 - [rexim/aids](https://github.com/rexim/aids) - std replacement for C++
 - [webcamoid/webcamoid](https://github.com/webcamoid/webcamoid) - Webcamoid is a full featured and multiplatform webcam suite.
 - [merryhime/dynarmic](https://github.com/merryhime/dynarmic) - An ARM dynamic recompiler.
-- [CrealityOfficial/Ender-3V2](https://github.com/CrealityOfficial/Ender-3V2) - 
+- [CrealityOfficial/Ender-3V2](https://github.com/CrealityOfficial/Ender-3V2) - The source for Creality Ender-3V2,MCU and Screen;
 - [chromiumembedded/cef](https://github.com/chromiumembedded/cef) - Chromium Embedded Framework (CEF). A simple framework for embedding Chromium-based browsers in other applications.
 - [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
 - [0vercl0k/wtf](https://github.com/0vercl0k/wtf) - wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows.
@@ -1563,6 +1564,10 @@
 - [thundernest/k-9](https://github.com/thundernest/k-9) - K-9 Mail – Open Source Email App for Android
 - [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix) - ⚠️ Fenix (Firefox for Android) moved to a new repository. It is now developed and maintained as part of: https://github.com/mozilla-mobile/firefox-android
 
+## Logos 
+
+- [LNSSPsd/PodsGrant](https://github.com/LNSSPsd/PodsGrant) - Treat AirPods Pro 2 as AirPods Pro to get it working better on older operating systems (for a few iOS versions only)
+
 ## Lua 
 
 - [HTV04/funkin-rewritten](https://github.com/HTV04/funkin-rewritten) - Optimized rewrite of Friday Night Funkin' built on LÖVE
@@ -2027,7 +2032,7 @@
 
 ## Python 
 
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com, writesonic.com, sqlchat.ai, t3nsor.com, you.com etc...)
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
 - [ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) - Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
