@@ -762,6 +762,7 @@
 
 ## CSS 
 
+- [zquestz/bitcoincash](https://github.com/zquestz/bitcoincash) - Bitcoin Cash - Peer-to-Peer Electronic Cash
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [christianselig/OpenInApolloExtension](https://github.com/christianselig/OpenInApolloExtension) - Safari extension bundled with iOS 15 that helps in opening Reddit URLs in Apollo
 - [aadilayub/firefox-i3wm-theme](https://github.com/aadilayub/firefox-i3wm-theme) - i3 and qutebrowser inspired theme for firefox
@@ -1389,7 +1390,7 @@
 - [miraclx/freyr-js](https://github.com/miraclx/freyr-js) - A tool for downloading songs from music streaming services like Spotify and Apple Music.
 - [evilsocket/pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 - [ABSphreak/readme-jokes](https://github.com/ABSphreak/readme-jokes) - 😄 Jokes for your GitHub READMEs
-- [l3oatkunGG/DUCO-dashboard-widget-for-iOS](https://github.com/l3oatkunGG/DUCO-dashboard-widget-for-iOS) - A duino-coin dashboard for iOS using scriptable app
+- [l3oatkungg/DUCO-dashboard-widget-for-iOS](https://github.com/l3oatkungg/DUCO-dashboard-widget-for-iOS) - A duino-coin dashboard for iOS using scriptable app
 - [nschloe/stackoverflow-card](https://github.com/nschloe/stackoverflow-card) - 
 - [RainyGao-GitHub/DocSys](https://github.com/RainyGao-GitHub/DocSys) - MxsDoc is a web based document management system
 - [jersou/markdown-explorer](https://github.com/jersou/markdown-explorer) - Easily explore, view and edit markdown documentation of a file tree
