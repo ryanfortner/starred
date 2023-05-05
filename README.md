@@ -197,7 +197,6 @@
 - [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
 - [libimobiledevice/libirecovery](https://github.com/libimobiledevice/libirecovery) - Library and utility to talk to iBoot/iBSS via USB on Mac OS X, Windows, and Linux
 - [1Conan/tsschecker](https://github.com/1Conan/tsschecker) - a powerful tool to check tss signing status of various devices and firmwares
-- [littlefs-project/littlefs](https://github.com/littlefs-project/littlefs) - A little fail-safe filesystem designed for microcontrollers
 - [radxa/rtkbt](https://github.com/radxa/rtkbt) - Realtek Bluetooth Linux Driver
 - [PeterCxy/evdev-right-click-emulation](https://github.com/PeterCxy/evdev-right-click-emulation) - Implement Long-Press-to-Right-Click on Touchscreen Linux Devices with Xorg or Wayland
 - [ProgerXP/SaneC](https://github.com/ProgerXP/SaneC) - A Library That Makes Programming in C Sane
@@ -2103,6 +2102,7 @@
 - [Soemonewho2/apocolyptic-fighter](https://github.com/Soemonewho2/apocolyptic-fighter) - A post apocalyptic game made with pygame
 - [GabMus/HydraPaper](https://github.com/GabMus/HydraPaper) - A Gtk utility to set two different backgrounds for each monitor on GNOME (which lacks this feature)
 - [crawsome/PyRPG_Mini](https://github.com/crawsome/PyRPG_Mini) - A small Python RPG, focused on RPG elements like battle and grinding
+- [littlefs-project/littlefs](https://github.com/littlefs-project/littlefs) - A little fail-safe filesystem designed for microcontrollers
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [Dhravya/beautify-this-bot](https://github.com/Dhravya/beautify-this-bot) - A twitter bot that simply replies with a beautiful screenshot of the tweet, powered by beautify.dhravya.dev
 - [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
