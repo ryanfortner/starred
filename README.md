@@ -1747,7 +1747,6 @@
 - [fengxue-jrql/box86-and-box64-for-arm64](https://github.com/fengxue-jrql/box86-and-box64-for-arm64) - 在arm64上运行box86和box64，box86不需要armhf chroot，box86和box64共同工作。
 - [armbian/mirror](https://github.com/armbian/mirror) - Armbian Linux Mirrors Infrastructure
 - [saiarcot895/chromium-ubuntu-build](https://github.com/saiarcot895/chromium-ubuntu-build) - Packaging files for building Chromium on Ubuntu
-- [WOA-Project/SurfaceDuo-Guides](https://github.com/WOA-Project/SurfaceDuo-Guides) - Guides for the Surface Duo
 - [LukeZGD/iPhone4Down](https://github.com/LukeZGD/iPhone4Down) - Downgrade your iPhone 4 on Linux (using ch3rryflower)
 - [kingToolbox/WindEdit](https://github.com/kingToolbox/WindEdit) - A high performace text editor for huge file and long line.
 - [CleanMachine1/workflows](https://github.com/CleanMachine1/workflows) - Utilising github actions for running commands not on my local machine
@@ -2124,6 +2123,7 @@
 - [armbian/documentation](https://github.com/armbian/documentation) - Armbian Linux Documentation
 - [Mailu/Mailu](https://github.com/Mailu/Mailu) - Insular email distribution - mail server as Docker images
 - [CoolCat467/fix-lwjgl](https://github.com/CoolCat467/fix-lwjgl) - Fix LWJGL (Light Weight Java Game Library) java classpath data for ARM devices
+- [WOA-Project/SurfaceDuo-Guides](https://github.com/WOA-Project/SurfaceDuo-Guides) - Guides for the Surface Duo
 - [chbrown/pi](https://github.com/chbrown/pi) - Simpler python package installation
 - [CMDR-Piboy314/Python-Typing-Test](https://github.com/CMDR-Piboy314/Python-Typing-Test) - A Text-Based Typing Test made in Python
 - [pikvm/pi-builder](https://github.com/pikvm/pi-builder) - Extensible tool to build Arch Linux ARM for Raspberry Pi on x86_64 host using Docker
