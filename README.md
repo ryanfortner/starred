@@ -1376,7 +1376,7 @@
 - [specious/bitly-client](https://github.com/specious/bitly-client) - :link: Create and manage your Bitly shortlinks from the command line
 - [OdyseeTeam/odysee-frontend](https://github.com/OdyseeTeam/odysee-frontend) - The code that runs odysee.com
 - [revoxhere/duco-webservices](https://github.com/revoxhere/duco-webservices) - 🕸️ Source of Duino-Coin static Web Wallet & Web Miner
-- [tobychui/arozos](https://github.com/tobychui/arozos) - General purposed Web Desktop Operating Platform / OS for Raspberry Pis, Now written in Go!
+- [tobychui/arozos](https://github.com/tobychui/arozos) - Web Desktop Operating System for low power platforms, Now written in Go!
 - [KatsuteDev/GitHub-Red-Issues](https://github.com/KatsuteDev/GitHub-Red-Issues) - Revert closed GitHub issues from purple back to red.
 - [jaedb/Iris](https://github.com/jaedb/Iris) - Discover, explore and manage your music library across multiple sources with this beautiful web-based interface. Iris is a Mopidy frontend extension.
 - [electron/update.electronjs.org](https://github.com/electron/update.electronjs.org) - 📡 A free service that makes it easy for open-source Electron apps to update themselves.
@@ -2963,7 +2963,7 @@
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 - [phoenixbyrd/youtube2mp3](https://github.com/phoenixbyrd/youtube2mp3) - Youtube to MP3 Converter
 - [koendv/camotics-raspberrypi](https://github.com/koendv/camotics-raspberrypi) - CAMotics on Raspberry Pi 4 "Buster"
-- [davidk/PrusaSlicer-ARM.AppImage](https://github.com/davidk/PrusaSlicer-ARM.AppImage) - PrusaSlicer packaged in an ARM AppImage for the Pi 4. Pre-built AppImages located within releases.
+- [davidk/PrusaSlicer-ARM.AppImage](https://github.com/davidk/PrusaSlicer-ARM.AppImage) - PrusaSlicer packaged in a ARM AppImage. Pre-built AppImages located within releases.
 - [koendv/xtensa-esp32-elf-raspberrypi](https://github.com/koendv/xtensa-esp32-elf-raspberrypi) - esp32/esp32s2 gcc cross-compiler for 64-bit raspberry
 - [futurejones/code-oss-aarch64](https://github.com/futurejones/code-oss-aarch64) - Visual Studio Code OSS for Ubuntu AArch64 and Others
 - [Hexxeh/rpi-update](https://github.com/Hexxeh/rpi-update) - An easier way to update the firmware of your Raspberry Pi
