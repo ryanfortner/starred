@@ -2029,6 +2029,7 @@
 
 ## Python 
 
+- [timsutton/brigadier](https://github.com/timsutton/brigadier) - Fetch and install Boot Camp ESDs with ease.
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
 - [ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) - Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU
@@ -3063,6 +3064,7 @@
 
 ## Swift 
 
+- [leminlimez/CowabungaLite](https://github.com/leminlimez/CowabungaLite) - iOS 15+ Customization Toolbox
 - [Aayush9029/Armed](https://github.com/Aayush9029/Armed) - Never lose your mac again.
 - [ninxsoft/Mist](https://github.com/ninxsoft/Mist) - A Mac utility that automatically downloads macOS Firmwares / Installers.
 - [leminlimez/Cowabunga](https://github.com/leminlimez/Cowabunga) - iOS 14.0-15.7.1 & 16.0-16.1.2 MacDirtyCow ToolBox
