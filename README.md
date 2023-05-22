@@ -148,10 +148,10 @@
 - [iPodLinux/iPodLinux-SVN](https://github.com/iPodLinux/iPodLinux-SVN) - GitHub mirror of the original SourceForge SVN code
 - [iPodLinux/podzilla2](https://github.com/iPodLinux/podzilla2) - Updated user interface for iPodLinux, featuring themes and modules support
 - [iPodLinux/ipodloader2](https://github.com/iPodLinux/ipodloader2) - Updated bootloader for iPodLinux with more features
-- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-16.4.1 semi-tethered checkm8 jailbreak
+- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-16.5 semi-tethered checkm8 jailbreak
 - [Rockbox/rockbox](https://github.com/Rockbox/rockbox) - Read-only mirror of rockbox' main repository
 - [stolk/energygraph](https://github.com/stolk/energygraph) - Graphs the energy use of a host inside a text terminal, using intel-rapl data from the /sys filesystem.
-- [dora2-iOS/ra1npoc](https://github.com/dora2-iOS/ra1npoc) - A tool for re-jailbreak devices jailbroken by checkra1n/odysseyra1n on iOS/iPadOS/macOS platforms. (opensource pongo loader)
+- [kok3shidoll/ra1npoc](https://github.com/kok3shidoll/ra1npoc) - A tool for re-jailbreak devices jailbroken by checkra1n/odysseyra1n on iOS/iPadOS/macOS platforms. (opensource pongo loader)
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 - [Wind4/vlmcsd](https://github.com/Wind4/vlmcsd) - KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)
 - [dora2-iOS/ipwnder_lite](https://github.com/dora2-iOS/ipwnder_lite) - lightweight ipwnder
@@ -2030,6 +2030,7 @@
 
 ## Python 
 
+- [NightmareAI/Real-ESRGAN](https://github.com/NightmareAI/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 - [Hackt1vator/iRevive](https://github.com/Hackt1vator/iRevive) - passcode bypass for ios 12-16
 - [timsutton/brigadier](https://github.com/timsutton/brigadier) - Fetch and install Boot Camp ESDs with ease.
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.
@@ -2125,7 +2126,7 @@
 - [chbrown/pi](https://github.com/chbrown/pi) - Simpler python package installation
 - [CMDR-Piboy314/Python-Typing-Test](https://github.com/CMDR-Piboy314/Python-Typing-Test) - A Text-Based Typing Test made in Python
 - [pikvm/pi-builder](https://github.com/pikvm/pi-builder) - Extensible tool to build Arch Linux ARM for Raspberry Pi on x86_64 host using Docker
-- [pdinklag/MinecraftStats](https://github.com/pdinklag/MinecraftStats) - A Minecraft player statistics browser for the web - supports 1.13 to 1.19!
+- [pdinklag/MinecraftStats](https://github.com/pdinklag/MinecraftStats) - A Minecraft player statistics browser for the web - supports 1.13 and later!
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [pindexis/qfc](https://github.com/pindexis/qfc) - Quick Command-line File Completion
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
@@ -3072,7 +3073,7 @@
 - [leminlimez/Cowabunga](https://github.com/leminlimez/Cowabunga) - iOS 14.0-15.7.1 & 16.0-16.1.2 MacDirtyCow ToolBox
 - [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI
 - [SerenaKit/Antoine](https://github.com/SerenaKit/Antoine) - A System Log UI for iOS
-- [palera1n/loader](https://github.com/palera1n/loader) - 
+- [palera1n/loader](https://github.com/palera1n/loader) - Loader application for palera1n.
 - [zzanehip/Deca5](https://github.com/zzanehip/Deca5) - Tethered Downgrade Your A5 Device Today. By @zzanehip.
 - [haxi0/TrollApps](https://github.com/haxi0/TrollApps) - App Store, but for TrollStore
 - [c22dev/TrollBox](https://github.com/c22dev/TrollBox) - A TrollStore app that embed all TrollStore tools
