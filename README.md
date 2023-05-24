@@ -191,6 +191,7 @@
 - [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
 - [libimobiledevice/libirecovery](https://github.com/libimobiledevice/libirecovery) - Library and utility to talk to iBoot/iBSS via USB on Mac OS X, Windows, and Linux
 - [1Conan/tsschecker](https://github.com/1Conan/tsschecker) - a powerful tool to check tss signing status of various devices and firmwares
+- [littlefs-project/littlefs](https://github.com/littlefs-project/littlefs) - A little fail-safe filesystem designed for microcontrollers
 - [radxa/rtkbt](https://github.com/radxa/rtkbt) - Realtek Bluetooth Linux Driver
 - [PeterCxy/evdev-right-click-emulation](https://github.com/PeterCxy/evdev-right-click-emulation) - Implement Long-Press-to-Right-Click on Touchscreen Linux Devices with Xorg or Wayland
 - [ProgerXP/SaneC](https://github.com/ProgerXP/SaneC) - A Library That Makes Programming in C Sane
@@ -2102,7 +2103,6 @@
 - [Soemonewho2/apocolyptic-fighter](https://github.com/Soemonewho2/apocolyptic-fighter) - A post apocalyptic game made with pygame
 - [GabMus/HydraPaper](https://github.com/GabMus/HydraPaper) - A Gtk utility to set two different backgrounds for each monitor on GNOME (which lacks this feature)
 - [crawsome/PyRPG_Mini](https://github.com/crawsome/PyRPG_Mini) - A small Python RPG, focused on RPG elements like battle and grinding
-- [littlefs-project/littlefs](https://github.com/littlefs-project/littlefs) - A little fail-safe filesystem designed for microcontrollers
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [Dhravya/beautify-this-bot](https://github.com/Dhravya/beautify-this-bot) - A twitter bot that simply replies with a beautiful screenshot of the tweet, powered by beautify.dhravya.dev
 - [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
@@ -2472,6 +2472,7 @@
 
 ## Ruby 
 
+- [mistydemeo/tigerbrew](https://github.com/mistydemeo/tigerbrew) - Experimental fork of homebrew for PPC Macs on Tiger
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 - [sidneys/homebrew-homebrew](https://github.com/sidneys/homebrew-homebrew) - sidneys.github.io Homebrew Tap
 - [solidusio/solidus](https://github.com/solidusio/solidus) - 🛒 Solidus, the open-source eCommerce framework for industry trailblazers.
@@ -3141,7 +3142,7 @@
 - [anaclumos/bing-chat-for-all-browsers](https://github.com/anaclumos/bing-chat-for-all-browsers) - Enable Bing ChatGPT on Chrome and Firefox
 - [felixrieseberg/slack-archive](https://github.com/felixrieseberg/slack-archive) - Generate static HTML archives of Slack workspaces
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
-- [skiff-org/skiff-mail](https://github.com/skiff-org/skiff-mail) - Private, end-to-end encrypted, wallet native mail.
+- [skiff-org/skiff-apps](https://github.com/skiff-org/skiff-apps) - Private, end-to-end encrypted, wallet native mail.
 - [cschleiden/vscode-github-actions](https://github.com/cschleiden/vscode-github-actions) - Simple, unofficial extension to view GitHub Actions workflows and runs in VS Code
 - [electron/notarize](https://github.com/electron/notarize) - Notarize your macOS Electron Apps
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
