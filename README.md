@@ -120,6 +120,8 @@
 
 ## C 
 
+- [dora2-iOS/daibutsu](https://github.com/dora2-iOS/daibutsu) - open source "untether" for 32bit 8.4.1-9.1 untethered jailbreak. codesign bypass & kernel exploit
+- [dora2-iOS/powdersn0w_pub](https://github.com/dora2-iOS/powdersn0w_pub) - powdersn0w pub
 - [torproject/tor](https://github.com/torproject/tor) - unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --
 - [opa334/Dopamine](https://github.com/opa334/Dopamine) - Dopamine is a semi-untethered permasigned jailbreak for iOS 15
 - [antimatter15/alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) - Locally run an Instruction-Tuned Chat-Style LLM
@@ -2339,7 +2341,7 @@
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-527-Stars](https://github.com/iBug/This-Repo-Has-527-Stars) - Yes, it's true :yellow_heart: This repository has 527 stars.
+- [iBug/This-Repo-Has-528-Stars](https://github.com/iBug/This-Repo-Has-528-Stars) - Yes, it's true :heartpulse: This repository has 528 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
