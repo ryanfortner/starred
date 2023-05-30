@@ -1172,6 +1172,7 @@
 - [henkelmax/simple-voice-chat](https://github.com/henkelmax/simple-voice-chat) - A working voice chat in Minecraft!
 - [bk138/droidVNC-NG](https://github.com/bk138/droidVNC-NG) - VNC server app for Android that does not require root privileges.
 - [SKCraft/Launcher](https://github.com/SKCraft/Launcher) - 🚀 Distribute your Minecraft modpacks with a custom launcher
+- [pdinklag/MinecraftStats](https://github.com/pdinklag/MinecraftStats) - A Minecraft player statistics browser for the web - supports 1.13 and later!
 - [i2p/i2p.i2p](https://github.com/i2p/i2p.i2p) - I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is b
 - [google/gitiles](https://github.com/google/gitiles) - A simple browser for Git repositories.
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
@@ -1650,10 +1651,11 @@
 
 ## Objective-C 
 
+- [opa334/Choicy](https://github.com/opa334/Choicy) - Advanced tweak configurator for iOS 10 and up
 - [maciekish/iReSign](https://github.com/maciekish/iReSign) - iReSign allows iDevice app bundles (.ipa) files to be signed or resigned with a digital certificate from Apple for distribution. This tool is aimed at enterprises users, for enterprise deployment, whe
 - [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - A simple way to make your mouse better.
 - [Zibri/ZiPhone](https://github.com/Zibri/ZiPhone) - The best iPhone unlocker.
-- [EmokidxD/BootSound](https://github.com/EmokidxD/BootSound) - source code of my tweak
+- [emokid99/BootSound](https://github.com/emokid99/BootSound) - source code of my tweak
 - [haxi0/TrollBoard](https://github.com/haxi0/TrollBoard) - Icon changer for iOS 15.0 - 16.1.2
 - [toy/blueutil](https://github.com/toy/blueutil) - CLI for bluetooth on OSX: power, discoverable state, list, inquire devices, connect, info, …
 - [tihmstar/otachecker](https://github.com/tihmstar/otachecker) - quick and dirty tool to check what ota blobs are being signed by apple
@@ -2129,7 +2131,6 @@
 - [chbrown/pi](https://github.com/chbrown/pi) - Simpler python package installation
 - [CMDR-Piboy314/Python-Typing-Test](https://github.com/CMDR-Piboy314/Python-Typing-Test) - A Text-Based Typing Test made in Python
 - [pikvm/pi-builder](https://github.com/pikvm/pi-builder) - Extensible tool to build Arch Linux ARM for Raspberry Pi on x86_64 host using Docker
-- [pdinklag/MinecraftStats](https://github.com/pdinklag/MinecraftStats) - A Minecraft player statistics browser for the web - supports 1.13 and later!
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [pindexis/qfc](https://github.com/pindexis/qfc) - Quick Command-line File Completion
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
@@ -2341,7 +2342,7 @@
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-528-Stars](https://github.com/iBug/This-Repo-Has-528-Stars) - Yes, it's true :heartpulse: This repository has 528 stars.
+- [iBug/This-Repo-Has-529-Stars](https://github.com/iBug/This-Repo-Has-529-Stars) - Yes, it's true :heart: This repository has 529 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
