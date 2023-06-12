@@ -235,7 +235,6 @@
 - [probonopd/zsync-curl](https://github.com/probonopd/zsync-curl) - Partial/differential file download client over HTTP(S)
 - [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 - [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression
-- [immortalwrt/luci](https://github.com/immortalwrt/luci) - LuCI - OpenWrt Configuration Interface
 - [apache/mynewt-nimble](https://github.com/apache/mynewt-nimble) - Apache mynewt
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.
 - [InfiniTimeOrg/pinetime-mcuboot-bootloader](https://github.com/InfiniTimeOrg/pinetime-mcuboot-bootloader) - An open source bootloader for the PineTime based on MyNEWT and MCUBoot.
@@ -1305,6 +1304,7 @@
 - [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
 - [Aguga2201/PloudOsBot](https://github.com/Aguga2201/PloudOsBot) - 
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
+- [immortalwrt/luci](https://github.com/immortalwrt/luci) - LuCI - OpenWrt Configuration Interface
 - [jvalen/pixel-art-react](https://github.com/jvalen/pixel-art-react) - Pixel art animation and drawing web app powered by React
 - [FreeTubeApp/freetube-redirect](https://github.com/FreeTubeApp/freetube-redirect) - Browser extension to open YouTube links into FreeTube
 - [khlam/discord-sandboxed](https://github.com/khlam/discord-sandboxed) - Alternative electron-based Discord client with custom telemetry blocker and privacy-focused push-to-talk.
@@ -2343,7 +2343,7 @@
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-535-Stars](https://github.com/iBug/This-Repo-Has-535-Stars) - Yes, it's true :heartbeat: This repository has 535 stars.
+- [iBug/This-Repo-Has-536-Stars](https://github.com/iBug/This-Repo-Has-536-Stars) - Yes, it's true :revolving_hearts: This repository has 536 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
