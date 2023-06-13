@@ -1403,7 +1403,6 @@
 - [maxiz1225/the-simple-unblocker-public](https://github.com/maxiz1225/the-simple-unblocker-public) - a simple front end proxy
 - [tomer8007/spotify-web-ads-remover](https://github.com/tomer8007/spotify-web-ads-remover) - Simple extension to remove audio ads on Spotify web player
 - [FirefoxCSS-Store/FirefoxCSS-Store.github.io](https://github.com/FirefoxCSS-Store/FirefoxCSS-Store.github.io) - A collection site of Firefox userchrome themes, mostly from FirefoxCSS Reddit community.
-- [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [Schneegans/Desktop-Cube](https://github.com/Schneegans/Desktop-Cube) - 🧊 Indulge in nostalgia with useless 3D effects.
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [d3/d3-zoom](https://github.com/d3/d3-zoom) - Pan and zoom SVG, HTML or Canvas using mouse or touch input.
@@ -2343,7 +2342,7 @@
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-536-Stars](https://github.com/iBug/This-Repo-Has-536-Stars) - Yes, it's true :revolving_hearts: This repository has 536 stars.
+- [iBug/This-Repo-Has-537-Stars](https://github.com/iBug/This-Repo-Has-537-Stars) - Yes, it's true :heart: This repository has 537 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
