@@ -1749,7 +1749,6 @@
 - [fengxue-jrql/box86-and-box64-for-arm64](https://github.com/fengxue-jrql/box86-and-box64-for-arm64) - 在arm64上运行box86和box64，box86不需要armhf chroot，box86和box64共同工作。
 - [armbian/mirror](https://github.com/armbian/mirror) - Armbian Linux Mirrors Infrastructure
 - [saiarcot895/chromium-ubuntu-build](https://github.com/saiarcot895/chromium-ubuntu-build) - Packaging files for building Chromium on Ubuntu
-- [LukeZGD/iPhone4Down](https://github.com/LukeZGD/iPhone4Down) - Downgrade your iPhone 4 on Linux (using ch3rryflower)
 - [kingToolbox/WindEdit](https://github.com/kingToolbox/WindEdit) - A high performace text editor for huge file and long line.
 - [CleanMachine1/workflows](https://github.com/CleanMachine1/workflows) - Utilising github actions for running commands not on my local machine
 - [TheMediocritist/RadxaZero_Experiments](https://github.com/TheMediocritist/RadxaZero_Experiments) - 
