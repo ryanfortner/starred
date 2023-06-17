@@ -1806,7 +1806,7 @@
 - [Augmentedjs/balena-io-etcher-builds](https://github.com/Augmentedjs/balena-io-etcher-builds) - A place to host my community builds of Ethcher
 - [ukui/ukui-desktop-environment](https://github.com/ukui/ukui-desktop-environment) - 
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
-- [AlfarexGuy2019/tweaks](https://github.com/AlfarexGuy2019/tweaks) - 💻 List of awesome programs and tweaks for Windows, macOS and Linux.
+- [AlfarexGuy2019/awesome-tweaks](https://github.com/AlfarexGuy2019/awesome-tweaks) - 💻 List of awesome programs and tweaks for Windows, macOS and Linux.
 - [ioctlLR/NVorbis](https://github.com/ioctlLR/NVorbis) - A C# implementation of a Xiph.org Foundation Vorbis decoder.
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at ht
 - [Pi-Apps-Coders/.github](https://github.com/Pi-Apps-Coders/.github) - 
@@ -2360,7 +2360,6 @@
 - [arindas/mac-on-linux-with-qemu](https://github.com/arindas/mac-on-linux-with-qemu) - Runs macOS on linux with qemu.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [FreeCAD/FreeCAD-Bundle](https://github.com/FreeCAD/FreeCAD-Bundle) - Stand-alone repo to Build and Deploy installable FreeCAD images
-- [NoozSBC/mcpi-sound](https://github.com/NoozSBC/mcpi-sound) - Add sound to MCPI
 - [ecthros/uncaptcha2](https://github.com/ecthros/uncaptcha2) - defeating the latest version of ReCaptcha with 91% accuracy
 - [sunfounder/SunFounder_SensorKit_for_RPi2](https://github.com/sunfounder/SunFounder_SensorKit_for_RPi2) - SunFounder Sensor Kit V2.0 for Raspberry Pi 2
 - [gerardpuig/ubuntu-cleaner](https://github.com/gerardpuig/ubuntu-cleaner) - Ubuntu Cleaner is a tool that makes it easy to clean your ubuntu system.
@@ -3019,7 +3018,6 @@
 - [techcoder20/RPI-Kivy-Installer](https://github.com/techcoder20/RPI-Kivy-Installer) - It is generally hard to install kivy on Raspberry Pi. To Make Your Life Easier I have Made A Bash Script That Will Install Kivy On Your Raspberry Pi And Run A demo Script
 - [adityashrm21/RaspberryPi-Packet-Sniffer](https://github.com/adityashrm21/RaspberryPi-Packet-Sniffer) - An HTTP and HTTPS sniffing tool created using a Raspberry Pi
 - [aikoncwd/rpi-benchmark](https://github.com/aikoncwd/rpi-benchmark) - Script to run some benchmark test for Raspberry Pi
-- [NoozSBC/TwisterOS-imager](https://github.com/NoozSBC/TwisterOS-imager) - Fork of Raspberry Pi patcher with TwisterOS inside
 - [keroserene/rickrollrc](https://github.com/keroserene/rickrollrc) - Rick Astley invades your terminal.
 - [Drewsif/PiShrink](https://github.com/Drewsif/PiShrink) - Make your pi images smaller!
 - [Itai-Nelken/Ubuntu-on-rpi-fixes](https://github.com/Itai-Nelken/Ubuntu-on-rpi-fixes) - apps, fixes, and optimizations for the RaspberryPi running Ubuntu desktop
