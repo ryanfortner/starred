@@ -41,7 +41,6 @@
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
-- [Logos](#logos)
 - [Lua](#lua)
 - [M4](#m4)
 - [Makefile](#makefile)
@@ -1563,10 +1562,6 @@
 - [thundernest/k-9](https://github.com/thundernest/k-9) - K-9 Mail – Open Source Email App for Android
 - [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix) - ⚠️ Fenix (Firefox for Android) moved to a new repository. It is now developed and maintained as part of: https://github.com/mozilla-mobile/firefox-android
 
-## Logos 
-
-- [LNSSPsd/PodsGrant](https://github.com/LNSSPsd/PodsGrant) - Treat AirPods Pro 2 as AirPods Pro to get it working better on older operating systems (for a few iOS versions only)
-
 ## Lua 
 
 - [HTV04/funkin-rewritten](https://github.com/HTV04/funkin-rewritten) - Optimized rewrite of Friday Night Funkin' built on LÖVE
@@ -1653,6 +1648,7 @@
 
 - [opa334/Choicy](https://github.com/opa334/Choicy) - Advanced tweak configurator for iOS 10 and up
 - [maciekish/iReSign](https://github.com/maciekish/iReSign) - iReSign allows iDevice app bundles (.ipa) files to be signed or resigned with a digital certificate from Apple for distribution. This tool is aimed at enterprises users, for enterprise deployment, whe
+- [LNSSPsd/PodsGrant](https://github.com/LNSSPsd/PodsGrant) - Treat AirPods Pro 2 as AirPods Pro to get it working better on older operating systems (for a few iOS versions only)
 - [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - A simple way to make your mouse better.
 - [Zibri/ZiPhone](https://github.com/Zibri/ZiPhone) - The best iPhone unlocker.
 - [emokid99/BootSound](https://github.com/emokid99/BootSound) - source code of my tweak
