@@ -127,7 +127,7 @@
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [staturnzz/socket](https://github.com/staturnzz/socket) - iOS 10.x Jailbreak for 32bit Devices
 - [j4nf4b3l/MDMPatcher-Universal](https://github.com/j4nf4b3l/MDMPatcher-Universal) - MDM patch *should* working on iOS 15+...
-- [Ralim/IronOS](https://github.com/Ralim/IronOS) - Open Source Soldering Iron firmware for Miniware and Pinecil
+- [Ralim/IronOS](https://github.com/Ralim/IronOS) - Open Source Soldering Iron firmware
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [synackuk/n1ghtshade](https://github.com/synackuk/n1ghtshade) - A bootchain jailbreak/downgrade utility for 32 bit iOS devices.
 - [zhovner/OneFileLinux](https://github.com/zhovner/OneFileLinux) - Live linux distro combined in one ~20MB file. Runs on any UEFI computer.
