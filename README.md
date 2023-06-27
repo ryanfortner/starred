@@ -503,6 +503,7 @@
 
 ## C++ 
 
+- [smartmontools/smartmontools](https://github.com/smartmontools/smartmontools) - Official read only mirror of the smartmontools project SVN
 - [FlightGear/flightgear](https://github.com/FlightGear/flightgear) - Mirror: FlightGear - Open source flight sim
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [solvespace/solvespace](https://github.com/solvespace/solvespace) - Parametric 2d/3d CAD
@@ -1686,7 +1687,7 @@
 
 ## Others 
 
-- [eatingurtoes/g1lbertCFW](https://github.com/eatingurtoes/g1lbertCFW) - The first untethered jailbreak for all of iOS 5.
+- [eatingurtoes/g1lbertCFW](https://github.com/eatingurtoes/g1lbertCFW) - The first untethered jailbreak for all versions of iOS 5.
 - [Gcenx/macOS_Wine_builds](https://github.com/Gcenx/macOS_Wine_builds) - Official Winehq macOS Packages
 - [Futur3Sn0w/maccard](https://github.com/Futur3Sn0w/maccard) - A simple companion for navigating and using your Mac.
 - [Gcenx/WineskinServer](https://github.com/Gcenx/WineskinServer) - Wineskin
@@ -2693,7 +2694,7 @@
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [Crilum/apttools](https://github.com/Crilum/apttools) - make apt easier to use
 - [ProjectAfterBurner/update-scripts](https://github.com/ProjectAfterBurner/update-scripts) - package update scripts for our apt repository
-- [LukeZGD/Legacy-iOS-Kit](https://github.com/LukeZGD/Legacy-iOS-Kit) - A multi-purpose script to save blobs, restore, and jailbreak supported legacy iOS devices
+- [LukeZGD/Legacy-iOS-Kit](https://github.com/LukeZGD/Legacy-iOS-Kit) - A multi-purpose script to save blobs, downgrade/restore, and jailbreak supported legacy iOS devices
 - [missuo/MTProxy](https://github.com/missuo/MTProxy) - MTProxy(MTPROTO) v2 One-Click Installation
 - [NicoD-SBC/armbian-gaming](https://github.com/NicoD-SBC/armbian-gaming) - Tool to install gaming apps on Armbian Linux/Ubuntu/Debian arm64
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
