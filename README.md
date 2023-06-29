@@ -119,6 +119,7 @@
 
 ## C 
 
+- [cs50/libcs50](https://github.com/cs50/libcs50) - This is CS50's Library for C.
 - [lenartj/labview](https://github.com/lenartj/labview) - LabView Dockerfile
 - [dora2-iOS/daibutsu](https://github.com/dora2-iOS/daibutsu) - open source "untether" for 32bit 8.4.1-9.1 untethered jailbreak. codesign bypass & kernel exploit
 - [dora2-iOS/powdersn0w_pub](https://github.com/dora2-iOS/powdersn0w_pub) - powdersn0w pub
@@ -1137,7 +1138,6 @@
 - [Itai-Nelken/itai-nelken.github.io](https://github.com/Itai-Nelken/itai-nelken.github.io) - My website.
 - [Itai-Nelken/Webcord_debian-repo](https://github.com/Itai-Nelken/Webcord_debian-repo) - unofficial repo for electron-discord-webapp (https://github.com/SpacingBat3/WebCord) by @SpacingBat3
 - [rajshekhar26/startpage](https://github.com/rajshekhar26/startpage) - A minimal startpage.
-- [Lightcord/Lightcord](https://github.com/Lightcord/Lightcord) - A simple - customizable - Discord Client
 - [phoenixbyrd/TwisterWebApps](https://github.com/phoenixbyrd/TwisterWebApps) - 
 - [phoenixbyrd/webapps](https://github.com/phoenixbyrd/webapps) - Web Apps for Twister OS
 - [phoenixbyrd/TwisterOS](https://github.com/phoenixbyrd/TwisterOS) - Twister OS Website
