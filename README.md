@@ -32,7 +32,6 @@
 - [GLSL](#glsl)
 - [Go](#go)
 - [HTML](#html)
-- [Hack](#hack)
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -170,7 +169,7 @@
 - [Ryu0118/TouchSimulator-iOS14](https://github.com/Ryu0118/TouchSimulator-iOS14) - simulate touch tool working on iOS14
 - [rA9stuff/LeetDown](https://github.com/rA9stuff/LeetDown) - a GUI macOS Downgrade Tool for A6 and A7 iDevices
 - [Samgisaninja/SuccessionRestore](https://github.com/Samgisaninja/SuccessionRestore) - Restore iOS devices without updating via rootfilesystem DMG
-- [ujjwal96/xwinwrap](https://github.com/ujjwal96/xwinwrap) - My fork of xwinwrap. Xwinwrap allows you to stick most of the apps to your desktop background.
+- [r00tdaemon/xwinwrap](https://github.com/r00tdaemon/xwinwrap) - My fork of xwinwrap. Xwinwrap allows you to stick most of the apps to your desktop background.
 - [FreeRDP/Remmina](https://github.com/FreeRDP/Remmina) - Mirror of https://gitlab.com/Remmina/Remmina The GTK+ Remmina Remote Desktop Client
 - [flatpak/flatpak](https://github.com/flatpak/flatpak) - Linux application sandboxing and distribution framework
 - [jc-kynesim/hello_drmprime](https://github.com/jc-kynesim/hello_drmprime) - Simple ffmpeg h265 drm output prog
@@ -1141,10 +1140,6 @@
 - [phoenixbyrd/TwisterWebApps](https://github.com/phoenixbyrd/TwisterWebApps) - 
 - [phoenixbyrd/webapps](https://github.com/phoenixbyrd/webapps) - Web Apps for Twister OS
 - [phoenixbyrd/TwisterOS](https://github.com/phoenixbyrd/TwisterOS) - Twister OS Website
-
-## Hack 
-
-- [D3Ext/WEF](https://github.com/D3Ext/WEF) - Wi-Fi Exploitation Framework
 
 ## Haskell 
 
@@ -2659,6 +2654,7 @@
 - [RehabMan/OS-X-Clover-Laptop-Config](https://github.com/RehabMan/OS-X-Clover-Laptop-Config) - Some Clover config.plist files for common Intel graphics configurations
 - [exions/undo-push](https://github.com/exions/undo-push) - ↪️ Undo a git push by removing the commit and going back to the commit before it.
 - [rhasspy/rhasspy](https://github.com/rhasspy/rhasspy) - Offline private voice assistant for many human languages
+- [D3Ext/WEF](https://github.com/D3Ext/WEF) - Wi-Fi Exploitation Framework
 - [rauchg/wifi-password](https://github.com/rauchg/wifi-password) - Get the password of the wifi you're on (bash)
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) - This will run the new self-hosted github actions runners with docker-in-docker
 - [wimpysworld/ubuntu-pi-image](https://github.com/wimpysworld/ubuntu-pi-image) - Raspberry Pi 🥧 image creator for Ubuntu MATE 🧉
