@@ -2692,7 +2692,7 @@
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [Crilum/apttools](https://github.com/Crilum/apttools) - make apt easier to use
 - [ProjectAfterBurner/update-scripts](https://github.com/ProjectAfterBurner/update-scripts) - package update scripts for our apt repository
-- [LukeZGD/Legacy-iOS-Kit](https://github.com/LukeZGD/Legacy-iOS-Kit) - A multi-purpose script to save blobs, downgrade/restore, and jailbreak supported legacy iOS devices
+- [LukeZGD/Legacy-iOS-Kit](https://github.com/LukeZGD/Legacy-iOS-Kit) - A multi-purpose script to downgrade/restore, save SHSH blobs, and jailbreak legacy iOS devices
 - [missuo/MTProxy](https://github.com/missuo/MTProxy) - MTProxy(MTPROTO) v2 One-Click Installation
 - [NicoD-SBC/armbian-gaming](https://github.com/NicoD-SBC/armbian-gaming) - Tool to install gaming apps on Armbian Linux/Ubuntu/Debian arm64
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
