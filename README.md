@@ -1616,7 +1616,6 @@
 - [raspberrypi/noobs](https://github.com/raspberrypi/noobs) - NOOBS (New Out Of Box Software) - An easy Operating System install manager for the Raspberry Pi
 - [varlesh/VLC-Arc-Dark](https://github.com/varlesh/VLC-Arc-Dark) - Arc Dark skin for VLC
 - [pikvm/os](https://github.com/pikvm/os) - OS for PiKVM based on Arch Linux ARM
-- [coslyk/debianopt-repo](https://github.com/coslyk/debianopt-repo) - Additional debian repository for awesome open-source projects.
 - [maxnet/berryboot](https://github.com/maxnet/berryboot) - Berryboot -- Boot menu / OS installer
 - [procount/pinn](https://github.com/procount/pinn) - An enhanced Operating System installer for the Raspberry Pi
 
@@ -2920,6 +2919,7 @@
 - [Alvarito050506/rpi-debs](https://github.com/Alvarito050506/rpi-debs) - Debian APT repo for misc packages not yet available in Raspberry Pi OS.
 - [hmsjy2017/n-debs](https://github.com/hmsjy2017/n-debs) - 
 - [CleanMachine1/Various-Scripts](https://github.com/CleanMachine1/Various-Scripts) - Different random scripts I use
+- [coslyk/debianopt-repo](https://github.com/coslyk/debianopt-repo) - Additional debian repository for awesome open-source projects.
 - [zayronxio/Zafiro-icons](https://github.com/zayronxio/Zafiro-icons) - icon pack flat with light colors
 - [linux-surface/linux-surface](https://github.com/linux-surface/linux-surface) - Linux Kernel for Surface Devices
 - [Botspot/Screensavers](https://github.com/Botspot/Screensavers) - Installers for windows screensavers on RPI4 / Twister OS
