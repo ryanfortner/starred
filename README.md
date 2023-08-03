@@ -123,6 +123,7 @@
 
 ## C 
 
+- [Lrdsnow/kfd_offsets](https://github.com/Lrdsnow/kfd_offsets) - Offsets for KFD
 - [BenjaminHornbeck6/KFD-Offsets](https://github.com/BenjaminHornbeck6/KFD-Offsets) - Should be every offset for the KFD exploit on all A12+ devices. No M1
 - [GenericCoding/kfd](https://github.com/GenericCoding/kfd) - kfd, short for kernel file descriptor, is a project to read and write kernel memory on Apple devices.
 - [felix-pb/kfd](https://github.com/felix-pb/kfd) - kfd, short for kernel file descriptor, is a project to read and write kernel memory on Apple devices.
@@ -2348,7 +2349,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C and C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-540-Stars](https://github.com/iBug/This-Repo-Has-540-Stars) - Yes, it's true :sparkling_heart: This repository has 540 stars.
+- [iBug/This-Repo-Has-542-Stars](https://github.com/iBug/This-Repo-Has-542-Stars) - Yes, it's true :revolving_hearts: This repository has 542 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -2526,7 +2527,7 @@
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [leftwm/leftwm](https://github.com/leftwm/leftwm) - A tiling window manager for Adventurers
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source alternative to TeamViewer.
 - [gorilla-devs/ferium](https://github.com/gorilla-devs/ferium) - Fast and multi-source CLI program for managing Minecraft mods and modpacks from Modrinth, CurseForge, and GitHub Releases
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter
