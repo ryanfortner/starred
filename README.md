@@ -774,6 +774,7 @@
 
 ## CSS 
 
+- [straight-tamago/misaka](https://github.com/straight-tamago/misaka) - 
 - [zquestz/bitcoincash](https://github.com/zquestz/bitcoincash) - Bitcoin Cash - Peer-to-Peer Electronic Cash
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [christianselig/OpenInApolloExtension](https://github.com/christianselig/OpenInApolloExtension) - Safari extension bundled with iOS 15 that helps in opening Reddit URLs in Apollo
@@ -1239,7 +1240,6 @@
 
 ## JavaScript 
 
-- [straight-tamago/misaka](https://github.com/straight-tamago/misaka) - 
 - [ray-lothian/UserAgent-Switcher](https://github.com/ray-lothian/UserAgent-Switcher) - A User-Agent spoofer browser extension that is highly configurable
 - [rhysmorgan134/node-CarPlay](https://github.com/rhysmorgan134/node-CarPlay) - 
 - [rhysmorgan134/react-carplay](https://github.com/rhysmorgan134/react-carplay) - 
@@ -2815,7 +2815,7 @@
 - [sickcodes/anbox-halium](https://github.com/sickcodes/anbox-halium) - 
 - [vinceliuice/McMojave-circle](https://github.com/vinceliuice/McMojave-circle) - McMojave-circle icon theme for linux desktops
 - [layquack/Twister-UI](https://github.com/layquack/Twister-UI) - Twister UI for Debian / Ubuntu aarch64
-- [specious/check-bitly](https://github.com/specious/check-bitly) - :ok_hand: Check domains to find out if they are bitly.com domains
+- [specious/check-bitly](https://github.com/specious/check-bitly) - :ok_hand: Check web domains to find out if they are bitly.com domains
 - [abhiTronix/raspberry-pi-cross-compilers](https://github.com/abhiTronix/raspberry-pi-cross-compilers) - Latest GCC Cross Compiler & Native (ARM & ARM64) CI generated precompiled standalone toolchains for all Raspberry Pis. 🍇
 - [P3TERX/warp.sh](https://github.com/P3TERX/warp.sh) - Cloudflare WARP Installer | WARP 一键安装脚本
 - [lyderic/piutils](https://github.com/lyderic/piutils) - Utilities for Raspberry Pi (and GL-Inet) micro machines
