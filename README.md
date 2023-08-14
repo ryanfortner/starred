@@ -178,6 +178,7 @@
 - [RehabMan/OS-X-ACPI-Backlight](https://github.com/RehabMan/OS-X-ACPI-Backlight) - Updated ACPIBacklight.kext for OS X.  Uses ACPI methods to control laptop backlight.
 - [acidanthera/OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) - OpenCore bootloader
 - [any1/wayvnc](https://github.com/any1/wayvnc) - A VNC server for wlroots based Wayland compositors
+- [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [checkra1n/PongoOS](https://github.com/checkra1n/PongoOS) - pongoOS
 - [Ryu0118/TouchSimulator-iOS14](https://github.com/Ryu0118/TouchSimulator-iOS14) - simulate touch tool working on iOS14
 - [rA9stuff/LeetDown](https://github.com/rA9stuff/LeetDown) - a GUI macOS Downgrade Tool for A6 and A7 iDevices
@@ -1073,7 +1074,7 @@
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
-- [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel 🚀
+- [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Juicity. 🚀🚀
 - [tanaikech/goodls](https://github.com/tanaikech/goodls) - This is a CLI tool to download shared files and folders from Google Drive.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
@@ -1733,7 +1734,6 @@
 - [matafokka/PowerPointDarkThemeFix](https://github.com/matafokka/PowerPointDarkThemeFix) - When a custom (especially dark) theme is applied, default PowerPoint's color picker messes grey colors for fill, borders, shadow and glow. PowerPointDarkThemeFix does this simple task right.
 - [Lacedaemon/Thinkpad-L450-OpenCore](https://github.com/Lacedaemon/Thinkpad-L450-OpenCore) - Configuration files for an OpenCore Hackintosh setup on the Lenovo Thinkpad L450
 - [z0mBy91/Lenovo-L450-Opencore-Hackintosh](https://github.com/z0mBy91/Lenovo-L450-Opencore-Hackintosh) - Trying to finalize my Opencore Hackintosh and try to write a short guide on how to install it.
-- [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [Discord-Client-Encyclopedia-Management/Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) - A non-exhaustive collection of third-party clients and mods for Discord.
 - [emergy/iproxy](https://github.com/emergy/iproxy) - OS X iproxy LaunchAgent
 - [auctors/free-lunch](https://github.com/auctors/free-lunch) - A curated list of free Windows software, online services and resources. Feel free to contribute!
