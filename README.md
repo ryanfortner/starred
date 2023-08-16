@@ -178,7 +178,6 @@
 - [RehabMan/OS-X-ACPI-Backlight](https://github.com/RehabMan/OS-X-ACPI-Backlight) - Updated ACPIBacklight.kext for OS X.  Uses ACPI methods to control laptop backlight.
 - [acidanthera/OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) - OpenCore bootloader
 - [any1/wayvnc](https://github.com/any1/wayvnc) - A VNC server for wlroots based Wayland compositors
-- [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [checkra1n/PongoOS](https://github.com/checkra1n/PongoOS) - pongoOS
 - [Ryu0118/TouchSimulator-iOS14](https://github.com/Ryu0118/TouchSimulator-iOS14) - simulate touch tool working on iOS14
 - [rA9stuff/LeetDown](https://github.com/rA9stuff/LeetDown) - a GUI macOS Downgrade Tool for A6 and A7 iDevices
@@ -539,6 +538,7 @@
 - [tihmstar/tsschecker](https://github.com/tihmstar/tsschecker) - a powerfull tool to check tss signing status of various devices and firmwares
 - [gsly/OS-X-ACPI-Battery-Driver](https://github.com/gsly/OS-X-ACPI-Battery-Driver) - Implements an Advanced Configuration and Power Interface (ACPI) based battery manager kernel extension (kext/driver) for non-Apple laptops running OS X.
 - [RehabMan/OS-X-ACPI-Battery-Driver](https://github.com/RehabMan/OS-X-ACPI-Battery-Driver) - Implements an Advanced Configuration and Power Interface (ACPI) based battery manager kernel extension (kext/driver) for non-Apple laptops running OS X.
+- [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [Fenrirthviti/obs-virtual-cam](https://github.com/Fenrirthviti/obs-virtual-cam) - obs-studio plugin to simulate a directshow webcam
 - [Electronicks/JoyShockMapper](https://github.com/Electronicks/JoyShockMapper) - A tool for PC gamers to play games with DualShock 4s, JoyCons, and Pro Controllers. Gyro aiming, flick stick.
 - [hiyohiyo/CrystalDiskInfo](https://github.com/hiyohiyo/CrystalDiskInfo) - CrystalDiskInfo
@@ -2050,7 +2050,7 @@
 - [cryptoadvance/specter-desktop](https://github.com/cryptoadvance/specter-desktop) - A desktop GUI for Bitcoin Core optimised to work with hardware wallets
 - [NightmareAI/Real-ESRGAN](https://github.com/NightmareAI/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 - [timsutton/brigadier](https://github.com/timsutton/brigadier) - Fetch and install Boot Camp ESDs with ease.
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, OPT, and GALACTICA.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (ggml), Llama models.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
