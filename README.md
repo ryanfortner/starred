@@ -123,6 +123,7 @@
 
 ## C 
 
+- [RootHide/Dopamine-roothide](https://github.com/RootHide/Dopamine-roothide) - RootHide implementation based on Dopamine Jailbreak.
 - [leminlimez/Chicken-Butt](https://github.com/leminlimez/Chicken-Butt) - KFD Customization Tool for iOS 16.0-16.6b1
 - [Lrdsnow/kfd_offsets](https://github.com/Lrdsnow/kfd_offsets) - Offsets for KFD
 - [AppInstalleriOSGH/KFD-Offsets](https://github.com/AppInstalleriOSGH/KFD-Offsets) - Should be every offset for the KFD exploit on all A12+ devices. No M1
