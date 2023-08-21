@@ -124,7 +124,7 @@
 ## C 
 
 - [RootHide/Dopamine-roothide](https://github.com/RootHide/Dopamine-roothide) - RootHide implementation based on Dopamine Jailbreak.
-- [leminlimez/Chicken-Butt](https://github.com/leminlimez/Chicken-Butt) - KFD Customization Tool for iOS 16.0-16.6b1
+- [leminlimez/Cluckabunga](https://github.com/leminlimez/Cluckabunga) - KFD Customization Tool for iOS 16.0-16.6b1
 - [Lrdsnow/kfd_offsets](https://github.com/Lrdsnow/kfd_offsets) - Offsets for KFD
 - [AppInstalleriOSGH/KFD-Offsets](https://github.com/AppInstalleriOSGH/KFD-Offsets) - Should be every offset for the KFD exploit on all A12+ devices. No M1
 - [GenericCoding/kfd](https://github.com/GenericCoding/kfd) - kfd, short for kernel file descriptor, is a project to read and write kernel memory on Apple devices.
@@ -2072,7 +2072,7 @@
 - [Vanilla-OS/vanilla-installer](https://github.com/Vanilla-OS/vanilla-installer) - A frontend in GTK 4 and Libadwaita for Albius.
 - [modoboa/modoboa-webmail](https://github.com/modoboa/modoboa-webmail) - The webmail of Modoboa
 - [modoboa/modoboa](https://github.com/modoboa/modoboa) - Mail hosting made simple
-- [mrmoein/warp-cloudflare-gui](https://github.com/mrmoein/warp-cloudflare-gui) - a GUI app base on warp-cli for linux
+- [mrmoein/warp-cloudflare-gui](https://github.com/mrmoein/warp-cloudflare-gui) - A GUI application based on warp-cli for Linux
 - [malwaredllc/byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers.
 - [Syncplay/syncplay](https://github.com/Syncplay/syncplay) - Client/server to synchronize media playback on mpv/VLC/MPC-HC/MPC-BE on many computers
 - [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
@@ -3084,7 +3084,7 @@
 
 ## Swift 
 
-- [IsaacMarovitz/Whisky](https://github.com/IsaacMarovitz/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
+- [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [woolfel/ml-macos-performance](https://github.com/woolfel/ml-macos-performance) - 
 - [devMEremenko/XcodeBenchmark](https://github.com/devMEremenko/XcodeBenchmark) - XcodeBenchmark measures the compilation time of a large codebase on iMac, MacBook, and Mac Pro
 - [leminlimez/CowabungaLite](https://github.com/leminlimez/CowabungaLite) - iOS 15+ Customization Toolbox
