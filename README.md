@@ -801,7 +801,7 @@
 - [adriel/Caddy-Server-minimal-browse-template](https://github.com/adriel/Caddy-Server-minimal-browse-template) - Minimalist Caddy browse template
 - [linuxmint/mint-themes](https://github.com/linuxmint/mint-themes) - Mint-X, Mint-Y..
 - [petabyt/Windows10Emulator](https://github.com/petabyt/Windows10Emulator) - A game launcher and operating environment for school Chromebooks.
-- [GilbN/theme.park](https://github.com/GilbN/theme.park) - A collection of themes/skins for 50 selfhosted apps!
+- [ThemeParkTycoon/theme.park](https://github.com/ThemeParkTycoon/theme.park) - A collection of themes/skins for 50 selfhosted apps!
 - [EliverLara/firefox-nordic-theme](https://github.com/EliverLara/firefox-nordic-theme) - :snowflake: A dark theme for firefox theme created using the awesome Nord color palette.
 - [oguzhaninan/Stacer-Web](https://github.com/oguzhaninan/Stacer-Web) - Stacer - Linux System Optimizer and Monitoring https://oguzhaninan.github.io/Stacer-Web
 - [arc-design/arc-theme](https://github.com/arc-design/arc-theme) - A flat theme with transparent elements
@@ -1165,6 +1165,7 @@
 
 ## Java 
 
+- [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [sparrowwallet/sparrow](https://github.com/sparrowwallet/sparrow) - Desktop Bitcoin Wallet focused on security and privacy. Free and open source.
 - [M66B/NetGuard](https://github.com/M66B/NetGuard) - A simple way to block access to the internet per app
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
@@ -1605,8 +1606,7 @@
 - [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
 - [android-rpi/device_arpi_rpi4](https://github.com/android-rpi/device_arpi_rpi4) - Device build-config for Raspberry Pi 4
 - [dmlls/whatsapp-emoji-linux](https://github.com/dmlls/whatsapp-emoji-linux) - WhatsApp Emoji for GNU/Linux 🐧
-- [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) - [WIP] This repository will hold machine-readable data for awesome-selfhosted
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) - machine-readable data for https://awesome-selfhosted.net
 - [ipxe/pipxe](https://github.com/ipxe/pipxe) - iPXE for the Raspberry Pi
 - [turquoise-hexagon/fonts](https://github.com/turquoise-hexagon/fonts) - another bitmap fonts repo
 - [lineage-rpi/proprietary_vendor_brcm](https://github.com/lineage-rpi/proprietary_vendor_brcm) - 
@@ -1776,6 +1776,7 @@
 - [android-rpi/local_manifests](https://github.com/android-rpi/local_manifests) - Android on Raspberry Pi : Entry-Point
 - [jotaen/xit](https://github.com/jotaen/xit) - A plain-text file format for todos and check lists
 - [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒7000+ Material Design Icons from the Community
 - [abhilesh/self-hosted_docker_setups](https://github.com/abhilesh/self-hosted_docker_setups) - A collection of my docker-compose files used to setup self-hosted services on Raspberry Pi 4 running 64-bit Raspberry Pi OS
@@ -2735,7 +2736,7 @@
 - [MatthewVance/unbound-docker-rpi](https://github.com/MatthewVance/unbound-docker-rpi) - Run Unbound with latest version of OpenSSL on Raspberry Pi with Docker.
 - [kryptoslogic/godaddy-domainclient](https://github.com/kryptoslogic/godaddy-domainclient) - Golang client for the Godaddy Domain API generated using Swagger Codegen
 - [RPi-Distro/raspi-gpio](https://github.com/RPi-Distro/raspi-gpio) - Dump the state of the BCM270x GPIOs
-- [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A hugh collection (80+) of plymouth themes ported from android bootanimations
+- [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A huge collection (80+) of plymouth themes ported from android bootanimations
 - [emojifreak/debian-rpi-image-script](https://github.com/emojifreak/debian-rpi-image-script) - Shell script to build Debian and Devuan SD card image booting the Raspberry Pi series
 - [buddyjojo/worli](https://github.com/buddyjojo/worli) - simple wor on linux installer
 - [wahyd4/aria2-ariang-docker](https://github.com/wahyd4/aria2-ariang-docker) - The Docker image for Aria2 + AriaNg + File Browser + Rclone
@@ -3164,7 +3165,7 @@
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 - [ViewTube/viewtube](https://github.com/ViewTube/viewtube) - ▶️ ViewTube: The open source, privacy-conscious way to enjoy your favorite YouTube content.
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
-- [FixTweet/FixTweet](https://github.com/FixTweet/FixTweet) - Embed X / Twitter videos, polls, and more on Discord and Telegram
+- [FixTweet/FixTweet](https://github.com/FixTweet/FixTweet) - Embed X / Twitter videos, polls, and more on Discord, Telegram, and more
 - [e9x/chrome100](https://github.com/e9x/chrome100) - Collection of ChromeOS recovery images.
 - [whatk233/ddg-email-panel](https://github.com/whatk233/ddg-email-panel) - DDG Email Panel is the open source unofficial DuckDuckGo Email Protection panel.
 - [stream-labs/desktop](https://github.com/stream-labs/desktop) - Free and open source streaming software built on OBS and Electron.
