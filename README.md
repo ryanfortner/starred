@@ -61,7 +61,6 @@
 - [Pug](#pug)
 - [Python](#python)
 - [QML](#qml)
-- [Rich Text Format](#rich-text-format)
 - [Riot](#riot)
 - [Roff](#roff)
 - [Ruby](#ruby)
@@ -1700,6 +1699,7 @@
 
 - [Gcenx/macOS_Wine_builds](https://github.com/Gcenx/macOS_Wine_builds) - Official Winehq macOS Packages
 - [Futur3Sn0w/maccard](https://github.com/Futur3Sn0w/maccard) - A simple companion for navigating and using your Mac.
+- [Gcenx/WineskinServer](https://github.com/Gcenx/WineskinServer) - Wineskin
 - [googlecreativelab/quickdraw-dataset](https://github.com/googlecreativelab/quickdraw-dataset) - Documentation on how to access and use the Quick, Draw! Dataset.
 - [rtanderson2/quadra-octoprint](https://github.com/rtanderson2/quadra-octoprint) - Instructions for manually installing OctoPrint on an Inovato Quadra.
 - [openai/gpt-3](https://github.com/openai/gpt-3) - GPT-3: Language Models are Few-Shot Learners
@@ -2353,7 +2353,7 @@
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-542-Stars](https://github.com/iBug/This-Repo-Has-542-Stars) - Yes, it's true :heart: This repository has 542 stars.
+- [iBug/This-Repo-Has-542-Stars](https://github.com/iBug/This-Repo-Has-542-Stars) - Yes, it's true :yellow_heart: This repository has 542 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -2474,10 +2474,6 @@
 - [PapirusDevelopmentTeam/arc-kde](https://github.com/PapirusDevelopmentTeam/arc-kde) - Arc KDE customization
 - [mirukana/mirage](https://github.com/mirukana/mirage) - A fancy, customizable, keyboard-operable Qt/QML & Python Matrix chat client for encrypted and decentralized communication.
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
-
-## Rich Text Format 
-
-- [Gcenx/WineskinServer](https://github.com/Gcenx/WineskinServer) - Wineskin
 
 ## Riot 
 
