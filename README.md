@@ -1241,6 +1241,7 @@
 
 ## JavaScript 
 
+- [davunt/app-eraser](https://github.com/davunt/app-eraser) - App Eraser is a Free and Open Source macOS app removal tool.
 - [ray-lothian/UserAgent-Switcher](https://github.com/ray-lothian/UserAgent-Switcher) - A User-Agent spoofer browser extension that is highly configurable
 - [rhysmorgan134/node-CarPlay](https://github.com/rhysmorgan134/node-CarPlay) - 
 - [rhysmorgan134/react-carplay](https://github.com/rhysmorgan134/react-carplay) - 
@@ -1859,6 +1860,7 @@
 - [ric2b/Vivaldi-browser](https://github.com/ric2b/Vivaldi-browser) - Source code for the Vivali browser, taken from
 - [anudeepND/blacklist](https://github.com/anudeepND/blacklist) - Curated and well-maintained hostfile to block ads, tracking, cryptomining, and more! Updated regularly. ⚡🔒
 - [ryanfortner/packaging-guides](https://github.com/ryanfortner/packaging-guides) - 
+- [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world's most hated IT stickers
 - [ryanfortner/blockbench-arm](https://github.com/ryanfortner/blockbench-arm) - arm builds of blockbench
 - [dhanishgajjar/terminal-icons](https://github.com/dhanishgajjar/terminal-icons) - Beautiful icons for your favourite terminal apps like Hyper and iTerm2
@@ -2865,7 +2867,6 @@
 - [rda0/debmake](https://github.com/rda0/debmake) - Make deb packages the easy way
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
-- [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [lmc999/RegionRestrictionCheck](https://github.com/lmc999/RegionRestrictionCheck) - A bash script to check if your VPS's IP is available for various OTT platforms
 - [wimpysworld/retro-home](https://github.com/wimpysworld/retro-home) - Retro Home; your home for retro-gaming 🕹
 - [fMorales-97/albumtag](https://github.com/fMorales-97/albumtag) - A POSIX compliant shell script to write metadata into your albums.
@@ -3086,6 +3087,7 @@
 
 ## Swift 
 
+- [Kevin-De-Koninck/Clean-Me](https://github.com/Kevin-De-Koninck/Clean-Me) - A macOS system analyser and cleaner
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [woolfel/ml-macos-performance](https://github.com/woolfel/ml-macos-performance) - 
 - [devMEremenko/XcodeBenchmark](https://github.com/devMEremenko/XcodeBenchmark) - XcodeBenchmark measures the compilation time of a large codebase on iMac, MacBook, and Mac Pro
