@@ -3087,6 +3087,7 @@
 
 ## Swift 
 
+- [haxi0/Derootifier](https://github.com/haxi0/Derootifier) - "Derootifies" jailbreak .deb files to support Fugu15 Max otherwise known as Dopamine.
 - [Kevin-De-Koninck/Clean-Me](https://github.com/Kevin-De-Koninck/Clean-Me) - A macOS system analyser and cleaner
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [woolfel/ml-macos-performance](https://github.com/woolfel/ml-macos-performance) - 
