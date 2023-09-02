@@ -457,7 +457,7 @@
 - [mchehab/zbar](https://github.com/mchehab/zbar) - ZBar is an open source software suite for reading bar codes from various sources, including webcams. As its development stopped in 2012, I took the task of keeping it updated with the V4L2 API. This i
 - [raspberrypi/rpi-imager](https://github.com/raspberrypi/rpi-imager) - 
 - [ptitSeb/gl4es](https://github.com/ptitSeb/gl4es) - GL4ES is a OpenGL 2.1/1.5 to GL ES 2.0/1.1 translation library, with support for Pandora, ODroid, OrangePI, CHIP, Raspberry PI, Android, Emscripten and AmigaOS4.
-- [alemart/opensurge](https://github.com/alemart/opensurge) - Unleash your creativity with Surge Engine, an open source game engine for retro games!
+- [alemart/opensurge](https://github.com/alemart/opensurge) - Make your dreams come true with Surge Engine, an open source game engine for retro games!
 - [ssvb/tinymembench](https://github.com/ssvb/tinymembench) - Simple benchmark for memory throughput and latency
 - [AndrewFromMelbourne/raspi2png](https://github.com/AndrewFromMelbourne/raspi2png) - Utility to take a snapshot of the Raspberry Pi screen and save it as a PNG file
 - [sm64pc/sm64ex](https://github.com/sm64pc/sm64ex) - Fork of https://github.com/sm64-port/sm64-port with additional features.
@@ -1039,7 +1039,6 @@
 - [RandomSoup/pipan](https://github.com/RandomSoup/pipan) - A new Minecraft: Pi Edition Launcher
 - [long2ice/longurl](https://github.com/long2ice/longurl) - A self-hosted short url service
 - [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
-- [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more.
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
@@ -1569,6 +1568,7 @@
 - [lcarsde/lcarswm](https://github.com/lcarsde/lcarswm) - lcarswm (LCARS Window Manager) is a window manager that is supposed to look like an LCARS interface. It's written in Kotlin and utilizing XLib.
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
 - [roozbehzarei/filester](https://github.com/roozbehzarei/filester) - A simple file uploader for android
+- [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 The Camera library that sees the vision.
 - [retrowars/retrowars](https://github.com/retrowars/retrowars) - Play retro games against each other in any combination in this open source Android multiplayer game.
 - [termux/termux-gui](https://github.com/termux/termux-gui) - A plugin for Termux to use native Android GUI components from CLI applications.
 - [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
@@ -1820,7 +1820,7 @@
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [AlfarexGuy2019/awesome-tweaks](https://github.com/AlfarexGuy2019/awesome-tweaks) - 💻 List of awesome programs and tweaks for Windows, macOS and Linux.
 - [ioctlLR/NVorbis](https://github.com/ioctlLR/NVorbis) - A C# implementation of a Xiph.org Foundation Vorbis decoder.
-- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at ht
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [Pi-Apps-Coders/.github](https://github.com/Pi-Apps-Coders/.github) - 
 - [icebreaker-fpga/icebreaker](https://github.com/icebreaker-fpga/icebreaker) - Small and low cost FPGA educational and development board
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
@@ -2357,7 +2357,7 @@
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-543-Stars](https://github.com/iBug/This-Repo-Has-543-Stars) - Yes, it's true :orange_heart: This repository has 543 stars.
+- [iBug/This-Repo-Has-542-Stars](https://github.com/iBug/This-Repo-Has-542-Stars) - Yes, it's true :sparkling_heart: This repository has 542 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -3131,7 +3131,6 @@
 - [airmessage/airmessage-server](https://github.com/airmessage/airmessage-server) - AirMessage's native message relay server for Mac
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [Sileo/Sileo](https://github.com/Sileo/Sileo) - A modern package manager for iOS 11 and higher.
-- [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 The Camera library that sees the vision.
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [LinusHenze/Fugu14](https://github.com/LinusHenze/Fugu14) - Fugu14 is an untethered iOS 14.3-14.5.1 jailbreak
 - [alin23/Lunar](https://github.com/alin23/Lunar) - Intelligent adaptive brightness for your external monitors
@@ -3275,6 +3274,7 @@
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place. Cloud is now available in public beta. 🌩
+- [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more.
 - [jcv8000/Codex](https://github.com/jcv8000/Codex) - A free note-taking software for programmers and Computer Science students
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [ruslang02/discord-qt](https://github.com/ruslang02/discord-qt) - Discord client powered by Node.JS and Qt Widgets.
