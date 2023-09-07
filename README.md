@@ -939,7 +939,7 @@
 - [packwiz/packwiz](https://github.com/packwiz/packwiz) - A command line tool for editing and distributing Minecraft modpacks, using a git-friendly TOML format. Supports CurseForge and Modrinth mods with automated updates!
 - [alexballas/go2tv](https://github.com/alexballas/go2tv) - Cast media files to UPnP/DLNA Media Renderers and Smart TVs.
 - [jrnxf/gh-eco](https://github.com/jrnxf/gh-eco) - 🦎 gh cli extension to explore the ecosystem
-- [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a feature-packed proxy & relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)
+- [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
 - [CleanMachine1/Clone-repo-tool](https://github.com/CleanMachine1/Clone-repo-tool) - A short Go script to help clone lots of Git repositories at once
 - [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [aarzilli/gdlv](https://github.com/aarzilli/gdlv) - GUI frontend for Delve
@@ -2627,6 +2627,7 @@
 
 ## Shell 
 
+- [MercuryWorkshop/RecoMod](https://github.com/MercuryWorkshop/RecoMod) - a cros recovery image modification toolkit
 - [BillyBlaze/OctoPrint-TouchUI-autostart](https://github.com/BillyBlaze/OctoPrint-TouchUI-autostart) - Startup files for TouchUI
 - [eatingurtoes/g1lbertCFW](https://github.com/eatingurtoes/g1lbertCFW) - The first untethered jailbreak for all versions of iOS 5.
 - [Hackt1vator/iRevive](https://github.com/Hackt1vator/iRevive) - passcode bypass for ios 14-16
@@ -3235,7 +3236,7 @@
 - [izolate/millify](https://github.com/izolate/millify) - Convert long numbers to pretty, human-readable strings
 - [itchio/itch](https://github.com/itchio/itch) - 🎮 The best way to play your itch.io games
 - [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and m
-- [spacebarchat/server](https://github.com/spacebarchat/server) - Spacebar backend made with Typescript and love (and a bit of C++)
+- [spacebarchat/server](https://github.com/spacebarchat/server) - Spacebar server - A reimplementation of the Discord.com backend, built with Typescript and love
 - [bitwarden/cli](https://github.com/bitwarden/cli) - The command line vault (Windows, macOS, & Linux).
 - [thedaviddelta/lingva-translate](https://github.com/thedaviddelta/lingva-translate) - Alternative front-end for Google Translate
 - [AH-dark/UptimePage](https://github.com/AH-dark/UptimePage) - Static Page for UptimeRobot. Powered by Next.js
