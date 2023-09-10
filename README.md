@@ -123,6 +123,7 @@
 
 ## C 
 
+- [zammitjames/theunarchiver](https://github.com/zammitjames/theunarchiver) - The Unarchiver is an Objective-C application for uncompressing archive files
 - [RootHide/Dopamine-roothide](https://github.com/RootHide/Dopamine-roothide) - RootHide implementation based on Dopamine Jailbreak.
 - [leminlimez/Cluckabunga](https://github.com/leminlimez/Cluckabunga) - KFD Customization Tool for iOS 16.0-16.6b1
 - [Lrdsnow/kfd_offsets](https://github.com/Lrdsnow/kfd_offsets) - Offsets for KFD
@@ -818,7 +819,7 @@
 - [vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme) - Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.
 - [muckSponge/MaterialFox](https://github.com/muckSponge/MaterialFox) - A Material Design-inspired userChrome.css theme for Firefox
 - [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - A GNOME👣 theme for Firefox🔥
-- [manilarome/blurredfox](https://github.com/manilarome/blurredfox) - A sleek, modern and elegant Firefox CSS theme
+- [eromatiya/blurredfox](https://github.com/eromatiya/blurredfox) - A sleek, modern and elegant Firefox CSS theme
 - [migueravila/SimpleFox](https://github.com/migueravila/SimpleFox) - 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
 - [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox) - An opinionated set of configurations for firefox.
 - [B00merang-Project/macOS](https://github.com/B00merang-Project/macOS) - macOS theme for Gnome and GTK-based desktops
@@ -2052,12 +2053,12 @@
 ## Python 
 
 - [cryptoadvance/specter-desktop](https://github.com/cryptoadvance/specter-desktop) - A desktop GUI for Bitcoin Core optimised to work with hardware wallets
+- [eatingurtoes/g1lbertCFW](https://github.com/eatingurtoes/g1lbertCFW) - The first untethered jailbreak for all versions of iOS 5.
 - [NightmareAI/Real-ESRGAN](https://github.com/NightmareAI/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 - [timsutton/brigadier](https://github.com/timsutton/brigadier) - Fetch and install Boot Camp ESDs with ease.
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (ggml/gguf), Llama models.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
-- [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
@@ -2357,7 +2358,7 @@
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-543-Stars](https://github.com/iBug/This-Repo-Has-543-Stars) - Yes, it's true :revolving_hearts: This repository has 543 stars.
+- [iBug/This-Repo-Has-544-Stars](https://github.com/iBug/This-Repo-Has-544-Stars) - Yes, it's true :heartpulse: This repository has 544 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -2629,7 +2630,6 @@
 
 - [MercuryWorkshop/RecoMod](https://github.com/MercuryWorkshop/RecoMod) - a cros recovery image modification toolkit
 - [BillyBlaze/OctoPrint-TouchUI-autostart](https://github.com/BillyBlaze/OctoPrint-TouchUI-autostart) - Startup files for TouchUI
-- [eatingurtoes/g1lbertCFW](https://github.com/eatingurtoes/g1lbertCFW) - The first untethered jailbreak for all versions of iOS 5.
 - [Hackt1vator/iRevive](https://github.com/Hackt1vator/iRevive) - passcode bypass for ios 14-16
 - [XQuartz/XQuartz](https://github.com/XQuartz/XQuartz) - An X11 server and client libraries for macOS
 - [tiny-pilot/pi-expand](https://github.com/tiny-pilot/pi-expand) - Expands a Raspberry Pi microSD image to match the disk size, the inverse of PiShrink
@@ -3080,6 +3080,7 @@
 
 ## Svelte 
 
+- [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [snipline/rsyncinator-desktop](https://github.com/snipline/rsyncinator-desktop) - 
 - [PuruVJ/macos-web](https://github.com/PuruVJ/macos-web) - 
 - [christmas-countdown/website](https://github.com/christmas-countdown/website) - Christmas countdown website
