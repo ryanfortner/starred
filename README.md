@@ -3193,8 +3193,8 @@
 - [flathub/linux-store-frontend](https://github.com/flathub/linux-store-frontend) - A web application to browse and install applications present in Flatpak repositories. Powers https://www.flathub.org
 - [ncipollo/release-action](https://github.com/ncipollo/release-action) - An action which manages a github release
 - [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website
-- [crazy-max/ghaction-virustotal](https://github.com/crazy-max/ghaction-virustotal) - :octocat: GitHub Action to upload and scan files with VirusTotal
-- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) - :octocat: GitHub Action to import a GPG key
+- [crazy-max/ghaction-virustotal](https://github.com/crazy-max/ghaction-virustotal) - GitHub Action to upload and scan files with VirusTotal
+- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) - GitHub Action to import a GPG key
 - [oxen-io/session-desktop](https://github.com/oxen-io/session-desktop) - Session Desktop - Onion routing based messenger
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
 - [Sn8z/Poddr](https://github.com/Sn8z/Poddr) - Podcatcher made with Electron and Angular
