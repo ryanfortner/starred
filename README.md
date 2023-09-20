@@ -1206,7 +1206,7 @@
 - [stream-pi/server](https://github.com/stream-pi/server) - Stream-Pi Server
 - [stream-pi/client](https://github.com/stream-pi/client) - Stream-Pi Client
 - [konsoletyper/teavm](https://github.com/konsoletyper/teavm) - Compiler of Java bytecode to JavaScript
-- [niumoo/bing-wallpaper](https://github.com/niumoo/bing-wallpaper) - 必应每日超清壁纸（4K）
+- [niumoo/bing-wallpaper](https://github.com/niumoo/bing-wallpaper) - 必应每日超清壁纸（4K） Bing Daily Wallpaper (4K)
 - [oshi/oshi](https://github.com/oshi/oshi) - Native Operating System and Hardware Information
 - [Neamar/KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, &lt; 200kb Android launcher
 - [arduino/Arduino](https://github.com/arduino/Arduino) - Arduino IDE 1.x
