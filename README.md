@@ -1245,7 +1245,6 @@
 
 - [davunt/app-eraser](https://github.com/davunt/app-eraser) - App Eraser is a Free and Open Source macOS app removal tool.
 - [ray-lothian/UserAgent-Switcher](https://github.com/ray-lothian/UserAgent-Switcher) - A User-Agent spoofer browser extension that is highly configurable
-- [rhysmorgan134/node-CarPlay](https://github.com/rhysmorgan134/node-CarPlay) - 
 - [rhysmorgan134/react-carplay](https://github.com/rhysmorgan134/react-carplay) - 
 - [Erdos1729/protected-pdf-file-downloader](https://github.com/Erdos1729/protected-pdf-file-downloader) - This repository will help you to download protected PDF files from Google Drive and other websites with simple steps.
 - [tympanix/electron-regedit](https://github.com/tympanix/electron-regedit) - File associations, file icons & open with... for electron apps
@@ -2358,7 +2357,7 @@
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-544-Stars](https://github.com/iBug/This-Repo-Has-544-Stars) - Yes, it's true :orange_heart: This repository has 544 stars.
+- [iBug/This-Repo-Has-544-Stars](https://github.com/iBug/This-Repo-Has-544-Stars) - Yes, it's true :heartbeat: This repository has 544 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -3164,6 +3163,7 @@
 - [enmity-mod/enmity](https://github.com/enmity-mod/enmity) - The power of addons, all in your hand.
 - [dclstn/better-snapchat](https://github.com/dclstn/better-snapchat) - This browser extension enhances your web.snapchat.com experience by adding several essential privacy features.
 - [anaclumos/bing-chat-for-all-browsers](https://github.com/anaclumos/bing-chat-for-all-browsers) - Enable Bing ChatGPT on Chrome and Firefox
+- [rhysmorgan134/node-CarPlay](https://github.com/rhysmorgan134/node-CarPlay) - 
 - [felixrieseberg/slack-archive](https://github.com/felixrieseberg/slack-archive) - Generate static HTML archives of Slack workspaces
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
 - [skiff-org/skiff-apps](https://github.com/skiff-org/skiff-apps) - Privacy-first, end-to-end encrypted Mail, Pages, Drive, and Calendar.
