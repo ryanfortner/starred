@@ -1431,7 +1431,7 @@
 - [klaudiosinani/ao](https://github.com/klaudiosinani/ao) - Elegant Microsoft To-Do desktop app
 - [dscalzi/HeliosLauncher](https://github.com/dscalzi/HeliosLauncher) - ☀ Custom launcher for modded minecraft written in Electron and Node.js
 - [railken/mc](https://github.com/railken/mc) - A Minecraft Launcher in electron
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [Mailtrain-org/mailtrain](https://github.com/Mailtrain-org/mailtrain) - Self hosted newsletter app
 - [gl91306/launcherpi](https://github.com/gl91306/launcherpi) - bascicly a mc launcher for the pi.
 - [linuxmint/cinnamon-spices-desklets](https://github.com/linuxmint/cinnamon-spices-desklets) - Desklets for the Cinnamon desktop
@@ -2361,7 +2361,7 @@
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-544-Stars](https://github.com/iBug/This-Repo-Has-544-Stars) - Yes, it's true :heartbeat: This repository has 544 stars.
+- [iBug/This-Repo-Has-543-Stars](https://github.com/iBug/This-Repo-Has-543-Stars) - Yes, it's true :yellow_heart: This repository has 543 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
