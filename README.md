@@ -123,6 +123,7 @@
 
 ## C 
 
+- [zhuowei/MacDirtyCowDemo](https://github.com/zhuowei/MacDirtyCowDemo) - Get root on macOS 13.0.1 with CVE-2022-46689 (macOS equivalent of the Dirty Cow bug), using the testcase extracted from Apple's XNU source.
 - [zammitjames/theunarchiver](https://github.com/zammitjames/theunarchiver) - The Unarchiver is an Objective-C application for uncompressing archive files
 - [RootHide/Dopamine-roothide](https://github.com/RootHide/Dopamine-roothide) - RootHide implementation based on Dopamine Jailbreak.
 - [leminlimez/Cluckabunga](https://github.com/leminlimez/Cluckabunga) - KFD Customization Tool for iOS 16.0-16.6b1
@@ -1246,6 +1247,7 @@
 
 ## JavaScript 
 
+- [ksucpea/bettercanvas](https://github.com/ksucpea/bettercanvas) - Dark mode, better todo list, GPA calculator, and more for Canvas
 - [oblador/hush](https://github.com/oblador/hush) - 🤫 Noiseless Browsing – Content Blocker for Safari
 - [davunt/app-eraser](https://github.com/davunt/app-eraser) - App Eraser is a Free and Open Source macOS app removal tool.
 - [ray-lothian/UserAgent-Switcher](https://github.com/ray-lothian/UserAgent-Switcher) - A User-Agent spoofer browser extension that is highly configurable
