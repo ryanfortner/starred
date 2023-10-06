@@ -1883,7 +1883,6 @@
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [actionschnitzel/Make-Me-Xfce](https://github.com/actionschnitzel/Make-Me-Xfce) - 
 - [pepers/vim-adventures](https://github.com/pepers/vim-adventures) - solutions to puzzles in Vim Adventures
-- [community/community](https://github.com/community/community) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
 - [natethinks/jog](https://github.com/natethinks/jog) - Simple script to print the last 10 commands you ran in the current directory
 - [hmsjy2017/Aria2-Pro-Core-debs](https://github.com/hmsjy2017/Aria2-Pro-Core-debs) - 
 - [hmsjy2017/transfer-debs](https://github.com/hmsjy2017/transfer-debs) - 
@@ -2061,7 +2060,7 @@
 - [eatingurtoes/g1lbertCFW](https://github.com/eatingurtoes/g1lbertCFW) - The first untethered jailbreak for all versions of iOS 5.
 - [NightmareAI/Real-ESRGAN](https://github.com/NightmareAI/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 - [timsutton/brigadier](https://github.com/timsutton/brigadier) - Fetch and install Boot Camp ESDs with ease.
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (GGUF), Llama models.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, llama.cpp (GGUF), Llama models.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -2507,6 +2506,7 @@
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [sous-chefs/homebrew](https://github.com/sous-chefs/homebrew) - Development repository for the homebrew cookbook
+- [community/community](https://github.com/community/community) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
 - [toptal/haste-client](https://github.com/toptal/haste-client) - CLI client for haste-server
 - [snibox/snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager
 - [hartator/wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader) - Download an entire website from the Wayback Machine.
