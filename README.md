@@ -620,7 +620,7 @@
 - [rexdex/recompiler](https://github.com/rexdex/recompiler) - Xbox360 -&gt; Windows executable converter
 - [KDE/kwin](https://github.com/KDE/kwin) - Easy to use, but flexible, X Window Manager and Wayland Compositor
 - [KDE/plasma-desktop](https://github.com/KDE/plasma-desktop) - Plasma for the Desktop
-- [KDE/plasma-framework](https://github.com/KDE/plasma-framework) - Plasma library and runtime components based upon KF5 and Qt5
+- [KDE/plasma-framework](https://github.com/KDE/plasma-framework) - Plasma library and runtime components
 - [coddec/Classic-Shell](https://github.com/coddec/Classic-Shell) - Original code of Classic Shell (v4.3.1), original author Ivo Beltchev
 - [ukui/peony](https://github.com/ukui/peony) - The File Manager Application of UKUI.
 - [codenamecpp/carnage3d](https://github.com/codenamecpp/carnage3d) - Reimplementation of Grand Theft Auto 1 [GTA1]
@@ -1417,7 +1417,6 @@
 - [cappig/MC-status-bot](https://github.com/cappig/MC-status-bot) - A Discord bot that makes it easy to display, log and graph the status and statistics of a Minecraft server. 📈
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop's app.asar
-- [antonmedv/spark](https://github.com/antonmedv/spark) - GitHub Stars Sparklines ⚡️
 - [soroushchehresa/unsplash-wallpapers](https://github.com/soroushchehresa/unsplash-wallpapers) - 🖼️ A cross-platform desktop application to set wallpapers from Unsplash built with Electron, React, and Redux
 - [bootstrap-vue/bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - BootstrapVue provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
 - [maxiz1225/the-simple-unblocker-public](https://github.com/maxiz1225/the-simple-unblocker-public) - a simple front end proxy
