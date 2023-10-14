@@ -3103,12 +3103,12 @@
 - [ninxsoft/Mist](https://github.com/ninxsoft/Mist) - A Mac utility that automatically downloads macOS Firmwares / Installers.
 - [leminlimez/Cowabunga](https://github.com/leminlimez/Cowabunga) - iOS 14.0-15.7.1 & 16.0-16.1.2 MacDirtyCow ToolBox
 - [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI
-- [SerenaKit/Antoine](https://github.com/SerenaKit/Antoine) - A System Log UI for iOS
+- [NSAntoine/Antoine](https://github.com/NSAntoine/Antoine) - A System Log UI for iOS
 - [palera1n/loader](https://github.com/palera1n/loader) - Loader application for palera1n.
 - [zzanehip/Deca5](https://github.com/zzanehip/Deca5) - Tethered Downgrade Your A5 Device Today. By @zzanehip.
 - [haxi0/TrollApps](https://github.com/haxi0/TrollApps) - App Store, but for TrollStore
 - [c22dev/TrollBox](https://github.com/c22dev/TrollBox) - A TrollStore app that embed all TrollStore tools
-- [SerenaKit/Santander](https://github.com/SerenaKit/Santander) - A new, enhanced File Manager for iOS devices
+- [NSAntoine/Santander](https://github.com/NSAntoine/Santander) - A new, enhanced File Manager for iOS devices
 - [SideStore/SideStore](https://github.com/SideStore/SideStore) - SideStore is a fork of AltStore that doesn't require an AltServer.
 - [j4nf4b3l/MagicCFG-Reloaded-OSV](https://github.com/j4nf4b3l/MagicCFG-Reloaded-OSV) - A fully fledged syscfg editor. Just the editor. Written in pure swift.
 - [sourcelocation/Evyrest](https://github.com/sourcelocation/Evyrest) - Automatic wallpaper changer
