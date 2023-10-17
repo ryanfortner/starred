@@ -434,6 +434,7 @@
 - [nodogsplash/nodogsplash](https://github.com/nodogsplash/nodogsplash) - Nodogsplash offers a simple way to provide restricted access to an Internet connection using a captive portal. Pull requests are welcome!
 - [skyjake/lagrange](https://github.com/skyjake/lagrange) - A Beautiful Gemini Client
 - [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
+- [openrazer/openrazer](https://github.com/openrazer/openrazer) - Open source driver and user-space daemon to control Razer lighting and other features on GNU/Linux
 - [Open-Smartwatch/open-smartwatch-os](https://github.com/Open-Smartwatch/open-smartwatch-os) - The Open-Smartwatch Operating System.
 - [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb
 - [FWGS/xash3d-fwgs](https://github.com/FWGS/xash3d-fwgs) - Xash3D FWGS engine.
@@ -711,6 +712,7 @@
 - [orbitersim/orbiter](https://github.com/orbitersim/orbiter) - Open-source repository of Orbiter Space Flight Simulator
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [tenacityteam/tenacity-legacy](https://github.com/tenacityteam/tenacity-legacy) - THIS REPO IS NOT MAINTAINED ANYMORE. Please see https://codeberg.org/tenacityteam/tenacity for Tenacity, which is maintained.
+- [linuxmint/warpinator](https://github.com/linuxmint/warpinator) - Share files across the LAN
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 - [Qv2ray/Qv2ray](https://github.com/Qv2ray/Qv2ray) - :star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 :star:
 - [kraxarn/spotify-qt](https://github.com/kraxarn/spotify-qt) - Lightweight Spotify client using Qt
@@ -2094,7 +2096,7 @@
 - [flozz/calcleaner](https://github.com/flozz/calcleaner) - A simple graphical tool to purge old events from CalDAV calendars
 - [nat/thingies](https://github.com/nat/thingies) - Various little scripts I use.
 - [nicotine-plus/nicotine-plus](https://github.com/nicotine-plus/nicotine-plus) - Graphical client for the Soulseek peer-to-peer network
-- [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end
+- [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end and web app
 - [mcastorina/graph-cli](https://github.com/mcastorina/graph-cli) - Flexible command line tool to create graphs from CSV data
 - [Shugabuga/Silica](https://github.com/Shugabuga/Silica) - A static site generator for MobileAPT repos.
 - [permasigner/permasigner](https://github.com/permasigner/permasigner) - 🖊 Permanently signs IPAs on jailbroken iDevices (persists on stock).
@@ -2386,7 +2388,6 @@
 - [linuxmint/sticky](https://github.com/linuxmint/sticky) - A sticky notes app for the linux desktop
 - [linuxmint/hypnotix](https://github.com/linuxmint/hypnotix) - An M3U IPTV Player
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
-- [linuxmint/warpinator](https://github.com/linuxmint/warpinator) - Share files across the LAN
 - [ChimeraOS/chimera](https://github.com/ChimeraOS/chimera) - A web interface for managing Steam remotely
 - [kozec/syncthing-gtk](https://github.com/kozec/syncthing-gtk) - GTK3 & python based GUI for Syncthing
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
@@ -2408,7 +2409,6 @@
 - [openmv/openmv-ide](https://github.com/openmv/openmv-ide) - QtCreator based OpenMV IDE
 - [revoxhere/duino-coin](https://github.com/revoxhere/duino-coin) - ᕲ Duino-Coin is a coin that can be mined with almost everything, including Arduino boards.
 - [michael-lazar/rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
-- [openrazer/openrazer](https://github.com/openrazer/openrazer) - Open source driver and user-space daemon to control Razer lighting and other features on GNU/Linux
 - [MBRO95/PortableCellNetwork](https://github.com/MBRO95/PortableCellNetwork) - Utilize a Raspberry Pi and a Nuand BladeRF to generate your own portable local cell network
 - [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client in Python / PyGObject
 - [maoschanz/drawing](https://github.com/maoschanz/drawing) - Simple image editor for Linux
