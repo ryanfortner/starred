@@ -521,6 +521,7 @@
 
 ## C++ 
 
+- [Rafiuth/Soggfy](https://github.com/Rafiuth/Soggfy) - Spotify ogg dumper
 - [CR-3D/SliCR-3D](https://github.com/CR-3D/SliCR-3D) - G-code generator for 3D printers (CR-3D, Prusa, Voron, Creality, etc.)
 - [smartmontools/smartmontools](https://github.com/smartmontools/smartmontools) - Official read only mirror of the smartmontools project SVN
 - [FlightGear/flightgear](https://github.com/FlightGear/flightgear) - Mirror: FlightGear - Open source flight sim
@@ -1211,7 +1212,7 @@
 - [stream-pi/util](https://github.com/stream-pi/util) - Stream-Pi Utilities Library
 - [stream-pi/server](https://github.com/stream-pi/server) - Stream-Pi Server
 - [stream-pi/client](https://github.com/stream-pi/client) - Stream-Pi Client
-- [konsoletyper/teavm](https://github.com/konsoletyper/teavm) - Compiler of Java bytecode to JavaScript
+- [konsoletyper/teavm](https://github.com/konsoletyper/teavm) - Compiles Java bytecode to JavaScript, WebAssembly and C
 - [niumoo/bing-wallpaper](https://github.com/niumoo/bing-wallpaper) - 必应每日超清壁纸（4K） Bing Daily Wallpaper (4K)
 - [oshi/oshi](https://github.com/oshi/oshi) - Native Operating System and Hardware Information
 - [Neamar/KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, &lt; 200kb Android launcher
@@ -2907,7 +2908,7 @@
 - [ryanfortner/au-sh](https://github.com/ryanfortner/au-sh) - autoupdate script
 - [billw2/rpi-clone](https://github.com/billw2/rpi-clone) - A shell script to clone a booted disk.
 - [pacstall/pacstall-programs](https://github.com/pacstall/pacstall-programs) - Pacstall's official program repository
-- [raspberrypi/rpi-eeprom](https://github.com/raspberrypi/rpi-eeprom) - Installation scripts and binaries for the closed sourced Raspberry Pi 4 EEPROMs
+- [raspberrypi/rpi-eeprom](https://github.com/raspberrypi/rpi-eeprom) - Installation scripts and binaries for the Raspberry Pi 4 and Raspberry Pi 5 bootloader EEPROMs
 - [armbian/config](https://github.com/armbian/config) - Armbian Linux configuration utility
 - [0x00009b/pkget](https://github.com/0x00009b/pkget) - Install packages on any Debian based Linux distro without root or installing it on the entire system
 - [ryanfortner/deb-builder](https://github.com/ryanfortner/deb-builder) - Super simple script to create Debian packages
