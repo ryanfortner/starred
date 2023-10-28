@@ -205,7 +205,7 @@
 - [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
 - [git-for-windows/git](https://github.com/git-for-windows/git) - A fork of Git containing Windows-specific patches.
 - [linuxmint/xed](https://github.com/linuxmint/xed) - X-Apps [Text] Editor (Cross-DE, backward-compatible, GTK3, traditional UI)
-- [intel/media-driver](https://github.com/intel/media-driver) - 
+- [intel/media-driver](https://github.com/intel/media-driver) - Intel Graphics Media Driver to support hardware decode, encode and video processing.
 - [inikep/lizard](https://github.com/inikep/lizard) - Lizard (formerly LZ5) is an efficient compressor with very fast decompression. It achieves compression ratio that is comparable to zip/zlib and zstd/brotli (at low and medium compression levels) at de
 - [vilhalmer/oguri](https://github.com/vilhalmer/oguri) - A very nice animated wallpaper daemon for Wayland compositors
 - [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
@@ -1306,7 +1306,6 @@
 - [vercel/hazel](https://github.com/vercel/hazel) - Lightweight update server for Electron apps
 - [Lienol/openwrt-luci](https://github.com/Lienol/openwrt-luci) - This LuCI repository is only suitable for Lienol fork OpenWRT source code.
 - [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio
-- [certd/certd](https://github.com/certd/certd) - 免费通配符域名SSL证书全自动申请、续期、部署，支持部署到阿里云、腾讯云、ssh主机。Automatically apply, renew and deploy free Generic domain SSL Certificates。
 - [Iku/Google-Forms-to-Discord](https://github.com/Iku/Google-Forms-to-Discord) - A quick way to automatically send Google Form responses to a Discord channel
 - [EmDev21/Dollar](https://github.com/EmDev21/Dollar) - A startpage looking like a terminal
 - [Crilum/websh](https://github.com/Crilum/websh) - Web-powered shell emulator
@@ -1865,7 +1864,6 @@
 - [ric2b/Vivaldi-browser](https://github.com/ric2b/Vivaldi-browser) - Source code for the Vivali browser, taken from
 - [anudeepND/blacklist](https://github.com/anudeepND/blacklist) - Curated and well-maintained hostfile to block ads, tracking, cryptomining, and more! Updated regularly. ⚡🔒
 - [ryanfortner/packaging-guides](https://github.com/ryanfortner/packaging-guides) - 
-- [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world's most hated IT stickers
 - [ryanfortner/blockbench-arm](https://github.com/ryanfortner/blockbench-arm) - arm builds of blockbench
 - [dhanishgajjar/terminal-icons](https://github.com/dhanishgajjar/terminal-icons) - Beautiful icons for your favourite terminal apps like Hyper and iTerm2
@@ -2358,7 +2356,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C and C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-553-Stars](https://github.com/iBug/This-Repo-Has-553-Stars) - Yes, it's true :heartpulse: This repository has 553 stars.
+- [iBug/This-Repo-Has-554-Stars](https://github.com/iBug/This-Repo-Has-554-Stars) - Yes, it's true :heartbeat: This repository has 554 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -2866,6 +2864,7 @@
 - [rda0/debmake](https://github.com/rda0/debmake) - Make deb packages the easy way
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
+- [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [lmc999/RegionRestrictionCheck](https://github.com/lmc999/RegionRestrictionCheck) - A bash script to check if your VPS's IP is available for various OTT platforms
 - [wimpysworld/retro-home](https://github.com/wimpysworld/retro-home) - Retro Home; your home for retro-gaming 🕹
 - [fMorales-97/albumtag](https://github.com/fMorales-97/albumtag) - A POSIX compliant shell script to write metadata into your albums.
@@ -3209,6 +3208,7 @@
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [google/wireit](https://github.com/google/wireit) - Wireit upgrades your npm/pnpm/yarn scripts to make them smarter and more efficient.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+- [certd/certd](https://github.com/certd/certd) - 免费通配符域名SSL证书全自动申请、续期、部署，支持部署到阿里云、腾讯云、ssh主机。Automatically apply, renew and deploy free Generic domain SSL Certificates。
 - [rejetto/hfs](https://github.com/rejetto/hfs) - HFS is a web file server to run on your computer. Share folders or even a single file thanks to the virtual file system.
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
