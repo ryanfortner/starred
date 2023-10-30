@@ -883,6 +883,7 @@
 
 ## Dockerfile 
 
+- [linuxserver/docker-firefox](https://github.com/linuxserver/docker-firefox) - 
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
 - [linuxserver/docker-code-server](https://github.com/linuxserver/docker-code-server) - 
 - [yewtudotbe/invidious-custom](https://github.com/yewtudotbe/invidious-custom) - Invidious with some git patches (mostly from existing PRs)
@@ -1248,6 +1249,7 @@
 
 ## JavaScript 
 
+- [drHyperion451/does-uBO-bypass-yt](https://github.com/drHyperion451/does-uBO-bypass-yt) - Are YouTube ads blocked by Ublock? This website will tell you so!
 - [ksucpea/bettercanvas](https://github.com/ksucpea/bettercanvas) - Dark mode, better todo list, GPA calculator, and more for Canvas
 - [oblador/hush](https://github.com/oblador/hush) - 🤫 Noiseless Browsing – Content Blocker for Safari
 - [davunt/app-eraser](https://github.com/davunt/app-eraser) - App Eraser is a Free and Open Source macOS app removal tool.
@@ -2623,6 +2625,7 @@
 
 ## Shell 
 
+- [helfrichmichael/cura-novnc](https://github.com/helfrichmichael/cura-novnc) - Provides an instance of Cura via noVNC in your favorite web browser!
 - [Steam-Headless/docker-steam-headless](https://github.com/Steam-Headless/docker-steam-headless) - A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI
 - [MercuryWorkshop/RecoMod](https://github.com/MercuryWorkshop/RecoMod) - a cros recovery image modification toolkit
 - [BillyBlaze/OctoPrint-TouchUI-autostart](https://github.com/BillyBlaze/OctoPrint-TouchUI-autostart) - Startup files for TouchUI
