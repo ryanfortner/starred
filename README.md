@@ -1581,7 +1581,7 @@
 - [fython/PackageTracker](https://github.com/fython/PackageTracker) - Track your package simply on Android.
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
 - [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) - All in one emulator on Android!
-- [thunderbird/k-9](https://github.com/thunderbird/k-9) - K-9 Mail – Open Source Email App for Android
+- [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - K-9 Mail – Open Source Email App for Android
 - [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix) - ⚠️ Fenix (Firefox for Android) moved to a new repository. It is now developed and maintained as part of: https://github.com/mozilla-mobile/firefox-android
 
 ## Lua 
@@ -2358,7 +2358,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C and C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-554-Stars](https://github.com/iBug/This-Repo-Has-554-Stars) - Yes, it's true :heartbeat: This repository has 554 stars.
+- [iBug/This-Repo-Has-554-Stars](https://github.com/iBug/This-Repo-Has-554-Stars) - Yes, it's true :heart: This repository has 554 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
