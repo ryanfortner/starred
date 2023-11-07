@@ -629,6 +629,7 @@
 - [ValveSoftware/dxvk](https://github.com/ValveSoftware/dxvk) - dxvk tree containing branches used by Proton
 - [fritzing/fritzing-app](https://github.com/fritzing/fritzing-app) - Fritzing desktop application
 - [gemrb/gemrb](https://github.com/gemrb/gemrb) - GemRB is a portable open-source implementation of Bioware’s Infinity Engine.
+- [virtio-win/virtio-win-guest-tools-installer](https://github.com/virtio-win/virtio-win-guest-tools-installer) - 
 - [sass/node-sass](https://github.com/sass/node-sass) - :rainbow: Node.js bindings to libsass
 - [KDE/audiotube](https://github.com/KDE/audiotube) - Client for YouTube Music
 - [libretro/citra](https://github.com/libretro/citra) - A Nintendo 3DS Emulator, running on libretro
@@ -735,7 +736,7 @@
 - [cuberite/cuberite](https://github.com/cuberite/cuberite) - A lightweight, fast and extensible game server for Minecraft
 - [JonMagon/KDiskMark](https://github.com/JonMagon/KDiskMark) - A simple open-source disk benchmark tool for Linux distros
 - [bingmann/sound-of-sorting](https://github.com/bingmann/sound-of-sorting) - The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms
-- [BlitterStudio/amiberry](https://github.com/BlitterStudio/amiberry) - Optimized Amiga emulator for the Raspberry Pi and other ARM boards
+- [BlitterStudio/amiberry](https://github.com/BlitterStudio/amiberry) - Optimized Amiga emulator for the Raspberry Pi and other Linux devices
 - [vkmark/vkmark](https://github.com/vkmark/vkmark) - Vulkan benchmark
 - [stuntrally/stuntrally](https://github.com/stuntrally/stuntrally) - Note: development continues in stuntrally3. 3D racing game based on VDrift and OGRE with own Track Editor. The main repository with Stunt Rally sources and data.
 - [anbox/anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
@@ -1426,6 +1427,7 @@
 - [FirefoxCSS-Store/FirefoxCSS-Store.github.io](https://github.com/FirefoxCSS-Store/FirefoxCSS-Store.github.io) - A collection site of Firefox userchrome themes, mostly from FirefoxCSS Reddit community.
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [Schneegans/Desktop-Cube](https://github.com/Schneegans/Desktop-Cube) - 🧊 Indulge in nostalgia with useless 3D effects.
+- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [d3/d3-zoom](https://github.com/d3/d3-zoom) - Pan and zoom SVG, HTML or Canvas using mouse or touch input.
 - [dhanishgajjar/vscode-icons](https://github.com/dhanishgajjar/vscode-icons) - Custom Visual Studio Code Icons
 - [klaudiosinani/taskbook](https://github.com/klaudiosinani/taskbook) - Tasks, boards & notes for the command-line habitat
@@ -1476,7 +1478,6 @@
 - [dracula/visual-studio-code](https://github.com/dracula/visual-studio-code) - 🧛🏻‍♂️ Dark theme for Visual Studio Code
 - [egoist/docute](https://github.com/egoist/docute) - 📚 Effortless documentation, done right.
 - [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [TurboWarp/packager](https://github.com/TurboWarp/packager) - Converts Scratch projects into HTML files, zip archives, or executable programs for Windows, macOS, and Linux.
 - [sonnyp/Tangram](https://github.com/sonnyp/Tangram) - Browser for your pinned tabs
 - [vinceliuice/dash-to-dock](https://github.com/vinceliuice/dash-to-dock) - A dock for the Gnome Shell. This extension   moves the dash out of the overview transforming it in a dock for an easier   launching of applications and a faster switching between windows and desktops.
@@ -1694,6 +1695,7 @@
 
 ## Objective-C++ 
 
+- [leminlimez/Helium](https://github.com/leminlimez/Helium) - 
 - [julioverne/LowerInstall](https://github.com/julioverne/LowerInstall) - Install Apps In Lower iOS Version
 - [autopear/Cydia](https://github.com/autopear/Cydia) - Cydia Installer
 
@@ -2254,7 +2256,6 @@
 - [sphero-inc/sphero-sdk-raspberrypi-python](https://github.com/sphero-inc/sphero-sdk-raspberrypi-python) - Sphero RVR SDK to run on Raspberry Pi using Python
 - [fritzing/fritzing-parts](https://github.com/fritzing/fritzing-parts) - Electronic components for use in the Fritzing app (aka the parts library)
 - [powerline/powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
-- [virtio-win/virtio-win-guest-tools-installer](https://github.com/virtio-win/virtio-win-guest-tools-installer) - 
 - [spesmilo/electrum](https://github.com/spesmilo/electrum) - Electrum Bitcoin Wallet
 - [goldstar611/gitless](https://github.com/goldstar611/gitless) - A maintained fork of the simple git interface
 - [Gamper98/Sudoku-Solver](https://github.com/Gamper98/Sudoku-Solver) - Sudoku solver written in python
@@ -2355,6 +2356,7 @@
 - [actionschnitzel/PDL](https://github.com/actionschnitzel/PDL) - Package Manager GUI
 - [LazoCoder/Pokemon-Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokemon terminal themes.
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C and C++ package manager
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
 - [iBug/This-Repo-Has-554-Stars](https://github.com/iBug/This-Repo-Has-554-Stars) - Yes, it's true :heart: This repository has 554 stars.
@@ -3258,7 +3260,6 @@
 - [divriots/browser-vite](https://github.com/divriots/browser-vite) - Vite in the browser.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
-- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [augustinbegue/icue-ambilight](https://github.com/augustinbegue/icue-ambilight) - Ambilight for Corsair devices: Synchronise the colors of your iCue compatible devices with the content displayed on your screen.
