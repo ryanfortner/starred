@@ -1625,6 +1625,7 @@
 - [raspberrypi/noobs](https://github.com/raspberrypi/noobs) - NOOBS (New Out Of Box Software) - An easy Operating System install manager for the Raspberry Pi
 - [varlesh/VLC-Arc-Dark](https://github.com/varlesh/VLC-Arc-Dark) - Arc Dark skin for VLC
 - [pikvm/os](https://github.com/pikvm/os) - OS for PiKVM based on Arch Linux ARM
+- [ungoogled-software/ungoogled-chromium-debian](https://github.com/ungoogled-software/ungoogled-chromium-debian) - Debian, Ubuntu, and others packaging for ungoogled-chromium
 - [maxnet/berryboot](https://github.com/maxnet/berryboot) - Berryboot -- Boot menu / OS installer
 - [procount/pinn](https://github.com/procount/pinn) - An enhanced Operating System installer for the Raspberry Pi
 
@@ -1933,7 +1934,6 @@
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [madmaxms/iconpack-obsidian](https://github.com/madmaxms/iconpack-obsidian) - Gnome Icon Pack based upon Faenza, optimized for dark themes
 - [shivasiddharth/Stremio-RaspberryPi](https://github.com/shivasiddharth/Stremio-RaspberryPi) - Installer for Stremio on Raspberry Pi
-- [ungoogled-software/ungoogled-chromium-debian](https://github.com/ungoogled-software/ungoogled-chromium-debian) - Debian, Ubuntu, and others packaging for ungoogled-chromium
 - [ryanfortner/qemu-arm-builds](https://github.com/ryanfortner/qemu-arm-builds) - qemu debs compiled using qemu2deb, for arm
 - [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage
 - [koendv/prusa-slicer-raspberrypi](https://github.com/koendv/prusa-slicer-raspberrypi) - Prusa-Slicer compiled for raspberry pi 4
