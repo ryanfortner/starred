@@ -930,6 +930,7 @@
 
 ## Go 
 
+- [Z-Bolt/OctoScreen](https://github.com/Z-Bolt/OctoScreen) - LCD touch interface for our OctoPrint
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [freemyipod/wInd3x](https://github.com/freemyipod/wInd3x) - iPod Classic and Nano 3/4/5G bootrom exploit
