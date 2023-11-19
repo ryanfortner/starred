@@ -527,6 +527,7 @@
 - [FlightGear/flightgear](https://github.com/FlightGear/flightgear) - Mirror: FlightGear - Open source flight sim
 - [ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) - Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
+- [kirb/LegacyUpdate](https://github.com/kirb/LegacyUpdate) - Fix Windows Update on Windows XP, Vista, Server 2008, 2003, and 2000
 - [solvespace/solvespace](https://github.com/solvespace/solvespace) - Parametric 2d/3d CAD
 - [msftguy/ssh-rd](https://github.com/msftguy/ssh-rd) - 
 - [nezza/SDQAnalyzer](https://github.com/nezza/SDQAnalyzer) - A Saleae analyzer plugin for the SDQ (Apple Lightning, MagSafe, Battery) protocol.
@@ -1217,7 +1218,7 @@
 - [konsoletyper/teavm](https://github.com/konsoletyper/teavm) - Compiles Java bytecode to JavaScript, WebAssembly and C
 - [niumoo/bing-wallpaper](https://github.com/niumoo/bing-wallpaper) - 必应每日超清壁纸（4K） Bing Daily Wallpaper (4K)
 - [oshi/oshi](https://github.com/oshi/oshi) - Native Operating System and Hardware Information
-- [Neamar/KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, &lt; 200kb Android launcher
+- [Neamar/KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, &lt; 250kb Android launcher
 - [arduino/Arduino](https://github.com/arduino/Arduino) - Arduino IDE 1.x
 - [spocon/lovspotify](https://github.com/spocon/lovspotify) - Spotify GUI + Spotify Client for Raspberry PI , Ubuntu and Debian
 - [bithatch/snake](https://github.com/bithatch/snake) - A stylised graphical tool for configuring and controlling Razer devices on Linux
@@ -1648,7 +1649,6 @@
 
 ## NSIS 
 
-- [kirb/LegacyUpdate](https://github.com/kirb/LegacyUpdate) - Fix Windows Update on Windows XP, Vista, Server 2008, 2003, and 2000
 - [kaylh/old-RetroBat-obsolete](https://github.com/kaylh/old-RetroBat-obsolete) - RetroBat is the best way to play your ROMs collection on Windows !
 - [da2x/EdgeDeflector](https://github.com/da2x/EdgeDeflector) - A tiny helper application to force Windows 10 to use your preferred web browser instead of ignoring the setting to promote Microsoft Edge. Only runs for a microsecond when needed.
 
