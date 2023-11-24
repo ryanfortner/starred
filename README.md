@@ -1819,7 +1819,7 @@
 - [radxa/armbian-compile-action](https://github.com/radxa/armbian-compile-action) - GitHub Action for Armbian `compile` command
 - [radxa/rock-pi-s-images-released](https://github.com/radxa/rock-pi-s-images-released) - 
 - [radxa/rock-pi-images-released](https://github.com/radxa/rock-pi-images-released) - 
-- [radxa/radxa-cm3-projects](https://github.com/radxa/radxa-cm3-projects) - 
+- [radxa/radxa-cm-projects](https://github.com/radxa/radxa-cm-projects) - 
 - [raspbian-addons/.github](https://github.com/raspbian-addons/.github) - 
 - [justjavac/github-dark-light-theme](https://github.com/justjavac/github-dark-light-theme) - GitHub markdown 显示深色模式或者浅色模式
 - [flathub/io.freetubeapp.FreeTube](https://github.com/flathub/io.freetubeapp.FreeTube) - 
@@ -2361,7 +2361,7 @@
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-555-Stars](https://github.com/iBug/This-Repo-Has-555-Stars) - Yes, it's true :sparkling_heart: This repository has 555 stars.
+- [iBug/This-Repo-Has-556-Stars](https://github.com/iBug/This-Repo-Has-556-Stars) - Yes, it's true :revolving_hearts: This repository has 556 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
