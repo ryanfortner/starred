@@ -262,7 +262,7 @@
 - [raspberrypi/userland](https://github.com/raspberrypi/userland) - Source code for ARM side libraries for interfacing to Raspberry Pi GPU.
 - [fluix-dev/sway-borders](https://github.com/fluix-dev/sway-borders) - Fork of sway with some extra features, mainly related to borders.
 - [adlererik/qemu-virgl](https://github.com/adlererik/qemu-virgl) - Debianization QEMU code with spice OpenGL/virgl acceleration.
-- [zhaojh329/oui](https://github.com/zhaojh329/oui) - 🐛  A framework used to develop Web interface for OpenWrt. Use Lua-eco + Vue3 + Vite + Naive-ui.
+- [zhaojh329/oui](https://github.com/zhaojh329/oui) - 🐛  A framework used to develop Web interface for OpenWrt. Use Lua-eco + Vue3 + Vite + Element Plus.
 - [linuxmint/nemo-extensions](https://github.com/linuxmint/nemo-extensions) - A set of extensions for Nemo
 - [lajp/dev_rickroll](https://github.com/lajp/dev_rickroll) - A kernel module that adds the /dev/rickroll device
 - [s-matyukevich/raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) - Learning operating system development using Linux kernel and Raspberry Pi
@@ -1252,6 +1252,7 @@
 
 ## JavaScript 
 
+- [openwrt/luci](https://github.com/openwrt/luci) - LuCI - OpenWrt Configuration Interface
 - [drHyperion451/does-uBO-bypass-yt](https://github.com/drHyperion451/does-uBO-bypass-yt) - Are YouTube ads blocked by Ublock? This website will tell you so!
 - [ksucpea/bettercanvas](https://github.com/ksucpea/bettercanvas) - Dark mode, better todo list, GPA calculator, and more for Canvas
 - [oblador/hush](https://github.com/oblador/hush) - 🤫 Noiseless Browsing – Content Blocker for Safari
