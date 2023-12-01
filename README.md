@@ -124,6 +124,7 @@
 
 ## C 
 
+- [GeoSn0w/GeoFilza](https://github.com/GeoSn0w/GeoFilza) - Filza No Jailbreak
 - [zhuowei/MacDirtyCowDemo](https://github.com/zhuowei/MacDirtyCowDemo) - Get root on macOS 13.0.1 with CVE-2022-46689 (macOS equivalent of the Dirty Cow bug), using the testcase extracted from Apple's XNU source.
 - [zammitjames/theunarchiver](https://github.com/zammitjames/theunarchiver) - The Unarchiver is an Objective-C application for uncompressing archive files
 - [RootHide/Dopamine-roothide](https://github.com/RootHide/Dopamine-roothide) - RootHide implementation based on Dopamine Jailbreak.
@@ -1620,7 +1621,6 @@
 - [turquoise-hexagon/fonts](https://github.com/turquoise-hexagon/fonts) - another bitmap fonts repo
 - [lineage-rpi/proprietary_vendor_brcm](https://github.com/lineage-rpi/proprietary_vendor_brcm) - 
 - [lineage-rpi/android_device_brcm_rpi4](https://github.com/lineage-rpi/android_device_brcm_rpi4) - 
-- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [ryanfortner/debianization-files](https://github.com/ryanfortner/debianization-files) - Scripts and files for packaging debian software using dh-make.
 - [ryanfortner/debuild-experiments](https://github.com/ryanfortner/debuild-experiments) - Experiments with Debian packaging
 - [motioneye-project/motioneyeos](https://github.com/motioneye-project/motioneyeos) - A Video Surveillance OS For Single-board Computers
@@ -1857,6 +1857,7 @@
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [techcoder20/MyRices](https://github.com/techcoder20/MyRices) - A repo for storing my rices.
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
+- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [geeekpi/cm4routerboard](https://github.com/geeekpi/cm4routerboard) - Raspberry Pi Computer Module 4 internet extand board firmware and config files
 - [ryanfortner/box86-debs-action](https://github.com/ryanfortner/box86-debs-action) - 
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
@@ -2365,7 +2366,7 @@
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-555-Stars](https://github.com/iBug/This-Repo-Has-555-Stars) - Yes, it's true :heartbeat: This repository has 555 stars.
+- [iBug/This-Repo-Has-556-Stars](https://github.com/iBug/This-Repo-Has-556-Stars) - Yes, it's true :heartpulse: This repository has 556 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -2378,7 +2379,7 @@
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
 - [kovidgoyal/kitty-themes](https://github.com/kovidgoyal/kitty-themes) - Themes for the kitty terminal emulator
 - [lord63/tldr.py](https://github.com/lord63/tldr.py) - A python client for tldr: simplified and community-driven man pages.
-- [Taiko2k/TauonMusicBox](https://github.com/Taiko2k/TauonMusicBox) - The desktop music player of today! (its the future now) :city_sunrise:
+- [Taiko2k/TauonMusicBox](https://github.com/Taiko2k/TauonMusicBox) - The desktop music player of today! :city_sunrise:
 - [pyload/pyload](https://github.com/pyload/pyload) - The free and open-source Download Manager written in pure Python
 - [arindas/mac-on-linux-with-qemu](https://github.com/arindas/mac-on-linux-with-qemu) - Runs macOS on linux with qemu.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -2949,7 +2950,7 @@
 - [notion-enhancer/notion-repackaged](https://github.com/notion-enhancer/notion-repackaged) - notion executables with the notion-enhancer embedded & a vanilla port of the official app to linux
 - [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
 - [pyavitz/rpi-img-builder](https://github.com/pyavitz/rpi-img-builder) - Image Builder for the Raspberry Pi
-- [cobalt2727/L4T-Megascript](https://github.com/cobalt2727/L4T-Megascript) - All-in-one installer and updater for popular programs on L4T Ubuntu with no prior knowledge of Linux needed
+- [cobalt2727/L4T-Megascript](https://github.com/cobalt2727/L4T-Megascript) - All-in-one installer and updater for popular programs on L4T Ubuntu/Fedora with no prior knowledge of Linux needed
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [Botspot/wor-flasher](https://github.com/Botspot/wor-flasher) - Legal utility that runs on RPiOS to flash another SD card with Windows 10/11
 - [Pi-Apps-Recreates/pi-apps-x86](https://github.com/Pi-Apps-Recreates/pi-apps-x86) - Pi-Apps For X86
