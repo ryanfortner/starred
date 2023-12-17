@@ -2017,7 +2017,7 @@
 - [jacklul/pihole-updatelists](https://github.com/jacklul/pihole-updatelists) - Update Pi-hole's lists from remote sources easily
 - [norcross/airplane-mode](https://github.com/norcross/airplane-mode) - Disables external data calls and loading for working on a purely local (i.e. no internet connection) WordPress site
 - [bradp/disable-telemetry](https://github.com/bradp/disable-telemetry) - 🛑️ A WordPress plugin to disable all HTTP requests to api.wordpress.org.
-- [femto-code/Raspberry-Pi-Dashboard](https://github.com/femto-code/Raspberry-Pi-Dashboard) - Web-based dashboard interface to check Raspberry Pi hardware and software status with no extra deependencies required.
+- [femto-code/Raspberry-Pi-Dashboard](https://github.com/femto-code/Raspberry-Pi-Dashboard) - Web-App Dashboard to monitor Raspberry Pi hardware and software status. Nothing more than Webserver + PHP required.
 - [henrywhitaker3/Speedtest-Tracker](https://github.com/henrywhitaker3/Speedtest-Tracker) - Continuously track your internet speed
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [aonez/Keka](https://github.com/aonez/Keka) - The macOS & iOS file archiver
