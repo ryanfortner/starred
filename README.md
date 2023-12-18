@@ -124,6 +124,8 @@
 
 ## C 
 
+- [CE-Programming/toolchain](https://github.com/CE-Programming/toolchain) - Toolchain and libraries for C/C++ programming on the TI-84+ CE calculator series
+- [NSSpiral/Blackb0x](https://github.com/NSSpiral/Blackb0x) - Apple TV 2/3 Jailbreak
 - [GeoSn0w/GeoFilza](https://github.com/GeoSn0w/GeoFilza) - Filza No Jailbreak
 - [zhuowei/MacDirtyCowDemo](https://github.com/zhuowei/MacDirtyCowDemo) - Get root on macOS 13.0.1 with CVE-2022-46689 (macOS equivalent of the Dirty Cow bug), using the testcase extracted from Apple's XNU source.
 - [zammitjames/theunarchiver](https://github.com/zammitjames/theunarchiver) - The Unarchiver is an Objective-C application for uncompressing archive files
@@ -3098,7 +3100,7 @@
 ## Swift 
 
 - [passepartoutvpn/tunnelkit](https://github.com/passepartoutvpn/tunnelkit) - VPN client library for Apple platforms.
-- [passepartoutvpn/passepartout-apple](https://github.com/passepartoutvpn/passepartout-apple) - VPN client for iOS and macOS.
+- [passepartoutvpn/passepartout-apple](https://github.com/passepartoutvpn/passepartout-apple) - VPN client for Apple platforms.
 - [hbang/NewTerm](https://github.com/hbang/NewTerm) - NewTerm is a terminal emulator app with first-class iPhone, iPad, and Mac support.
 - [zbrateam/Zebra](https://github.com/zbrateam/Zebra) - 🦓 A Useful Package Manager for iOS
 - [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) - macOS menubar tool to set Charge Limits and prolong battery lifespan
