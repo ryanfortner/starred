@@ -135,7 +135,7 @@
 - [AppInstalleriOSGH/KFD-Offsets](https://github.com/AppInstalleriOSGH/KFD-Offsets) - Should be every offset for the KFD exploit on all A12+ devices. No M1
 - [GenericCoding/kfd](https://github.com/GenericCoding/kfd) - kfd, short for kernel file descriptor, is a project to read and write kernel memory on Apple devices.
 - [felix-pb/kfd](https://github.com/felix-pb/kfd) - kfd, short for kernel file descriptor, is a project to read and write kernel memory on Apple devices.
-- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written in C.
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written mostly in C.
 - [alerighi/tetris](https://github.com/alerighi/tetris) - Console tetris game in C
 - [LinusHenze/Fugu](https://github.com/LinusHenze/Fugu) - Fugu is the first open source jailbreak based on the checkm8 exploit
 - [apple-oss-distributions/xnu](https://github.com/apple-oss-distributions/xnu) - 
@@ -907,6 +907,7 @@
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [RaspAP/raspap-docker](https://github.com/RaspAP/raspap-docker) - A community-led docker container for RaspAP
 - [futurejones/swift-arm64](https://github.com/futurejones/swift-arm64) - Swift for Arm64/aarch64 Servers and SBC's - Rock64, RaspberryPi3 and many more
+- [AndreRH/hangover](https://github.com/AndreRH/hangover) - Hangover runs simple Win32 applications on arm64 Linux
 - [lukechilds/dockerpi](https://github.com/lukechilds/dockerpi) - A Virtualised Raspberry Pi inside a Docker image
 
 ## EJS 
@@ -1962,7 +1963,6 @@
 - [ryanfortner/duckstation-rpi](https://github.com/ryanfortner/duckstation-rpi) - Fast PlayStation 1 emulator for PC and Android
 - [ryanfortner/pi-bashscripts-files](https://github.com/ryanfortner/pi-bashscripts-files) - A collection of scripts and files useful for the Raspberry Pi 4 and other models.
 - [novaspirit/rpi_ubu64_desktop](https://github.com/novaspirit/rpi_ubu64_desktop) - 
-- [AndreRH/hangover](https://github.com/AndreRH/hangover) - Hangover runs simple Win32 applications on arm64 Linux
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [SpacingBat3/box86-releases](https://github.com/SpacingBat3/box86-releases) - A repository containing a packaged version of the BOX86.
 - [MultiMC/meta-multimc](https://github.com/MultiMC/meta-multimc) - Repository for MultiMC Minecraft package metadata
@@ -2879,7 +2879,7 @@
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
 - [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
-- [lmc999/RegionRestrictionCheck](https://github.com/lmc999/RegionRestrictionCheck) - A bash script to check if your VPS's IP is available for various OTT platforms
+- [lmc999/RegionRestrictionCheck](https://github.com/lmc999/RegionRestrictionCheck) - A bash script to check the status of your IP on various geo-restricted services.
 - [wimpysworld/retro-home](https://github.com/wimpysworld/retro-home) - Retro Home; your home for retro-gaming 🕹
 - [fMorales-97/albumtag](https://github.com/fMorales-97/albumtag) - A POSIX compliant shell script to write metadata into your albums.
 - [ryanfortner/gitea-arm](https://github.com/ryanfortner/gitea-arm) - arm builds of Gitea
