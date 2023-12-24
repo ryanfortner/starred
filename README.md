@@ -142,8 +142,7 @@
 - [apple-oss-distributions/xnu](https://github.com/apple-oss-distributions/xnu) - 
 - [cs50/libcs50](https://github.com/cs50/libcs50) - This is CS50's Library for C.
 - [lenartj/labview](https://github.com/lenartj/labview) - LabView Dockerfile
-- [dora2-iOS/daibutsu](https://github.com/dora2-iOS/daibutsu) - open source "untether" for 32bit 8.4.1-9.1 untethered jailbreak. codesign bypass & kernel exploit
-- [dora2-iOS/powdersn0w_pub](https://github.com/dora2-iOS/powdersn0w_pub) - powdersn0w pub
+- [dora2ios/powdersn0w_pub](https://github.com/dora2ios/powdersn0w_pub) - powdersn0w pub
 - [torproject/tor](https://github.com/torproject/tor) - unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --
 - [opa334/Dopamine](https://github.com/opa334/Dopamine) - Dopamine is a semi-untethered permasigned jailbreak for iOS 15
 - [antimatter15/alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) - Locally run an Instruction-Tuned Chat-Style LLM
@@ -179,7 +178,7 @@
 - [kok3shidoll/ra1npoc](https://github.com/kok3shidoll/ra1npoc) - A tool for re-jailbreak devices jailbroken by checkra1n/odysseyra1n on iOS/iPadOS/macOS platforms. (opensource pongo loader)
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 - [Wind4/vlmcsd](https://github.com/Wind4/vlmcsd) - KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)
-- [dora2-iOS/ipwnder_lite](https://github.com/dora2-iOS/ipwnder_lite) - lightweight ipwnder
+- [dora2ios/ipwnder_lite](https://github.com/dora2ios/ipwnder_lite) - lightweight ipwnder
 - [GeoSn0w/OpenJailbreak](https://github.com/GeoSn0w/OpenJailbreak) - GeoSn0w's OpenJailbreak Project, an open-source iOS 11 to iOS 13 Jailbreak project & vault.
 - [GeoSn0w/Blizzard-Jailbreak-9](https://github.com/GeoSn0w/Blizzard-Jailbreak-9) - Blizzard Jailbreak for iOS 9.0 - 9.3.6, 32-Bit
 - [baskerville/bspwm](https://github.com/baskerville/bspwm) - A tiling window manager based on binary space partitioning
@@ -1684,10 +1683,10 @@
 - [haxi0/TrollLock-Reborn](https://github.com/haxi0/TrollLock-Reborn) - found the funny
 - [NyanSatan/kanzitools](https://github.com/NyanSatan/kanzitools) - Set of tools to interact with various aspects of Kanzi probe and its derivatives
 - [haiyuidesu/serialsh](https://github.com/haiyuidesu/serialsh) - safety net against bootloop
-- [dora2-iOS/bakera1n](https://github.com/dora2-iOS/bakera1n) - 
+- [dora2ios/bakera1n](https://github.com/dora2ios/bakera1n) - 
 - [adblockplus/adblockplussafariios](https://github.com/adblockplus/adblockplussafariios) - Adblock Plus Safari iOS source code
 - [a2/TrollDropKit](https://github.com/a2/TrollDropKit) - :trollface: Send trollfaces via AirDrop to nearby devices.
-- [dora2-iOS/ayakurume](https://github.com/dora2-iOS/ayakurume) - for checkm8 devices
+- [dora2ios/ayakurume](https://github.com/dora2ios/ayakurume) - for checkm8 devices
 - [shiftcmdk/PermaFlex](https://github.com/shiftcmdk/PermaFlex) - Permanently hide elements with FLEXible on iOS.
 - [reddit-archive/iReddit](https://github.com/reddit-archive/iReddit) - The iReddit iPhone app
 - [zachary7829/openpwnage](https://github.com/zachary7829/openpwnage) - iOS 8.4b4-9.3.6 Semi-Untethered jailbreak
