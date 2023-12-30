@@ -368,7 +368,7 @@
 - [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
 - [mateoconlechuga/oiram](https://github.com/mateoconlechuga/oiram) - Oiram is a Mario platformer clone
 - [neggles/cm4io-fan](https://github.com/neggles/cm4io-fan) - CM4 IO board PWM fan controller driver
-- [termux/termux-x11](https://github.com/termux/termux-x11) - Termux X11 add-on application. Still in early development.
+- [termux/termux-x11](https://github.com/termux/termux-x11) - Termux X11 add-on application.
 - [nakst/luigi](https://github.com/nakst/luigi) - A barebones single-header GUI library for Win32, X11 and Essence.
 - [tldr-pages/tldr-c-client](https://github.com/tldr-pages/tldr-c-client) - C command-line client for tldr pages
 - [amengol/MinGL](https://github.com/amengol/MinGL) - Minimal Graphics Library
@@ -525,6 +525,8 @@
 
 ## C++ 
 
+- [KDE/latte-dock](https://github.com/KDE/latte-dock) - Replacement dock for Plasma desktops, providing an elegant and intuitive experience for your tasks and plasmoids
+- [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
 - [Rafiuth/Soggfy](https://github.com/Rafiuth/Soggfy) - Spotify ogg dumper
 - [CR-3D/SliCR-3D](https://github.com/CR-3D/SliCR-3D) - G-code generator for 3D printers (CR-3D, Prusa, Voron, Creality, etc.)
 - [smartmontools/smartmontools](https://github.com/smartmontools/smartmontools) - Official read only mirror of the smartmontools project SVN
@@ -2030,6 +2032,7 @@
 
 ## Pascal 
 
+- [benjamimgois/goverlay](https://github.com/benjamimgois/goverlay) - GOverlay is an opensource project that aims to create a Graphical UI to help manage Linux overlays.
 - [peazip/PeaZip](https://github.com/peazip/PeaZip) - Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ
 - [mateoconlechuga/cesium](https://github.com/mateoconlechuga/cesium) - A GUI shell for the TI-84+CE
 
@@ -2419,7 +2422,7 @@
 - [revoxhere/duino-coin](https://github.com/revoxhere/duino-coin) - ᕲ Duino-Coin is a coin that can be mined with almost everything, including Arduino boards.
 - [michael-lazar/rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
 - [MBRO95/PortableCellNetwork](https://github.com/MBRO95/PortableCellNetwork) - Utilize a Raspberry Pi and a Nuand BladeRF to generate your own portable local cell network
-- [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client in Python / PyGObject
+- [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client
 - [maoschanz/drawing](https://github.com/maoschanz/drawing) - Simple image editor for Linux
 - [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Feature rich application Launcher for Linux
 - [simos/keyboardlayouteditor](https://github.com/simos/keyboardlayouteditor) - Keyboard Layout Editor
