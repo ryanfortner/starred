@@ -2059,7 +2059,7 @@
 
 ## Python 
 
-- [EntySec/SeaShell](https://github.com/EntySec/SeaShell) - SeaShell Framework is an iOS post-exploitation framework that exploits the CoreTrust bug to remotely access an iPhone or iPad.
+- [EntySec/SeaShell](https://github.com/EntySec/SeaShell) - SeaShell Framework is an iOS post-exploitation framework that enables you to access the device remotely, control it and extract sensitive information.
 - [JJTech0130/pypush](https://github.com/JJTech0130/pypush) - Cross-platform iMessage POC
 - [totoroterror/warp-cloner](https://github.com/totoroterror/warp-cloner) - Simple Python script that can clone Warp Plus (1.1.1.1) keys and generate 12PB (or 24PB) keys.
 - [swaggyP36000/TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs) - A collection of IPA files from many different sources, for TrollStore!
