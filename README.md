@@ -1136,7 +1136,6 @@
 - [mymonero/mymonero-app-site](https://github.com/mymonero/mymonero-app-site) - The MyMonero website
 - [dcurtis/markdown-mark](https://github.com/dcurtis/markdown-mark) - Use this mark to identify Markdown.
 - [Chia-Network/chiapos](https://github.com/Chia-Network/chiapos) - Chia Proof of Space library
-- [TheBananaStore/web-store](https://github.com/TheBananaStore/web-store) - 🌐🍌This is the Banana Web Store online page repo, built with raw HTML, CSS, and JS.
 - [KumaTea/pytorch-aarch64](https://github.com/KumaTea/pytorch-aarch64) - PyTorch wheels (whl) & conda for aarch64 / ARMv8 / ARM64
 - [revoxhere/magi-webservices](https://github.com/revoxhere/magi-webservices) - Coin Magi 2021 Explorer & Web Wallet
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
@@ -1268,7 +1267,7 @@
 - [AdguardTeam/AdGuardForSafari](https://github.com/AdguardTeam/AdGuardForSafari) - AdGuard for Safari app extension
 - [SnailKM/SnailKM-Software](https://github.com/SnailKM/SnailKM-Software) - Official keyboard/macropad management software.
 - [imreyesjorge/root-startpage](https://github.com/imreyesjorge/root-startpage) - A simple and clean startpage 🌟
-- [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
+- [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
 - [SpecifiesDev/snapchat-electron](https://github.com/SpecifiesDev/snapchat-electron) - A desktop application for snapchat's web portal.
 - [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - Privacy-focused encrypted email for everyone.
 - [dbader/large-type.com](https://github.com/dbader/large-type.com) - Display & share text in a large font, directly from your browser
@@ -1387,6 +1386,7 @@
 - [marlun78/arith](https://github.com/marlun78/arith) - Math stuff
 - [marlun78/number-to-words](https://github.com/marlun78/number-to-words) - Converts a number to words
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
+- [TheBananaStore/web-store](https://github.com/TheBananaStore/web-store) - 🌐🍌This is the Banana Web Store online page repo, built with raw HTML, CSS, and JS.
 - [aalin/gta2.js](https://github.com/aalin/gta2.js) - GTA2 in JavaScript
 - [niklasvh/WebGL-GTA](https://github.com/niklasvh/WebGL-GTA) - JavaScript implementation of GTA
 - [Kajakklubben/gta2-webgl](https://github.com/Kajakklubben/gta2-webgl) - Why not port GTA2 to webgl? That's a great idea....
