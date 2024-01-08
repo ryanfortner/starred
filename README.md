@@ -1452,7 +1452,7 @@
 - [anschwa/typing-test](https://github.com/anschwa/typing-test) - An ES6 and HTML5 typing test.
 - [hellopablo/faketerminal](https://github.com/hellopablo/faketerminal) - A fake Javascript terminal for your website.
 - [AlynxZhou/gnome-shell-extension-inotch](https://github.com/AlynxZhou/gnome-shell-extension-inotch) - Add a useless notch to your screen.
-- [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain
+- [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain.
 - [rpsthecoder/square-loading-favicon](https://github.com/rpsthecoder/square-loading-favicon) - Square loading favicon.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [micheleg/dash-to-dock](https://github.com/micheleg/dash-to-dock) - A dock for the Gnome Shell. This extension   moves the dash out of the overview transforming it in a dock for an easier   launching of applications and a faster switching between windows and desktops.
