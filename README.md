@@ -124,13 +124,14 @@
 
 ## C 
 
+- [hrtowii/Serotonin](https://github.com/hrtowii/Serotonin) - 
 - [Ingan121/FSUntether](https://github.com/Ingan121/FSUntether) - Fucking Simple Untether for iOS 15-17
 - [CE-Programming/toolchain](https://github.com/CE-Programming/toolchain) - Toolchain and libraries for C/C++ programming on the TI-84+ CE calculator series
 - [NSSpiral/Blackb0x](https://github.com/NSSpiral/Blackb0x) - Apple TV 2/3 Jailbreak
 - [GeoSn0w/GeoFilza](https://github.com/GeoSn0w/GeoFilza) - Filza No Jailbreak
 - [zhuowei/MacDirtyCowDemo](https://github.com/zhuowei/MacDirtyCowDemo) - Get root on macOS 13.0.1 with CVE-2022-46689 (macOS equivalent of the Dirty Cow bug), using the testcase extracted from Apple's XNU source.
 - [zammitjames/theunarchiver](https://github.com/zammitjames/theunarchiver) - The Unarchiver is an Objective-C application for uncompressing archive files
-- [RootHide/Dopamine-roothide](https://github.com/RootHide/Dopamine-roothide) - RootHide implementation based on Dopamine Jailbreak.
+- [roothide/Dopamine-roothide](https://github.com/roothide/Dopamine-roothide) - RootHide implementation based on Dopamine Jailbreak.
 - [leminlimez/Cluckabunga](https://github.com/leminlimez/Cluckabunga) - KFD Customization Tool for iOS 16.0-16.6b1
 - [Lrdsnow/kfd_offsets](https://github.com/Lrdsnow/kfd_offsets) - Offsets for KFD
 - [AppInstalleriOSGH/KFD-Offsets](https://github.com/AppInstalleriOSGH/KFD-Offsets) - Should be every offset for the KFD exploit on all A12+ devices. No M1
