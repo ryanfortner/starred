@@ -125,6 +125,7 @@
 
 ## C 
 
+- [c22dev/Geranium](https://github.com/c22dev/Geranium) - LocSim, Daemon Manager, Cleaner and Superviser for TrollStore
 - [hrtowii/Serotonin](https://github.com/hrtowii/Serotonin) - 
 - [Ingan121/FSUntether](https://github.com/Ingan121/FSUntether) - Fucking Simple Untether for iOS 15-17
 - [CE-Programming/toolchain](https://github.com/CE-Programming/toolchain) - Toolchain and libraries for C/C++ programming on the TI-84+ CE calculator series
@@ -2385,7 +2386,6 @@
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
-- [alvatip/Nordzy-cursors](https://github.com/alvatip/Nordzy-cursors) - Cursor theme using the Nord color palette and based on Vimix and cz-Viator.
 - [samschott/maestral](https://github.com/samschott/maestral) - Open-source Dropbox client for macOS and Linux
 - [WoeUSB/WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) - WoeUSB-ng is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. This is a rewrite of original WoeUSB.
 - [KanoComputing/kano-updater](https://github.com/KanoComputing/kano-updater) - 
@@ -2968,6 +2968,7 @@
 - [pyavitz/rpi-img-builder](https://github.com/pyavitz/rpi-img-builder) - Image Builder for the Raspberry Pi
 - [cobalt2727/L4T-Megascript](https://github.com/cobalt2727/L4T-Megascript) - All-in-one installer and updater for popular programs on L4T Ubuntu/Fedora with no prior knowledge of Linux needed
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [alvatip/Nordzy-cursors](https://github.com/alvatip/Nordzy-cursors) - Cursor theme using the Nord color palette and based on Vimix and cz-Viator.
 - [Botspot/wor-flasher](https://github.com/Botspot/wor-flasher) - Legal utility that runs on RPiOS to flash another SD card with Windows 10/11
 - [Pi-Apps-Recreates/pi-apps-x86](https://github.com/Pi-Apps-Recreates/pi-apps-x86) - Pi-Apps For X86
 - [Fmstrat/winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
