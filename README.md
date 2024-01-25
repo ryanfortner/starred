@@ -1979,7 +1979,6 @@
 - [MultiMC/meta-multimc](https://github.com/MultiMC/meta-multimc) - Repository for MultiMC Minecraft package metadata
 - [rdeioris/UnrealOnRPI4](https://github.com/rdeioris/UnrealOnRPI4) - Running Unreal Engine 4 on RaspberryPI 4
 - [jdonald/firefox-armhf](https://github.com/jdonald/firefox-armhf) - because we don't need to leave this broken for another year
-- [andreiw/bins](https://github.com/andreiw/bins) - 
 - [novaspirit/rpios_desktop](https://github.com/novaspirit/rpios_desktop) - 
 - [Botspot/vdesktop-message](https://github.com/Botspot/vdesktop-message) - Anyone who uses vdesktop sees this message when they run the script.
 - [Botspot/FreeCAD-precompiled](https://github.com/Botspot/FreeCAD-precompiled) - 
@@ -3295,7 +3294,7 @@
 - [codebytere/electron-build-tools-autocomplete](https://github.com/codebytere/electron-build-tools-autocomplete) - Fig autocomplete extension for https://github.com/electron/build-tools
 - [divriots/browser-vite](https://github.com/divriots/browser-vite) - Vite in the browser.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [augustinbegue/icue-ambilight](https://github.com/augustinbegue/icue-ambilight) - Ambilight for Corsair devices: Synchronise the colors of your iCue compatible devices with the content displayed on your screen.
