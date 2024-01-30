@@ -526,6 +526,7 @@
 
 ## C++ 
 
+- [pia-foss/desktop](https://github.com/pia-foss/desktop) - Private Internet Access - Desktop VPN Client for Windows/macOS/Linux
 - [wpilibsuite/allwpilib](https://github.com/wpilibsuite/allwpilib) - Official Repository of WPILibJ and WPILibC
 - [KDE/latte-dock](https://github.com/KDE/latte-dock) - Replacement dock for Plasma desktops, providing an elegant and intuitive experience for your tasks and plasmoids
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
@@ -792,6 +793,7 @@
 
 ## CSS 
 
+- [Khalylexe/Firefox-Rounded-Theme](https://github.com/Khalylexe/Firefox-Rounded-Theme) - Just a Firefox CSS to make it more rounded ;)
 - [straight-tamago/misaka](https://github.com/straight-tamago/misaka) - iOS & tvOS customisation tool for KFD & MDC
 - [zquestz/bitcoincash](https://github.com/zquestz/bitcoincash) - Bitcoin Cash - Peer-to-Peer Electronic Cash
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
@@ -1676,6 +1678,7 @@
 
 ## Objective-C 
 
+- [PoomSmart/TrollLEDs](https://github.com/PoomSmart/TrollLEDs) - A TrollStore application to control individual flashlight LEDs for iOS devices.
 - [roothide/Bootstrap](https://github.com/roothide/Bootstrap) - A full featured bootstrap for ios14.0~17.0 (A8~A17,M1+M2)
 - [leminlimez/SecondHand](https://github.com/leminlimez/SecondHand) - Add seconds to status bar clock on TrollStore devices
 - [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer
@@ -2671,7 +2674,7 @@
 - [mrbvrz/segoe-ui-linux](https://github.com/mrbvrz/segoe-ui-linux) - :monkey: Install segoe-ui font on linux (ubuntu)
 - [Dunedan/mbp-2016-linux](https://github.com/Dunedan/mbp-2016-linux) - State of Linux on the MacBook Pro 2016 & 2017
 - [marcusfrdk/linux-magic-mouse](https://github.com/marcusfrdk/linux-magic-mouse) - Ubuntu support for the Magic Mouse 1/2 with scroll and scroll acceleration.
-- [fractalnetworksco/selfhosted-gateway](https://github.com/fractalnetworksco/selfhosted-gateway) - Route HTTPS traffic to local Docker containers through a cloud VPS over WireGuard. Ideal for self-hosting behind CGNAT.
+- [fractalnetworksco/selfhosted-gateway](https://github.com/fractalnetworksco/selfhosted-gateway) - Docker native tunneling to localhost. Expose local docker containers to the public Internet.
 - [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
 - [anbuchelva/Pi-hole-and-Wireguard-on-Oracle-Cloud-always-free-tier](https://github.com/anbuchelva/Pi-hole-and-Wireguard-on-Oracle-Cloud-always-free-tier) - Block advertisements and trackers using pi-hole in Oracle Always Free tier
 - [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi) - 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, Docker, curl installer...
