@@ -913,7 +913,7 @@
 
 ## EJS 
 
-- [d3ward/toolz](https://github.com/d3ward/toolz) - Easy-to-use interface and extensive collection of testing tools for optimizing performance and user experience. Test fonts, viewport units, ad blockers, and more.
+- [d3ward/toolz](https://github.com/d3ward/toolz) - Easy-to-use interface and extensive collection of testing tools for optimizing performance and user experience.
 - [zhaoo/hexo-theme-zhaoo](https://github.com/zhaoo/hexo-theme-zhaoo) - 🐳    A simple theme for Hexo
 - [fengkx/hexo-theme-purer](https://github.com/fengkx/hexo-theme-purer) - Remake version of hexo-theme-pure powered by TailWind
 - [ThemeSaverApp/themesaver-website](https://github.com/ThemeSaverApp/themesaver-website) - The Official Website for the themesaver app
