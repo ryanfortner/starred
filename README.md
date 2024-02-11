@@ -530,7 +530,7 @@
 - [smartmontools/smartmontools](https://github.com/smartmontools/smartmontools) - Official read only mirror of the smartmontools project SVN
 - [FlightGear/flightgear](https://github.com/FlightGear/flightgear) - Mirror: FlightGear - Open source flight sim
 - [ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) - Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: run open-source LLMs anywhere
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [LegacyUpdate/LegacyUpdate](https://github.com/LegacyUpdate/LegacyUpdate) - Get back online, activate, and install updates on your legacy Windows PC
 - [solvespace/solvespace](https://github.com/solvespace/solvespace) - Parametric 2d/3d CAD
@@ -812,7 +812,7 @@
 - [KatsuteDev/GitHub-Red-Issues](https://github.com/KatsuteDev/GitHub-Red-Issues) - Revert closed GitHub issues from purple back to red.
 - [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard
 - [tusharnankani/ToDoList](https://github.com/tusharnankani/ToDoList) - A dynamic and aesthetic To-Do List Website built with HTML, CSS, Vanilla JavaScript.
-- [andreasgrafen/cascade](https://github.com/andreasgrafen/cascade) - A responsive One-Line CSS Theme for Firefox.
+- [cascadefox/cascade](https://github.com/cascadefox/cascade) - A responsive One-Line CSS Theme for Firefox.
 - [ayushhroyy/elegantfox](https://github.com/ayushhroyy/elegantfox) - firefox themed context and bookmark menus
 - [adriel/Caddy-Server-minimal-browse-template](https://github.com/adriel/Caddy-Server-minimal-browse-template) - Minimalist Caddy browse template
 - [linuxmint/mint-themes](https://github.com/linuxmint/mint-themes) - Mint-X, Mint-Y..
@@ -3179,7 +3179,7 @@
 - [NordicSemiconductor/IOS-nRF-Connect-Device-Manager](https://github.com/NordicSemiconductor/IOS-nRF-Connect-Device-Manager) - A mobile management library for devices supporting nRF Connect Device Manager.
 - [Copephobia/ntfy-ios](https://github.com/Copephobia/ntfy-ios) - iOS App for https://github.com/binwiederhier/ntfy
 - [toothbrush/Spotiqueue](https://github.com/toothbrush/Spotiqueue) - Dead-simple queue-oriented client for Spotify
-- [InfiniTimeOrg/InfiniLink](https://github.com/InfiniTimeOrg/InfiniLink) - The official iOS companion app for PineTime
+- [InfiniTimeOrg/InfiniLink](https://github.com/InfiniTimeOrg/InfiniLink) - The official iOS companion app for InfiniTime
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
 - [apple/swift-markdown](https://github.com/apple/swift-markdown) - A Swift package for parsing, building, editing, and analyzing Markdown documents.
 - [mymonero/mymonero-app-ios](https://github.com/mymonero/mymonero-app-ios) - The MyMonero native iOS app
@@ -3209,7 +3209,6 @@
 - [rhysmorgan134/react-carplay](https://github.com/rhysmorgan134/react-carplay) - 
 - [felixrieseberg/slack-archive](https://github.com/felixrieseberg/slack-archive) - Generate static HTML archives of Slack workspaces
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
-- [skiff-org/skiff-apps](https://github.com/skiff-org/skiff-apps) - Privacy-first, end-to-end encrypted Mail, Pages, Drive, and Calendar.
 - [cschleiden/vscode-github-actions](https://github.com/cschleiden/vscode-github-actions) - Simple, unofficial extension to view GitHub Actions workflows and runs in VS Code
 - [electron/notarize](https://github.com/electron/notarize) - Notarize your macOS Electron Apps
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
