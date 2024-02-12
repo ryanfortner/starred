@@ -259,7 +259,6 @@
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.
 - [InfiniTimeOrg/pinetime-mcuboot-bootloader](https://github.com/InfiniTimeOrg/pinetime-mcuboot-bootloader) - An open source bootloader for the PineTime based on MyNEWT and MCUBoot.
 - [joaquimorg/PinetimeLite](https://github.com/joaquimorg/PinetimeLite) - Firmware for Pinetime smartwatch written in C/C++ and based on FreeRTOS
-- [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
 - [madewokherd/wine-mono](https://github.com/madewokherd/wine-mono) - 
 - [raspberrypi/userland](https://github.com/raspberrypi/userland) - Source code for ARM side libraries for interfacing to Raspberry Pi GPU.
 - [fluix-dev/sway-borders](https://github.com/fluix-dev/sway-borders) - Fork of sway with some extra features, mainly related to borders.
@@ -602,6 +601,7 @@
 - [microsoft/DirectStorage](https://github.com/microsoft/DirectStorage) - DirectStorage for Windows is an API that allows game developers to unlock the full potential of high speed NVMe drives for loading game assets.
 - [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
 - [InfiniTimeOrg/InfiniSim](https://github.com/InfiniTimeOrg/InfiniSim) - Simulator for InfiniTime user interface without needing a PineTime
+- [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
 - [piggz/harbour-amazfish](https://github.com/piggz/harbour-amazfish) - Amazfit Bip support for SailfishOS
 - [bunkercoin/bunkercoin](https://github.com/bunkercoin/bunkercoin) - Bunkercoin staging tree
 - [LibreCAD/LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a cross-platform 2D CAD program written in C++17 using the Qt framework. It can read DXF and DWG files and can write DXF, PDF and SVG files. The user interface is highly customizable, and 
@@ -1723,7 +1723,7 @@
 
 - [Feodor2/Mypal68](https://github.com/Feodor2/Mypal68) - web browser
 - [samuellihn/ACSL-Problems-Resources](https://github.com/samuellihn/ACSL-Problems-Resources) - 
-- [jlumbroso/free-disk-space](https://github.com/jlumbroso/free-disk-space) - :octocat:⚙️ A GitHub Action to free disk space on an Ubuntu runner.
+- [jlumbroso/free-disk-space](https://github.com/jlumbroso/free-disk-space) - :octocat:⚙️🗑️ A GitHub Action to free disk space on an Ubuntu runner.
 - [Gcenx/macOS_Wine_builds](https://github.com/Gcenx/macOS_Wine_builds) - Official Winehq macOS Packages
 - [Futur3Sn0w/maccard](https://github.com/Futur3Sn0w/maccard) - A simple companion for navigating and using your Mac.
 - [Gcenx/WineskinServer](https://github.com/Gcenx/WineskinServer) - Wineskin
@@ -3198,7 +3198,7 @@
 
 ## TypeScript 
 
-- [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A Native GOG, Amazon and Epic Games Launcher for Linux, Windows and Mac.
+- [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 - [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily
 - [rospino74/Quizlet-Bypass](https://github.com/rospino74/Quizlet-Bypass) - WebExtension to bypass Quizlet paywall
 - [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
