@@ -641,6 +641,7 @@
 - [sass/node-sass](https://github.com/sass/node-sass) - :rainbow: Node.js bindings to libsass
 - [KDE/audiotube](https://github.com/KDE/audiotube) - Client for YouTube Music
 - [libretro/citra](https://github.com/libretro/citra) - A Nintendo 3DS Emulator, running on libretro
+- [Debian/apt](https://github.com/Debian/apt) - Mirror of the apt git repository - This is just a mirror of the upstream repository, please submit pull requests there: https://salsa.debian.org/apt-team/apt
 - [endlessm/libanimation](https://github.com/endlessm/libanimation) - Wobbly windows logic split out from Compiz
 - [smspillaz/libanimation](https://github.com/smspillaz/libanimation) - Wobbly windows and animations logic split out from Compiz
 - [cutefishos/fishui](https://github.com/cutefishos/fishui) - CutefishOS GUI library, based on Qt Quick.
@@ -802,6 +803,7 @@
 - [seankross/the-unix-workbench](https://github.com/seankross/the-unix-workbench) - :house_with_garden: A Book for Anyone to Get Started with Unix
 - [connors/photon](https://github.com/connors/photon) - The fastest way to build beautiful Electron apps using simple HTML and CSS
 - [sighingnow/jekyll-gitbook](https://github.com/sighingnow/jekyll-gitbook) - Build Jekyll site with GitBook style!
+- [discord-extensions/compact-userarea](https://github.com/discord-extensions/compact-userarea) - A compact, better looking, top-left user area.
 - [Godiesc/Chameleons-Beauty](https://github.com/Godiesc/Chameleons-Beauty) - Adapted "Beautiful" Themes
 - [broeker/spacebook](https://github.com/broeker/spacebook) - 💥 Create fast and simple documentation to explain almost anything. Uses Eleventy, Tailwind 2.0, and Alpine JS with an optional Netlify CMS.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -1731,7 +1733,7 @@
 - [googlecreativelab/quickdraw-dataset](https://github.com/googlecreativelab/quickdraw-dataset) - Documentation on how to access and use the Quick, Draw! Dataset.
 - [rtanderson2/quadra-octoprint](https://github.com/rtanderson2/quadra-octoprint) - Instructions for manually installing OctoPrint on an Inovato Quadra.
 - [openai/gpt-3](https://github.com/openai/gpt-3) - GPT-3: Language Models are Few-Shot Learners
-- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
 - [kelyvin/Google-Messages-For-Desktop](https://github.com/kelyvin/Google-Messages-For-Desktop) - A "native-like" OS X, Windows, & Linux desktop app for Google Messages
 - [xinzhizao/MagicClock](https://github.com/xinzhizao/MagicClock) -  Watch sysCFG utility
 - [Simizfo/WSATools](https://github.com/Simizfo/WSATools) - Easy-to-use APK installer and more for Windows Subsystem for Android
@@ -1859,7 +1861,6 @@
 - [raspbian-addons/icons](https://github.com/raspbian-addons/icons) - Raspbian Addons project icons
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [dahliaOS/releases](https://github.com/dahliaOS/releases) - dahliaOS ISO releases
-- [Debian/apt](https://github.com/Debian/apt) - Mirror of the apt git repository - This is just a mirror of the upstream repository, please submit pull requests there: https://salsa.debian.org/apt-team/apt
 - [ZephyrLabs/Watchfaces](https://github.com/ZephyrLabs/Watchfaces) - just a bunch of watchfaces made for the pinetime.
 - [ryanfortner/codex-arm](https://github.com/ryanfortner/codex-arm) - codex arm builds
 - [hmsjy2017/ossutil-debs](https://github.com/hmsjy2017/ossutil-debs) - 
@@ -2387,7 +2388,7 @@
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-566-Stars](https://github.com/iBug/This-Repo-Has-566-Stars) - Yes, it's true :yellow_heart: This repository has 566 stars.
+- [iBug/This-Repo-Has-566-Stars](https://github.com/iBug/This-Repo-Has-566-Stars) - Yes, it's true :heart: This repository has 566 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -2626,7 +2627,6 @@
 - [vinceliuice/Jasper-gtk-theme](https://github.com/vinceliuice/Jasper-gtk-theme) - Jasper gtk theme for linux
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
-- [discord-extensions/compact-userarea](https://github.com/discord-extensions/compact-userarea) - A compact, better looking, top-left user area.
 - [Mojang/web-theme-bootstrap](https://github.com/Mojang/web-theme-bootstrap) - Contains the theme used on minecraft.net based on Boostrap 4
 - [lassekongo83/adw-gtk3](https://github.com/lassekongo83/adw-gtk3) - The theme from libadwaita ported to GTK-3
 - [DiscordStyles/SoftX](https://github.com/DiscordStyles/SoftX) - A soft and comfy feel for Discord.
