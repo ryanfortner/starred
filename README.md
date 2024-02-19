@@ -1724,6 +1724,7 @@
 
 ## Others 
 
+- [nathanbuchar/atom-one-dark-terminal](https://github.com/nathanbuchar/atom-one-dark-terminal) - A Terminal theme that mimics the One Dark theme made by the Atom team.
 - [Feodor2/Mypal68](https://github.com/Feodor2/Mypal68) - web browser
 - [samuellihn/ACSL-Problems-Resources](https://github.com/samuellihn/ACSL-Problems-Resources) - 
 - [jlumbroso/free-disk-space](https://github.com/jlumbroso/free-disk-space) - :octocat:⚙️🗑️ A GitHub Action to free disk space on an Ubuntu runner.
@@ -3160,7 +3161,7 @@
 - [dgraham/Ka-Block](https://github.com/dgraham/Ka-Block) - A Safari extension that blocks an artisanal selection of advertising domains.
 - [christianselig/Markdownosaur](https://github.com/christianselig/Markdownosaur) - Leverages Apple's Swift-based Markdown parser to output NSAttributedString.
 - [s8ngyu/Mugunghwa](https://github.com/s8ngyu/Mugunghwa) - iOS customisation tools for non-jailbroken devices. Requires sandbox escape.
-- [cormiertyshawn895/Retroactive](https://github.com/cormiertyshawn895/Retroactive) - Run Aperture, iPhoto, and iTunes on macOS Ventura, macOS Monterey, macOS Big Sur, and macOS Catalina. Xcode 11.7 on macOS Mojave. Final Cut Pro 7, Logic Pro 9, and iWork ’09 on macOS Mojave or macOS H
+- [cormiertyshawn895/Retroactive](https://github.com/cormiertyshawn895/Retroactive) - Retroactive only receives limited support. Run Aperture, iPhoto, and iTunes on macOS Sonoma, macOS Ventura, macOS Monterey, macOS Big Sur, and macOS Catalina. Xcode 11.7 on macOS Mojave. Final Cut Pro
 - [sourcelocation/pinanim](https://github.com/sourcelocation/pinanim) - Jailbreak iOS tweak: Animations for Pin Dots on Lock Screen
 - [Psiphon-Inc/psiphon-ios-vpn](https://github.com/Psiphon-Inc/psiphon-ios-vpn) - Psiphon iOS VPN Client
 - [ginsudev/Gradi](https://github.com/ginsudev/Gradi) - A Swift/SwiftUI media player for jailbroken iOS devices.
