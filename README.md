@@ -1866,7 +1866,6 @@
 - [ryanfortner/codex-arm](https://github.com/ryanfortner/codex-arm) - codex arm builds
 - [hmsjy2017/ossutil-debs](https://github.com/hmsjy2017/ossutil-debs) - 
 - [krishenriksen/schroot-chromium-armhf](https://github.com/krishenriksen/schroot-chromium-armhf) - Buy me a Coffee https://www.paypal.me/krishenriksendk
-- [NayamAmarshe/ToucheggKDE](https://github.com/NayamAmarshe/ToucheggKDE) - TouchEgg configuration for MacOS and Windows like Touchpad Multi-Touch Gestures on KDE Plasma.
 - [ryanfortner/starship-arm](https://github.com/ryanfortner/starship-arm) - starship arm packages
 - [layquack/Twister-UI-Manjaro](https://github.com/layquack/Twister-UI-Manjaro) - Twister UI for aarch64 Manjaro
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
@@ -1973,7 +1972,6 @@
 - [FreeCAD/FreeCAD-addons](https://github.com/FreeCAD/FreeCAD-addons) - A convenient gathering of useful and well-developed FreeCAD plugins made by the community.
 - [andrewbunday/ReproWeb](https://github.com/andrewbunday/ReproWeb) - Reproweb is designed to provide insight into your self hosted apt repository. It is built on top of the standard debian dpkg toolchain and the repository builder/mirroror reprepro.
 - [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
-- [Botspot/chromium86](https://github.com/Botspot/chromium86) - Downgrade to chromium-browser v86 on a Raspberry Pi
 - [ryanfortner/keepassx-rpi](https://github.com/ryanfortner/keepassx-rpi) - Secure personal data management
 - [ryanfortner/sysmon-rpi](https://github.com/ryanfortner/sysmon-rpi) - An intuitive remotely-accessible system performance monitoring and task management tool for servers and headless Raspberry Pi setups.
 - [SpacingBat3/discord-arm](https://github.com/SpacingBat3/discord-arm) - My approach to port Discord Official Client for the Linux ARM.
@@ -2141,7 +2139,6 @@
 - [ryanfortner/FireHD8-2017](https://github.com/ryanfortner/FireHD8-2017) - How I converted my Amazon bloatware to an Android tablet
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [MatthewPierson/Vieux](https://github.com/MatthewPierson/Vieux) - Vieux - A tool for 32/64 Bit iOS downgrades using OTA Blobs
-- [NayamAmarshe/please](https://github.com/NayamAmarshe/please) - 🙏 Please CLI - Minimalistic New Tab Page CLI Tool with a greeting, date and time, inspirational quotes and your personal tasks and to-do list
 - [reddit-archive/reddit](https://github.com/reddit-archive/reddit) - historical code from reddit.com
 - [blender/blender-addons](https://github.com/blender/blender-addons) - This is an official read-only mirror.
 - [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
@@ -2207,7 +2204,7 @@
 - [tuna/oh-my-tuna](https://github.com/tuna/oh-my-tuna) - Keep calm and use TUNA mirrors.
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [oskarsh/Yin-Yang](https://github.com/oskarsh/Yin-Yang) - Auto Nightmode for KDE, Gnome, Budgie, VSCode, Atom and more
-- [reloadware/reloadium](https://github.com/reloadware/reloadium) - Hot Reloading, Profiling and AI debugging for Python
+- [reloadware/reloadium](https://github.com/reloadware/reloadium) - Hot Reloading and Profiling for Python
 - [dwyl/english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
 - [pypa/pip](https://github.com/pypa/pip) - The Python package installer
 - [pyqtgraph/pyqtgraph](https://github.com/pyqtgraph/pyqtgraph) - Fast data visualization and GUI tools for scientific / engineering applications
@@ -2932,7 +2929,6 @@
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
 - [Nature40/pimod](https://github.com/Nature40/pimod) - Reconfigure Raspberry Pi images with an easy, Docker-like configuration file
 - [Mangeshrex/rxfetch](https://github.com/Mangeshrex/rxfetch) - A custom system info fetching tool
-- [Botspot/rpi-flashplayer](https://github.com/Botspot/rpi-flashplayer) - Restore Adobe Flash Player so it can run on Raspberry Pi again
 - [ryanfortner/pi-ware](https://github.com/ryanfortner/pi-ware) - 
 - [ryanfortner/snapdrop-rpi](https://github.com/ryanfortner/snapdrop-rpi) - A Progressive Web App for local file sharing
 - [ryanfortner/build-deb](https://github.com/ryanfortner/build-deb) - GNU/Linux Debian package builder.
@@ -3076,7 +3072,6 @@
 - [techcoder20/RPI-PowerlineShell-Installer](https://github.com/techcoder20/RPI-PowerlineShell-Installer) - This Github Repository contains the install and uninstall script required for Installing and uninstalling the Powerline Shell on the Raspberry Pi
 - [urbanadventurer/Android-PIN-Bruteforce](https://github.com/urbanadventurer/Android-PIN-Bruteforce) - Unlock an Android phone (or device) by bruteforcing the lockscreen PIN. Turn your Kali Nethunter phone into a bruteforce PIN cracker for Android devices! (no root, no adb)
 - [Botspot/update-buddy](https://github.com/Botspot/update-buddy) - Automatically check for updates on boot. If there are any, asks permission to upgrade.
-- [Botspot/chromium78](https://github.com/Botspot/chromium78) - 
 - [Botspot/youtubuddy](https://github.com/Botspot/youtubuddy) - Search/Watch/Download YouTube videos with a lightweight, interactive tool
 - [spectrumgamer75/All-is-well](https://github.com/spectrumgamer75/All-is-well) - This Repository Is The Home Of The "All Is Well" Script And All Things Related To It :blush:
 - [sakaki-/gentoo-on-rpi-64bit](https://github.com/sakaki-/gentoo-on-rpi-64bit) - Bootable 64-bit Gentoo image for the Raspberry Pi4B,  3B & 3B+, with Linux 5.4, OpenRC, Xfce4, VC4/V3D, camera and h/w codec support, weekly-autobuild binhost
