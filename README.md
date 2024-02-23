@@ -910,7 +910,6 @@
 - [linuxserver/docker-radarr](https://github.com/linuxserver/docker-radarr) - 
 - [linuxserver/docker-nextcloud](https://github.com/linuxserver/docker-nextcloud) - 
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-- [RaspAP/raspap-docker](https://github.com/RaspAP/raspap-docker) - A community-led docker container for RaspAP
 - [futurejones/swift-arm64](https://github.com/futurejones/swift-arm64) - Swift for Arm64/aarch64 Servers and SBC's - Rock64, RaspberryPi3 and many more
 - [AndreRH/hangover](https://github.com/AndreRH/hangover) - Hangover runs simple Win32 applications on arm64 Linux
 - [lukechilds/dockerpi](https://github.com/lukechilds/dockerpi) - A Virtualised Raspberry Pi inside a Docker image
@@ -1144,7 +1143,6 @@
 - [Chia-Network/chiapos](https://github.com/Chia-Network/chiapos) - Chia Proof of Space library
 - [KumaTea/pytorch-aarch64](https://github.com/KumaTea/pytorch-aarch64) - PyTorch wheels (whl) & conda for aarch64 / ARMv8 / ARM64
 - [revoxhere/magi-webservices](https://github.com/revoxhere/magi-webservices) - Coin Magi 2021 Explorer & Web Wallet
-- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [linuxmint/live-installer](https://github.com/linuxmint/live-installer) - A live installer for the Debian edition
 - [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge) - Can you create something cool without modern tools?
 - [ryanfortner/ryanfortner.github.io](https://github.com/ryanfortner/ryanfortner.github.io) - My website and portfolio.
@@ -2273,7 +2271,7 @@
 - [PlayOnLinux/POL-POM-4](https://github.com/PlayOnLinux/POL-POM-4) - PlayOnLinux 4 repository
 - [natorsc/pygobject-gtk](https://github.com/natorsc/pygobject-gtk) - Repositório criado para centralizar dicas, tutoriais e exemplos de código sobre a construção de interfaces gráficas com a linguagem de programação Python (PyGObject) e o tookit gráfico GTK.
 - [simons-public/protonfixes](https://github.com/simons-public/protonfixes) - A module for applying fixes at runtime to unsupported games with Steam Proton without changing game installation files
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [cython/cython](https://github.com/cython/cython) - The most widely used Python to C compiler
 - [actionschnitzel/PyPiCam_Go](https://github.com/actionschnitzel/PyPiCam_Go) - 
@@ -2386,7 +2384,7 @@
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-566-Stars](https://github.com/iBug/This-Repo-Has-566-Stars) - Yes, it's true :heart: This repository has 566 stars.
+- [iBug/This-Repo-Has-571-Stars](https://github.com/iBug/This-Repo-Has-571-Stars) - Yes, it's true :sparkling_heart: This repository has 571 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -2998,6 +2996,7 @@
 - [coreybruce/Compton-script](https://github.com/coreybruce/Compton-script) - Compton installation script
 - [tj/n](https://github.com/tj/n) - Node version management
 - [makedeb/makedeb](https://github.com/makedeb/makedeb) - A simplicity-focused packaging tool for Debian archives
+- [RaspAP/raspap-docker](https://github.com/RaspAP/raspap-docker) - A community-led docker container for RaspAP
 - [gl91306/lunar](https://github.com/gl91306/lunar) - 
 - [andresgongora/synth-shell](https://github.com/andresgongora/synth-shell) - Boost your terminal, script by script
 - [uraimo/run-on-arch-action](https://github.com/uraimo/run-on-arch-action) - A Github Action that executes jobs/commands on non-x86 cpu architectures (ARMv6, ARMv7, aarch64, s390x, ppc64le, riscv64) via QEMU
@@ -3289,6 +3288,7 @@
 - [spacebarchat/server](https://github.com/spacebarchat/server) - Spacebar server - A reimplementation of the Discord.com backend, built with Typescript and love
 - [bitwarden/cli](https://github.com/bitwarden/cli) - The command line vault (Windows, macOS, & Linux).
 - [thedaviddelta/lingva-translate](https://github.com/thedaviddelta/lingva-translate) - Alternative front-end for Google Translate
+- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [AH-dark/UptimePage](https://github.com/AH-dark/UptimePage) - Static Page for UptimeRobot. Powered by Next.js
 - [ArmCord/ArmCord](https://github.com/ArmCord/ArmCord) - ArmCord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
