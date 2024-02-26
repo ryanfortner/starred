@@ -233,7 +233,7 @@
 - [Tix3Dev/KnutOS](https://github.com/Tix3Dev/KnutOS) - An x86_64 hobbyist OS written in C and Assembly
 - [xkbcommon/libxkbcommon](https://github.com/xkbcommon/libxkbcommon) - keymap handling library for toolkits and window systems
 - [Itai-Nelken/itai-lang](https://github.com/Itai-Nelken/itai-lang) - 
-- [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPUs process monitoring for AMD, Intel and NVIDIA
+- [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 - [tsoding/flag.h](https://github.com/tsoding/flag.h) - Command-line flag parsing in C
 - [rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) - Desktop customization tool for Windows
 - [sarah-walker-pcem/pcem](https://github.com/sarah-walker-pcem/pcem) - PCem
@@ -531,7 +531,7 @@
 - [FlightGear/flightgear](https://github.com/FlightGear/flightgear) - Mirror: FlightGear - Open source flight sim
 - [ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) - Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: run open-source LLMs anywhere
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [LegacyUpdate/LegacyUpdate](https://github.com/LegacyUpdate/LegacyUpdate) - Get back online, activate, and install updates on your legacy Windows PC
 - [solvespace/solvespace](https://github.com/solvespace/solvespace) - Parametric 2d/3d CAD
 - [msftguy/ssh-rd](https://github.com/msftguy/ssh-rd) - 
@@ -1186,6 +1186,7 @@
 
 ## Java 
 
+- [PhotonVision/photonvision](https://github.com/PhotonVision/photonvision) - PhotonVision is the free, fast, and easy-to-use computer vision solution for the FIRST Robotics Competition.
 - [Boomaa23/open-ds](https://github.com/Boomaa23/open-ds) - A reverse-engineered lightweight cross-platform FRC Driver Station
 - [SpotifyXP/SpotifyXP](https://github.com/SpotifyXP/SpotifyXP) - Spotify player for Windows XP
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
