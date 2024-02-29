@@ -123,6 +123,7 @@
 
 ## C 
 
+- [nathanfarlow/PineappleCAS](https://github.com/nathanfarlow/PineappleCAS) - A generic computer algebra system targeted for the TI-84+ CE calculators
 - [sourcelocation/Picasso-v3](https://github.com/sourcelocation/Picasso-v3) - Customization. Beyond. A Jailed toolbox application for ALL arm64e iPhones runnning iOS 15.0 - 15.7.1, 16.0 - 16.5, 16.6b1 using KFD exploit and TrollStore 2.
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [hrtowii/Serotonin](https://github.com/hrtowii/Serotonin) - 
@@ -1152,7 +1153,6 @@
 - [pi-hole/docs](https://github.com/pi-hole/docs) - The official Pi-hole documentation
 - [senhan07/pihole-blockpage](https://github.com/senhan07/pihole-blockpage) - Pi-Hole Custom Block Page
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
-- [ryanfortner/jsterm](https://github.com/ryanfortner/jsterm) - fake terminal for my website
 - [hmsjy2017/7-zip-debs](https://github.com/hmsjy2017/7-zip-debs) - 
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [FreeCAD/FreeCAD-library](https://github.com/FreeCAD/FreeCAD-library) - A library of Parts for FreeCAD. WARNING - This library is huge. It might take a long time to download and make the addons manager unresponsive for many minutes.
@@ -1866,7 +1866,6 @@
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [dahliaOS/releases](https://github.com/dahliaOS/releases) - dahliaOS ISO releases
 - [ZephyrLabs/Watchfaces](https://github.com/ZephyrLabs/Watchfaces) - just a bunch of watchfaces made for the pinetime.
-- [ryanfortner/codex-arm](https://github.com/ryanfortner/codex-arm) - codex arm builds
 - [hmsjy2017/ossutil-debs](https://github.com/hmsjy2017/ossutil-debs) - 
 - [krishenriksen/schroot-chromium-armhf](https://github.com/krishenriksen/schroot-chromium-armhf) - Buy me a Coffee https://www.paypal.me/krishenriksendk
 - [ryanfortner/starship-arm](https://github.com/ryanfortner/starship-arm) - starship arm packages
@@ -1879,7 +1878,6 @@
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [geeekpi/cm4routerboard](https://github.com/geeekpi/cm4routerboard) - Raspberry Pi Computer Module 4 internet extand board firmware and config files
-- [ryanfortner/box86-debs-action](https://github.com/ryanfortner/box86-debs-action) - 
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
 - [hmsjy2017/xmake-debs](https://github.com/hmsjy2017/xmake-debs) - 
 - [WorksOnArm/mininodes-arm-edge](https://github.com/WorksOnArm/mininodes-arm-edge) - Arm and miniNodes have partnered to make Arm-based edge devices and single board computers available for open source software developers to build, test and optimize for Arm.
@@ -1887,12 +1885,10 @@
 - [shannpersand/comic-shanns](https://github.com/shannpersand/comic-shanns) - a classy font
 - [hashicorp/ghaction-import-gpg](https://github.com/hashicorp/ghaction-import-gpg) - DEPRECATED - GitHub action to import GPG private key
 - [pragathoys/build_xmrig_for_armv7](https://github.com/pragathoys/build_xmrig_for_armv7) - 
-- [ryanfortner/unsplash-wallpapers-arm](https://github.com/ryanfortner/unsplash-wallpapers-arm) - 
 - [ryanfortner/broot-arm](https://github.com/ryanfortner/broot-arm) - arm packages of broot
 - [ryanfortner/arduino-cli-arm](https://github.com/ryanfortner/arduino-cli-arm) - Arduino CLI packages for ARM
 - [ric2b/Vivaldi-browser](https://github.com/ric2b/Vivaldi-browser) - Source code for the Vivali browser, taken from
 - [anudeepND/blacklist](https://github.com/anudeepND/blacklist) - Curated and well-maintained hostfile to block ads, tracking, cryptomining, and more! Updated regularly. ⚡🔒
-- [ryanfortner/packaging-guides](https://github.com/ryanfortner/packaging-guides) - 
 - [raspberrypi/rpi-firmware](https://github.com/raspberrypi/rpi-firmware) - Firmware files for the Raspberry Pi
 - [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world's most hated IT stickers
 - [ryanfortner/blockbench-arm](https://github.com/ryanfortner/blockbench-arm) - arm builds of blockbench
@@ -1917,12 +1913,8 @@
 - [WaterfoxCo/Waterfox](https://github.com/WaterfoxCo/Waterfox) - The official Waterfox 💧 source code repository
 - [Pi-Apps-Coders/files](https://github.com/Pi-Apps-Coders/files) - 
 - [ryanfortner/hmsjy2017](https://github.com/ryanfortner/hmsjy2017) - 
-- [ryanfortner/wallpapers](https://github.com/ryanfortner/wallpapers) - a huge collection of wallpapers that have accumulated overtime on my desktop
-- [ryanfortner/rpios-buster](https://github.com/ryanfortner/rpios-buster) - older stable images of rpi os
 - [ryanfortner/exagear-rpi](https://github.com/ryanfortner/exagear-rpi) - installing Exagear Desktop on the newer Raspberry Pies
 - [ryanfortner/ryanfortner](https://github.com/ryanfortner/ryanfortner) - 
-- [ryanfortner/pi-apps-website](https://github.com/ryanfortner/pi-apps-website) - pi-apps website experiment
-- [ryanfortner/calculator-programs](https://github.com/ryanfortner/calculator-programs) - Various programs for Texas Instruments calculators
 - [chaotic-aur/packages](https://github.com/chaotic-aur/packages) - The packages Mason, what do they mean? (Package requests and bug reports here) 📑
 - [heysagnik/windows-ui-tweaks](https://github.com/heysagnik/windows-ui-tweaks) - 
 - [hmsjy2017/onedriver-arm64-builds](https://github.com/hmsjy2017/onedriver-arm64-builds) - 
@@ -1963,7 +1955,6 @@
 - [ryanfortner/qemu-arm-builds](https://github.com/ryanfortner/qemu-arm-builds) - qemu debs compiled using qemu2deb, for arm
 - [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage
 - [koendv/prusa-slicer-raspberrypi](https://github.com/koendv/prusa-slicer-raspberrypi) - Prusa-Slicer compiled for raspberry pi 4
-- [ryanfortner/autobuildservice](https://github.com/ryanfortner/autobuildservice) - Automatic builds of various ARM Linux software
 - [ryanfortner/youtube-dl-gui_arm](https://github.com/ryanfortner/youtube-dl-gui_arm) - GUI for youtube-dl
 - [koendv/qt5-opengl-raspberrypi](https://github.com/koendv/qt5-opengl-raspberrypi) - Qt5 with desktop OpenGL on a Raspberry Pi 4
 - [Itai-Nelken/Nativefier-WebApps](https://github.com/Itai-Nelken/Nativefier-WebApps) - Nativefier webapps for pi-apps
@@ -1975,10 +1966,7 @@
 - [FreeCAD/FreeCAD-addons](https://github.com/FreeCAD/FreeCAD-addons) - A convenient gathering of useful and well-developed FreeCAD plugins made by the community.
 - [andrewbunday/ReproWeb](https://github.com/andrewbunday/ReproWeb) - Reproweb is designed to provide insight into your self hosted apt repository. It is built on top of the standard debian dpkg toolchain and the repository builder/mirroror reprepro.
 - [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
-- [ryanfortner/keepassx-rpi](https://github.com/ryanfortner/keepassx-rpi) - Secure personal data management
-- [ryanfortner/sysmon-rpi](https://github.com/ryanfortner/sysmon-rpi) - An intuitive remotely-accessible system performance monitoring and task management tool for servers and headless Raspberry Pi setups.
 - [SpacingBat3/discord-arm](https://github.com/SpacingBat3/discord-arm) - My approach to port Discord Official Client for the Linux ARM.
-- [ryanfortner/duckstation-rpi](https://github.com/ryanfortner/duckstation-rpi) - Fast PlayStation 1 emulator for PC and Android
 - [ryanfortner/pi-bashscripts-files](https://github.com/ryanfortner/pi-bashscripts-files) - A collection of scripts and files useful for the Raspberry Pi 4 and other models.
 - [novaspirit/rpi_ubu64_desktop](https://github.com/novaspirit/rpi_ubu64_desktop) - 
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
@@ -2389,7 +2377,7 @@
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-573-Stars](https://github.com/iBug/This-Repo-Has-573-Stars) - Yes, it's true :gift_heart: This repository has 573 stars.
+- [iBug/This-Repo-Has-574-Stars](https://github.com/iBug/This-Repo-Has-574-Stars) - Yes, it's true :revolving_hearts: This repository has 574 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -2936,7 +2924,6 @@
 - [ryanfortner/pi-ware](https://github.com/ryanfortner/pi-ware) - 
 - [ryanfortner/snapdrop-rpi](https://github.com/ryanfortner/snapdrop-rpi) - A Progressive Web App for local file sharing
 - [ryanfortner/build-deb](https://github.com/ryanfortner/build-deb) - GNU/Linux Debian package builder.
-- [ryanfortner/au-sh](https://github.com/ryanfortner/au-sh) - autoupdate script
 - [billw2/rpi-clone](https://github.com/billw2/rpi-clone) - A shell script to clone a booted disk.
 - [pacstall/pacstall-programs](https://github.com/pacstall/pacstall-programs) - Pacstall's official program repository
 - [raspberrypi/rpi-eeprom](https://github.com/raspberrypi/rpi-eeprom) - Installation scripts and binaries for the Raspberry Pi 4 and Raspberry Pi 5 bootloader EEPROMs
@@ -2983,7 +2970,6 @@
 - [pi-top/Wi-Fi-Access-Point-and-Station-Mode](https://github.com/pi-top/Wi-Fi-Access-Point-and-Station-Mode) - Easily start and stop using your Raspberry Pi as a wireless access point
 - [raspbian-addons/scripts](https://github.com/raspbian-addons/scripts) - Utilities to assist with the raspbian-addons repository
 - [Gictorbit/illustratorCClinux](https://github.com/Gictorbit/illustratorCClinux) - Illustrator CC v17 installer for Gnu/Linux
-- [ryanfortner/balenaetcher-debs](https://github.com/ryanfortner/balenaetcher-debs) - APT repo for arm builds of balenaEtcher
 - [chfour/ramdisksetup](https://github.com/chfour/ramdisksetup) - small shell script utility for making ramdisks on linux
 - [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline) - Linux Distributions Timeline
 - [ryanfortner/box86-debs](https://github.com/ryanfortner/box86-debs) - box86 debian/apt repository
@@ -3046,7 +3032,7 @@
 - [Itai-Nelken/Pi-Assistant](https://github.com/Itai-Nelken/Pi-Assistant) - Pi-Assistant is a simple terminal app made for the Raspberry Pi that makes updating the system, installing apps, viewing system information, and more easier than ever
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [foundObjects/zram-swap](https://github.com/foundObjects/zram-swap) - A simple zram swap service for modern systemd Linux
-- [ryanfortner/ppsspp-rpi](https://github.com/ryanfortner/ppsspp-rpi) - A PSP emulator, compiled for arm32 and arm64
+- [ryanfortner/build-ppsspp-rpi](https://github.com/ryanfortner/build-ppsspp-rpi) - A PSP emulator, compiled for arm32 and arm64
 - [Nitrux/luv-icon-theme](https://github.com/Nitrux/luv-icon-theme) - Lüv is the spiritual successor to Flattr, a flat but complex icon theme for freedesktop environments.
 - [Itai-Nelken/PiApps-terminal_bash-edition](https://github.com/Itai-Nelken/PiApps-terminal_bash-edition) - a 100% bash pi-apps for terminal loosely based on PiAppsTerminalAdvanced by @techcoder20.
 - [pageauc/rclone4pi](https://github.com/pageauc/rclone4pi) - rclone4pi - Easy Install of rclone to Raspberry Pi Computer with automated folder sync demo
