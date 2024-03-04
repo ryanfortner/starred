@@ -1107,6 +1107,7 @@
 
 ## HTML 
 
+- [the-blue-alliance/the-blue-alliance](https://github.com/the-blue-alliance/the-blue-alliance) - A webapp for accessing information about the FIRST Robotics Competition.
 - [pinout-xyz/Pinout.xyz](https://github.com/pinout-xyz/Pinout.xyz) - Source files for the Raspberry Pi Pinout documentation website.
 - [chadbaldwin/simple-blog-bootstrap](https://github.com/chadbaldwin/simple-blog-bootstrap) - This is a template repo you can use to set up a simple blog using GitHub Pages with SSMS Style T-SQL highlighting. Refer to the blog post below for more instructions.
 - [OnionBrowser/OnionBrowser](https://github.com/OnionBrowser/OnionBrowser) - An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network
@@ -1935,7 +1936,7 @@
 - [SelfhostedPro/selfhosted_templates](https://github.com/SelfhostedPro/selfhosted_templates) - Portainer templates for selfhosted services
 - [ShadowCorpIndustries/SpotLight](https://github.com/ShadowCorpIndustries/SpotLight) - THIS PROJECT HAS BEEN DELETED
 - [ryanfortner/minbrowser-arm-builds](https://github.com/ryanfortner/minbrowser-arm-builds) - Builds of Min Browser for arm devices
-- [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
+- [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS®
 - [ryanfortner/gitea-debs](https://github.com/ryanfortner/gitea-debs) - debian repository for Gitea releases
 - [raspberrypi/firmware](https://github.com/raspberrypi/firmware) - This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware.
 - [raspberrypi/Raspberry-Pi-OS-64bit](https://github.com/raspberrypi/Raspberry-Pi-OS-64bit) - Repository for containing issues on the 64 bit operating system (as distinct from the 32 bit one)
@@ -2630,7 +2631,7 @@
 - [vinceliuice/Colloid-gtk-theme](https://github.com/vinceliuice/Colloid-gtk-theme) - Colloid gtk theme for linux
 - [cycool29/hacker-theme-linux](https://github.com/cycool29/hacker-theme-linux) - A beautiful hacker theme with only two colours: `00ff00` and `000000`. Only tested on Raspberry Pi OS, but should work other LXDE Linux system.
 - [jnsh/arc-theme](https://github.com/jnsh/arc-theme) - A flat theme with transparent elements (actively maintained fork)
-- [ubuntu/yaru](https://github.com/ubuntu/yaru) - Ubuntu community theme "yaru". Better than a 🌯.
+- [ubuntu/yaru](https://github.com/ubuntu/yaru) - All Ubuntu Yaru GNOME themes
 
 ## SWIG 
 
@@ -2646,6 +2647,7 @@
 
 ## Shell 
 
+- [Botspot/unicode-art](https://github.com/Botspot/unicode-art) - Easily make detailed terminal art with unicode characters in this simple viewer
 - [edwin170/downr1n](https://github.com/edwin170/downr1n) - downgrade tethered checkm8 idevices ios 14, 15.
 - [barnumbirr/alacritty-debian](https://github.com/barnumbirr/alacritty-debian) - Debian packages for alacritty.
 - [helfrichmichael/cura-novnc](https://github.com/helfrichmichael/cura-novnc) - Provides an instance of Cura via noVNC in your favorite web browser!
@@ -3111,6 +3113,7 @@
 
 ## Swift 
 
+- [the-blue-alliance/the-blue-alliance-ios](https://github.com/the-blue-alliance/the-blue-alliance-ios) - An iOS app for accessing information about the FIRST Robotics Competition.
 - [c22dev/Geranium](https://github.com/c22dev/Geranium) - LocSim, Daemon Manager, Cleaner, ScreenTime Remover and Superviser for TrollStore
 - [louisdh/openterm](https://github.com/louisdh/openterm) - OpenTerm, a sandboxed command line interface for iOS
 - [passepartoutvpn/tunnelkit](https://github.com/passepartoutvpn/tunnelkit) - VPN client library for Apple platforms.
@@ -3355,7 +3358,6 @@
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - A private messenger for Windows, macOS, and Linux.
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
-- [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [balena-io/balena-cli](https://github.com/balena-io/balena-cli) - The official balena CLI tool.
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
