@@ -590,7 +590,6 @@
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [rexim/aids](https://github.com/rexim/aids) - std replacement for C++
 - [webcamoid/webcamoid](https://github.com/webcamoid/webcamoid) - Webcamoid is a full featured and multiplatform webcam suite.
-- [merryhime/dynarmic](https://github.com/merryhime/dynarmic) - An ARM dynamic recompiler.
 - [CrealityOfficial/Ender-3V2](https://github.com/CrealityOfficial/Ender-3V2) - The source for Creality Ender-3V2,MCU and Screen;
 - [chromiumembedded/cef](https://github.com/chromiumembedded/cef) - Chromium Embedded Framework (CEF). A simple framework for embedding Chromium-based browsers in other applications.
 - [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
@@ -770,7 +769,6 @@
 - [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the for
 - [keepassx/keepassx](https://github.com/keepassx/keepassx) - KeePassX is a cross platform port of the windows application “Keepass Password Safe”.
 - [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
-- [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch emulator
 - [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [ttalvitie/browservice](https://github.com/ttalvitie/browservice) - Browservice: Browse the modern web on historical browsers
 - [MultiMC/Launcher](https://github.com/MultiMC/Launcher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
@@ -1728,6 +1726,7 @@
 
 ## Others 
 
+- [darkninja13/gsxlib](https://github.com/darkninja13/gsxlib) - A PHP library for communicating with Apple's GSX web service API
 - [nathanbuchar/atom-one-dark-terminal](https://github.com/nathanbuchar/atom-one-dark-terminal) - A Terminal theme that mimics the One Dark theme made by the Atom team.
 - [Feodor2/Mypal68](https://github.com/Feodor2/Mypal68) - web browser
 - [samuellihn/ACSL-Problems-Resources](https://github.com/samuellihn/ACSL-Problems-Resources) - 
@@ -1867,6 +1866,7 @@
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [dahliaOS/releases](https://github.com/dahliaOS/releases) - dahliaOS ISO releases
 - [ZephyrLabs/Watchfaces](https://github.com/ZephyrLabs/Watchfaces) - just a bunch of watchfaces made for the pinetime.
+- [ryanfortner/codex-arm](https://github.com/ryanfortner/codex-arm) - codex arm builds
 - [hmsjy2017/ossutil-debs](https://github.com/hmsjy2017/ossutil-debs) - 
 - [krishenriksen/schroot-chromium-armhf](https://github.com/krishenriksen/schroot-chromium-armhf) - Buy me a Coffee https://www.paypal.me/krishenriksendk
 - [ryanfortner/starship-arm](https://github.com/ryanfortner/starship-arm) - starship arm packages
