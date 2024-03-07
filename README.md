@@ -462,7 +462,7 @@
 - [mchehab/zbar](https://github.com/mchehab/zbar) - ZBar is an open source software suite for reading bar codes from various sources, including webcams. As its development stopped in 2012, I took the task of keeping it updated with the V4L2 API. This i
 - [raspberrypi/rpi-imager](https://github.com/raspberrypi/rpi-imager) - The home of Raspberry Pi Imager, a user-friendly tool for creating bootable media for Raspberry Pi devices.
 - [ptitSeb/gl4es](https://github.com/ptitSeb/gl4es) - GL4ES is a OpenGL 2.1/1.5 to GL ES 2.0/1.1 translation library, with support for Pandora, ODroid, OrangePI, CHIP, Raspberry PI, Android, Emscripten and AmigaOS4.
-- [alemart/opensurge](https://github.com/alemart/opensurge) - Make your dreams come true with Surge Engine, an open source game engine for retro games!
+- [alemart/opensurge](https://github.com/alemart/opensurge) - Surge Engine: a 2D retro game engine for making your dreams come true!
 - [ssvb/tinymembench](https://github.com/ssvb/tinymembench) - Simple benchmark for memory throughput and latency
 - [AndrewFromMelbourne/raspi2png](https://github.com/AndrewFromMelbourne/raspi2png) - Utility to take a snapshot of the Raspberry Pi screen and save it as a PNG file
 - [sm64pc/sm64ex](https://github.com/sm64pc/sm64ex) - Fork of https://github.com/sm64-port/sm64-port with additional features.
