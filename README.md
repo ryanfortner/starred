@@ -1869,6 +1869,7 @@
 - [ryanfortner/codex-arm](https://github.com/ryanfortner/codex-arm) - codex arm builds
 - [hmsjy2017/ossutil-debs](https://github.com/hmsjy2017/ossutil-debs) - 
 - [krishenriksen/schroot-chromium-armhf](https://github.com/krishenriksen/schroot-chromium-armhf) - Buy me a Coffee https://www.paypal.me/krishenriksendk
+- [NayamAmarshe/ToucheggKDE](https://github.com/NayamAmarshe/ToucheggKDE) - TouchEgg configuration for MacOS and Windows like Touchpad Multi-Touch Gestures on KDE Plasma.
 - [ryanfortner/starship-arm](https://github.com/ryanfortner/starship-arm) - starship arm packages
 - [layquack/Twister-UI-Manjaro](https://github.com/layquack/Twister-UI-Manjaro) - Twister UI for aarch64 Manjaro
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
@@ -2131,6 +2132,7 @@
 - [ryanfortner/FireHD8-2017](https://github.com/ryanfortner/FireHD8-2017) - How I converted my Amazon bloatware to an Android tablet
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [MatthewPierson/Vieux](https://github.com/MatthewPierson/Vieux) - Vieux - A tool for 32/64 Bit iOS downgrades using OTA Blobs
+- [NayamAmarshe/please](https://github.com/NayamAmarshe/please) - 🙏 Please CLI - Minimalistic New Tab Page CLI Tool with a greeting, date and time, inspirational quotes and your personal tasks and to-do list
 - [reddit-archive/reddit](https://github.com/reddit-archive/reddit) - historical code from reddit.com
 - [blender/blender-addons](https://github.com/blender/blender-addons) - This is an official read-only mirror.
 - [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
