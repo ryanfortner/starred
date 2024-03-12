@@ -1179,6 +1179,7 @@
 
 ## Java 
 
+- [team2059/Max-Quordlepleen](https://github.com/team2059/Max-Quordlepleen) - Team 2059's 2024 CRESCENDO code
 - [PhotonVision/photonvision](https://github.com/PhotonVision/photonvision) - PhotonVision is the free, fast, and easy-to-use computer vision solution for the FIRST Robotics Competition.
 - [Boomaa23/open-ds](https://github.com/Boomaa23/open-ds) - A reverse-engineered lightweight cross-platform FRC Driver Station
 - [SpotifyXP/SpotifyXP](https://github.com/SpotifyXP/SpotifyXP) - Spotify player for Windows XP
@@ -1875,6 +1876,7 @@
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [geeekpi/cm4routerboard](https://github.com/geeekpi/cm4routerboard) - Raspberry Pi Computer Module 4 internet extand board firmware and config files
+- [clooney/usps-tracking-api](https://github.com/clooney/usps-tracking-api) - USPS tracking API and webhook make it easy to integrate USPS Tracking function into your own project.
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
 - [hmsjy2017/xmake-debs](https://github.com/hmsjy2017/xmake-debs) - 
 - [WorksOnArm/mininodes-arm-edge](https://github.com/WorksOnArm/mininodes-arm-edge) - Arm and miniNodes have partnered to make Arm-based edge devices and single board computers available for open source software developers to build, test and optimize for Arm.
@@ -2009,7 +2011,6 @@
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) - ⚙️ WP-CLI framework
 - [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
-- [clooney/usps](https://github.com/clooney/usps) - USPS tracking API and webhook make it easy to integrate USPS Tracking function into your own project. Support APIs Client Libraries for php.
 - [luolongfei/freenom](https://github.com/luolongfei/freenom) - Freenom 域名自动续期。Freenom domain name renews automatically.
 - [MiczFlor/RPi-Jukebox-RFID](https://github.com/MiczFlor/RPi-Jukebox-RFID) - A Raspberry Pi jukebox, playing local music, podcasts, web radio and streams triggered by RFID cards, web app or home automation. All plug and play via USB. GPIO scripts available.
 - [PiPass/blockpage](https://github.com/PiPass/blockpage) - A temporary unblock solution and blockpage for your Pi-Hole system
@@ -2771,7 +2772,7 @@
 - [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - ⚡️ A tmux plugin giving you a hackable status bar consisting of dynamic & beautiful looking powerline segments, written purely in bash.
 - [pi-hosted/pi-hosted](https://github.com/pi-hosted/pi-hosted) - Pi-Hosted is a collection of tutorials for hosting a variety of server applications using Docker and Portainer on the Raspberry Pi.
 - [ZephyrLabs/InfiniTime-Builder](https://github.com/ZephyrLabs/InfiniTime-Builder) - simple script to help automate and build InfiniTime firmware for the pinetime
-- [dreemurrs-embedded/Pine64-Arch](https://github.com/dreemurrs-embedded/Pine64-Arch) - PKGBUILD for running Arch Linux on PinePhone/PineTab.
+- [dreemurrs-embedded/Pine64-Arch](https://github.com/dreemurrs-embedded/Pine64-Arch) - :penguin: Arch Linux ARM for your PinePhone/Pro and PineTab/2
 - [ofirgall/tmux-browser](https://github.com/ofirgall/tmux-browser) - Web browser sessions attached to tmux sessions
 - [saint-13/Linux_Dynamic_Wallpapers](https://github.com/saint-13/Linux_Dynamic_Wallpapers) - Dynamic Wallpapers for Linux
 - [openfans-community-offical/Debian-Pi-Aarch64](https://github.com/openfans-community-offical/Debian-Pi-Aarch64) - This is the first 64-bit system in the world to support all Raspberry Pi 64-bit hardware!!! (Include: PI400,4B,3B+,3B,3A+,Zero2W)
