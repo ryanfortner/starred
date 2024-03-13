@@ -3111,6 +3111,7 @@
 
 ## Swift 
 
+- [vincentneo/LosslessSwitcher](https://github.com/vincentneo/LosslessSwitcher) - Automated Apple Music Lossless Sample Rate Switching for Audio Devices on Macs.
 - [the-blue-alliance/the-blue-alliance-ios](https://github.com/the-blue-alliance/the-blue-alliance-ios) - An iOS app for accessing information about the FIRST Robotics Competition.
 - [c22dev/Geranium](https://github.com/c22dev/Geranium) - LocSim, Daemon Manager, Cleaner, ScreenTime Remover and Superviser for TrollStore
 - [louisdh/openterm](https://github.com/louisdh/openterm) - OpenTerm, a sandboxed command line interface for iOS
