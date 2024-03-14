@@ -791,6 +791,7 @@
 
 - [Khalylexe/Firefox-Rounded-Theme](https://github.com/Khalylexe/Firefox-Rounded-Theme) - Just a Firefox CSS to make it more rounded ;)
 - [straight-tamago/misaka](https://github.com/straight-tamago/misaka) - iOS & tvOS customisation tool for KFD & MDC
+- [dclstn/better-snapchat](https://github.com/dclstn/better-snapchat) - This browser extension enhances your web.snapchat.com experience by adding several essential privacy features.
 - [zquestz/bitcoincash](https://github.com/zquestz/bitcoincash) - Bitcoin Cash - Peer-to-Peer Electronic Cash
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [christianselig/OpenInApolloExtension](https://github.com/christianselig/OpenInApolloExtension) - Safari extension bundled with iOS 15 that helps in opening Reddit URLs in Apollo
@@ -2078,7 +2079,7 @@
 - [timsutton/brigadier](https://github.com/timsutton/brigadier) - Fetch and install Boot Camp ESDs with ease.
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
-- [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
+- [meta-llama/llama](https://github.com/meta-llama/llama) - Inference code for Llama models
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
@@ -3197,7 +3198,6 @@
 - [rospino74/Quizlet-Bypass](https://github.com/rospino74/Quizlet-Bypass) - WebExtension to bypass Quizlet paywall
 - [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
 - [enmity-mod/enmity](https://github.com/enmity-mod/enmity) - The power of addons, all in your hand.
-- [dclstn/better-snapchat](https://github.com/dclstn/better-snapchat) - This browser extension enhances your web.snapchat.com experience by adding several essential privacy features.
 - [anaclumos/bing-chat-for-all-browsers](https://github.com/anaclumos/bing-chat-for-all-browsers) - Enable Bing ChatGPT on Chrome and Firefox
 - [rhysmorgan134/node-CarPlay](https://github.com/rhysmorgan134/node-CarPlay) - 
 - [rhysmorgan134/react-carplay](https://github.com/rhysmorgan134/react-carplay) - 
