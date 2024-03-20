@@ -1122,7 +1122,7 @@
 - [xvvvyz/tilde](https://github.com/xvvvyz/tilde) - Minimal browser startpage.
 - [grassmunk/Chicago95](https://github.com/grassmunk/Chicago95) - A rendition of everyone's favorite 1995 Microsoft operating system for Linux.
 - [mrcrypster/screenapi](https://github.com/mrcrypster/screenapi) - API to take screenshots of webpages
-- [xfirefly/Airplay-SDK](https://github.com/xfirefly/Airplay-SDK) - Airplay Receiver SDK supports Airplay Mirroring and AirPlay Casting to a receiver device.
+- [xfirefly/Airplay-SDK](https://github.com/xfirefly/Airplay-SDK) - The Best Airplay SDK supports Airplay Mirroring and AirPlay Casting to a receiver device.
 - [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
 - [rollingrhinoremix/rollingrhinoremix.github.io](https://github.com/rollingrhinoremix/rollingrhinoremix.github.io) - This is the official repository for the Rolling Rhino Remix. Rolling Rhino Remix is an un-official Ubuntu flavour which converts the Ubuntu operating system into a rolling release Linux distribution b
 - [nelsontky/gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
@@ -2308,7 +2308,7 @@
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [alejandroautalan/pygubu](https://github.com/alejandroautalan/pygubu) - A simple GUI builder for the python tkinter module
 - [canonical/cloud-init](https://github.com/canonical/cloud-init) - Official upstream for the cloud-init: cloud instance initialization
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [geany/geany-themes](https://github.com/geany/geany-themes) - A collection of color schemes for Geany
 - [codebrainz/geany-themes](https://github.com/codebrainz/geany-themes) - A collection of colour schemes for Geany.
 - [JeremyGrosser/repoman](https://github.com/JeremyGrosser/repoman) - A reprepro and pbuilder management API with a RESTful interface
