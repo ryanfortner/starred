@@ -3120,7 +3120,7 @@
 - [c22dev/Geranium](https://github.com/c22dev/Geranium) - LocSim, Daemon Manager, Cleaner, ScreenTime Remover and Superviser for TrollStore
 - [louisdh/openterm](https://github.com/louisdh/openterm) - OpenTerm, a sandboxed command line interface for iOS
 - [passepartoutvpn/tunnelkit](https://github.com/passepartoutvpn/tunnelkit) - VPN client library for Apple platforms.
-- [passepartoutvpn/passepartout-apple](https://github.com/passepartoutvpn/passepartout-apple) - VPN client for Apple platforms.
+- [passepartoutvpn/passepartout-app](https://github.com/passepartoutvpn/passepartout-app) - VPN client for Apple platforms.
 - [hbang/NewTerm](https://github.com/hbang/NewTerm) - NewTerm is a terminal emulator app with first-class iPhone, iPad, and Mac support.
 - [leminlimez/Helium](https://github.com/leminlimez/Helium) - 
 - [zbrateam/Zebra](https://github.com/zbrateam/Zebra) - 🦓 A Useful Package Manager for iOS
