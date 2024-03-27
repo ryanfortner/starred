@@ -753,7 +753,7 @@
 - [bingmann/sound-of-sorting](https://github.com/bingmann/sound-of-sorting) - The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms
 - [BlitterStudio/amiberry](https://github.com/BlitterStudio/amiberry) - Optimized Amiga emulator for Linux/macOS
 - [vkmark/vkmark](https://github.com/vkmark/vkmark) - Vulkan benchmark
-- [stuntrally/stuntrally](https://github.com/stuntrally/stuntrally) - Note: development continues in stuntrally3. 3D racing game based on VDrift and OGRE with own Track Editor. The main repository with Stunt Rally sources and data.
+- [stuntrally/stuntrally](https://github.com/stuntrally/stuntrally) - Note: development continues in stuntrally3. 3D racing game based on VDrift and OGRE with own Track Editor. The main repository with Stunt Rally 2.x sources and data.
 - [anbox/anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
@@ -793,7 +793,7 @@
 - [Ravbug/AppImage.cmake](https://github.com/Ravbug/AppImage.cmake) - Generate AppImages automatically from your CMake build process
 - [cutefishos/icons](https://github.com/cutefishos/icons) - System default icon theme
 - [ryanfortner/c-alculator](https://github.com/ryanfortner/c-alculator) - c-calculator: a simple calculator written in c
-- [stuntrally/tracks](https://github.com/stuntrally/tracks) - Tracks of Stunt Rally. Meant to be inside data/tracks/. Note: development continues in tracks3.
+- [stuntrally/tracks](https://github.com/stuntrally/tracks) - Tracks of Stunt Rally 2.x. Meant to be inside data/tracks/. Note: development continues in tracks3.
 
 ## CSS 
 
