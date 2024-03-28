@@ -449,7 +449,7 @@
 - [glmark2/glmark2](https://github.com/glmark2/glmark2) - glmark2 is an OpenGL 2.0 and ES 2.0 benchmark
 - [mupen64plus/mupen64plus-core](https://github.com/mupen64plus/mupen64plus-core) - Core module of the Mupen64Plus project
 - [xemu-project/xemu](https://github.com/xemu-project/xemu) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
-- [petzval/btferret](https://github.com/petzval/btferret) - Bluetooth Interface for Raspberry Pi
+- [petzval/btferret](https://github.com/petzval/btferret) - Python and C Bluetooth Library
 - [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.c
@@ -2587,7 +2587,7 @@
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
-- [ramsayleung/rspotify](https://github.com/ramsayleung/rspotify) - Spotify Web API SDK implemented in Rust
+- [ramsayleung/rspotify](https://github.com/ramsayleung/rspotify) - Spotify Web API SDK implemented on Rust
 - [SabrinaJewson/aspotify](https://github.com/SabrinaJewson/aspotify) - Deprecated in favour of rspotify: https://github.com/ramsayleung/rspotify
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
