@@ -1475,7 +1475,7 @@
 - [MakashiDev/Christmas-Countdown](https://github.com/MakashiDev/Christmas-Countdown) - 
 - [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
-- [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
+- [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
 - [cthacker-udel/Raspberry-Pi-Scripts](https://github.com/cthacker-udel/Raspberry-Pi-Scripts) - Raspberry Pi Scripts in the following languages : Python, C++, C, Makefile, Bash Shell/Script, and Java!
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [ethanaobrien/youtube-downloader](https://github.com/ethanaobrien/youtube-downloader) - Simple javascript youtube downloader, plain and easy. No ads!
@@ -2380,7 +2380,7 @@
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-575-Stars](https://github.com/iBug/This-Repo-Has-575-Stars) - Yes, it's true :heartpulse: This repository has 575 stars.
+- [iBug/This-Repo-Has-576-Stars](https://github.com/iBug/This-Repo-Has-576-Stars) - Yes, it's true :gift_heart: This repository has 576 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -2784,7 +2784,7 @@
 - [openfans-community-offical/Debian-Pi-Aarch64](https://github.com/openfans-community-offical/Debian-Pi-Aarch64) - This is the first 64-bit system in the world to support all Raspberry Pi 64-bit hardware!!! (Include: PI400,4B,3B+,3B,3A+,Zero2W)
 - [terroo/wallset](https://github.com/terroo/wallset) - A wallpaper manager that makes it possible to put videos as wallpaper
 - [AlmaLinux/almalinux-deploy](https://github.com/AlmaLinux/almalinux-deploy) - EL to AlmaLinux migration tool.
-- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including
+- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [RPi-Distro/pi-bluetooth](https://github.com/RPi-Distro/pi-bluetooth) - Loads BCM43430A1 firmware on boot
 - [AppImage/appimage.github.io](https://github.com/AppImage/appimage.github.io) - Given an URL to an AppImage, the GitHub action in this project inspects the AppImage and puts it into a community-maintained catalog
 - [zerojay/RetroPie-Extra](https://github.com/zerojay/RetroPie-Extra) - A collection of unofficial scripts for adding more emulators/ports/games to RetroPie.
