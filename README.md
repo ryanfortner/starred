@@ -599,7 +599,7 @@
 - [CrealityOfficial/Ender-3V2](https://github.com/CrealityOfficial/Ender-3V2) - The source for Creality Ender-3V2,MCU and Screen;
 - [chromiumembedded/cef](https://github.com/chromiumembedded/cef) - Chromium Embedded Framework (CEF). A simple framework for embedding Chromium-based browsers in other applications.
 - [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
-- [0vercl0k/wtf](https://github.com/0vercl0k/wtf) - wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows.
+- [0vercl0k/wtf](https://github.com/0vercl0k/wtf) - wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows and Linux user-mode
 - [mholtkamp/octave](https://github.com/mholtkamp/octave) - A 3D game engine for Windows, Linux, and Android.
 - [mholtkamp/retro-league](https://github.com/mholtkamp/retro-league) - Retro League GX is a clone of Rocket League made with the Octave game engine.
 - [google/filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
@@ -3154,7 +3154,7 @@
 - [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) - Native Jellyfin Client for iOS and tvOS
 - [dgraham/Ka-Block](https://github.com/dgraham/Ka-Block) - A Safari extension that blocks an artisanal selection of advertising domains.
 - [christianselig/Markdownosaur](https://github.com/christianselig/Markdownosaur) - Leverages Apple's Swift-based Markdown parser to output NSAttributedString.
-- [s8ngyu/Mugunghwa](https://github.com/s8ngyu/Mugunghwa) - iOS customisation tools for non-jailbroken devices. Requires sandbox escape.
+- [s8ngyu/Mugunghwa](https://github.com/s8ngyu/Mugunghwa) - First-ever system-wide icon theming tool without jailbreak for iOS. Requires sandbox escape.
 - [cormiertyshawn895/Retroactive](https://github.com/cormiertyshawn895/Retroactive) - Retroactive only receives limited support. Run Aperture, iPhoto, and iTunes on macOS Sonoma, macOS Ventura, macOS Monterey, macOS Big Sur, and macOS Catalina. Xcode 11.7 on macOS Mojave. Final Cut Pro
 - [sourcelocation/pinanim](https://github.com/sourcelocation/pinanim) - Jailbreak iOS tweak: Animations for Pin Dots on Lock Screen
 - [Psiphon-Inc/psiphon-ios-vpn](https://github.com/Psiphon-Inc/psiphon-ios-vpn) - Psiphon iOS VPN Client
