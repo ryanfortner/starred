@@ -2168,7 +2168,7 @@
 - [CoolCat467/fix-lwjgl](https://github.com/CoolCat467/fix-lwjgl) - Fix LWJGL (Light Weight Java Game Library) java classpath data for ARM devices
 - [WOA-Project/SurfaceDuo-Guides](https://github.com/WOA-Project/SurfaceDuo-Guides) - Guides for the Surface Duo
 - [chbrown/pi](https://github.com/chbrown/pi) - Simpler python package installation
-- [CMDR-Piboy314/Python-Typing-Test](https://github.com/CMDR-Piboy314/Python-Typing-Test) - A Text-Based Typing Test made in Python
+- [Piras314/Python-Typing-Test](https://github.com/Piras314/Python-Typing-Test) - A Text-Based Typing Test made in Python
 - [pikvm/pi-builder](https://github.com/pikvm/pi-builder) - Extensible tool to build Arch Linux ARM for Raspberry Pi on x86_64 host using Docker
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [pindexis/qfc](https://github.com/pindexis/qfc) - Quick Command-line File Completion
