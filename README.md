@@ -885,7 +885,7 @@
 ## Dart 
 
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
-- [sterrenburg/flutterhole](https://github.com/sterrenburg/flutterhole) - A third party Android application for the Pi-Hole® dashboard.
+- [sterrenb/flutterhole](https://github.com/sterrenb/flutterhole) - A third party Android application for the Pi-Hole® dashboard.
 - [TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) - Script that organizes the Google Takeout archive into one big chronological folder
 - [flutter/pinball](https://github.com/flutter/pinball) - Google I/O 2022 Pinball game built with Flutter and Firebase
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) - A Flutter frontend for quickget and quickemu.
@@ -1757,7 +1757,7 @@
 - [dortania/macOS-VMware-Guide](https://github.com/dortania/macOS-VMware-Guide) - Guide on making a AMD macOS virtual machine in VMware Player/Workstation
 - [ONLYOFFICE/DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) - An office suite that combines text, spreadsheet and presentation editors allowing to create, view and edit local documents
 - [itsnebulalol/deb-to-ipa](https://github.com/itsnebulalol/deb-to-ipa) - ▶️ Convert an application from a deb to an IPA with a GitHub workflow.
-- [zearp/OptiHack](https://github.com/zearp/OptiHack) - Dell OptiPlex 7020/9020 hackintosh stuff
+- [zearp/OptiHack](https://github.com/zearp/OptiHack) - Dell OptiPlex 7020/9020 Hackintosh Stuff
 - [novaspirit/amdgpu-rocm-ubu22](https://github.com/novaspirit/amdgpu-rocm-ubu22) - Installing amdgpu drivers for ubuntu to work with davinci resolve and blender
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
 - [kmille36/scrcpy-audio-support](https://github.com/kmille36/scrcpy-audio-support) - Easy remote your Android device over wifi with scrcpy + audio support over vlc.
@@ -1845,7 +1845,6 @@
 - [radxa/radxa-cm-projects](https://github.com/radxa/radxa-cm-projects) - 
 - [raspbian-addons/.github](https://github.com/raspbian-addons/.github) - 
 - [justjavac/github-dark-light-theme](https://github.com/justjavac/github-dark-light-theme) - GitHub markdown 显示深色模式或者浅色模式
-- [flathub/io.freetubeapp.FreeTube](https://github.com/flathub/io.freetubeapp.FreeTube) - 
 - [hmsjy2017/yn-arm](https://github.com/hmsjy2017/yn-arm) - 
 - [fliptheweb/bash-shortcuts-cheat-sheet](https://github.com/fliptheweb/bash-shortcuts-cheat-sheet) - Useful shortcuts for bash/zsh
 - [Augmentedjs/balena-io-etcher-builds](https://github.com/Augmentedjs/balena-io-etcher-builds) - A place to host my community builds of Ethcher
@@ -2809,6 +2808,7 @@
 - [radxa/armbian-build](https://github.com/radxa/armbian-build) - Armbian Linux build tools
 - [pguyot/arm-runner-action](https://github.com/pguyot/arm-runner-action) - Run tests natively and build images directly from GitHub Actions using a chroot-based virtualized Raspberry Pi (raspios/raspbian) environment
 - [Homebrew/install](https://github.com/Homebrew/install) - 📥 Homebrew (un)installer
+- [flathub/io.freetubeapp.FreeTube](https://github.com/flathub/io.freetubeapp.FreeTube) - 
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [dolegi/lockdown.sh](https://github.com/dolegi/lockdown.sh) - Lockdown your linux install. The simple zero config linux hardening script
 - [NoozAbooz/mcpi-reborn-extended](https://github.com/NoozAbooz/mcpi-reborn-extended) - The enthusiast's MCPI mod.
@@ -3337,7 +3337,7 @@
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
-- [balena-labs-projects/balena-sound](https://github.com/balena-labs-projects/balena-sound) - Build a single or multi-room streamer for an existing audio device using a Raspberry Pi! Supports Bluetooth, Airplay and Spotify Connect
+- [balena-io-experimental/balena-sound](https://github.com/balena-io-experimental/balena-sound) - Build a single or multi-room streamer for an existing audio device using a Raspberry Pi! Supports Bluetooth, Airplay and Spotify Connect
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
 - [PreMiD/Linux](https://github.com/PreMiD/Linux) - 🐧 Linux-optimized repository.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
