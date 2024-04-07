@@ -177,7 +177,7 @@
 - [iPodLinux/iPodLinux-SVN](https://github.com/iPodLinux/iPodLinux-SVN) - GitHub mirror of the original SourceForge SVN code
 - [iPodLinux/podzilla2](https://github.com/iPodLinux/podzilla2) - Updated user interface for iPodLinux, featuring themes and modules support
 - [iPodLinux/ipodloader2](https://github.com/iPodLinux/ipodloader2) - Updated bootloader for iPodLinux with more features
-- [palera1n/palera1n](https://github.com/palera1n/palera1n) - Jailbreak for A8 through A11 devices, on iOS 15.0 and higher.
+- [palera1n/palera1n](https://github.com/palera1n/palera1n) - Jailbreak for A8 through A11, T2 devices, on iOS/iPadOS/tvOS 15.0, bridgeOS 6.0 and higher.
 - [Rockbox/rockbox](https://github.com/Rockbox/rockbox) - Read-only mirror of rockbox' main repository
 - [stolk/energygraph](https://github.com/stolk/energygraph) - Graphs the energy use of a host inside a text terminal, using intel-rapl data from the /sys filesystem.
 - [kok3shidoll/ra1npoc](https://github.com/kok3shidoll/ra1npoc) - A tool for re-jailbreak devices jailbroken by checkra1n/odysseyra1n on iOS/iPadOS/macOS platforms. (opensource pongo loader)
@@ -386,7 +386,6 @@
 - [TheDarkBug/uwufetch](https://github.com/TheDarkBug/uwufetch) - A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace.
 - [linux-usb-gadgets/libusbgx](https://github.com/linux-usb-gadgets/libusbgx) - C library encapsulating the Linux kernel USB gadget configfs userspace API functionality
 - [Gadgetoid/pi400kb](https://github.com/Gadgetoid/pi400kb) - Raw HID keyboard forwarder to turn the Pi 400 into a USB keyboard
-- [freebsd/freebsd-src](https://github.com/freebsd/freebsd-src) - The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....
 - [apple/darwin-xnu](https://github.com/apple/darwin-xnu) - Legacy mirror of Darwin Kernel. Replaced by https://github.com/apple-oss-distributions/xnu
 - [GNOME/seahorse](https://github.com/GNOME/seahorse) - Read-only mirror of https://gitlab.gnome.org/GNOME/seahorse
 - [lrewega/xwinwrap](https://github.com/lrewega/xwinwrap) - Fork of https://launchpad.net/xwinwrap --
@@ -1681,6 +1680,7 @@
 
 ## Objective-C 
 
+- [rickyzhang82/tethering](https://github.com/rickyzhang82/tethering) - Proxy and DNS Server on iOS
 - [PoomSmart/TrollLEDs](https://github.com/PoomSmart/TrollLEDs) - A TrollStore application to control individual flashlight LEDs for iOS devices.
 - [roothide/Bootstrap](https://github.com/roothide/Bootstrap) - A full featured bootstrap for ios14.0~17.0 (A8~A17,M1+M2)
 - [leminlimez/SecondHand](https://github.com/leminlimez/SecondHand) - Add seconds to status bar clock on TrollStore devices
@@ -1926,6 +1926,7 @@
 - [Amog-OS/AmogOS](https://github.com/Amog-OS/AmogOS) - ඞ Among-us themed OS. As seen on Reddit and Youtube.
 - [IAmStoxe/wirehole](https://github.com/IAmStoxe/wirehole) - WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGu
 - [pystardust/automeet](https://github.com/pystardust/automeet) - Join online classes automatically
+- [freebsd/freebsd-src](https://github.com/freebsd/freebsd-src) - The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....
 - [spacebarchat/spacebarchat](https://github.com/spacebarchat/spacebarchat) - 📬 Spacebar is a free open source selfhostable discord compatible communication platform
 - [pop-os/beta](https://github.com/pop-os/beta) - Pop!_OS Beta
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
