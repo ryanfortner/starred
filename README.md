@@ -1806,7 +1806,7 @@
 - [Red-exe-Engineer/Compiled-Scratch-Games](https://github.com/Red-exe-Engineer/Compiled-Scratch-Games) - A list of compiled Scratch games you can play in the browser!
 - [damianperera/openwrt-rpi](https://github.com/damianperera/openwrt-rpi) - An OpenWrt build for Raspberry Pi
 - [brazilianbytes/kubernetes-the-rpi-way](https://github.com/brazilianbytes/kubernetes-the-rpi-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
-- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
+- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 - [vegasbrianc/prometheus](https://github.com/vegasbrianc/prometheus) - A docker-compose stack for Prometheus monitoring
 - [cutiepi-io/cutiepi-board](https://github.com/cutiepi-io/cutiepi-board) - Open source hardware design for the CutiePi tablet
 - [android-rpi/local_manifests](https://github.com/android-rpi/local_manifests) - Android on Raspberry Pi : Entry-Point
