@@ -599,7 +599,7 @@
 - [chromiumembedded/cef](https://github.com/chromiumembedded/cef) - Chromium Embedded Framework (CEF). A simple framework for embedding Chromium-based browsers in other applications.
 - [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
 - [0vercl0k/wtf](https://github.com/0vercl0k/wtf) - wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows and Linux user-mode
-- [mholtkamp/octave](https://github.com/mholtkamp/octave) - A 3D game engine for Windows, Linux, and Android.
+- [mholtkamp/octave](https://github.com/mholtkamp/octave) - A 3D game engine for GameCube, Wii, 3DS, Windows, Linux, and Android.
 - [mholtkamp/retro-league](https://github.com/mholtkamp/retro-league) - Retro League GX is a clone of Rocket League made with the Octave game engine.
 - [google/filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
 - [koolkdev/wfs-tools](https://github.com/koolkdev/wfs-tools) - WFS (WiiU File System) Tools
@@ -1923,7 +1923,7 @@
 - [hmsjy2017/onedriver-arm64-builds](https://github.com/hmsjy2017/onedriver-arm64-builds) - 
 - [ZvonimirKucis/conky](https://github.com/ZvonimirKucis/conky) - Simple Conky configuration for my desktop PC
 - [cycool29/emoji-switcher-linux](https://github.com/cycool29/emoji-switcher-linux) - Easily switch emoji themes in Linux machines. (WIP)
-- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
+- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
 - [Amog-OS/AmogOS](https://github.com/Amog-OS/AmogOS) - ඞ Among-us themed OS. As seen on Reddit and Youtube.
 - [IAmStoxe/wirehole](https://github.com/IAmStoxe/wirehole) - WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGu
 - [pystardust/automeet](https://github.com/pystardust/automeet) - Join online classes automatically
