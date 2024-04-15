@@ -2219,7 +2219,7 @@
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [wasp-os/wasp-os](https://github.com/wasp-os/wasp-os) - A MicroPython based development environment for smart watches (including Pine64 PineTime)
 - [jleclanche/tan](https://github.com/jleclanche/tan) - The uncompromising Python code formatter
-- [NFadhlurrahman/package-manager-gui](https://github.com/NFadhlurrahman/package-manager-gui) - A tool for managing Python packages
+- [yellowsmileyface/package-manager-gui](https://github.com/yellowsmileyface/package-manager-gui) - A tool for managing Python packages
 - [Chia-Network/clvm](https://github.com/Chia-Network/clvm) - [Contract Language|Chia Lisp] Virtual Machine
 - [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint) - OctoPrint is the snappy web interface for your 3D printer!
 - [piwheels/piwheels](https://github.com/piwheels/piwheels) - Python package repository providing wheels (pre-built binaries) for Raspberry Pi
