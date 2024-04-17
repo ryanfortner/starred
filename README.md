@@ -280,7 +280,7 @@
 - [bosmoment/PineTime-apps](https://github.com/bosmoment/PineTime-apps) - Firmware for the PineTime based on RIOT, NimBLE and LittleVGL
 - [abhayanigam/Learn_C](https://github.com/abhayanigam/Learn_C) - Introduction in C language and all basic codes.
 - [m-pays/m-cpuminer-v2](https://github.com/m-pays/m-cpuminer-v2) - Latest miner (m-minerd)
-- [Alvarito050506/n2vm](https://github.com/Alvarito050506/n2vm) - No Name Virtual Machine.
+- [torralbaalla/n2vm](https://github.com/torralbaalla/n2vm) - No Name Virtual Machine.
 - [jhhoward/Ardutosh](https://github.com/jhhoward/Ardutosh) - Classic Macintosh style desktop environment for Arduboy
 - [gl-inet/openwrt](https://github.com/gl-inet/openwrt) - This repository is fork from openwrt official repo, we will update the latest tag and release GL.iNet firmware based on it.
 - [kilograham/rp2040-doom](https://github.com/kilograham/rp2040-doom) - Fully-featured Doom port for the Raspberry Pi RP2040 microcontroller
@@ -2266,7 +2266,7 @@
 - [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Python GUIs for Humans! PySimpleGUI is the top-rated Python application development environment. Launched in 2018 and actively developed, maintained, and supported in 2024. Transforms tkinter, Qt, WxP
 - [jlu5/icoextract](https://github.com/jlu5/icoextract) - Extract icons from Windows PE files (.exe/.dll)
 - [PlayOnLinux/POL-POM-4](https://github.com/PlayOnLinux/POL-POM-4) - PlayOnLinux 4 repository
-- [natorsc/pygobject-gtk](https://github.com/natorsc/pygobject-gtk) - Repositório criado para centralizar dicas, tutoriais e exemplos de código sobre a construção de interfaces gráficas com a linguagem de programação Python (PyGObject) e o tookit gráfico GTK.
+- [natorsc/python-gtk-pygobject](https://github.com/natorsc/python-gtk-pygobject) - Repositório criado para centralizar dicas, tutoriais e exemplos de código sobre a construção de interfaces gráficas com a linguagem de programação Python (PyGObject) e o tookit gráfico GTK.
 - [simons-public/protonfixes](https://github.com/simons-public/protonfixes) - A module for applying fixes at runtime to unsupported games with Steam Proton without changing game installation files
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
@@ -2951,7 +2951,7 @@
 - [GreenRaccoon23/archdroid-icon-theme](https://github.com/GreenRaccoon23/archdroid-icon-theme) - Port of Google's material design icons for Android Lollipop+ to Linux (and influenced by Ubuntu Mono, Mint-X, and Numix).
 - [vinceliuice/vimix-icon-theme](https://github.com/vinceliuice/vimix-icon-theme) - vimix-icon-theme
 - [P3rf/rofi-network-manager](https://github.com/P3rf/rofi-network-manager) - A manager for network connections using bash, rofi, nmcli,qrencode.
-- [Alvarito050506/rpi-debs](https://github.com/Alvarito050506/rpi-debs) - Debian APT repo for misc packages not yet available in Raspberry Pi OS.
+- [torralbaalla/rpi-debs](https://github.com/torralbaalla/rpi-debs) - Debian APT repo for misc packages not yet available in Raspberry Pi OS.
 - [hmsjy2017/n-debs](https://github.com/hmsjy2017/n-debs) - 
 - [CleanMachine1/Various-Scripts](https://github.com/CleanMachine1/Various-Scripts) - Different random scripts I use
 - [coslyk/debianopt-repo](https://github.com/coslyk/debianopt-repo) - Additional debian repository for awesome open-source projects.
