@@ -525,6 +525,7 @@
 
 ## C++ 
 
+- [kevinbentley/Descent3](https://github.com/kevinbentley/Descent3) - Descent 3 by Outrage Entertainment
 - [gazebosim/gz-sim](https://github.com/gazebosim/gz-sim) - Open source robotics simulator. The latest version of Gazebo.
 - [gazebosim/gazebo-classic](https://github.com/gazebosim/gazebo-classic) - Gazebo classic. For the latest version, see https://github.com/gazebosim/gz-sim
 - [pia-foss/desktop](https://github.com/pia-foss/desktop) - Private Internet Access - Desktop VPN Client for Windows/macOS/Linux
