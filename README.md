@@ -382,7 +382,7 @@
 - [phillbush/shod](https://github.com/phillbush/shod) - mouse-based window manager that can tile windows inside floating containers
 - [cutiepi-io/cutiepi-drivers](https://github.com/cutiepi-io/cutiepi-drivers) - Drivers for the CutiePi tablet
 - [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11
-- [TheDarkBug/uwufetch](https://github.com/TheDarkBug/uwufetch) - A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace.
+- [ad-oliviero/uwufetch](https://github.com/ad-oliviero/uwufetch) - A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace.
 - [linux-usb-gadgets/libusbgx](https://github.com/linux-usb-gadgets/libusbgx) - C library encapsulating the Linux kernel USB gadget configfs userspace API functionality
 - [Gadgetoid/pi400kb](https://github.com/Gadgetoid/pi400kb) - Raw HID keyboard forwarder to turn the Pi 400 into a USB keyboard
 - [apple/darwin-xnu](https://github.com/apple/darwin-xnu) - Legacy mirror of Darwin Kernel. Replaced by https://github.com/apple-oss-distributions/xnu
@@ -532,7 +532,6 @@
 - [KDE/latte-dock](https://github.com/KDE/latte-dock) - Replacement dock for Plasma desktops, providing an elegant and intuitive experience for your tasks and plasmoids
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
 - [Rafiuth/Soggfy](https://github.com/Rafiuth/Soggfy) - Spotify ogg dumper
-- [CR-3D/SliCR-3D](https://github.com/CR-3D/SliCR-3D) - G-code generator for 3D printers (CR-3D, Prusa, Voron, Creality, etc.)
 - [smartmontools/smartmontools](https://github.com/smartmontools/smartmontools) - Official read only mirror of the smartmontools project SVN
 - [FlightGear/flightgear](https://github.com/FlightGear/flightgear) - Mirror: FlightGear - Open source flight sim
 - [ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) - Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU
@@ -1168,7 +1167,7 @@
 - [raspbian-addons/docs](https://github.com/raspbian-addons/docs) - Raspbian Addons project documentation
 - [jamesjohnson280/hello-pwa](https://github.com/jamesjohnson280/hello-pwa) - The classic Hello World program as a Progressive Web App
 - [titaniumnetwork-dev/Incognito-old](https://github.com/titaniumnetwork-dev/Incognito-old) - Access the world wide web with Incognito, a fast and rather fancy proxy service. Enjoy a more private internet session without ads.
-- [QuiteAFancyEmerald/Holy-Unblocker](https://github.com/QuiteAFancyEmerald/Holy-Unblocker) - Holy Unblocker is a web proxy service that helps you access websites that may be blocked by your network or browser. It does this securely and with additional features. [MOVED TO A NEW REPO]
+- [QuiteAFancyEmerald/Holy-Unblocker](https://github.com/QuiteAFancyEmerald/Holy-Unblocker) - Holy Unblocker is a web proxy service that helps you access websites that may be blocked by your network or browser. It does this securely and with additional features.
 - [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
 - [Itai-Nelken/itai-nelken.github.io](https://github.com/Itai-Nelken/itai-nelken.github.io) - My website.
 - [Itai-Nelken/Webcord_debian-repo](https://github.com/Itai-Nelken/Webcord_debian-repo) - unofficial repo for electron-discord-webapp (https://github.com/SpacingBat3/WebCord) by @SpacingBat3
@@ -3201,7 +3200,6 @@
 
 - [Redrield/Conductor](https://github.com/Redrield/Conductor) - A cross-platform FRC Driver Station written with Rust and React
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
-- [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily
 - [rospino74/Quizlet-Bypass](https://github.com/rospino74/Quizlet-Bypass) - WebExtension to bypass Quizlet paywall
 - [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
 - [enmity-mod/enmity](https://github.com/enmity-mod/enmity) - The power of addons, all in your hand.
