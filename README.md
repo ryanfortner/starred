@@ -318,7 +318,6 @@
 - [ncopa/xfce-polkit](https://github.com/ncopa/xfce-polkit) - A simple PolicyKit authentication agent for XFCE
 - [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) - Lean's LEDE source
 - [coreboot/seabios](https://github.com/coreboot/seabios) - mirror of seabios
-- [RPi-Distro/firmware](https://github.com/RPi-Distro/firmware) - 
 - [choff/anbox-modules](https://github.com/choff/anbox-modules) - Anbox kernel modules
 - [h5n1xp/CuriOS](https://github.com/h5n1xp/CuriOS) - Simple GUI based Operating System - Based upon my own Microcokernel, heavily inspired by the original 1980s AmigaOS (though somewhat simpler).
 - [blackmagic-debug/blackmagic](https://github.com/blackmagic-debug/blackmagic) - In application debugger for ARM Cortex microcontrollers.
@@ -1006,7 +1005,7 @@
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [yippiez/go-miner](https://github.com/yippiez/go-miner) - a miner made in golang.
-- [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
+- [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Go implementation of the Ethereum protocol
 - [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - Open Policy Agent (OPA) is an open source, general-purpose policy engine.
 - [rsc/web](https://github.com/rsc/web) - basic web site serving framework
 - [Chia-Network/chia-exporter](https://github.com/Chia-Network/chia-exporter) - RPC/Websocket based metrics exporter for Chia
@@ -1041,7 +1040,7 @@
 - [moul/sshportal](https://github.com/moul/sshportal) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
 - [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Infrastructure as code for DNS!
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
-- [gravitational/teleport](https://github.com/gravitational/teleport) - Protect access to all of your infrastructure
+- [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
 - [chenjiandongx/sniffer](https://github.com/chenjiandongx/sniffer) - 🤒   A modern alternative network traffic sniffer.
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
@@ -1863,6 +1862,7 @@
 - [raspbian-addons/icons](https://github.com/raspbian-addons/icons) - Raspbian Addons project icons
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [dahliaOS/releases](https://github.com/dahliaOS/releases) - dahliaOS ISO releases
+- [RPi-Distro/firmware](https://github.com/RPi-Distro/firmware) - 
 - [ZephyrLabs/Watchfaces](https://github.com/ZephyrLabs/Watchfaces) - just a bunch of watchfaces made for the pinetime.
 - [ryanfortner/codex-arm](https://github.com/ryanfortner/codex-arm) - codex arm builds
 - [hmsjy2017/ossutil-debs](https://github.com/hmsjy2017/ossutil-debs) - 
@@ -3212,7 +3212,7 @@
 - [cschleiden/vscode-github-actions](https://github.com/cschleiden/vscode-github-actions) - Simple, unofficial extension to view GitHub Actions workflows and runs in VS Code
 - [electron/notarize](https://github.com/electron/notarize) - Notarize your macOS Electron Apps
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
-- [ViewTube/viewtube](https://github.com/ViewTube/viewtube) - ▶️ ViewTube: The open source, privacy-conscious way to enjoy your favorite YouTube content. Docs: https://viewtube.wiki, Status: https://uptime.m-o.dev/status
+- [ViewTube/viewtube](https://github.com/ViewTube/viewtube) - ▶️ ViewTube: The open source, privacy-conscious way to enjoy your favorite YouTube content. Docs: https://viewtube.wiki, Status: https://uptime.viewtube.io
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [FixTweet/FxTwitter](https://github.com/FixTweet/FxTwitter) - Fix broken Twitter/X embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others
