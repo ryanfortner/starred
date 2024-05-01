@@ -208,7 +208,7 @@
 - [opa334/sandbox_extension_generator](https://github.com/opa334/sandbox_extension_generator) - iOS 15.0 - 15.3.1 sandbox escape technique using kernel read/write primitives
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
-- [pwmt/zathura](https://github.com/pwmt/zathura) - a document viewer
+- [pwmt/zathura](https://github.com/pwmt/zathura) - Document viewer
 - [coolstar/RecordMyScreen](https://github.com/coolstar/RecordMyScreen) - Record the display even on non-jailbroken iPhones.
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
@@ -3172,6 +3172,7 @@
 - [airmessage/airmessage-server](https://github.com/airmessage/airmessage-server) - AirMessage's native message relay server for Mac
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [Sileo/Sileo](https://github.com/Sileo/Sileo) - A modern package manager for iOS 11 and higher.
+- [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [LinusHenze/Fugu14](https://github.com/LinusHenze/Fugu14) - Fugu14 is an untethered iOS 14.3-14.5.1 jailbreak
 - [alin23/Lunar](https://github.com/alin23/Lunar) - Intelligent adaptive brightness for your external monitors
@@ -3241,7 +3242,6 @@
 - [crazy-max/ghaction-virustotal](https://github.com/crazy-max/ghaction-virustotal) - GitHub Action to upload and scan files with VirusTotal
 - [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) - GitHub Action to import a GPG key
 - [oxen-io/session-desktop](https://github.com/oxen-io/session-desktop) - Session Desktop - Onion routing based messenger
-- [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
 - [Sn8z/Poddr](https://github.com/Sn8z/Poddr) - Podcatcher made with Electron and Angular
 - [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist & lightweight startpage inspired by iOS
