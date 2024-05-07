@@ -502,7 +502,7 @@
 - [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11
 - [opentk/opentk](https://github.com/opentk/opentk) - The Open Toolkit library is a fast, low-level C# wrapper for OpenGL, OpenAL & OpenCL. It also includes windowing, mouse, keyboard and joystick input and a robust and fast math library, giving you ever
 - [Sussy-OS/LRA-Community-Edition](https://github.com/Sussy-OS/LRA-Community-Edition) - The open source, community maintained version of a spiritual successor to the flash game Line Rider 6.2
-- [AmirDahan/WoR-ControlPanel](https://github.com/AmirDahan/WoR-ControlPanel) - Windows on Raspberry Control Panel is a simple utility to make your WoR experience just a little bit easier
+- [System64fumo/WoR-ControlPanel](https://github.com/System64fumo/WoR-ControlPanel) - Windows on Raspberry Control Panel is a simple utility to make your WoR experience just a little bit easier
 - [ProjectCeleste/Celeste.Launcher](https://github.com/ProjectCeleste/Celeste.Launcher) - 
 - [jealouscloud/linerider-advanced](https://github.com/jealouscloud/linerider-advanced) - An open source spiritual successor to the flash game Line Rider 6.2
 - [Tran-Foxxo/LRTran](https://github.com/Tran-Foxxo/LRTran) - A fork of an open source spiritual successor to the flash game Line Rider 6.2
@@ -836,7 +836,6 @@
 - [poole/poole](https://github.com/poole/poole) - The Jekyll Butler. A no frills responsive Jekyll blog theme.
 - [raspbian-addons/raspbian-addons.github.io](https://github.com/raspbian-addons/raspbian-addons.github.io) - Website for the Raspbian Addons debian repository
 - [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment
-- [vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme) - Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.
 - [muckSponge/MaterialFox](https://github.com/muckSponge/MaterialFox) - A Material Design-inspired userChrome.css theme for Firefox
 - [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - A GNOME👣 theme for Firefox🔥
 - [eromatiya/blurredfox](https://github.com/eromatiya/blurredfox) - A sleek, modern and elegant Firefox CSS theme
@@ -1858,7 +1857,7 @@
 - [ryanfortner/starred](https://github.com/ryanfortner/starred) - Curated list of my GitHub stars
 - [shytoshikusama/woofwoofpaper](https://github.com/shytoshikusama/woofwoofpaper) - 
 - [Botspot/scratch2](https://github.com/Botspot/scratch2) - 
-- [AmirDahan/WoR-CP-Apps](https://github.com/AmirDahan/WoR-CP-Apps) - Application Repository Used for WoR-Cp's Appstore
+- [System64fumo/WoR-CP-Apps](https://github.com/System64fumo/WoR-CP-Apps) - Application Repository Used for WoR-Cp's Appstore
 - [hmsjy2017/aliyun-cli-debs](https://github.com/hmsjy2017/aliyun-cli-debs) - 
 - [raspbian-addons/icons](https://github.com/raspbian-addons/icons) - Raspbian Addons project icons
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
@@ -2635,6 +2634,7 @@
 - [cycool29/hacker-theme-linux](https://github.com/cycool29/hacker-theme-linux) - A beautiful hacker theme with only two colours: `00ff00` and `000000`. Only tested on Raspberry Pi OS, but should work other LXDE Linux system.
 - [jnsh/arc-theme](https://github.com/jnsh/arc-theme) - A flat theme with transparent elements (actively maintained fork)
 - [ubuntu/yaru](https://github.com/ubuntu/yaru) - All Ubuntu Yaru GNOME themes
+- [vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme) - Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.
 
 ## SWIG 
 
