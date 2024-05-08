@@ -2379,7 +2379,7 @@
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-578-Stars](https://github.com/iBug/This-Repo-Has-578-Stars) - Yes, it's true :gift_heart: This repository has 578 stars.
+- [iBug/This-Repo-Has-578-Stars](https://github.com/iBug/This-Repo-Has-578-Stars) - Yes, it's true :sparkling_heart: This repository has 578 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -2696,7 +2696,7 @@
 - [krisyanto80/checkn1x](https://github.com/krisyanto80/checkn1x) - Linux-based ISOs for jailbreaking iOS devices w/ checkra1n.
 - [raspberryenvoie/odysseyn1x](https://github.com/raspberryenvoie/odysseyn1x) - Linux-based distro that lets you install checkra1n, odysseyra1n and Project Sandcastle.
 - [Yisus7u7/termux-desktop-xfce](https://github.com/Yisus7u7/termux-desktop-xfce) - Set up a beautiful xfce desktop in termux
-- [framps/raspiBackup](https://github.com/framps/raspiBackup) - Backup and restore your active Raspberry
+- [framps/raspiBackup](https://github.com/framps/raspiBackup) - Backup your Raspberry
 - [ful1e5/apple_cursor](https://github.com/ful1e5/apple_cursor) - Free & Open source macOS Cursors.
 - [yeyushengfan258/Win11-icon-theme](https://github.com/yeyushengfan258/Win11-icon-theme) - A colorful design icon theme for linux desktops
 - [aaron-dev-git/Linux-Mint-Debloater](https://github.com/aaron-dev-git/Linux-Mint-Debloater) - Script to debloat Linux Mint
@@ -3125,7 +3125,6 @@
 - [the-blue-alliance/the-blue-alliance-ios](https://github.com/the-blue-alliance/the-blue-alliance-ios) - An iOS app for accessing information about the FIRST Robotics Competition.
 - [c22dev/Geranium](https://github.com/c22dev/Geranium) - LocSim, Daemon Manager, Cleaner, ScreenTime Remover and Superviser for TrollStore
 - [louisdh/openterm](https://github.com/louisdh/openterm) - OpenTerm, a sandboxed command line interface for iOS
-- [passepartoutvpn/tunnelkit](https://github.com/passepartoutvpn/tunnelkit) - VPN client library for Apple platforms.
 - [passepartoutvpn/passepartout-app](https://github.com/passepartoutvpn/passepartout-app) - VPN client for Apple platforms.
 - [hbang/NewTerm](https://github.com/hbang/NewTerm) - NewTerm is a terminal emulator app with first-class iPhone, iPad, and Mac support.
 - [leminlimez/Helium](https://github.com/leminlimez/Helium) - 
