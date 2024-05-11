@@ -199,7 +199,7 @@
 - [any1/wayvnc](https://github.com/any1/wayvnc) - A VNC server for wlroots based Wayland compositors
 - [checkra1n/PongoOS](https://github.com/checkra1n/PongoOS) - pongoOS
 - [Ryu0118/TouchSimulator-iOS14](https://github.com/Ryu0118/TouchSimulator-iOS14) - simulate touch tool working on iOS14
-- [rA9stuff/LeetDown](https://github.com/rA9stuff/LeetDown) - a GUI macOS Downgrade Tool for A6 and A7 iDevices
+- [rA9stuff/LeetDown](https://github.com/rA9stuff/LeetDown) - a macOS app that downgrades A6 and A7 iDevices to OTA signed firmwares
 - [Samgisaninja/SuccessionRestore](https://github.com/Samgisaninja/SuccessionRestore) - Restore iOS devices without updating via rootfilesystem DMG
 - [r00tdaemon/xwinwrap](https://github.com/r00tdaemon/xwinwrap) - My fork of xwinwrap. Xwinwrap allows you to stick most of the apps to your desktop background.
 - [FreeRDP/Remmina](https://github.com/FreeRDP/Remmina) - Mirror of https://gitlab.com/Remmina/Remmina The GTK+ Remmina Remote Desktop Client
@@ -3123,6 +3123,7 @@
 
 ## Swift 
 
+- [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 - [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macos on Swift 5.0
 - [beltex/SMCKit](https://github.com/beltex/SMCKit) - Apple SMC library & tool
 - [TuringSoftware/CrystalFetch](https://github.com/TuringSoftware/CrystalFetch) - macOS UI for creating Windows installer ISO from UUPDump
