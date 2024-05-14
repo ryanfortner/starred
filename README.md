@@ -1976,7 +1976,7 @@
 - [SpacingBat3/discord-arm](https://github.com/SpacingBat3/discord-arm) - My approach to port Discord Official Client for the Linux ARM.
 - [ryanfortner/pi-bashscripts-files](https://github.com/ryanfortner/pi-bashscripts-files) - A collection of scripts and files useful for the Raspberry Pi 4 and other models.
 - [novaspirit/rpi_ubu64_desktop](https://github.com/novaspirit/rpi_ubu64_desktop) - 
-- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [SpacingBat3/box86-releases](https://github.com/SpacingBat3/box86-releases) - A repository containing a packaged version of the BOX86.
 - [MultiMC/meta-multimc](https://github.com/MultiMC/meta-multimc) - Repository for MultiMC Minecraft package metadata
 - [rdeioris/UnrealOnRPI4](https://github.com/rdeioris/UnrealOnRPI4) - Running Unreal Engine 4 on RaspberryPI 4
@@ -2092,7 +2092,7 @@
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
-- [EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox) - An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.
+- [EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox) - An implementation of model parallel autoregressive transformers on GPUs, based on the Megatron and DeepSpeed libraries
 - [ranaroussi/pywallet](https://github.com/ranaroussi/pywallet) - Dead-simple BIP32 (HD) wallet creation for BTC, BTG, BCH, LTC, DASH, USDT, QTUM and DOGE
 - [FreeCAD/FreeCAD-icons](https://github.com/FreeCAD/FreeCAD-icons) - FreeCAD icon themes repository
 - [kbwbe/A2plus](https://github.com/kbwbe/A2plus) - Another assembly workbench for FreeCAD, following and extending Hamish's Assembly 2 workbench
@@ -2384,7 +2384,7 @@
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-578-Stars](https://github.com/iBug/This-Repo-Has-578-Stars) - Yes, it's true :revolving_hearts: This repository has 578 stars.
+- [iBug/This-Repo-Has-578-Stars](https://github.com/iBug/This-Repo-Has-578-Stars) - Yes, it's true :purple_heart: This repository has 578 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
