@@ -1890,7 +1890,6 @@
 - [clooney/usps-tracking-api](https://github.com/clooney/usps-tracking-api) - USPS tracking API and webhook make it easy to integrate USPS tracking function into your own project.
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
 - [hmsjy2017/xmake-debs](https://github.com/hmsjy2017/xmake-debs) - 
-- [WorksOnArm/mininodes-arm-edge](https://github.com/WorksOnArm/mininodes-arm-edge) - Arm and miniNodes have partnered to make Arm-based edge devices and single board computers available for open source software developers to build, test and optimize for Arm.
 - [microsoft/Selawik](https://github.com/microsoft/Selawik) - This will provide a location for Selawik development to take place.
 - [shannpersand/comic-shanns](https://github.com/shannpersand/comic-shanns) - a classy font
 - [hashicorp/ghaction-import-gpg](https://github.com/hashicorp/ghaction-import-gpg) - DEPRECATED - GitHub action to import GPG private key
