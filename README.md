@@ -1142,6 +1142,7 @@
 - [marchof/java-almanac](https://github.com/marchof/java-almanac) - The history and future of Java.
 - [whatwg/html](https://github.com/whatwg/html) - HTML Standard
 - [revoxhere/duco-exchange](https://github.com/revoxhere/duco-exchange) - 💱 Source of the easy to use static coin exchange service - DUCO Exchange
+- [WOA-Project/SurfaceDuo-Drivers](https://github.com/WOA-Project/SurfaceDuo-Drivers) - Collection of driver binaries for Surface Duo devices
 - [mesh0000/poolui](https://github.com/mesh0000/poolui) - User interface based on Monero Pool API developed by Snipa - https://github.com/Snipa22/nodejs-pool
 - [sproogen/modern-resume-theme](https://github.com/sproogen/modern-resume-theme) - A modern static resume template and theme. Powered by Jekyll and GitHub pages.
 - [flexdinesh/dev-landing-page](https://github.com/flexdinesh/dev-landing-page) - Minimal landing page for developers
@@ -2512,7 +2513,6 @@
 
 ## Roff 
 
-- [WOA-Project/SurfaceDuo-Drivers](https://github.com/WOA-Project/SurfaceDuo-Drivers) - Collection of driver binaries for Surface Duo devices
 - [RPi-Distro/chromium-browser](https://github.com/RPi-Distro/chromium-browser) - 
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 
@@ -3392,7 +3392,7 @@
 - [linuxmint/timeshift](https://github.com/linuxmint/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be resto
 - [lainsce/quilter](https://github.com/lainsce/quilter) - [DEPRECATED] Focus on your writing.
 - [lainsce/notejot](https://github.com/lainsce/notejot) - Stupidly-simple notes app.
-- [pantheon-tweaks/pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks) - A system settings panel for the Pantheon desktop environment.
+- [pantheon-tweaks/pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks) - A system customization app for the Pantheon desktop environment.
 - [Jai-JAP/pikiss-gui](https://github.com/Jai-JAP/pikiss-gui) - GTK frontend for PiKISS
 - [lainsce/dot-matrix](https://github.com/lainsce/dot-matrix) - The glyph playground of creativity from simple lines
 - [IBBoard/cawbird](https://github.com/IBBoard/cawbird) - A fork of the Corebird GTK Twitter client that continues to work with Twitter
