@@ -470,7 +470,7 @@
 - [mchehab/zbar](https://github.com/mchehab/zbar) - ZBar is an open source software suite for reading bar codes from various sources, including webcams. As its development stopped in 2012, I took the task of keeping it updated with the V4L2 API. This i
 - [raspberrypi/rpi-imager](https://github.com/raspberrypi/rpi-imager) - The home of Raspberry Pi Imager, a user-friendly tool for creating bootable media for Raspberry Pi devices.
 - [ptitSeb/gl4es](https://github.com/ptitSeb/gl4es) - GL4ES is a OpenGL 2.1/1.5 to GL ES 2.0/1.1 translation library, with support for Pandora, ODroid, OrangePI, CHIP, Raspberry PI, Android, Emscripten and AmigaOS4.
-- [alemart/opensurge](https://github.com/alemart/opensurge) - A 2D retro game engine with a fun platformer for making your dreams come true!
+- [alemart/opensurge](https://github.com/alemart/opensurge) - A retro game engine with a fun platformer for making your dreams come true!
 - [ssvb/tinymembench](https://github.com/ssvb/tinymembench) - Simple benchmark for memory throughput and latency
 - [AndrewFromMelbourne/raspi2png](https://github.com/AndrewFromMelbourne/raspi2png) - Utility to take a snapshot of the Raspberry Pi screen and save it as a PNG file
 - [sm64pc/sm64ex](https://github.com/sm64pc/sm64ex) - Fork of https://github.com/sm64-port/sm64-port with additional features.
@@ -1142,7 +1142,6 @@
 - [marchof/java-almanac](https://github.com/marchof/java-almanac) - The history and future of Java.
 - [whatwg/html](https://github.com/whatwg/html) - HTML Standard
 - [revoxhere/duco-exchange](https://github.com/revoxhere/duco-exchange) - 💱 Source of the easy to use static coin exchange service - DUCO Exchange
-- [WOA-Project/SurfaceDuo-Drivers](https://github.com/WOA-Project/SurfaceDuo-Drivers) - Collection of driver binaries for Surface Duo devices
 - [mesh0000/poolui](https://github.com/mesh0000/poolui) - User interface based on Monero Pool API developed by Snipa - https://github.com/Snipa22/nodejs-pool
 - [sproogen/modern-resume-theme](https://github.com/sproogen/modern-resume-theme) - A modern static resume template and theme. Powered by Jekyll and GitHub pages.
 - [flexdinesh/dev-landing-page](https://github.com/flexdinesh/dev-landing-page) - Minimal landing page for developers
@@ -1498,7 +1497,7 @@
 - [patrikx3/onenote](https://github.com/patrikx3/onenote) - 📚 Linux Electron Onenote - A Linux compatible version of OneNote
 - [dracula/visual-studio-code](https://github.com/dracula/visual-studio-code) - 🧛🏻‍♂️ Dark theme for Visual Studio Code
 - [egoist/docute](https://github.com/egoist/docute) - 📚 Effortless documentation, done right.
-- [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
+- [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [TurboWarp/packager](https://github.com/TurboWarp/packager) - Converts Scratch projects into HTML files, zip archives, or executable programs for Windows, macOS, and Linux.
 - [sonnyp/Tangram](https://github.com/sonnyp/Tangram) - Browser for your pinned tabs
 - [vinceliuice/dash-to-dock](https://github.com/vinceliuice/dash-to-dock) - A dock for the Gnome Shell. This extension   moves the dash out of the overview transforming it in a dock for an easier   launching of applications and a faster switching between windows and desktops.
@@ -2400,7 +2399,7 @@
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
 - [kovidgoyal/kitty-themes](https://github.com/kovidgoyal/kitty-themes) - Themes for the kitty terminal emulator
 - [lord63/tldr.py](https://github.com/lord63/tldr.py) - A python client for tldr: simplified and community-driven man pages.
-- [Taiko2k/TauonMusicBox](https://github.com/Taiko2k/TauonMusicBox) - The desktop music player of today! :city_sunrise:
+- [Taiko2k/Tauon](https://github.com/Taiko2k/Tauon) - The music player of today! :city_sunrise:
 - [pyload/pyload](https://github.com/pyload/pyload) - The free and open-source Download Manager written in pure Python
 - [arindas/mac-on-linux-with-qemu](https://github.com/arindas/mac-on-linux-with-qemu) - Runs macOS on linux with qemu.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -2513,6 +2512,7 @@
 
 ## Roff 
 
+- [WOA-Project/SurfaceDuo-Drivers](https://github.com/WOA-Project/SurfaceDuo-Drivers) - Collection of driver binaries for Surface Duo devices
 - [RPi-Distro/chromium-browser](https://github.com/RPi-Distro/chromium-browser) - 
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 
