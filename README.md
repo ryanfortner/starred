@@ -1760,7 +1760,6 @@
 - [fifonik/FFMetrics](https://github.com/fifonik/FFMetrics) - Visualizes Video Quality Metrics (PSNR, SSIM & VMAF) calculated by ffmpeg.exe
 - [zhuxinlang/xinaA12](https://github.com/zhuxinlang/xinaA12) - 
 - [jacksight/xina520_official_jailbreak](https://github.com/jacksight/xina520_official_jailbreak) - This is the official download website for xina520's jailbreak
-- [github/mona-sans](https://github.com/github/mona-sans) - Mona Sans, a variable font from GitHub
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [nikp123/ntfs-rootfs](https://github.com/nikp123/ntfs-rootfs) - A guide on how to use NTFS as the root filesystem on Linux or possibly any other UNIX OS.
 - [dortania/macOS-VMware-Guide](https://github.com/dortania/macOS-VMware-Guide) - Guide on making a AMD macOS virtual machine in VMware Player/Workstation
@@ -2678,6 +2677,7 @@
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
 - [palera1n/ramdisk](https://github.com/palera1n/ramdisk) - SSHRD_Script adapted for palera1n
 - [butterfly-garden/ubuntu-butterfly-settings](https://github.com/butterfly-garden/ubuntu-butterfly-settings) - Ubuntu Butterfly default settings 🎛
+- [github/mona-sans](https://github.com/github/mona-sans) - Mona Sans, a variable font from GitHub
 - [DesktopContainers/base-debian](https://github.com/DesktopContainers/base-debian) - base image for Desktop / X11 Applications (ssh X11, vnc, http/https novnc) on debian [x86 + arm]
 - [mrbvrz/segoe-ui-linux](https://github.com/mrbvrz/segoe-ui-linux) - :monkey: Install segoe-ui font on linux (ubuntu)
 - [Dunedan/mbp-2016-linux](https://github.com/Dunedan/mbp-2016-linux) - State of Linux on the MacBook Pro 2016 & 2017
