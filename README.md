@@ -9,7 +9,6 @@
 - [Adblock Filter List](#adblock-filter-list)
 - [AppleScript](#applescript)
 - [Assembly](#assembly)
-- [Astro](#astro)
 - [AutoIt](#autoit)
 - [Awk](#awk)
 - [Batchfile](#batchfile)
@@ -107,10 +106,6 @@
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [0xJonas/TIQuest](https://github.com/0xJonas/TIQuest) - Game for the TI-83 plus/TI-84 plus calculators
 - [calc84maniac/tiboyce](https://github.com/calc84maniac/tiboyce) - A Game Boy emulator for the TI-84 Plus CE and TI-83 Premium CE.
-
-## Astro 
-
-- [e9x/chrome100](https://github.com/e9x/chrome100) - Collection of ChromeOS recovery images.
 
 ## AutoIt 
 
@@ -958,6 +953,7 @@
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC activ
 - [naiba/nezha](https://github.com/naiba/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O&M tool
+- [e9x/chrome100](https://github.com/e9x/chrome100) - Collection of ChromeOS recovery images.
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [tsdgeos/nopullrequests](https://github.com/tsdgeos/nopullrequests) - GitHub Pull Request Rejection Bot
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
@@ -1700,7 +1696,6 @@
 - [LNSSPsd/PodsGrant](https://github.com/LNSSPsd/PodsGrant) - Treat AirPods Pro 2 as AirPods Pro to get it working better on older operating systems (for a few iOS versions only)
 - [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!
 - [Zibri/ZiPhone](https://github.com/Zibri/ZiPhone) - The best iPhone unlocker.
-- [emokid99/BootSound](https://github.com/emokid99/BootSound) - source code of my tweak
 - [haxi0/TrollBoard](https://github.com/haxi0/TrollBoard) - Icon changer for iOS 15.0 - 16.1.2
 - [toy/blueutil](https://github.com/toy/blueutil) - CLI for bluetooth on OSX: power, discoverable state, list, inquire devices, connect, info, …
 - [tihmstar/otachecker](https://github.com/tihmstar/otachecker) - quick and dirty tool to check what ota blobs are being signed by apple
