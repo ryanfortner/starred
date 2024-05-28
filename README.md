@@ -479,6 +479,7 @@
 
 ## C# # 
 
+- [AirVPN/Eddie](https://github.com/AirVPN/Eddie) - UI/CLI for OpenVPN/WireGuard
 - [eviabs/downtify-premium](https://github.com/eviabs/downtify-premium) - Downtify is an open source Spofity downloader which makes it possible to download all your favourite songs and/or playlists directly from spotify. A Spotify Premium account is required.
 - [WereDev/Wu10Man](https://github.com/WereDev/Wu10Man) - Enable/Disable Windows 10 Automatic Updates
 - [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
@@ -1523,7 +1524,7 @@
 - [felixrieseberg/macintosh.js](https://github.com/felixrieseberg/macintosh.js) - 🖥 A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
 - [JoseExposito/touche](https://github.com/JoseExposito/touche) - The desktop application to configure Touchégg
 - [ricehiroko/atom-armv7l](https://github.com/ricehiroko/atom-armv7l) - Several patched files and instructions, that allow you to build and run Atom 1.23.2 on armv7l machine.
-- [Manjaro-WebDad/jde](https://github.com/Manjaro-WebDad/jde) - Linux desktop environment built with HTML5, CSS, JavaScript and Python.
+- [codesardine/jde](https://github.com/codesardine/jde) - Linux desktop environment built with HTML5, CSS, JavaScript and Python.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [mani-barathi/Octave](https://github.com/mani-barathi/Octave) - Music🎵  streaming web-app
 - [klaudiosinani/tusk](https://github.com/klaudiosinani/tusk) - Refined Evernote desktop app
@@ -1685,6 +1686,7 @@
 
 ## Objective-C 
 
+- [objective-see/KnockKnock](https://github.com/objective-see/KnockKnock) - Enumerate persistently installed software
 - [rickyzhang82/tethering](https://github.com/rickyzhang82/tethering) - Proxy and DNS Server on iOS
 - [PoomSmart/TrollLEDs](https://github.com/PoomSmart/TrollLEDs) - A TrollStore application to control individual flashlight LEDs for iOS devices.
 - [roothide/Bootstrap](https://github.com/roothide/Bootstrap) - A full featured bootstrap for iOS 15.0-17.0 A8-A17 & M1+M2 using roothide
@@ -2097,7 +2099,7 @@
 - [denogio/pop-launcher-bitwarden](https://github.com/denogio/pop-launcher-bitwarden) - Bitwarden plugin for Pop_OS! pop-launcher - your bitwarden vault always at your hand.
 - [actionschnitzel/chatgpt-python-gui](https://github.com/actionschnitzel/chatgpt-python-gui) - Super simple Chat-GPT-GUI
 - [fishbigger/TapoP100](https://github.com/fishbigger/TapoP100) - A module for controlling the TP-Link Tapo P100 Plugs
-- [parrotgeek1/Pluvia](https://github.com/parrotgeek1/Pluvia) - Untethered downgrade your GSM iPhone 4 without SHSH blobs. Only for Mac. No longer supported.
+- [parrotgeek1/Pluvia](https://github.com/parrotgeek1/Pluvia) - Untethered downgrade your GSM iPhone 4 without SHSH blobs. Only for Mac. No longer supported. Pluvia is no longer available for iOS versions other than 6.1.6. Please use https://github.com/LukeZGD/Leg
 - [openai/gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [Vanilla-OS/vanilla-installer](https://github.com/Vanilla-OS/vanilla-installer) - A frontend in GTK 4 and Libadwaita for Albius.
 - [modoboa/modoboa-webmail](https://github.com/modoboa/modoboa-webmail) - The webmail of Modoboa
@@ -2292,7 +2294,7 @@
 - [splitbrain/pimenu](https://github.com/splitbrain/pimenu) - Simple fullscreen menu system for Raspberry Pi Touchscreen
 - [lovesegfault/beautysh](https://github.com/lovesegfault/beautysh) - A Bash beautifier for the masses.
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
-- [catppuccin/gtk](https://github.com/catppuccin/gtk) - 🪟 Soothing pastel theme for GTK
+- [catppuccin/gtk](https://github.com/catppuccin/gtk) - 🪟 Soothing pastel theme for GTK3/4
 - [LiterallyLarry/USPS-Tracking-Python](https://github.com/LiterallyLarry/USPS-Tracking-Python) - Command line utility to track your packages using the USPS Track Request API.
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [RedHeadphone/sudoku-solver](https://github.com/RedHeadphone/sudoku-solver) - Solves given sudoku puzzle using back tracking algorithm
@@ -2381,7 +2383,7 @@
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-579-Stars](https://github.com/iBug/This-Repo-Has-579-Stars) - Yes, it's true :purple_heart: This repository has 579 stars.
+- [iBug/This-Repo-Has-580-Stars](https://github.com/iBug/This-Repo-Has-580-Stars) - Yes, it's true :gift_heart: This repository has 580 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -2648,7 +2650,7 @@
 
 ## Scala 
 
-- [softwaremill/tapir](https://github.com/softwaremill/tapir) - Declarative, type-safe web endpoints library
+- [softwaremill/tapir](https://github.com/softwaremill/tapir) - Rapid development of self-documenting APIs
 
 ## Shell 
 
