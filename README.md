@@ -1714,7 +1714,6 @@
 - [zachary7829/openpwnage](https://github.com/zachary7829/openpwnage) - iOS 8.4b4-9.3.6 Semi-Untethered jailbreak
 - [ryannair05/Cylinder-Remade](https://github.com/ryannair05/Cylinder-Remade) - A fully rewritten Cylinder for iOS 14 and above
 - [josh-/CloudyTabs](https://github.com/josh-/CloudyTabs) - CloudyTabs is a simple menu bar application that lists your iCloud Tabs.
-- [google/santa](https://github.com/google/santa) - A binary authorization and monitoring system for macOS
 - [yujitach/MenuMeters](https://github.com/yujitach/MenuMeters) - my fork of MenuMeters by http://www.ragingmenace.com/software/menumeters/
 - [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
 - [alexzielenski/Mousecape](https://github.com/alexzielenski/Mousecape) - Cursor Manager for OSX
@@ -1724,6 +1723,7 @@
 - [opa334/SafariPlus](https://github.com/opa334/SafariPlus) - Tweak for iOS App "Safari" - Various enhancements
 - [julioverne/LowerInstall](https://github.com/julioverne/LowerInstall) - Install Apps In Lower iOS Version
 - [autopear/Cydia](https://github.com/autopear/Cydia) - Cydia Installer
+- [google/santa](https://github.com/google/santa) - A binary authorization and monitoring system for macOS
 
 ## OpenSCAD 
 
@@ -2075,6 +2075,7 @@
 
 ## Python 
 
+- [glomatico/spotify-web-downloader](https://github.com/glomatico/spotify-web-downloader) - A Python CLI app for downloading songs/music videos/albums/playlists directly from Spotify.
 - [tlkh/asitop](https://github.com/tlkh/asitop) - Perf monitoring CLI tool for Apple Silicon
 - [SystemRage/py-kms](https://github.com/SystemRage/py-kms) - KMS Server Emulator written in Python
 - [EntySec/SeaShell](https://github.com/EntySec/SeaShell) - SeaShell Framework is an iOS post-exploitation framework that enables you to access the device remotely, control it and extract sensitive information.
