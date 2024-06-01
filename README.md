@@ -1173,7 +1173,7 @@
 - [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
 - [Itai-Nelken/itai-nelken.github.io](https://github.com/Itai-Nelken/itai-nelken.github.io) - My website.
 - [Itai-Nelken/Webcord_debian-repo](https://github.com/Itai-Nelken/Webcord_debian-repo) - unofficial repo for electron-discord-webapp (https://github.com/SpacingBat3/WebCord) by @SpacingBat3
-- [rajshekhar26/startpage](https://github.com/rajshekhar26/startpage) - A minimal startpage for Firefox.
+- [rjshkhr/startpage](https://github.com/rjshkhr/startpage) - A minimal startpage for Firefox.
 - [phoenixbyrd/TwisterWebApps](https://github.com/phoenixbyrd/TwisterWebApps) - 
 - [phoenixbyrd/webapps](https://github.com/phoenixbyrd/webapps) - Web Apps for Twister OS
 - [phoenixbyrd/TwisterOS](https://github.com/phoenixbyrd/TwisterOS) - Twister OS Website
