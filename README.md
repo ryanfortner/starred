@@ -3027,7 +3027,7 @@
 - [mtbiker-s/ubuntu20.10-rpi-install-vnc](https://github.com/mtbiker-s/ubuntu20.10-rpi-install-vnc) - Quick script to install RealVNC Server on Raspberry Pi 4 8gb running Unbuntu 20.10 64bit (Groovy Gorilla) and 21.04 64bit (Hirsute Hippo)
 - [idev1/rpihotspot](https://github.com/idev1/rpihotspot) - Raspberry Pi - Hotspot (Access Point and WiFi Client/Station)
 - [megastep/makeself](https://github.com/megastep/makeself) - A self-extracting archiving tool for Unix systems, in 100% shell script.
-- [spectrumgamer75/Infonata](https://github.com/spectrumgamer75/Infonata) - A Small Utility To View A Plethora Of Information Related To  Your System :blush:
+- [Spectrum75/Infonata](https://github.com/Spectrum75/Infonata) - A Small Utility To View A Plethora Of Information Related To  Your System :blush:
 - [pihomeserver/Kupiki-Hotspot-Script](https://github.com/pihomeserver/Kupiki-Hotspot-Script) - Create automatically a full Wifi Hotspot on Raspberry Pi including a Captive Portal
 - [alexadam/repo-backup](https://github.com/alexadam/repo-backup) - Backup all Github & Gitlab repositories as .zip files
 - [koendv/openmv-ide-raspberrypi](https://github.com/koendv/openmv-ide-raspberrypi) - openmv-ide for raspberry pi
@@ -3076,7 +3076,7 @@
 - [urbanadventurer/Android-PIN-Bruteforce](https://github.com/urbanadventurer/Android-PIN-Bruteforce) - Unlock an Android phone (or device) by bruteforcing the lockscreen PIN. Turn your Kali Nethunter phone into a bruteforce PIN cracker for Android devices! (no root, no adb)
 - [Botspot/update-buddy](https://github.com/Botspot/update-buddy) - Automatically check for updates on boot. If there are any, asks permission to upgrade.
 - [Botspot/youtubuddy](https://github.com/Botspot/youtubuddy) - Search/Watch/Download YouTube videos with a lightweight, interactive tool
-- [spectrumgamer75/All-is-well](https://github.com/spectrumgamer75/All-is-well) - This Repository Is The Home Of The "All Is Well" Script And All Things Related To It :blush:
+- [Spectrum75/All-is-well](https://github.com/Spectrum75/All-is-well) - This Repository Is The Home Of The "All Is Well" Script And All Things Related To It :blush:
 - [sakaki-/gentoo-on-rpi-64bit](https://github.com/sakaki-/gentoo-on-rpi-64bit) - Bootable 64-bit Gentoo image for the Raspberry Pi4B,  3B & 3B+, with Linux 5.4, OpenRC, Xfce4, VC4/V3D, camera and h/w codec support, weekly-autobuild binhost
 - [techcoder20/RPIDoom3Installer](https://github.com/techcoder20/RPIDoom3Installer) - This Github Repository contains everything you need for getting Doom3 running on the raspberry pi. Here you will find the install script the uninstall script and the Doom3Demo game files
 - [DeskPi-Team/deskpi](https://github.com/DeskPi-Team/deskpi) - DeskPi Pro is the Ultimate Case Kit for Raspberry Pi 4 with Full Size HDMI/2.5 Hard Disk Support and Safe Power Button, It has QC 3.0 Power Supply inside and New ICE Tower Cooler inside.
