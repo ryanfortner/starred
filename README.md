@@ -43,6 +43,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Just](#just)
 - [Kotlin](#kotlin)
+- [LLVM](#llvm)
 - [Logos](#logos)
 - [Lua](#lua)
 - [M4](#m4)
@@ -643,7 +644,6 @@
 - [codenamecpp/carnage3d](https://github.com/codenamecpp/carnage3d) - Reimplementation of Grand Theft Auto 1 [GTA1]
 - [librerpi/rpi-tools](https://github.com/librerpi/rpi-tools) - 
 - [ValveSoftware/dxvk](https://github.com/ValveSoftware/dxvk) - dxvk tree containing branches used by Proton
-- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [gcc-mirror/gcc](https://github.com/gcc-mirror/gcc) - 
 - [fritzing/fritzing-app](https://github.com/fritzing/fritzing-app) - Fritzing desktop application
 - [gemrb/gemrb](https://github.com/gemrb/gemrb) - GemRB is a portable open-source implementation of Bioware’s Infinity Engine.
@@ -1613,6 +1613,10 @@
 - [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - K-9 Mail – Open Source Email App for Android
 - [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix) - ⚠️ Fenix (Firefox for Android) moved to a new repository. It is now developed and maintained as part of: https://github.com/mozilla-mobile/firefox-android
 
+## LLVM 
+
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+
 ## Logos 
 
 - [khanhduytran0/TrollPad](https://github.com/khanhduytran0/TrollPad) - Troll SpringBoard into thinking it's running on iPadOS
@@ -1959,7 +1963,6 @@
 - [syncthing/discosrv](https://github.com/syncthing/discosrv) - The Syncthing global discovery server
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [numixproject/numix-icon-theme-circle](https://github.com/numixproject/numix-icon-theme-circle) - Linux packaging for Numix Circle
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [madmaxms/iconpack-obsidian](https://github.com/madmaxms/iconpack-obsidian) - Gnome Icon Pack based upon Faenza, optimized for dark themes
 - [shivasiddharth/Stremio-RaspberryPi](https://github.com/shivasiddharth/Stremio-RaspberryPi) - Installer for Stremio on Raspberry Pi
 - [ryanfortner/qemu-arm-builds](https://github.com/ryanfortner/qemu-arm-builds) - qemu debs compiled using qemu2deb, for arm
@@ -2072,6 +2075,7 @@
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 - [obsproject/obs-deps](https://github.com/obsproject/obs-deps) - 
 - [lptstr/winfetch](https://github.com/lptstr/winfetch) - 🛠 A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 
 ## Pug 
 
