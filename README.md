@@ -1910,7 +1910,7 @@
 - [ValveSoftware/steam-for-linux](https://github.com/ValveSoftware/steam-for-linux) - Issue tracking for the Steam for Linux beta client
 - [ryanfortner/freecad-rpi](https://github.com/ryanfortner/freecad-rpi) - FreeCAD compiled as .deb for armhf
 - [hmsjy2017/aliyundrive-webdav-debs](https://github.com/hmsjy2017/aliyundrive-webdav-debs) - 
-- [apple/swift-community-hosted-continuous-integration](https://github.com/apple/swift-community-hosted-continuous-integration) - Swift Community-Hosted Continuous Integration
+- [swiftlang/swift-community-hosted-continuous-integration](https://github.com/swiftlang/swift-community-hosted-continuous-integration) - Swift Community-Hosted Continuous Integration
 - [theofficialgman/meta-multimc](https://github.com/theofficialgman/meta-multimc) - Auto Updating (cross-fingers) for MultiMC Minecraft package metadata for ARM64 and ARMhf Linux. Use the master-clean branch for ARM64 and master-clean-arm32 for ARMhf. A full project description and R
 - [hmsjy2017/debs](https://github.com/hmsjy2017/debs) - 
 - [Wallux-0/Wallpapers](https://github.com/Wallux-0/Wallpapers) - Wallpapers for Wallux
