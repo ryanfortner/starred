@@ -1359,7 +1359,7 @@
 - [FreeTubeApp/freetube-redirect](https://github.com/FreeTubeApp/freetube-redirect) - Browser extension to open YouTube links into FreeTube
 - [khlam/discord-sandboxed](https://github.com/khlam/discord-sandboxed) - Alternative electron-based Discord client with custom telemetry blocker and privacy-focused push-to-talk.
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
-- [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/telnet/serialport/RDP/sftp client(linux, mac, win)
+- [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/telnet/serialport/RDP/VNC/sftp client(linux, mac, win)
 - [Wexagonal/Wexagonal](https://github.com/Wexagonal/Wexagonal) - A Lightweight \ Multi Platform \ Out of The Box hexo backend Manager | 轻量级\多平台\开箱即用的hexo后端管理器
 - [shaack/cookie-consent-js](https://github.com/shaack/cookie-consent-js) - A simple dialog and framework to handle the German and EU law about cookies in a website (December 2021)
 - [emailjs/emailjs-imap-client](https://github.com/emailjs/emailjs-imap-client) - Low-level JS IMAP client for all your IMAP needs.
@@ -2392,7 +2392,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C and C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-580-Stars](https://github.com/iBug/This-Repo-Has-580-Stars) - Yes, it's true :two_hearts: This repository has 580 stars.
+- [iBug/This-Repo-Has-580-Stars](https://github.com/iBug/This-Repo-Has-580-Stars) - Yes, it's true :sparkling_heart: This repository has 580 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -3303,7 +3303,7 @@
 - [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macr
 - [spacebarchat/server](https://github.com/spacebarchat/server) - Spacebar server - A reimplementation of the Discord.com backend, built with Typescript and love
 - [bitwarden/cli](https://github.com/bitwarden/cli) - The command line vault (Windows, macOS, & Linux).
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, Pi 5, any Ubuntu/Debian system, or a VPS.
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
 - [thedaviddelta/lingva-translate](https://github.com/thedaviddelta/lingva-translate) - Alternative front-end for Google Translate
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [AH-dark/UptimePage](https://github.com/AH-dark/UptimePage) - Static Page for UptimeRobot. Powered by Next.js
