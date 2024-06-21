@@ -540,7 +540,7 @@
 - [smartmontools/smartmontools](https://github.com/smartmontools/smartmontools) - Official read only mirror of the smartmontools project SVN
 - [FlightGear/flightgear](https://github.com/FlightGear/flightgear) - Mirror: FlightGear - Open source flight sim
 - [ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) - Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: run open-source LLMs anywhere
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Chat with Local LLMs on Any Device
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [LegacyUpdate/LegacyUpdate](https://github.com/LegacyUpdate/LegacyUpdate) - Get back online, activate, and install updates on your legacy Windows PC
 - [solvespace/solvespace](https://github.com/solvespace/solvespace) - Parametric 2d/3d CAD
@@ -741,7 +741,7 @@
 - [MaurycyLiebner/enve](https://github.com/MaurycyLiebner/enve) - Flexible, user expandable 2D animation software for Linux and Windows.
 - [JoseExposito/touchegg](https://github.com/JoseExposito/touchegg) - Linux multi-touch gesture recognizer
 - [raspberrypi/piserver](https://github.com/raspberrypi/piserver) - Raspberry Pi Server wizard to serve Raspbian to network booting Pis
-- [apple/swift](https://github.com/apple/swift) - The Swift Programming Language
+- [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
 - [jk-gan/ADM](https://github.com/jk-gan/ADM) - Aria2 Download Manager
 - [NoozAbooz/bongocat-osu](https://github.com/NoozAbooz/bongocat-osu) - Fork of https://github.com/kuroni/bongocat-osu for Raspberry Pi.
 - [supertuxkart/stk-code](https://github.com/supertuxkart/stk-code) - The code base of supertuxkart
@@ -1015,6 +1015,7 @@
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [yippiez/go-miner](https://github.com/yippiez/go-miner) - a miner made in golang.
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Go implementation of the Ethereum protocol
 - [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - Open Policy Agent (OPA) is an open source, general-purpose policy engine.
 - [rsc/web](https://github.com/rsc/web) - basic web site serving framework
@@ -1770,6 +1771,7 @@
 - [fifonik/FFMetrics](https://github.com/fifonik/FFMetrics) - Visualizes Video Quality Metrics (PSNR, SSIM & VMAF) calculated by ffmpeg.exe
 - [zhuxinlang/xinaA12](https://github.com/zhuxinlang/xinaA12) - 
 - [jacksight/xina520_official_jailbreak](https://github.com/jacksight/xina520_official_jailbreak) - This is the official download website for xina520's jailbreak
+- [github/mona-sans](https://github.com/github/mona-sans) - Mona Sans, a variable font from GitHub
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [nikp123/ntfs-rootfs](https://github.com/nikp123/ntfs-rootfs) - A guide on how to use NTFS as the root filesystem on Linux or possibly any other UNIX OS.
 - [dortania/macOS-VMware-Guide](https://github.com/dortania/macOS-VMware-Guide) - Guide on making a AMD macOS virtual machine in VMware Player/Workstation
@@ -2278,7 +2280,7 @@
 - [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Python GUIs for Humans! PySimpleGUI is the top-rated Python application development environment. Launched in 2018 and actively developed, maintained, and supported in 2024. Transforms tkinter, Qt, WxP
 - [jlu5/icoextract](https://github.com/jlu5/icoextract) - Extract icons from Windows PE files (.exe/.dll)
 - [PlayOnLinux/POL-POM-4](https://github.com/PlayOnLinux/POL-POM-4) - PlayOnLinux 4 repository
-- [natorsc/python-gtk-pygobject](https://github.com/natorsc/python-gtk-pygobject) - Repositório criado para centralizar dicas, tutoriais e exemplos de código sobre a construção de interfaces gráficas com a linguagem de programação Python (PyGObject) e o tookit gráfico GTK.
+- [natorsc/python-gtk-pygobject](https://github.com/natorsc/python-gtk-pygobject) - Repository created to centralize tips, tutorials and code examples on building graphical interfaces with the Python programming language (PyGObject) and the GTK graphics tookit.
 - [simons-public/protonfixes](https://github.com/simons-public/protonfixes) - A module for applying fixes at runtime to unsupported games with Steam Proton without changing game installation files
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
@@ -2683,7 +2685,6 @@
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
 - [palera1n/ramdisk](https://github.com/palera1n/ramdisk) - SSHRD_Script adapted for palera1n
 - [butterfly-garden/ubuntu-butterfly-settings](https://github.com/butterfly-garden/ubuntu-butterfly-settings) - Ubuntu Butterfly default settings 🎛
-- [github/mona-sans](https://github.com/github/mona-sans) - Mona Sans, a variable font from GitHub
 - [DesktopContainers/base-debian](https://github.com/DesktopContainers/base-debian) - base image for Desktop / X11 Applications (ssh X11, vnc, http/https novnc) on debian [x86 + arm]
 - [mrbvrz/segoe-ui-linux](https://github.com/mrbvrz/segoe-ui-linux) - :monkey: Install segoe-ui font on linux (ubuntu)
 - [Dunedan/mbp-2016-linux](https://github.com/Dunedan/mbp-2016-linux) - State of Linux on the MacBook Pro 2016 & 2017
@@ -3289,7 +3290,6 @@
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [timche/gmail-desktop](https://github.com/timche/gmail-desktop) - :postbox: Nifty Gmail desktop app for macOS, Linux & Windows
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [arduino/arduino-ide](https://github.com/arduino/arduino-ide) - Arduino IDE 2.x
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and analytics tool you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
