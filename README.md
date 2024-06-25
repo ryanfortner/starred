@@ -3221,7 +3221,7 @@
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 - [rospino74/Quizlet-Bypass](https://github.com/rospino74/Quizlet-Bypass) - WebExtension to bypass Quizlet paywall
 - [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
-- [enmity-mod/enmity](https://github.com/enmity-mod/enmity) - The power of addons, all in your hand.
+- [enmity-mod/enmity](https://github.com/enmity-mod/enmity) - 🧩 The power of addons, all in your hand.
 - [dclstn/better-snapchat](https://github.com/dclstn/better-snapchat) - This browser extension enhances your web.snapchat.com experience by adding several essential privacy features.
 - [anaclumos/bing-chat-for-all-browsers](https://github.com/anaclumos/bing-chat-for-all-browsers) - Enable Bing ChatGPT on Chrome and Firefox
 - [rhysmorgan134/node-CarPlay](https://github.com/rhysmorgan134/node-CarPlay) - 
