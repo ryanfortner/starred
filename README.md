@@ -2096,7 +2096,7 @@
 - [eatingurtoes/g1lbertCFW](https://github.com/eatingurtoes/g1lbertCFW) - The first untethered jailbreak for all versions of iOS 5.
 - [NightmareAI/Real-ESRGAN](https://github.com/NightmareAI/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 - [timsutton/brigadier](https://github.com/timsutton/brigadier) - Fetch and install Boot Camp ESDs with ease.
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [meta-llama/llama](https://github.com/meta-llama/llama) - Inference code for Llama models
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -2393,7 +2393,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C and C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-581-Stars](https://github.com/iBug/This-Repo-Has-581-Stars) - Yes, it's true :heartpulse: This repository has 581 stars.
+- [iBug/This-Repo-Has-581-Stars](https://github.com/iBug/This-Repo-Has-581-Stars) - Yes, it's true :two_hearts: This repository has 581 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
