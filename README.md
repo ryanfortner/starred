@@ -159,7 +159,6 @@
 - [staturnzz/socket](https://github.com/staturnzz/socket) - iOS 10.x Jailbreak for 32bit Devices
 - [j4nf4b3l/MDMPatcher-Universal](https://github.com/j4nf4b3l/MDMPatcher-Universal) - MDM patch *should* working on iOS 15+...
 - [Ralim/IronOS](https://github.com/Ralim/IronOS) - Open Source Soldering Iron firmware
-- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [synackuk/n1ghtshade](https://github.com/synackuk/n1ghtshade) - A bootchain jailbreak/downgrade utility for 32 bit iOS devices.
 - [zhovner/OneFileLinux](https://github.com/zhovner/OneFileLinux) - Live linux distro combined in one ~20MB file. Runs on any UEFI computer.
 - [stacksmashing/tamarin-firmware](https://github.com/stacksmashing/tamarin-firmware) - 
@@ -544,6 +543,7 @@
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [LegacyUpdate/LegacyUpdate](https://github.com/LegacyUpdate/LegacyUpdate) - Get back online, activate, and install updates on your legacy Windows PC
 - [solvespace/solvespace](https://github.com/solvespace/solvespace) - Parametric 2d/3d CAD
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [msftguy/ssh-rd](https://github.com/msftguy/ssh-rd) - 
 - [nezza/SDQAnalyzer](https://github.com/nezza/SDQAnalyzer) - A Saleae analyzer plugin for the SDQ (Apple Lightning, MagSafe, Battery) protocol.
 - [rikyoz/MrHash](https://github.com/rikyoz/MrHash) - A cross-platform tool for calculating the hashes of files and plain texts.
