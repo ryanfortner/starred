@@ -2968,7 +2968,7 @@
 - [junaidrahim/conky-clock](https://github.com/junaidrahim/conky-clock) - Just a simple conky clock
 - [pystardust/ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
 - [GreenRaccoon23/archdroid-icon-theme](https://github.com/GreenRaccoon23/archdroid-icon-theme) - Port of Google's material design icons for Android Lollipop+ to Linux (and influenced by Ubuntu Mono, Mint-X, and Numix).
-- [vinceliuice/vimix-icon-theme](https://github.com/vinceliuice/vimix-icon-theme) - vimix-icon-theme
+- [vinceliuice/Vimix-icon-theme](https://github.com/vinceliuice/Vimix-icon-theme) - Vimix icon theme for linux desktops
 - [P3rf/rofi-network-manager](https://github.com/P3rf/rofi-network-manager) - A manager for network connections using bash, rofi, nmcli,qrencode.
 - [torralbaalla/rpi-debs](https://github.com/torralbaalla/rpi-debs) - Debian APT repo for misc packages not yet available in Raspberry Pi OS.
 - [hmsjy2017/n-debs](https://github.com/hmsjy2017/n-debs) - 
