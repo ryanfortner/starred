@@ -1148,7 +1148,6 @@
 - [marchof/java-almanac](https://github.com/marchof/java-almanac) - The history and future of Java.
 - [whatwg/html](https://github.com/whatwg/html) - HTML Standard
 - [revoxhere/duco-exchange](https://github.com/revoxhere/duco-exchange) - 💱 Source of the easy to use static coin exchange service - DUCO Exchange
-- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [mesh0000/poolui](https://github.com/mesh0000/poolui) - User interface based on Monero Pool API developed by Snipa - https://github.com/Snipa22/nodejs-pool
 - [sproogen/modern-resume-theme](https://github.com/sproogen/modern-resume-theme) - A modern static resume template and theme. Powered by Jekyll and GitHub pages.
 - [flexdinesh/dev-landing-page](https://github.com/flexdinesh/dev-landing-page) - Minimal landing page for developers
@@ -2588,6 +2587,7 @@
 - [cloudhead/rx](https://github.com/cloudhead/rx) - 👾 Modern and minimalist pixel editor
 - [lupyuen/pinetime-watchface](https://github.com/lupyuen/pinetime-watchface) - Watch Face Framework for Rust + Mynewt on PineTime Smart Watch
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
+- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [naaive/orange](https://github.com/naaive/orange) - Cross-platform local file search engine.
 - [Brooooooklyn/simple-git](https://github.com/Brooooooklyn/simple-git) - Simple and fast git helper functions.
 - [sekey/sekey](https://github.com/sekey/sekey) - Use Touch ID / Secure Enclave for SSH Authentication!
