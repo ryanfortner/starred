@@ -148,7 +148,7 @@
 - [AppInstalleriOSGH/KFD-Offsets](https://github.com/AppInstalleriOSGH/KFD-Offsets) - Should be every offset for the KFD exploit on all A12+ devices. No M1
 - [GenericCoding/kfd](https://github.com/GenericCoding/kfd) - kfd, short for kernel file descriptor, is a project to read and write kernel memory on Apple devices.
 - [felix-pb/kfd](https://github.com/felix-pb/kfd) - kfd, short for kernel file descriptor, is a project to read and write kernel memory on Apple devices.
-- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written mostly in C.
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - An actively maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [alerighi/tetris](https://github.com/alerighi/tetris) - Console tetris game in C
 - [LinusHenze/Fugu](https://github.com/LinusHenze/Fugu) - Fugu is the first open source jailbreak based on the checkm8 exploit
 - [apple-oss-distributions/xnu](https://github.com/apple-oss-distributions/xnu) - 
