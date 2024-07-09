@@ -1998,7 +1998,6 @@
 - [Botspot/pi-apps-announcements](https://github.com/Botspot/pi-apps-announcements) - 
 - [worproject/RPi-Windows-Drivers](https://github.com/worproject/RPi-Windows-Drivers) - Windows on ARM device drivers for the Raspberry Pi single-board computer.
 - [PiSugar/PiSugar](https://github.com/PiSugar/PiSugar) - PiSugar is a battery module for Raspberry Pi zero / zero W / zero WH
-- [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
 - [geerlingguy/pi-webcam](https://github.com/geerlingguy/pi-webcam) - Automation to configure a Raspberry Pi as a USB OTG webcam
 - [Botspot/chromium-v84-widevine](https://github.com/Botspot/chromium-v84-widevine) - 
 - [daniruiz/flat-remix](https://github.com/daniruiz/flat-remix) - Flat Remix is an icon theme inspired by material design. It is mostly flat using a colorful palette with some shadows, highlights, and gradients for some depth.
@@ -3091,6 +3090,7 @@
 - [Botspot/update-buddy](https://github.com/Botspot/update-buddy) - Automatically check for updates on boot. If there are any, asks permission to upgrade.
 - [Botspot/youtubuddy](https://github.com/Botspot/youtubuddy) - Search/Watch/Download YouTube videos with a lightweight, interactive tool
 - [Spectrum75/All-is-well](https://github.com/Spectrum75/All-is-well) - This Repository Is The Home Of The "All Is Well" Script And All Things Related To It :blush:
+- [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
 - [sakaki-/gentoo-on-rpi-64bit](https://github.com/sakaki-/gentoo-on-rpi-64bit) - Bootable 64-bit Gentoo image for the Raspberry Pi4B,  3B & 3B+, with Linux 5.4, OpenRC, Xfce4, VC4/V3D, camera and h/w codec support, weekly-autobuild binhost
 - [techcoder20/RPIDoom3Installer](https://github.com/techcoder20/RPIDoom3Installer) - This Github Repository contains everything you need for getting Doom3 running on the raspberry pi. Here you will find the install script the uninstall script and the Doom3Demo game files
 - [DeskPi-Team/deskpi](https://github.com/DeskPi-Team/deskpi) - DeskPi Pro is the Ultimate Case Kit for Raspberry Pi 4 with Full Size HDMI/2.5 Hard Disk Support and Safe Power Button, It has QC 3.0 Power Supply inside and New ICE Tower Cooler inside.
@@ -3205,7 +3205,7 @@
 - [toothbrush/Spotiqueue](https://github.com/toothbrush/Spotiqueue) - Dead-simple queue-oriented client for Spotify
 - [InfiniTimeOrg/InfiniLink](https://github.com/InfiniTimeOrg/InfiniLink) - The official iOS companion app for InfiniTime
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
-- [apple/swift-markdown](https://github.com/apple/swift-markdown) - A Swift package for parsing, building, editing, and analyzing Markdown documents.
+- [swiftlang/swift-markdown](https://github.com/swiftlang/swift-markdown) - A Swift package for parsing, building, editing, and analyzing Markdown documents.
 - [mymonero/mymonero-app-ios](https://github.com/mymonero/mymonero-app-ios) - The MyMonero native iOS app
 - [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
@@ -3275,7 +3275,7 @@
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [google/wireit](https://github.com/google/wireit) - Wireit upgrades your npm/pnpm/yarn scripts to make them smarter and more efficient.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-- [certd/certd](https://github.com/certd/certd) - 免费通配符域名SSL证书全自动申请、续期、部署，支持部署到阿里云、腾讯云、ssh主机。Automatically apply, renew and deploy free Generic domain SSL Certificates。
+- [certd/certd](https://github.com/certd/certd) - 免费通配符域名SSL证书全自动申请、更新、续期、部署安装，支持部署到阿里云、腾讯云、ssh主机。Automatically apply, renew and deploy free Generic domain SSL Certificates。
 - [rejetto/hfs](https://github.com/rejetto/hfs) - HFS is a web file server to run on your computer. Share folders or even a single file thanks to the virtual file system.
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
@@ -3358,7 +3358,7 @@
 - [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [balena-io-experimental/balena-sound](https://github.com/balena-io-experimental/balena-sound) - Build a single or multi-room streamer for an existing audio device using a Raspberry Pi! Supports Bluetooth, Airplay and Spotify Connect
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
 - [PreMiD/Linux](https://github.com/PreMiD/Linux) - 🐧 Linux-optimized repository.
