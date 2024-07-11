@@ -30,6 +30,7 @@
 - [Elixir](#elixir)
 - [Elm](#elm)
 - [Emacs Lisp](#emacs-lisp)
+- [Fluent](#fluent)
 - [GLSL](#glsl)
 - [Go](#go)
 - [HTML](#html)
@@ -940,6 +941,10 @@
 
 - [dungeon-mode/game](https://github.com/dungeon-mode/game) - Create free (as in freedom) RPGs with GNU Emacs. And then play them.
 
+## Fluent 
+
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
+
 ## GLSL 
 
 - [PalaceInteractive/PalaceResourcePack](https://github.com/PalaceInteractive/PalaceResourcePack) - Palace Network Resource Pack - Main
@@ -1173,7 +1178,6 @@
 - [raspbian-addons/docs](https://github.com/raspbian-addons/docs) - Raspbian Addons project documentation
 - [jamesjohnson280/hello-pwa](https://github.com/jamesjohnson280/hello-pwa) - The classic Hello World program as a Progressive Web App
 - [titaniumnetwork-dev/Incognito-old](https://github.com/titaniumnetwork-dev/Incognito-old) - Access the world wide web with Incognito, a fast and rather fancy proxy service. Enjoy a more private internet session without ads.
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [QuiteAFancyEmerald/Holy-Unblocker](https://github.com/QuiteAFancyEmerald/Holy-Unblocker) - Holy Unblocker is a web proxy service that helps you access websites that may be blocked by your network or browser. It does this securely and with additional features. This repository is for Holy Unb
 - [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
 - [Itai-Nelken/itai-nelken.github.io](https://github.com/Itai-Nelken/itai-nelken.github.io) - My website.
@@ -1433,7 +1437,6 @@
 - [electron/update.electronjs.org](https://github.com/electron/update.electronjs.org) - 📡 A free service that makes it easy for open-source Electron apps to update themselves.
 - [actions/upload-release-asset](https://github.com/actions/upload-release-asset) - An Action to upload a release asset via the GitHub Release API
 - [miraclx/freyr-js](https://github.com/miraclx/freyr-js) - A tool for downloading songs from music streaming services like Spotify and Apple Music.
-- [evilsocket/pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 - [ABSphreak/readme-jokes](https://github.com/ABSphreak/readme-jokes) - 😄 Jokes for your GitHub READMEs
 - [Boatkungg/DUCO-dashboard-widget-for-iOS](https://github.com/Boatkungg/DUCO-dashboard-widget-for-iOS) - A duino-coin dashboard for iOS using scriptable app
 - [nschloe/stackoverflow-card](https://github.com/nschloe/stackoverflow-card) - 
@@ -2303,6 +2306,7 @@
 - [splitbrain/pimenu](https://github.com/splitbrain/pimenu) - Simple fullscreen menu system for Raspberry Pi Touchscreen
 - [lovesegfault/beautysh](https://github.com/lovesegfault/beautysh) - A Bash beautifier for the masses.
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
+- [evilsocket/pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 - [catppuccin/gtk](https://github.com/catppuccin/gtk) - 🪟 Soothing pastel theme for GTK3/4
 - [LiterallyLarry/USPS-Tracking-Python](https://github.com/LiterallyLarry/USPS-Tracking-Python) - Command line utility to track your packages using the USPS Track Request API.
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
