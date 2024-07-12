@@ -131,6 +131,7 @@
 
 ## C 
 
+- [labwc/labwc](https://github.com/labwc/labwc) - A Wayland window-stacking compositor
 - [pcawte/AgDev](https://github.com/pcawte/AgDev) - Port to Agon Light of TI-84-CE C/C++ Toolchain which uses LLVM and generates eZ80 ADL code
 - [nathanfarlow/PineappleCAS](https://github.com/nathanfarlow/PineappleCAS) - A generic computer algebra system targeted for the TI-84+ CE calculators
 - [sourcelocation/Picasso-v3](https://github.com/sourcelocation/Picasso-v3) - Customization. Beyond. A Jailed toolbox application for ALL arm64e iPhones runnning iOS 15.0 - 15.7.1, 16.0 - 16.5, 16.6b1 using KFD exploit and TrollStore 2.
@@ -1178,7 +1179,7 @@
 - [raspbian-addons/docs](https://github.com/raspbian-addons/docs) - Raspbian Addons project documentation
 - [jamesjohnson280/hello-pwa](https://github.com/jamesjohnson280/hello-pwa) - The classic Hello World program as a Progressive Web App
 - [titaniumnetwork-dev/Incognito-old](https://github.com/titaniumnetwork-dev/Incognito-old) - Access the world wide web with Incognito, a fast and rather fancy proxy service. Enjoy a more private internet session without ads.
-- [QuiteAFancyEmerald/Holy-Unblocker](https://github.com/QuiteAFancyEmerald/Holy-Unblocker) - Holy Unblocker is a web proxy service that helps you access websites that may be blocked by your network or browser. It does this securely and with additional features. This repository is for Holy Unb
+- [QuiteAFancyEmerald/Holy-Unblocker](https://github.com/QuiteAFancyEmerald/Holy-Unblocker) - Holy Unblocker LTS is a web proxy service that helps you access websites that may be blocked by your network or browser. It does this securely and with additional features. This repository is for Holy
 - [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
 - [Itai-Nelken/itai-nelken.github.io](https://github.com/Itai-Nelken/itai-nelken.github.io) - My website.
 - [Itai-Nelken/Webcord_debian-repo](https://github.com/Itai-Nelken/Webcord_debian-repo) - unofficial repo for electron-discord-webapp (https://github.com/SpacingBat3/WebCord) by @SpacingBat3
