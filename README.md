@@ -1280,6 +1280,7 @@
 
 ## JavaScript 
 
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
 - [Avangelista/CarTube](https://github.com/Avangelista/CarTube) - YouTube on CarPlay, supports devices iOS 14.0 - 15.4.1.
 - [Timendus/ticalc-usb](https://github.com/Timendus/ticalc-usb) - A library to communicate with TI graphing calculators through WebUSB
@@ -1750,6 +1751,7 @@
 
 ## Others 
 
+- [MobiusSync/MobiusSync](https://github.com/MobiusSync/MobiusSync) - Syncthing for iOS
 - [darkninja13/gsxlib](https://github.com/darkninja13/gsxlib) - A PHP library for communicating with Apple's GSX web service API
 - [nathanbuchar/atom-one-dark-terminal](https://github.com/nathanbuchar/atom-one-dark-terminal) - A Terminal theme that mimics the One Dark theme made by the Atom team.
 - [Feodor2/Mypal68](https://github.com/Feodor2/Mypal68) - web browser
