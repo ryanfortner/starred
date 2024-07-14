@@ -2206,7 +2206,7 @@
 - [googlefonts/noto-emoji](https://github.com/googlefonts/noto-emoji) - Noto Emoji fonts
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [pytest-dev/pytest-qt](https://github.com/pytest-dev/pytest-qt) - pytest plugin for Qt (PyQt5/PyQt6 and PySide2/PySide6) application testing
-- [gavinlyonsrepo/RpiMotorLib](https://github.com/gavinlyonsrepo/RpiMotorLib) - A python 3 library to connect various motor systems to a raspberry pi single board computer
+- [gavinlyonsrepo/RpiMotorLib](https://github.com/gavinlyonsrepo/RpiMotorLib) - A python 3 library to connect various motor systems to a Raspberry pi single board computer
 - [Pylons/waitress](https://github.com/Pylons/waitress) - Waitress - A WSGI server for Python 3
 - [benoitc/gunicorn](https://github.com/benoitc/gunicorn) - gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.
 - [vaultah/replicat](https://github.com/vaultah/replicat) - Configurable and lightweight backup utility with deduplication and encryption
