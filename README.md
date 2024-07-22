@@ -533,6 +533,7 @@
 - [DescentDevelopers/Descent3](https://github.com/DescentDevelopers/Descent3) - Descent 3 by Outrage Entertainment
 - [gazebosim/gz-sim](https://github.com/gazebosim/gz-sim) - Open source robotics simulator. The latest version of Gazebo.
 - [gazebosim/gazebo-classic](https://github.com/gazebosim/gazebo-classic) - Gazebo classic. For the latest version, see https://github.com/gazebosim/gz-sim
+- [Feodor2/Mypal68](https://github.com/Feodor2/Mypal68) - web browser
 - [pia-foss/desktop](https://github.com/pia-foss/desktop) - Private Internet Access - Desktop VPN Client for Windows/macOS/Linux
 - [wpilibsuite/allwpilib](https://github.com/wpilibsuite/allwpilib) - Official Repository of WPILibJ and WPILibC
 - [KDE/latte-dock](https://github.com/KDE/latte-dock) - Replacement dock for Plasma desktops, providing an elegant and intuitive experience for your tasks and plasmoids
@@ -571,7 +572,7 @@
 - [riverar/mach2](https://github.com/riverar/mach2) - Windows Feature Control Multi-tool
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [LMMS/lmms](https://github.com/LMMS/lmms) - Cross-platform music production software
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your sp
 - [love2d/love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
 - [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
@@ -1757,7 +1758,6 @@
 - [MobiusSync/MobiusSync](https://github.com/MobiusSync/MobiusSync) - Syncthing for iOS
 - [darkninja13/gsxlib](https://github.com/darkninja13/gsxlib) - A PHP library for communicating with Apple's GSX web service API
 - [nathanbuchar/atom-one-dark-terminal](https://github.com/nathanbuchar/atom-one-dark-terminal) - A Terminal theme that mimics the One Dark theme made by the Atom team.
-- [Feodor2/Mypal68](https://github.com/Feodor2/Mypal68) - web browser
 - [samuellihn/ACSL-Problems-Resources](https://github.com/samuellihn/ACSL-Problems-Resources) - 
 - [jlumbroso/free-disk-space](https://github.com/jlumbroso/free-disk-space) - :octocat:⚙️🗑️ A GitHub Action to free disk space on an Ubuntu runner.
 - [Gcenx/macOS_Wine_builds](https://github.com/Gcenx/macOS_Wine_builds) - Official Winehq macOS Packages
@@ -3231,7 +3231,7 @@
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 - [rospino74/Quizlet-Bypass](https://github.com/rospino74/Quizlet-Bypass) - WebExtension to bypass Quizlet paywall
 - [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
-- [enmity-mod/enmity](https://github.com/enmity-mod/enmity) - 🧩 The power of addons, all in your hand.
+- [enmity-mod/enmity](https://github.com/enmity-mod/enmity) - 🧩 The power of addons, all in your hand. Built on top of @discord.
 - [dclstn/better-snapchat](https://github.com/dclstn/better-snapchat) - This browser extension enhances your web.snapchat.com experience by adding several essential privacy features.
 - [anaclumos/bing-chat-for-all-browsers](https://github.com/anaclumos/bing-chat-for-all-browsers) - Enable Bing ChatGPT on Chrome and Firefox
 - [rhysmorgan134/node-CarPlay](https://github.com/rhysmorgan134/node-CarPlay) - 
