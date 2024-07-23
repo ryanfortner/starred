@@ -146,7 +146,6 @@
 - [roothide/Dopamine-roothide](https://github.com/roothide/Dopamine-roothide) - RootHide implementation based on Dopamine Jailbreak.
 - [leminlimez/Cluckabunga](https://github.com/leminlimez/Cluckabunga) - KFD Customization Tool for iOS 16.0-16.6b1
 - [Lrdsnow/kfd_offsets](https://github.com/Lrdsnow/kfd_offsets) - Offsets for KFD
-- [AppInstalleriOSGH/KFD-Offsets](https://github.com/AppInstalleriOSGH/KFD-Offsets) - Should be every offset for the KFD exploit on all A12+ devices. No M1
 - [GenericCoding/kfd](https://github.com/GenericCoding/kfd) - kfd, short for kernel file descriptor, is a project to read and write kernel memory on Apple devices.
 - [felix-pb/kfd](https://github.com/felix-pb/kfd) - kfd, short for kernel file descriptor, is a project to read and write kernel memory on Apple devices.
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - An actively maintained, feature-rich and performance oriented, neofetch like system information tool.
