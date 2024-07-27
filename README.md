@@ -2407,7 +2407,7 @@
 - [KanoComputing/kano-updater](https://github.com/KanoComputing/kano-updater) - 
 - [dbisu/pico-ducky](https://github.com/dbisu/pico-ducky) - Create a USB Rubber Ducky like device using a Raspberry PI Pico
 - [SimplyPrint/OctoPrint-Creality2xTemperatureReportingFix](https://github.com/SimplyPrint/OctoPrint-Creality2xTemperatureReportingFix) - Fixes the temperature reporting from the Creality Ender-3 v2 printer
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars.
 - [kovidgoyal/kitty-themes](https://github.com/kovidgoyal/kitty-themes) - Themes for the kitty terminal emulator
 - [lord63/tldr.py](https://github.com/lord63/tldr.py) - A python client for tldr: simplified and community-driven man pages.
 - [Taiko2k/Tauon](https://github.com/Taiko2k/Tauon) - The music player of today! :city_sunrise:
