@@ -1762,7 +1762,7 @@
 - [jlumbroso/free-disk-space](https://github.com/jlumbroso/free-disk-space) - :octocat:⚙️🗑️ A GitHub Action to free disk space on an Ubuntu runner.
 - [Gcenx/macOS_Wine_builds](https://github.com/Gcenx/macOS_Wine_builds) - Official Winehq macOS Packages
 - [Futur3Sn0w/maccard](https://github.com/Futur3Sn0w/maccard) - A simple companion for navigating and using your Mac.
-- [Gcenx/WineskinServer](https://github.com/Gcenx/WineskinServer) - Wineskin
+- [The-Wineskin-Project/WineskinServer](https://github.com/The-Wineskin-Project/WineskinServer) - Wineskin
 - [googlecreativelab/quickdraw-dataset](https://github.com/googlecreativelab/quickdraw-dataset) - Documentation on how to access and use the Quick, Draw! Dataset.
 - [torproject/tor](https://github.com/torproject/tor) - unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --
 - [rtanderson2/quadra-octoprint](https://github.com/rtanderson2/quadra-octoprint) - Instructions for manually installing OctoPrint on an Inovato Quadra.
@@ -2399,7 +2399,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C and C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-584-Stars](https://github.com/iBug/This-Repo-Has-584-Stars) - Yes, it's true :heartbeat: This repository has 584 stars.
+- [iBug/This-Repo-Has-584-Stars](https://github.com/iBug/This-Repo-Has-584-Stars) - Yes, it's true :purple_heart: This repository has 584 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
