@@ -1016,7 +1016,7 @@
 - [helm/charts](https://github.com/helm/charts) - ⚠️(OBSOLETE) Curated applications for Kubernetes
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
-- [arduino/arduino-create-agent](https://github.com/arduino/arduino-create-agent) - The Arduino Create Agent
+- [arduino/arduino-create-agent](https://github.com/arduino/arduino-create-agent) - Arduino Cloud Agent
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
