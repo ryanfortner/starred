@@ -283,7 +283,7 @@
 - [bosmoment/PineTime-apps](https://github.com/bosmoment/PineTime-apps) - Firmware for the PineTime based on RIOT, NimBLE and LittleVGL
 - [abhayanigam/Learn_C](https://github.com/abhayanigam/Learn_C) - Introduction in C language and all basic codes.
 - [m-pays/m-cpuminer-v2](https://github.com/m-pays/m-cpuminer-v2) - Latest miner (m-minerd)
-- [torralbaalla/n2vm](https://github.com/torralbaalla/n2vm) - No Name Virtual Machine.
+- [torralbaa/n2vm](https://github.com/torralbaa/n2vm) - No Name Virtual Machine.
 - [jhhoward/Ardutosh](https://github.com/jhhoward/Ardutosh) - Classic Macintosh style desktop environment for Arduboy
 - [gl-inet/openwrt](https://github.com/gl-inet/openwrt) - This repository is fork from openwrt official repo, we will update the latest tag and release GL.iNet firmware based on it.
 - [kilograham/rp2040-doom](https://github.com/kilograham/rp2040-doom) - Fully-featured Doom port for the Raspberry Pi RP2040 microcontroller
@@ -2975,7 +2975,7 @@
 - [GreenRaccoon23/archdroid-icon-theme](https://github.com/GreenRaccoon23/archdroid-icon-theme) - Port of Google's material design icons for Android Lollipop+ to Linux (and influenced by Ubuntu Mono, Mint-X, and Numix).
 - [vinceliuice/Vimix-icon-theme](https://github.com/vinceliuice/Vimix-icon-theme) - Vimix icon theme for linux desktops
 - [P3rf/rofi-network-manager](https://github.com/P3rf/rofi-network-manager) - A manager for network connections using bash, rofi, nmcli,qrencode.
-- [torralbaalla/rpi-debs](https://github.com/torralbaalla/rpi-debs) - Debian APT repo for misc packages not yet available in Raspberry Pi OS.
+- [torralbaa/rpi-debs](https://github.com/torralbaa/rpi-debs) - Debian APT repo for misc packages not yet available in Raspberry Pi OS.
 - [hmsjy2017/n-debs](https://github.com/hmsjy2017/n-debs) - 
 - [CleanMachine1/Various-Scripts](https://github.com/CleanMachine1/Various-Scripts) - Different random scripts I use
 - [coslyk/debianopt-repo](https://github.com/coslyk/debianopt-repo) - Additional debian repository for awesome open-source projects.
@@ -3256,7 +3256,7 @@
 - [airmessage/airmessage-web](https://github.com/airmessage/airmessage-web) - AirMessage for the web
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 - [pl4nty/spotify-public-likes](https://github.com/pl4nty/spotify-public-likes) - Sync your liked songs to a public Spotify playlist
-- [pd4d10/hashmd](https://github.com/pd4d10/hashmd) - Hackable Markdown Editor and Viewer
+- [pd4d10/hashmd](https://github.com/pd4d10/hashmd) - Hackable Markdown Editor and Viewer (WIP)
 - [SpacingBat3/ReForged](https://github.com/SpacingBat3/ReForged) - A set of :electron: Electron Forge tools, makers and publishers.
 - [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
 - [plibither8/gh-followers-tracker](https://github.com/plibither8/gh-followers-tracker) - :octocat: Tracking my GitHub following and un-following with notifications on Telegram (why not lol)
