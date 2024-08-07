@@ -1934,7 +1934,6 @@
 - [hmsjy2017/transfer-debs](https://github.com/hmsjy2017/transfer-debs) - 
 - [Pi-Apps-Coders/docs](https://github.com/Pi-Apps-Coders/docs) - [wip] documentation website for pi-apps
 - [hmsjy2017/raspbian-addons-docs-test](https://github.com/hmsjy2017/raspbian-addons-docs-test) - 
-- [BrowserWorks/Waterfox](https://github.com/BrowserWorks/Waterfox) - The official Waterfox 💧 source code repository
 - [Pi-Apps-Coders/files](https://github.com/Pi-Apps-Coders/files) - 
 - [ryanfortner/hmsjy2017](https://github.com/ryanfortner/hmsjy2017) - 
 - [ryanfortner/exagear-rpi](https://github.com/ryanfortner/exagear-rpi) - installing Exagear Desktop on the newer Raspberry Pies
@@ -2041,6 +2040,7 @@
 - [linuxserver/Heimdall-Apps](https://github.com/linuxserver/Heimdall-Apps) - Apps for Heimdall
 - [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
+- [BrowserWorks/Waterfox](https://github.com/BrowserWorks/Waterfox) - The official Waterfox 💧 source code repository
 - [jacklul/pihole-updatelists](https://github.com/jacklul/pihole-updatelists) - Update Pi-hole's lists from remote sources easily
 - [norcross/airplane-mode](https://github.com/norcross/airplane-mode) - Disables external data calls and loading for working on a purely local (i.e. no internet connection) WordPress site
 - [bradp/disable-telemetry](https://github.com/bradp/disable-telemetry) - 🛑️ A WordPress plugin to disable all HTTP requests to api.wordpress.org.
