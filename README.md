@@ -550,7 +550,6 @@
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [msftguy/ssh-rd](https://github.com/msftguy/ssh-rd) - 
 - [nezza/SDQAnalyzer](https://github.com/nezza/SDQAnalyzer) - A Saleae analyzer plugin for the SDQ (Apple Lightning, MagSafe, Battery) protocol.
-- [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [rikyoz/MrHash](https://github.com/rikyoz/MrHash) - A cross-platform tool for calculating the hashes of files and plain texts.
 - [leozide/leocad](https://github.com/leozide/leocad) - A CAD application for creating virtual LEGO models
 - [tihmstar/usbmuxd2](https://github.com/tihmstar/usbmuxd2) - A socket daemon written in C++ to multiplex connections from and to iOS devices over USB and WIFI
@@ -1303,6 +1302,7 @@
 - [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
 - [SpecifiesDev/snapchat-electron](https://github.com/SpecifiesDev/snapchat-electron) - A desktop application for snapchat's web portal.
 - [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - Privacy-focused encrypted email for everyone.
+- [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [dbader/large-type.com](https://github.com/dbader/large-type.com) - Display & share text in a large font, directly from your browser
 - [vercel/hyperpower](https://github.com/vercel/hyperpower) - Hyper particle effects extension
 - [powercord-org/powercord](https://github.com/powercord-org/powercord) - A lightweight @discord client mod focused on simplicity and performance.
