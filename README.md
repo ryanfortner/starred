@@ -2198,7 +2198,7 @@
 - [fedora-infra/fedora-messaging](https://github.com/fedora-infra/fedora-messaging) - A library for sending AMQP messages with JSON schema in Fedora infrastructure
 - [codespell-project/codespell](https://github.com/codespell-project/codespell) - check code for common misspellings
 - [mandarons/icloudpy](https://github.com/mandarons/icloudpy) - iCloud web service interface library in Python
-- [mandarons/icloud-drive-docker](https://github.com/mandarons/icloud-drive-docker) - Dockerized iCloud Client - make a local copy of your iCloud documents and photos, and keep it automatically up-to-date.
+- [mandarons/icloud-docker](https://github.com/mandarons/icloud-docker) - Dockerized iCloud Client - make a local copy of your iCloud documents and photos, and keep it automatically up-to-date.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [UN-GCPDS/qt-material](https://github.com/UN-GCPDS/qt-material) - Material inspired stylesheet for PySide2, PySide6, PyQt5 and PyQt6
 - [CrealityOfficial/OctoPrint-CrealityCloud-With-Video](https://github.com/CrealityOfficial/OctoPrint-CrealityCloud-With-Video) - A plugin to connect the CrealityCloud and OctoPrint with camera
@@ -3153,7 +3153,7 @@
 - [the-blue-alliance/the-blue-alliance-ios](https://github.com/the-blue-alliance/the-blue-alliance-ios) - An iOS app for accessing information about the FIRST Robotics Competition.
 - [c22dev/Geranium](https://github.com/c22dev/Geranium) - LocSim, Daemon Manager, Cleaner, ScreenTime Remover and Superviser for TrollStore
 - [louisdh/openterm](https://github.com/louisdh/openterm) - OpenTerm, a sandboxed command line interface for iOS
-- [passepartoutvpn/passepartout-app](https://github.com/passepartoutvpn/passepartout-app) - VPN client for Apple platforms.
+- [passepartoutvpn/passepartout](https://github.com/passepartoutvpn/passepartout) - VPN client for Apple platforms.
 - [hbang/NewTerm](https://github.com/hbang/NewTerm) - NewTerm is a terminal emulator app with first-class iPhone, iPad, and Mac support.
 - [leminlimez/Helium](https://github.com/leminlimez/Helium) - 
 - [zbrateam/Zebra](https://github.com/zbrateam/Zebra) - 🦓 A Useful Package Manager for iOS
