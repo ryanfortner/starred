@@ -403,6 +403,7 @@
 - [KanoComputing/terminal-quest](https://github.com/KanoComputing/terminal-quest) - 
 - [ryanfortner/Learning-C](https://github.com/ryanfortner/Learning-C) - Experiments and sample programs from my journey of learning C.
 - [jacksonliam/mjpg-streamer](https://github.com/jacksonliam/mjpg-streamer) - Fork of http://sourceforge.net/projects/mjpg-streamer/
+- [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
 - [Itai-Nelken/brainf](https://github.com/Itai-Nelken/brainf) - A brainfuck interpreter written in C.
 - [dev47apps/droidcam-linux-client](https://github.com/dev47apps/droidcam-linux-client) - GNU/Linux/nix client for DroidCam
 - [v1cont/yad](https://github.com/v1cont/yad) - Yet Another Dialog
@@ -1038,7 +1039,7 @@
 - [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
 - [mtlynch/picoshare](https://github.com/mtlynch/picoshare) - A minimalist, easy-to-host service for sharing images and other files
 - [minio/mc](https://github.com/minio/mc) - Simple | Fast tool to manage MinIO clusters :cloud:
-- [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
+- [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [aliyun/ossutil](https://github.com/aliyun/ossutil) - A user friendly command line tool to access AliCloud OSS.
 - [appleboy/gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang).
@@ -1556,7 +1557,7 @@
 - [dutchcoders/transfer.sh-web](https://github.com/dutchcoders/transfer.sh-web) - 
 - [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
-- [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
+- [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop) - A Progressive Web App for local file sharing
 - [davidferguson/pibakery](https://github.com/davidferguson/pibakery) - The blocks based, easy to use setup tool for Raspberry Pi
 - [erkserkserks/h264ify](https://github.com/erkserkserks/h264ify) - A Chrome extension that makes YouTube stream H.264 videos instead of VP8/VP9 videos
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
@@ -1957,7 +1958,6 @@
 - [SelfhostedPro/selfhosted_templates](https://github.com/SelfhostedPro/selfhosted_templates) - Portainer templates for selfhosted services
 - [ShadowCorpIndustries/SpotLight](https://github.com/ShadowCorpIndustries/SpotLight) - THIS PROJECT HAS BEEN DELETED
 - [ryanfortner/minbrowser-arm-builds](https://github.com/ryanfortner/minbrowser-arm-builds) - Builds of Min Browser for arm devices
-- [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
 - [ryanfortner/gitea-debs](https://github.com/ryanfortner/gitea-debs) - debian repository for Gitea releases
 - [raspberrypi/firmware](https://github.com/raspberrypi/firmware) - This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware.
 - [raspberrypi/Raspberry-Pi-OS-64bit](https://github.com/raspberrypi/Raspberry-Pi-OS-64bit) - Repository for containing issues on the 64 bit operating system (as distinct from the 32 bit one)
@@ -2150,7 +2150,7 @@
 - [jbuchermn/newm](https://github.com/jbuchermn/newm) - Wayland compositor
 - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 - [hugsy/cemu](https://github.com/hugsy/cemu) - Cheap EMUlator: lightweight multi-architecture assembly playground
-- [pyston/pyston](https://github.com/pyston/pyston) - A faster and highly-compatible implementation of the Python programming language.
+- [pyston/pyston](https://github.com/pyston/pyston) - (No longer maintained) A faster and highly-compatible implementation of the Python programming language.
 - [ryanfortner/FireHD8-2017](https://github.com/ryanfortner/FireHD8-2017) - How I converted my Amazon bloatware to an Android tablet
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [MatthewPierson/Vieux](https://github.com/MatthewPierson/Vieux) - Vieux - A tool for 32/64 Bit iOS downgrades using OTA Blobs
@@ -3143,6 +3143,7 @@
 
 ## Swift 
 
+- [WireGuard/wireguard-apple](https://github.com/WireGuard/wireguard-apple) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-apple
 - [yeahitsjan/WiredBuddy](https://github.com/yeahitsjan/WiredBuddy) - the missing icon for ethernet interfaces, but cool 😎
 - [powenn/ModMyIPA](https://github.com/powenn/ModMyIPA) - An app that modifies IPA files allows you to install the same app multiple times
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
