@@ -435,7 +435,7 @@
 - [openNDS/openNDS](https://github.com/openNDS/openNDS) - openNDS (open Network Demarcation Service) is a high performance, small footprint, Captive Portal.  It provides a border control gateway between a public local area network and the Internet.
 - [Itai-Nelken/aptpac](https://github.com/Itai-Nelken/aptpac) - A simple wrapper for 'pacman' with a syntax similar to 'apt' to help people transitioning to Arch and Arch based distributions like Manjaro.
 - [lanoxx/tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged
 - [vmatare/thinkfan](https://github.com/vmatare/thinkfan) - The minimalist fan control program
 - [CleanMachine1/C-Code](https://github.com/CleanMachine1/C-Code) - 
