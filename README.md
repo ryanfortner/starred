@@ -161,6 +161,7 @@
 - [staturnzz/socket](https://github.com/staturnzz/socket) - iOS 10.x Jailbreak for 32bit Devices
 - [j4nf4b3l/MDMPatcher-Universal](https://github.com/j4nf4b3l/MDMPatcher-Universal) - MDM patch *should* working on iOS 15+...
 - [Ralim/IronOS](https://github.com/Ralim/IronOS) - Open Source Soldering Iron firmware
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [synackuk/n1ghtshade](https://github.com/synackuk/n1ghtshade) - A bootchain jailbreak/downgrade utility for 32 bit iOS devices.
 - [zhovner/OneFileLinux](https://github.com/zhovner/OneFileLinux) - Live linux distro combined in one ~20MB file. Runs on any UEFI computer.
 - [stacksmashing/tamarin-firmware](https://github.com/stacksmashing/tamarin-firmware) - 
@@ -550,7 +551,6 @@
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [LegacyUpdate/LegacyUpdate](https://github.com/LegacyUpdate/LegacyUpdate) - Get back online, activate, and install updates on your legacy Windows PC
 - [solvespace/solvespace](https://github.com/solvespace/solvespace) - Parametric 2d/3d CAD
-- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [msftguy/ssh-rd](https://github.com/msftguy/ssh-rd) - 
 - [nezza/SDQAnalyzer](https://github.com/nezza/SDQAnalyzer) - A Saleae analyzer plugin for the SDQ (Apple Lightning, MagSafe, Battery) protocol.
 - [rikyoz/MrHash](https://github.com/rikyoz/MrHash) - A cross-platform tool for calculating the hashes of files and plain texts.
@@ -817,6 +817,7 @@
 - [christianselig/OpenInApolloExtension](https://github.com/christianselig/OpenInApolloExtension) - Safari extension bundled with iOS 15 that helps in opening Reddit URLs in Apollo
 - [aadilayub/firefox-i3wm-theme](https://github.com/aadilayub/firefox-i3wm-theme) - i3 and qutebrowser inspired theme for firefox
 - [YvanTT/arTIfiCE](https://github.com/YvanTT/arTIfiCE) - arTIfiCE is a jailbreak for TI CE calculators with OS 5.5 and 5.6. It brings back ASM programs and games.
+- [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 - [jo-nike/clipplex](https://github.com/jo-nike/clipplex) - 
 - [seankross/the-unix-workbench](https://github.com/seankross/the-unix-workbench) - :house_with_garden: A Book for Anyone to Get Started with Unix
 - [connors/photon](https://github.com/connors/photon) - The fastest way to build beautiful Electron apps using simple HTML and CSS
@@ -2646,7 +2647,6 @@
 - [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
 - [vinceliuice/Jasper-gtk-theme](https://github.com/vinceliuice/Jasper-gtk-theme) - Jasper gtk theme for linux
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
-- [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 - [Mojang/web-theme-bootstrap](https://github.com/Mojang/web-theme-bootstrap) - Contains the theme used on minecraft.net based on Boostrap 4
 - [lassekongo83/adw-gtk3](https://github.com/lassekongo83/adw-gtk3) - The theme from libadwaita ported to GTK-3
 - [DiscordStyles/SoftX](https://github.com/DiscordStyles/SoftX) - A soft and comfy feel for Discord.
