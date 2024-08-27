@@ -1895,7 +1895,7 @@
 - [System64fumo/WoR-CP-Apps](https://github.com/System64fumo/WoR-CP-Apps) - Application Repository Used for WoR-Cp's Appstore
 - [hmsjy2017/aliyun-cli-debs](https://github.com/hmsjy2017/aliyun-cli-debs) - 
 - [raspbian-addons/icons](https://github.com/raspbian-addons/icons) - Raspbian Addons project icons
-- [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [dahliaOS/releases](https://github.com/dahliaOS/releases) - dahliaOS ISO releases
 - [RPi-Distro/firmware](https://github.com/RPi-Distro/firmware) - 
 - [ZephyrLabs/Watchfaces](https://github.com/ZephyrLabs/Watchfaces) - just a bunch of watchfaces made for the pinetime.
@@ -2410,7 +2410,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C and C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-585-Stars](https://github.com/iBug/This-Repo-Has-585-Stars) - Yes, it's true :purple_heart: This repository has 585 stars.
+- [iBug/This-Repo-Has-586-Stars](https://github.com/iBug/This-Repo-Has-586-Stars) - Yes, it's true :heartpulse: This repository has 586 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -3292,7 +3292,7 @@
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [google/wireit](https://github.com/google/wireit) - Wireit upgrades your npm/pnpm/yarn scripts to make them smarter and more efficient.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-- [certd/certd](https://github.com/certd/certd) - 免费通配符域名SSL证书全自动申请、更新、续期、部署安装，支持部署到阿里云、腾讯云、ssh主机。Automatically apply, renew and deploy free Generic domain SSL Certificates。
+- [certd/certd](https://github.com/certd/certd) - 免费通配符泛域名SSL证书全自动申请、更新、续期、部署安装，支持部署到阿里云、腾讯云、ssh主机。Automatically apply, renew and deploy free Generic domain SSL Certificates。
 - [rejetto/hfs](https://github.com/rejetto/hfs) - HFS is a web file server to run on your computer. Share folders or even a single file thanks to the virtual file system.
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
