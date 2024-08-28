@@ -689,7 +689,7 @@
 - [ValveSoftware/halflife](https://github.com/ValveSoftware/halflife) - Half-Life 1 engine based games
 - [baumgarr/nixnote2](https://github.com/baumgarr/nixnote2) - Nixnote - A clone of Evernote for Linux
 - [ErnyTech/p7zip](https://github.com/ErnyTech/p7zip) - 
-- [bk138/multivnc](https://github.com/bk138/multivnc) - MultiVNC is a cross-platform Multicast-enabled VNC viewer based on LibVNCClient. The desktop version runs on Unix, Mac OS X and Windows. There also is an Android version.
+- [bk138/multivnc](https://github.com/bk138/multivnc) - MultiVNC is a cross-platform Multicast-enabled VNC viewer based on LibVNCClient. The desktop client runs on Unix, Mac OS X and Windows. There also is an Android client.
 - [z3ntu/RazerGenie](https://github.com/z3ntu/RazerGenie) - Qt application for configuring your Razer devices under GNU/Linux.
 - [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2) - PCSX2 - The Playstation 2 Emulator
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
@@ -2426,7 +2426,7 @@
 - [pyload/pyload](https://github.com/pyload/pyload) - The free and open-source Download Manager written in pure Python
 - [arindas/mac-on-linux-with-qemu](https://github.com/arindas/mac-on-linux-with-qemu) - Runs macOS on linux with qemu.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [FreeCAD/FreeCAD-Bundle](https://github.com/FreeCAD/FreeCAD-Bundle) - Stand-alone repo to Build and Deploy installable FreeCAD images
+- [FreeCAD/FreeCAD-Bundle](https://github.com/FreeCAD/FreeCAD-Bundle) - Stand-alone repo to Build and Deploy installable FreeCAD images. Do not open general FreeCAD issues here.
 - [ecthros/uncaptcha2](https://github.com/ecthros/uncaptcha2) - defeating the latest version of ReCaptcha with 91% accuracy
 - [sunfounder/SunFounder_SensorKit_for_RPi2](https://github.com/sunfounder/SunFounder_SensorKit_for_RPi2) - SunFounder Sensor Kit V2.0 for Raspberry Pi 2
 - [gerardpuig/ubuntu-cleaner](https://github.com/gerardpuig/ubuntu-cleaner) - Ubuntu Cleaner is a tool that makes it easy to clean your ubuntu system.
@@ -3151,6 +3151,7 @@
 
 ## Swift 
 
+- [instructure/canvas-ios](https://github.com/instructure/canvas-ios) - Canvas iOS apps
 - [khcrysalis/Feather](https://github.com/khcrysalis/Feather) - Feather is a free on-device iOS application manager/installer built with UIKit for quality.
 - [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
 - [WireGuard/wireguard-apple](https://github.com/WireGuard/wireguard-apple) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-apple
