@@ -810,6 +810,7 @@
 
 ## CSS 
 
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF) - A userChrome.css theme to bring Arc Browser look on Windows to Firefox. Work with all processor generation, even if yours doesn't support BMI2 instruction set  ✨
 - [Khalylexe/Firefox-Rounded-Theme](https://github.com/Khalylexe/Firefox-Rounded-Theme) - Just a Firefox CSS to make it more rounded ;)
 - [straight-tamago/misaka](https://github.com/straight-tamago/misaka) - iOS & tvOS customisation tool for KFD & MDC
@@ -1889,7 +1890,7 @@
 - [Pi-Apps-Coders/.github](https://github.com/Pi-Apps-Coders/.github) - 
 - [icebreaker-fpga/icebreaker](https://github.com/icebreaker-fpga/icebreaker) - Small and low cost FPGA educational and development board
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-- [ryanfortner/starred](https://github.com/ryanfortner/starred) - Curated list of my GitHub stars
+- [ryanfortner/starred](https://github.com/ryanfortner/starred) - Automatically-compiled list of my GitHub stars
 - [shytoshikusama/woofwoofpaper](https://github.com/shytoshikusama/woofwoofpaper) - 
 - [Botspot/scratch2](https://github.com/Botspot/scratch2) - 
 - [System64fumo/WoR-CP-Apps](https://github.com/System64fumo/WoR-CP-Apps) - Application Repository Used for WoR-Cp's Appstore
@@ -2378,7 +2379,7 @@
 - [cycool29/COVID-shoot](https://github.com/cycool29/COVID-shoot) - 
 - [workhorsy/py-cpuinfo](https://github.com/workhorsy/py-cpuinfo) - A module for getting CPU info with pure Python
 - [ryanfortner/mirrors](https://github.com/ryanfortner/mirrors) - The AlmaLinux project mirrors configuration and tools.
-- [ryanfortner/github-stats](https://github.com/ryanfortner/github-stats) - github statistics generator
+- [ryanfortner/github-stats](https://github.com/ryanfortner/github-stats) - Automatic GitHub statistics generator
 - [Ultimaker/Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
 - [casualsnek/waydroid_script](https://github.com/casualsnek/waydroid_script) - Python Script to  add OpenGapps, Magisk, libhoudini translation library and libndk translation library to waydroid !
 - [dave-theunsub/clamtk-gnome](https://github.com/dave-theunsub/clamtk-gnome) - clamtk-gnome is a simple plugin to allow a right-click, context menu scan of files or folders
@@ -3240,6 +3241,7 @@
 
 ## TypeScript 
 
+- [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [Redrield/Conductor](https://github.com/Redrield/Conductor) - A cross-platform FRC Driver Station written with Rust and React
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 - [rospino74/Quizlet-Bypass](https://github.com/rospino74/Quizlet-Bypass) - WebExtension to bypass Quizlet paywall
