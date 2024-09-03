@@ -810,7 +810,7 @@
 ## CSS 
 
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
-- [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF) - A userChrome.css theme to bring Arc Browser look on Windows to Firefox. Work with all processor generation, even if yours doesn't support BMI2 instruction set  ✨
+- [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF) - A userChrome.css theme to bring Arc Browser look on Windows to Firefox. Work with Windows, Linux and macOS ✨
 - [Khalylexe/Firefox-Rounded-Theme](https://github.com/Khalylexe/Firefox-Rounded-Theme) - Just a Firefox CSS to make it more rounded ;)
 - [straight-tamago/misaka](https://github.com/straight-tamago/misaka) - iOS & tvOS customisation tool for KFD & MDC
 - [zquestz/bitcoincash](https://github.com/zquestz/bitcoincash) - Bitcoin Cash - Peer-to-Peer Electronic Cash
@@ -3198,7 +3198,7 @@
 - [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) - Native Jellyfin Client for iOS and tvOS
 - [dgraham/Ka-Block](https://github.com/dgraham/Ka-Block) - A Safari extension that blocks an artisanal selection of advertising domains.
 - [christianselig/Markdownosaur](https://github.com/christianselig/Markdownosaur) - Leverages Apple's Swift-based Markdown parser to output NSAttributedString.
-- [s8ngyu/Mugunghwa](https://github.com/s8ngyu/Mugunghwa) - First-ever system-wide icon theming tool without jailbreak for iOS. Requires sandbox escape.
+- [s8ngyu/Mugunghwa](https://github.com/s8ngyu/Mugunghwa) - First-ever system-wide icon theming tool without the need of jailbreak for iOS and watchOS(partly). Requires sandbox escape.
 - [cormiertyshawn895/Retroactive](https://github.com/cormiertyshawn895/Retroactive) - Retroactive has been discontinued. You should transition from Retroactive to supported apps such as Music, iTunes for Windows, iMazing, Photos, Darktable, Lightroom Classic, and DaVinci Resolve.
 - [sourcelocation/pinanim](https://github.com/sourcelocation/pinanim) - Jailbreak iOS tweak: Animations for Pin Dots on Lock Screen
 - [Psiphon-Inc/psiphon-ios-vpn](https://github.com/Psiphon-Inc/psiphon-ios-vpn) - Psiphon iOS VPN Client
