@@ -484,7 +484,6 @@
 
 ## C# # 
 
-- [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
 - [AirVPN/Eddie](https://github.com/AirVPN/Eddie) - UI/CLI for OpenVPN/WireGuard
 - [eviabs/downtify-premium](https://github.com/eviabs/downtify-premium) - Downtify is an open source Spofity downloader which makes it possible to download all your favourite songs and/or playlists directly from spotify. A Spotify Premium account is required.
 - [WereDev/Wu10Man](https://github.com/WereDev/Wu10Man) - Enable/Disable Windows 10 Automatic Updates
@@ -532,6 +531,7 @@
 
 ## C++ 
 
+- [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
 - [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
 - [slic3r/Slic3r](https://github.com/slic3r/Slic3r) - Open Source toolpath generator for 3D printers
 - [DescentDevelopers/Descent3](https://github.com/DescentDevelopers/Descent3) - Descent 3 by Outrage Entertainment
@@ -2847,7 +2847,7 @@
 - [NoozAbooz/mcpi-reborn-extended](https://github.com/NoozAbooz/mcpi-reborn-extended) - The enthusiast's MCPI mod.
 - [TheBananaStore/TheBananaStore](https://github.com/TheBananaStore/TheBananaStore) - 🍌🐧 Content repository for the Banana Store
 - [procount/pinn-os](https://github.com/procount/pinn-os) - os-images for PINN
-- [exe-thumbnailer/exe-thumbnailer](https://github.com/exe-thumbnailer/exe-thumbnailer) - Thumbnailer for .exe/.dll/.msi/.lnk files on Linux systems.
+- [exe-thumbnailer/exe-thumbnailer](https://github.com/exe-thumbnailer/exe-thumbnailer) - [Deprecated] Thumbnailer for .exe/.dll files on Linux systems.
 - [PlayOnLinux/Dosbox-PlayOnLinux-Wrapper](https://github.com/PlayOnLinux/Dosbox-PlayOnLinux-Wrapper) - 
 - [PlayOnLinux/wine-patches](https://github.com/PlayOnLinux/wine-patches) - Wine Patches used by PlayOnLinux/PlayOnMac project.
 - [ilikenwf/apt-fast](https://github.com/ilikenwf/apt-fast) - apt-fast: A shellscript wrapper for apt that speeds up downloading of packages.
