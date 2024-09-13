@@ -1898,6 +1898,7 @@
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [dahliaOS/releases](https://github.com/dahliaOS/releases) - dahliaOS ISO releases
 - [RPi-Distro/firmware](https://github.com/RPi-Distro/firmware) - 
+- [RPi-Distro/chromium](https://github.com/RPi-Distro/chromium) - 
 - [ZephyrLabs/Watchfaces](https://github.com/ZephyrLabs/Watchfaces) - just a bunch of watchfaces made for the pinetime.
 - [ryanfortner/codex-arm](https://github.com/ryanfortner/codex-arm) - codex arm builds
 - [hmsjy2017/ossutil-debs](https://github.com/hmsjy2017/ossutil-debs) - 
@@ -2533,7 +2534,6 @@
 
 ## Roff 
 
-- [RPi-Distro/chromium](https://github.com/RPi-Distro/chromium) - 
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 
 ## Ruby 
