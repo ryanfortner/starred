@@ -414,7 +414,6 @@
 - [raspberrypi-ui/gui-pkinst](https://github.com/raspberrypi-ui/gui-pkinst) - 
 - [raspberrypi-ui/piclone](https://github.com/raspberrypi-ui/piclone) - Utility to back up Pi to an SD card reader
 - [raspberrypi-ui/piwiz](https://github.com/raspberrypi-ui/piwiz) - First-run startup wizard
-- [raspberrypi-ui/pishutdown](https://github.com/raspberrypi-ui/pishutdown) - Shutdown helper app for desktop
 - [chjj/compton](https://github.com/chjj/compton) - A compositor for X11.
 - [Itai-Nelken/ish](https://github.com/Itai-Nelken/ish) - A simple shell written in C
 - [raduprv/Eternal-Lands](https://github.com/raduprv/Eternal-Lands) - 
@@ -1659,6 +1658,7 @@
 
 ## M4 
 
+- [raspberrypi-ui/pishutdown](https://github.com/raspberrypi-ui/pishutdown) - Shutdown helper app for desktop
 - [pi-top/pi-topOS-Start-Menu-Quit-Options](https://github.com/pi-top/pi-topOS-Start-Menu-Quit-Options) - Shutdown/reboot helper app for desktop (Derived from https://github.com/raspberrypi-ui/pishutdown)
 
 ## Makefile 
@@ -2108,7 +2108,6 @@
 - [EntySec/SeaShell](https://github.com/EntySec/SeaShell) - SeaShell Framework is an iOS post-exploitation framework that enables you to access the device remotely, control it and extract sensitive information.
 - [JJTech0130/pypush](https://github.com/JJTech0130/pypush) - [being rewritten] Cross-platform iMessage POC
 - [totoroterror/warp-cloner](https://github.com/totoroterror/warp-cloner) - Simple Python script that can clone Warp Plus (1.1.1.1) keys and generate 12PB (or 24PB) keys.
-- [swaggyP36000/TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs) - A collection of IPA files from many different sources, for TrollStore!
 - [cryptoadvance/specter-desktop](https://github.com/cryptoadvance/specter-desktop) - A desktop GUI for Bitcoin Core optimised to work with hardware wallets
 - [eatingurtoes/g1lbertCFW](https://github.com/eatingurtoes/g1lbertCFW) - The first untethered jailbreak for all versions of iOS 5.
 - [NightmareAI/Real-ESRGAN](https://github.com/NightmareAI/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
@@ -2411,7 +2410,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C and C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-585-Stars](https://github.com/iBug/This-Repo-Has-585-Stars) - Yes, it's true :heartpulse: This repository has 585 stars.
+- [iBug/This-Repo-Has-586-Stars](https://github.com/iBug/This-Repo-Has-586-Stars) - Yes, it's true :gift_heart: This repository has 586 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -3165,7 +3164,7 @@
 - [the-blue-alliance/the-blue-alliance-ios](https://github.com/the-blue-alliance/the-blue-alliance-ios) - An iOS app for accessing information about the FIRST Robotics Competition.
 - [c22dev/Geranium](https://github.com/c22dev/Geranium) - LocSim, Daemon Manager, Cleaner, ScreenTime Remover and Superviser for TrollStore
 - [louisdh/openterm](https://github.com/louisdh/openterm) - OpenTerm, a sandboxed command line interface for iOS
-- [passepartoutvpn/passepartout](https://github.com/passepartoutvpn/passepartout) - VPN client for Apple platforms.
+- [passepartoutvpn/passepartout](https://github.com/passepartoutvpn/passepartout) - Your go-to app for VPN and privacy.
 - [hbang/NewTerm](https://github.com/hbang/NewTerm) - NewTerm is a terminal emulator app with first-class iPhone, iPad, and Mac support.
 - [zbrateam/Zebra](https://github.com/zbrateam/Zebra) - 🦓 A Useful Package Manager for iOS
 - [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) - macOS menubar tool to set Charge Limits and prolong battery lifespan
