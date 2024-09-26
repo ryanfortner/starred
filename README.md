@@ -3149,6 +3149,7 @@
 
 ## Swift 
 
+- [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface
 - [leminlimez/Nugget-Mobile](https://github.com/leminlimez/Nugget-Mobile) - iOS on-device version of Nugget
 - [instructure/canvas-ios](https://github.com/instructure/canvas-ios) - Canvas iOS apps
 - [khcrysalis/Feather](https://github.com/khcrysalis/Feather) - Feather is a free on-device iOS application manager/installer built with UIKit for quality.
