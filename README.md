@@ -2099,6 +2099,7 @@
 
 ## Python 
 
+- [exislow/tidal-dl-ng](https://github.com/exislow/tidal-dl-ng) - TIDAL Media Downloader Next Generation! Up to HiRes Lossless / TIDAL MAX 24-bit, 192 kHz.
 - [leminlimez/Nugget](https://github.com/leminlimez/Nugget) - Unlock the fullest potential of your device
 - [glomatico/spotify-web-downloader](https://github.com/glomatico/spotify-web-downloader) - A Python CLI app for downloading songs and music videos directly from Spotify.
 - [tlkh/asitop](https://github.com/tlkh/asitop) - Perf monitoring CLI tool for Apple Silicon
