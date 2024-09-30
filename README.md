@@ -375,7 +375,7 @@
 - [neggles/cm4io-fan](https://github.com/neggles/cm4io-fan) - CM4 IO board PWM fan controller driver
 - [termux/termux-x11](https://github.com/termux/termux-x11) - Termux X11 add-on application.
 - [nakst/luigi](https://github.com/nakst/luigi) - A barebones single-header GUI library for Win32, X11 and Essence.
-- [tldr-pages/tldr-c-client](https://github.com/tldr-pages/tldr-c-client) - C command-line client for tldr pages
+- [tldr-pages/tldr-c-client](https://github.com/tldr-pages/tldr-c-client) - C command-line client for tldr pages 📚
 - [amengol/MinGL](https://github.com/amengol/MinGL) - Minimal Graphics Library
 - [borisfaure/terminology](https://github.com/borisfaure/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries
 - [GNOME/mutter](https://github.com/GNOME/mutter) - Read-only mirror of https://gitlab.gnome.org/GNOME/mutter
@@ -2430,7 +2430,7 @@
 - [sunfounder/SunFounder_SensorKit_for_RPi2](https://github.com/sunfounder/SunFounder_SensorKit_for_RPi2) - SunFounder Sensor Kit V2.0 for Raspberry Pi 2
 - [gerardpuig/ubuntu-cleaner](https://github.com/gerardpuig/ubuntu-cleaner) - Ubuntu Cleaner is a tool that makes it easy to clean your ubuntu system.
 - [ponsato/ducopanel](https://github.com/ponsato/ducopanel) - 
-- [tldr-pages/tldr-python-client](https://github.com/tldr-pages/tldr-python-client) - Python command-line client for tldr pages
+- [tldr-pages/tldr-python-client](https://github.com/tldr-pages/tldr-python-client) - Python command-line client for tldr pages 📚
 - [linuxmint/bulky](https://github.com/linuxmint/bulky) - Bulk Renamer
 - [linuxmint/sticky](https://github.com/linuxmint/sticky) - A sticky notes app for the linux desktop
 - [linuxmint/hypnotix](https://github.com/linuxmint/hypnotix) - An M3U IPTV Player
@@ -2609,7 +2609,7 @@
 - [dtolnay/path-to-error](https://github.com/dtolnay/path-to-error) - Find out path at which a deserialization error occurred
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
-- [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
+- [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
@@ -3140,7 +3140,7 @@
 ## Svelte 
 
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
-- [Muhammed-Rahif/Notepad](https://github.com/Muhammed-Rahif/Notepad) - Windows like notepad for cross platform.
+- [Muhammed-Rahif/Notpad](https://github.com/Muhammed-Rahif/Notpad) - Notepad without an `e` on it, ;-). Windows like notepad for cross platform.
 - [snipline/rsyncinator-desktop](https://github.com/snipline/rsyncinator-desktop) - 
 - [PuruVJ/macos-web](https://github.com/PuruVJ/macos-web) - 
 - [christmas-countdown/website](https://github.com/christmas-countdown/website) - Christmas countdown website
