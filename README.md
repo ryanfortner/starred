@@ -927,7 +927,7 @@
 - [linuxserver/docker-nextcloud](https://github.com/linuxserver/docker-nextcloud) - 
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [futurejones/swift-arm64](https://github.com/futurejones/swift-arm64) - Swift for Arm64/aarch64 Servers and SBC's - Rock64, RaspberryPi3 and many more
-- [AndreRH/hangover](https://github.com/AndreRH/hangover) - Hangover runs simple Win32 applications on arm64 Linux
+- [AndreRH/hangover](https://github.com/AndreRH/hangover) - Hangover runs simple Win64 and Win32 applications on arm64 Linux
 - [lukechilds/dockerpi](https://github.com/lukechilds/dockerpi) - A Virtualised Raspberry Pi inside a Docker image
 
 ## EJS 
@@ -2141,7 +2141,7 @@
 - [hanzala123/arch2appimage](https://github.com/hanzala123/arch2appimage) - This is a python script that downloads Arch Linux packages (Official/Chaotic AUR) and converts to an AppImage executable
 - [porkbundomains/porkbun-dynamic-dns-python](https://github.com/porkbundomains/porkbun-dynamic-dns-python) - Our minimalist dynamic DNS client written in Python
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
-- [thiswillbeyourgithub/sleep_tracker_pinetime_wasp-os](https://github.com/thiswillbeyourgithub/sleep_tracker_pinetime_wasp-os) - SleepTk: sleep tracker with smart alarm for the pinetime on wasp-os
+- [thiswillbeyourgithub/SleepTk_pinetime_sleep_tracker](https://github.com/thiswillbeyourgithub/SleepTk_pinetime_sleep_tracker) - SleepTk: sleep tracker with smart alarm for the pinetime on wasp-os
 - [flozz/calcleaner](https://github.com/flozz/calcleaner) - A simple graphical tool to purge old events from CalDAV calendars
 - [nat/thingies](https://github.com/nat/thingies) - Various little scripts I use.
 - [nicotine-plus/nicotine-plus](https://github.com/nicotine-plus/nicotine-plus) - Graphical client for the Soulseek peer-to-peer network
