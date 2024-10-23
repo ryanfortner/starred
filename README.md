@@ -1717,7 +1717,7 @@
 - [objective-see/KnockKnock](https://github.com/objective-see/KnockKnock) - Enumerate persistently installed software
 - [rickyzhang82/tethering](https://github.com/rickyzhang82/tethering) - Proxy and DNS Server on iOS
 - [PoomSmart/TrollLEDs](https://github.com/PoomSmart/TrollLEDs) - A TrollStore application to control individual flashlight LEDs for iOS devices.
-- [roothide/Bootstrap](https://github.com/roothide/Bootstrap) - A full featured bootstrap for iOS 15.0-17.0 A8-A17 & M1+M2 using roothide
+- [roothide/Bootstrap](https://github.com/roothide/Bootstrap) - A full featured bootstrap for iOS 15.0-17.0 A8-A17Pro & M1+M2 using roothide
 - [leminlimez/SecondHand](https://github.com/leminlimez/SecondHand) - Add seconds to status bar clock on TrollStore devices
 - [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer
 - [brunophilipe/Cakebrew](https://github.com/brunophilipe/Cakebrew) - Manage your Homebrew formulas with style using Cakebrew.
