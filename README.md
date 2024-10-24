@@ -353,7 +353,7 @@
 - [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
 - [nitlang/nit](https://github.com/nitlang/nit) - Nit language
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
-- [raspberrypi-ui/lxpanel-bullseye](https://github.com/raspberrypi-ui/lxpanel-bullseye) - 
+- [raspberrypi-ui/lxpanel](https://github.com/raspberrypi-ui/lxpanel) - 
 - [smontanaro/python-0.9.1](https://github.com/smontanaro/python-0.9.1) - Upload and changes to Python 0.9.1 release (from 1991!) so that it would compile
 - [CorsairOfficial/cue-sdk](https://github.com/CorsairOfficial/cue-sdk) - Corsair iCUE SDK
 - [landley/toybox](https://github.com/landley/toybox) - toybox
@@ -3211,7 +3211,7 @@
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [Sileo/Sileo](https://github.com/Sileo/Sileo) - A modern package manager for iOS 11 and higher.
 - [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
-- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
+- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [LinusHenze/Fugu14](https://github.com/LinusHenze/Fugu14) - Fugu14 is an untethered iOS 14.3-14.5.1 jailbreak
 - [alin23/Lunar](https://github.com/alin23/Lunar) - Intelligent adaptive brightness for your external monitors
 - [nextcloud/ios](https://github.com/nextcloud/ios) - 📱 Nextcloud iOS App
